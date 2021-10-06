@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/6cdfe80506ffefcaee9d71a2c6266a9b3d7d92d9.jpg@380w_240h_100Q_1c.webp",ALT="【看预告片学英语】詹姆斯联合兔巴哥大战反派！《空中大灌篮2》最新预告片"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1ZK4y1X7cx?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1ZK4y1X7cx?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1ZK4y1X7cx?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

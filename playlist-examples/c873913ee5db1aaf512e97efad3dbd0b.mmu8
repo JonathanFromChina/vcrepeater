@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/58e0c28ac75b4d18112f0180c6a6cc4161b96245.jpg@380w_240h_100Q_1c.webp",ALT="刘亦菲朗读英文诗《无声胜有声》；这是什么仙女气质啊？"
+#EXT-X-INF:INDEX=0,NAME="【中英字幕】",URL="https://www.bilibili.com/video/BV1Da4y1E7KE?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1Da4y1E7KE?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1Da4y1E7KE?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

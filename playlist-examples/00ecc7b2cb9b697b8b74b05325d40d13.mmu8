@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/58f47f6ac64632b3aec221ff4fd8251d135b777d.jpg@380w_240h_100Q_1c.webp",ALT="科比生涯最励志的一段采访！听他讲何为努力，何为家庭，何为痛苦"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1HD4y1X7pv?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1HD4y1X7pv?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1HD4y1X7pv?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

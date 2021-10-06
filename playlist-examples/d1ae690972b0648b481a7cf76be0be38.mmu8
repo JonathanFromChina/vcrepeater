@@ -1,0 +1,92 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/ae94068d042338d598f2c4ce15aa725d78b97b60.jpg@380w_240h_100Q_1c.webp",ALT="【英文启蒙】88集原版英文动画，非常好的启蒙教材（精选）"
+#EXT-X-INF:INDEX=0,NAME="1.Frog Prince",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.Brave Dave",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.The Snow White and The Red Rose",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.What the Old Man Does is Always Righ",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.Who Will Bell the Cat",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.Beloved Nightingale",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.Alibaba and Forty Thieves",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.Alice In Wonderland",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.An Impossible Enchantment",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.Animal Tales for Children",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=10",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.Asmund and Singy",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=11",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.Bear and Two Friends",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=12",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.Beauty and Beast",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=13",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.A Reward for Honesty",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=14",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.Bobino",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=15",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.Town Mouse and Country Mouse",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=16",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.Butterfly Princess",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=17",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.Cinderella",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=18",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.Clever Maria",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=19",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.Diamonds and Toads",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=20",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.East of the Sun and West of the Moon",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=21",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.Elephant and Ant",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=22",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.Elves and Shoe Maker",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=23",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.Five Peas",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=24",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.Four Brothers",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=25",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.To Your Good Health",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=26",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.Gardener",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=27",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.Gerilaug and Grethari",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=28",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.Gingerbread Man",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=29",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.Gnome",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=30",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.A Ray of Hope 2",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=31",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.Happy Prince",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=32",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.Heidi",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=33",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.Honest Jenny",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=34",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.Ida's Little Flower",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=35",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.It's Quite True",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=36",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.Jack and the Beanstalkl",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=37",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.Jack the Fool",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=38",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.Jorinda and Jorandel",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=39",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.Jungle Book",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=40",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.King Grisly Beard",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=41",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.King Midas Golden Touch",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=42",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.A little Mouse Who Was A Princess",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=43",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.Little Red Hen",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=44",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.Lullaby for Babies",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=45",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.Mangita and Larina",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=46",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47.Maya The Bee",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=47",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="48.Milkmaid's Dream",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=48",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="49.Miser in the Bush",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=49",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50.Mother Holle",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=50",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="51.Mulan",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=51",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="52.Oliver Twist",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=52",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="53.One-Eye, Two Eyes, Three-Eyes",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=53",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="54.Peter Pan",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=54",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="55.Pied Piper of Hamlin",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=55",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="56.Pinocchio",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=56",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="57.Pocahontas",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=57",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="58.Witch and Giant Stories",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=58",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="59.Princess Fairy Tales 2",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=59",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="60.Princess Naeena and the Centaur Broth",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=60",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="61.Princess Rosette",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=61",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="62.Puss in Boots",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=62",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="63.Queen of Flower Isles",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=63",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="64.Robin Hood",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=64",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="65.Rudolph The Red Nosed Reindeer",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=65",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="66.Rumpelstiltskin",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=66",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="67.Sinbad The Sailor 1",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=67",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="68.Sinbad The Sailor 2",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=68",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="69.Sinbad The Sailor 3",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=69",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="70.Sleeping Beauty",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=70",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="71.Snow White and Red Rose",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=71",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="72.Snow White and the Seven Dwarfs",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=72",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="73.Swan Lake",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=73",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="74.Sweet Porriage",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=74",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="75.The Ant and the Grasshopper",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=75",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="76.The Beast Slayer",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=76",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="77.The Bird of Truth",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=77",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="78.The Boy's With The Stars",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=78",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="79.The Brave Little Tailor",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=79",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="80.The Buddha and The Homeless Man",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=80",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="81.The Cap Seller and the Monkeys",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=81",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="82.The Clever Shoemaker",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=82",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="83.The Crane and The Crab",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=83",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="84.The Devil with 3 Golden Hairs",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=84",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="85.The Emperor's New Clothes",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=85",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="86.The Enchanted Princess",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=86",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="87.The Envious Neighbor",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=87",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="88.The Faithful Prince",URL="https://www.bilibili.com/video/BV1AV411i7Ae?p=88",SOURCE=WEB
+#EXT-X-ENDLIST

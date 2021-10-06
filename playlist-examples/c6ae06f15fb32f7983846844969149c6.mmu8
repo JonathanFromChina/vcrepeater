@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/79b4b7b1e25f52b379c15ef343d7247f439d2ae4.jpg@380w_240h_100Q_1c.webp",ALT="奥斯卡上的女性声音：每一位女性都是超级英雄"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1B741157xw?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://www.bilibili.com/video/BV1B741157xw?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1B741157xw?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0ead9c0f504982587710286e6d8146849b46eb8c.jpg@380w_240h_100Q_1c.webp",ALT="【BLACKPINK】不要笑挑战！BLACKPINK最高冷的竟是"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1V5411Y77K?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1V5411Y77K?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1V5411Y77K?p=3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【How You Like That首演】",URL="https://www.bilibili.com/video/BV1V5411Y77K?p=4",SOURCE=WEB
+#EXT-X-ENDLIST

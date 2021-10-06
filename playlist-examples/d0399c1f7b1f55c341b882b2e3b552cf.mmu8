@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/95d7aa9979a19a20abc91ed9d228d2741c4ad5c2.jpg@380w_240h_100Q_1c.webp",ALT="精彩攻防，令人窒息：当你和兄弟玩测谎仪游戏时"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV18k4y1z75G?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV18k4y1z75G?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV18k4y1z75G?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

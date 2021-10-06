@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/a9c3d5d12af2aa9f6b0d0a48f7be59cafc73793c.jpg@380w_240h_100Q_1c.webp",ALT="中式口音克星！美女老师口把口教你美式发音，让你的发音比美国人还牛！"
+#EXT-X-INF:INDEX=0,NAME="示范1",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="示范2",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="1",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=10",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=11",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10",URL="https://www.bilibili.com/video/BV1Qw411Z7tp?p=12",SOURCE=WEB
+#EXT-X-ENDLIST

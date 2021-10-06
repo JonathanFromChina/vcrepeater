@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/a722a4fedc6ff6079ae6c0fd8e04ef62ebfdafb8.jpg@380w_240h_100Q_1c.webp",ALT="亲爱的科比，谢谢你"
+#EXT-X-INF:INDEX=0,NAME="【中英】",URL="https://www.bilibili.com/video/BV1C741167w1?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英】",URL="https://www.bilibili.com/video/BV1C741167w1?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1C741167w1?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

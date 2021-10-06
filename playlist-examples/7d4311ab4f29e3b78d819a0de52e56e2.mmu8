@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/a2421c8b2c77ed68a010f671fb4d9afdb8bd3330.jpg@380w_240h_100Q_1c.webp",ALT="【小小世界 I】 Tiny World 第一季 （4K.HD中英双字）"
+#EXT-X-INF:INDEX=0,NAME="01.Savannah.草原",URL="https://www.bilibili.com/video/BV1WL411n7f1?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="02.Jungle.丛林",URL="https://www.bilibili.com/video/BV1WL411n7f1?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="03.Island.岛屿",URL="https://www.bilibili.com/video/BV1WL411n7f1?p=3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="04.Outback.内陆",URL="https://www.bilibili.com/video/BV1WL411n7f1?p=4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="05.Woodland.林地",URL="https://www.bilibili.com/video/BV1WL411n7f1?p=5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="06.Garden.花园",URL="https://www.bilibili.com/video/BV1WL411n7f1?p=6",SOURCE=WEB
+#EXT-X-ENDLIST
