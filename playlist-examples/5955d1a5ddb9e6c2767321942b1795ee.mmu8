@@ -1,6 +1,6 @@
 #EXTMMU
 #EXT-X-VERSION:1
-#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e307313083bc02d3e12e3d917605c76bf48d343d.jpg@380w_240h_100Q_1c.webp",ALT="YouTube最好的英语提升课程（第二季）"
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e307313083bc02d3e12e3d917605c76bf48d343d.jpg@380w_240h.jpg",ALT="YouTube最好的英语提升课程（第二季）"
 #EXT-X-INF:INDEX=0,NAME="Studio Classroom (1)",URL="https://www.bilibili.com/video/BV1c84y1c7PN?p=1",SOURCE=WEB
 #EXT-X-INF:INDEX=0,NAME="Studio Classroom (2)",URL="https://www.bilibili.com/video/BV1c84y1c7PN?p=2",SOURCE=WEB
 #EXT-X-INF:INDEX=0,NAME="Studio Classroom (3)",URL="https://www.bilibili.com/video/BV1c84y1c7PN?p=3",SOURCE=WEB

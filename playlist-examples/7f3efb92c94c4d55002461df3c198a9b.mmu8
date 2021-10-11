@@ -1,6 +1,6 @@
 #EXTMMU
 #EXT-X-VERSION:1
-#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e0e5fc42122cb4644f5158af8a1baa134a428714.jpg@380w_240h_100Q_1c.webp",ALT="【小小世界 II】 Tiny World 第二季 （4K.HD中英双字）"
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e0e5fc42122cb4644f5158af8a1baa134a428714.jpg@380w_240h.jpg",ALT="【小小世界 II】 Tiny World 第二季 （4K.HD中英双字）"
 #EXT-X-INF:INDEX=0,NAME="01草场",URL="https://www.bilibili.com/video/BV1m64y1x7K6?p=1",SOURCE=WEB
 #EXT-X-INF:INDEX=0,NAME="02沙漠",URL="https://www.bilibili.com/video/BV1m64y1x7K6?p=2",SOURCE=WEB
 #EXT-X-INF:INDEX=0,NAME="03池塘",URL="https://www.bilibili.com/video/BV1m64y1x7K6?p=3",SOURCE=WEB
