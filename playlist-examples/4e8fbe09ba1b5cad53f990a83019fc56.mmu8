@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d67097846502daa7416345d5790385086f38772d.jpg@380w_240h.jpg",ALT="【12月明星英语短篇合集】比伯、高以翔、吴亦凡、欧阳娜娜、昆凌、艾玛·沃特森"
+#EXT-X-INF:INDEX=0,NAME="【贾斯汀·比伯】",URL="https://www.bilibili.com/video/BV1EJ411y72H?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【高以翔】",URL="https://www.bilibili.com/video/BV1EJ411y72H?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【贾斯汀·比伯2】",URL="https://www.bilibili.com/video/BV1EJ411y72H?p=3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【欧阳娜娜】",URL="https://www.bilibili.com/video/BV1EJ411y72H?p=4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【昆凌】",URL="https://www.bilibili.com/video/BV1EJ411y72H?p=5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【艾玛·沃特森】",URL="https://www.bilibili.com/video/BV1EJ411y72H?p=6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【吴亦凡】",URL="https://www.bilibili.com/video/BV1EJ411y72H?p=7",SOURCE=WEB
+#EXT-X-ENDLIST

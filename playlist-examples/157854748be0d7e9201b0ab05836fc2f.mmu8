@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/032b01588c014b463cb9e5d6ae15c1da7ede7ad1.jpg@380w_240h.jpg",ALT="学习没动力时看看这个视频！奥巴马经典演讲：你为什么要努力学习"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1EZ4y1T7tp?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1EZ4y1T7tp?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1EZ4y1T7tp?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

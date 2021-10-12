@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/07ea0a73e0887c799bb2aea45ca7d1b3d8d95252.jpg@380w_240h.jpg",ALT="袁隆平院士英文讲座片段：口语清晰准确，不输当代年轻人"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV17K4y1V79A?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV17K4y1V79A?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版完整版】",URL="https://www.bilibili.com/video/BV17K4y1V79A?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

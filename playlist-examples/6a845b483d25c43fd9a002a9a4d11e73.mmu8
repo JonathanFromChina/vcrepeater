@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/65a1ffcd03da4ef976ac233a4993fe4c7d41b9bc.jpg@380w_240h.jpg",ALT="闷声发大财！外媒是这样解说汪顺200米混泳夺冠的"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV11A411A7Xn?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV11A411A7Xn?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV11A411A7Xn?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

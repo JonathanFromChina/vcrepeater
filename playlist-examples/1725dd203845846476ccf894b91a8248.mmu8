@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/7dcae503b72e16a37c818dc99dc28c7dfaa60ae7.jpg@380w_240h.jpg",ALT="封王国际赛事射手王！C罗绝杀爱尔兰的英文解说，你能听懂吗？"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1wb4y127i9?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1wb4y127i9?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1wb4y127i9?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/54715ba878b5497bd07ef0b5a35cf6cf90869962.jpg@380w_240h.jpg",ALT="TED：作为美国人，我在中国生活了10年后，学到的5点道理"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1hz4y1272o?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1hz4y1272o?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1hz4y1272o?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

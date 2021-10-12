@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/dadb49f75ef5ab3c40d556bd0d42a3421f3c3dd9.jpg@380w_240h.jpg",ALT="不到一周态度大翻转？福克斯主持人告诉你什么叫变脸"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1X7411C7ig?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://www.bilibili.com/video/BV1X7411C7ig?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1X7411C7ig?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

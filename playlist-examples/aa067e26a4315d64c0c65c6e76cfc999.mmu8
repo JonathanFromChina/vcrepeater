@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d9746e15277c87a3e26b7cc9f6e73637e805d22a.jpg@380w_240h.jpg",ALT="欧美语速最快的女明星？试试你跟得上凯拉的语速吗"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1k44y1q7vn?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1k44y1q7vn?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1k44y1q7vn?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

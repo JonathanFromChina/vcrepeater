@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/4b933a3eeee1631f6eaa35c2081d7702b206b4fe.jpg@380w_240h.jpg",ALT="当**老妈陪儿子一起相亲时"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1Pf4y1m7es?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://www.bilibili.com/video/BV1Pf4y1m7es?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1Pf4y1m7es?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/4502c6104328c173044fae670203a85478411d4c.jpg@380w_240h.jpg",ALT="【美利坚逼王】答题节目中选手给老爸打电话：爸，我要成百万富翁了"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1E4411C7s6?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://www.bilibili.com/video/BV1E4411C7s6?p=2",SOURCE=WEB
+#EXT-X-ENDLIST
