@@ -1,7 +1,6 @@
 #EXTMMU
 #EXT-X-VERSION:1
 #EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/8e7d0f07acbf88a407571444238967d64dd80d81.jpg@380w_240h.jpg",ALT="日语学习：新标日课程0到N1，B站史上最好学的日语入门视频教程零基础学习日语轻松简单学"
-#EXT-X-INF:INDEX=0,NAME="【必看】课程简介+如何提交作业",URL="https://www.bilibili.com/video/BV1Bp4y1D747?p=1",SOURCE=WEB
 #EXT-X-INF:INDEX=0,NAME="[日语入门] 五十音（上）",URL="https://www.bilibili.com/video/BV1Bp4y1D747?p=2",SOURCE=WEB
 #EXT-X-INF:INDEX=0,NAME="[日语入门] 五十音（下）",URL="https://www.bilibili.com/video/BV1Bp4y1D747?p=3",SOURCE=WEB
 #EXT-X-INF:INDEX=0,NAME="[日语学习]浊音和长音",URL="https://www.bilibili.com/video/BV1Bp4y1D747?p=4",SOURCE=WEB
