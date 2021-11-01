@@ -1,0 +1,15 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/29/201209291254305bc62.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《媒体、教育、市场》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】个人媒体 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6OTQV4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】下一个热门——视频网络 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6P2BR0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】媒体,教育以及科技 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6PBL84",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】教育中的技术应用 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6P4DS3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】媒体素养——对抗道德恐慌的策略 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6P5JHG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】教育技术在商业教育中的率先使用 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6P9QLB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】“七夕节”软件的介绍 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6PA4G0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】软件和网站中存在的偏见 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6PD77N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】文化素养政策 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6PUAHE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】开放课程软件是如何研发的 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6PF94D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】TEAL项目 ",URL="https://open.163.com/newview/movie/free?pid=M6U6N3PVJ&mid=M6U6PIQ35",SOURCE=WEB
+#EXT-X-ENDLIST

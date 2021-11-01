@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d7860f4678c59b1fc30bf4de452341a1c58990d2.jpg@380w_240h.jpg",ALT="【黑人兄弟】这，就叫内鬼！"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1JK4y1s784?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1JK4y1s784?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1JK4y1s784?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

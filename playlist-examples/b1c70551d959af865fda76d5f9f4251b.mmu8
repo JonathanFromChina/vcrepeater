@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/20/20120920151752507e0.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="剑桥大学《气候模式及预测》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】当下气候状态如何？ ",URL="https://open.163.com/newview/movie/free?pid=M8ARSUBAR&mid=M8ART7213",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】我们能否预测气候的变化？ ",URL="https://open.163.com/newview/movie/free?pid=M8ARSUBAR&mid=M8ARTIBNO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】主持辩论：构建更大更优的气候模型将是一个糟糕的投资吗？ ",URL="https://open.163.com/newview/movie/free?pid=M8ARSUBAR&mid=M8AS3KNKD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】气候概率分析家面临的巨大挑战 ",URL="https://open.163.com/newview/movie/free?pid=M8ARSUBAR&mid=M8AS3KUHB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】如何优化气候投资 ",URL="https://open.163.com/newview/movie/free?pid=M8ARSUBAR&mid=M8AS406SM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】第四气候建模 ",URL="https://open.163.com/newview/movie/free?pid=M8ARSUBAR&mid=M8AS40OIC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】气候引爆点的确认以及早期预警问题 ",URL="https://open.163.com/newview/movie/free?pid=M8ARSUBAR&mid=M8AS4ADCP",SOURCE=WEB
+#EXT-X-ENDLIST

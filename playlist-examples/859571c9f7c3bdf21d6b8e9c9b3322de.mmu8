@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/201209291307278a8ee.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加利福尼亚大学《克服公众演讲焦虑》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程介绍 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5IH1O0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】焦虑概述 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5J3QSS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】加利福尼亚大学：减轻公共演讲焦虑 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5IRQBM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】Thomas Roe减轻焦虑的方法和资源 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5IR1IR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】加利福尼亚大学：如何组织你的演讲 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5IVJAT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】组织你的演讲及听众分析 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5J069L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】有效使用演讲辅助 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5J4TNT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】计算机视觉辅助的好坏丑 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7D5J51NR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】面向非学术听众的演讲 ",URL="https://open.163.com/newview/movie/free?pid=M7CTFJR3C&mid=M7DNFHCTV",SOURCE=WEB
+#EXT-X-ENDLIST

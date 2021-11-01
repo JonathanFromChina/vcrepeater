@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/225cc9bd947d1ddb1b671f20c04ce191715f1859.jpg@380w_240h.jpg",ALT="【B站最好的口语练习素材】每天一遍，口语变神仙，一个月后英语水平超同传！"
+#EXT-X-INF:INDEX=0,NAME="1",URL="https://www.bilibili.com/video/BV1qL411W76J?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2",URL="https://www.bilibili.com/video/BV1qL411W76J?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3",URL="https://www.bilibili.com/video/BV1qL411W76J?p=3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4",URL="https://www.bilibili.com/video/BV1qL411W76J?p=4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5",URL="https://www.bilibili.com/video/BV1qL411W76J?p=5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6",URL="https://www.bilibili.com/video/BV1qL411W76J?p=6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7",URL="https://www.bilibili.com/video/BV1qL411W76J?p=7",SOURCE=WEB
+#EXT-X-ENDLIST

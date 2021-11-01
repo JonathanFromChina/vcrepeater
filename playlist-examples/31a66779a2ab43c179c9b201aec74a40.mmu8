@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/10/7/201210071740145e880.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="《银行业危机——源起与后果》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】崩溃 ",URL="https://open.163.com/newview/movie/free?pid=M7BN1SOEO&mid=M7BPFC8UG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】过度的高风险金融活动 ",URL="https://open.163.com/newview/movie/free?pid=M7BN1SOEO&mid=M7BPFCK4H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】借贷越多.花费越多 ",URL="https://open.163.com/newview/movie/free?pid=M7BN1SOEO&mid=M7BPFDF0J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】评级机构.过于宽容 ",URL="https://open.163.com/newview/movie/free?pid=M7BN1SOEO&mid=M7BPFE18V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】北岩银行危机 ",URL="https://open.163.com/newview/movie/free?pid=M7BN1SOEO&mid=M7BPFE76E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】银行国有化 ",URL="https://open.163.com/newview/movie/free?pid=M7BN1SOEO&mid=M7BPFEF3K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】银行业的未来 ",URL="https://open.163.com/newview/movie/free?pid=M7BN1SOEO&mid=M7BPFFDJ4",SOURCE=WEB
+#EXT-X-ENDLIST

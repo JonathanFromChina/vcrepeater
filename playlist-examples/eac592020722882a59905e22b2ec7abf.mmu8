@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/29/20120929091528acd3d.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加州大学伯克利分校《综合生物学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】介绍大分子、蛋白质的结构和功能 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK7RTFT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】结构和功能:油脂、碳水化合物和核酸分子 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8AOR3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】细胞结构和组织 上 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8B6RG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】细胞结构和组织 下 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8KSUU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】生物膜的结构 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8KVK8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】细胞的新陈代谢和生物催化剂 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8L1S0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】酶的结构 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8NGHQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】酶的活性 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8O6OV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】介绍生物能量学 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8Q2N1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】细胞能量生产和厌氧处理 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8US63",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】细胞能量生产和有氧过程 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK8TEN3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】光合作用 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK938E3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】光和作用中的二氧化碳运行过程 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK951EB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】微生物遗传学和染色体进化、质体、噬菌体 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK9751M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】DNA复制和聚合酶链反应 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5OTM2&mid=M6HK9B0GP",SOURCE=WEB
+#EXT-X-ENDLIST

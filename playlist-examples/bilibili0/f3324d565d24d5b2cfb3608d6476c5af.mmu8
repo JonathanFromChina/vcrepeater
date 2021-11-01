@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/b9f5a3555917bea1da6883e639e14ce0f57a8d11.jpg@380w_240h.jpg",ALT="奥运男单卫冕，乒坛第一人！外媒是这样解说乒乓球男单决赛的"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1CL411n75Y?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1CL411n75Y?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1CL411n75Y?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

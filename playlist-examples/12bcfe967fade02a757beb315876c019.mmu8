@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2015/8/3/20150803182404b234d.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《古英语》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】古英语介绍 ",URL="https://open.163.com/newview/movie/free?pid=MA32UFQ0G&mid=MA338VSK1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】古英语语言 ",URL="https://open.163.com/newview/movie/free?pid=MA32UFQ0G&mid=MA339IKQD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】古英语诗歌 ",URL="https://open.163.com/newview/movie/free?pid=MA32UFQ0G&mid=MA35I8U6I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】当时的古英语和现在的古英语 ",URL="https://open.163.com/newview/movie/free?pid=MA32UFQ0G&mid=MA35IBUFQ",SOURCE=WEB
+#EXT-X-ENDLIST

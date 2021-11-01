@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/29/2012092917023221d59.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="美国国会图书馆《音乐与大脑》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】音乐的语言和语言的音乐 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PSO63&mid=M7S98S27O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】音乐交流中的风格与情绪 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PSO63&mid=M7S98SHHN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】音乐犯罪行为与预防 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PSO63&mid=M7S98SN90",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】艺术家的思维 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PSO63&mid=M7S98SV31",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】抑郁症与创造力研讨会 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PSO63&mid=M7S99K4VO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】靛蓝色的星期三 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PSO63&mid=M7S98T4FM",SOURCE=WEB
+#EXT-X-ENDLIST

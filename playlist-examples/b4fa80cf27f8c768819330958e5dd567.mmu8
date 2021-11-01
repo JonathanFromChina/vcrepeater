@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/cnews/2013/11/27/2013112717551098b42.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《犯罪小说》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】寻凶和死尸 ",URL="https://open.163.com/newview/movie/free?pid=M8I7S09UC&mid=M8I7SMCIB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】大学教师+死亡和侦探 ",URL="https://open.163.com/newview/movie/free?pid=M8I7S09UC&mid=M8I7ST0ND",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】笔下与荧屏上的莫尔斯探长 ",URL="https://open.163.com/newview/movie/free?pid=M8I7S09UC&mid=M8I7T68OJ",SOURCE=WEB
+#EXT-X-ENDLIST

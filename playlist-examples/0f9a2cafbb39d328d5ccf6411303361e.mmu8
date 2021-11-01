@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/10/8/201210081649201b9b2.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="利伯缇大学《犯罪心理学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】利伯缇大学公开课：犯罪心理学简介 ",URL="https://open.163.com/newview/movie/free?pid=M8CCJHF2G&mid=M8CCM0SAB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】利伯缇大学公开课：基督教角度研究犯罪学 ",URL="https://open.163.com/newview/movie/free?pid=M8CCJHF2G&mid=M8CCM3Q0A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】利伯缇大学公开课：艾森克理论 ",URL="https://open.163.com/newview/movie/free?pid=M8CCJHF2G&mid=M8CCM5QIB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】利伯缇大学公开课：海森姆式谋杀 ",URL="https://open.163.com/newview/movie/free?pid=M8CCJHF2G&mid=M8CCM8AIE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】利伯缇大学公开课：针对儿童的网络犯罪 ",URL="https://open.163.com/newview/movie/free?pid=M8CCJHF2G&mid=M8CCMA28M",SOURCE=WEB
+#EXT-X-ENDLIST

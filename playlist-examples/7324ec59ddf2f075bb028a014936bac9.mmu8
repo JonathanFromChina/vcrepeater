@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/28/20120928150846d3ad5.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哈里斯堡社区大学《统计学入门》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】统计学导论 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HQQGMO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】折线图条形图饼状图 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HQJ9RT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】茎叶图 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HR5QIR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】切比雪夫定理 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HQT7OT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】指导练习 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M82FDU6KJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】线性相关与回归 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HR7I21",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】复习 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M82F9TM4S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】概率 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HRDM33",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】谨慎和二项式分布 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HU6EKE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】生日的概率问题 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HRFFB3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】使用Z表 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HTVPUG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】正态分布 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HRKIQO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】二项式正态近似值 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M81E150QC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】中心极限定理 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HRTOPC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】抽样方法和中心极限定理 ",URL="https://open.163.com/newview/movie/free?pid=M807PLQMF&mid=M80HTOQS6",SOURCE=WEB
+#EXT-X-ENDLIST

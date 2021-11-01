@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/6f194ff2715bde4fdf587f23d1d48300238006f1.jpg@380w_240h.jpg",ALT="成也瑞秋败也瑞秋？詹妮弗：我是真特么不想再当瑞秋了"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1P54y1q7Ex?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1P54y1q7Ex?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1P54y1q7Ex?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

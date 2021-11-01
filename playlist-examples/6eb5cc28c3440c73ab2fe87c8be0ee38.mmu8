@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/17/2012091718071888cd9.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="斯运伯恩科技大学《Flash设计教程》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】Flash入门介绍 迪伦·戴维斯 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMROPFV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】Flash介绍 迪伦·戴维斯 第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMRNBA8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】动作脚本入门教程1&2 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMRO69O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】动作脚本入门教程1&2 第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMRTJE3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】动作脚本入门教程1&2 第三部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMRPJAT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】动作脚本入门教程1&2 第五部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMSG1A1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】如何将声音导入库 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMS5MR5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】创建flash电影中的的按钮 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMS9OU3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】通过滑块来控制声音的音量 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMS65K2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】使用变量定义滑块 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMSU68J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】如何利用XML数据在Flash中创建一个图库 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMST3E3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】如何利用XML数据在Flash中创建一个图库 第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMT0A2S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】如何利用XML数据在Flash中创建一个图库 第三部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMSTN3K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】如何利用XML数据在Flash中创建一个图库 第四部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8AMSSJ35",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】Flash和XML教程 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMLMRC2&mid=M8GKVJA9G",SOURCE=WEB
+#EXT-X-ENDLIST

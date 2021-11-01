@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/26/20120926181117de6b8.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁《海明威、菲茨杰拉德和福克纳》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程介绍 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M885V0QFH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】海明威《在我们的时代里》第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M885VJE0F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】海明威《在我们的时代里》第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M885VJVSM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】菲茨杰拉德《了不起的盖茨比》第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M885VH7M1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】菲茨杰拉德《了不起的盖茨比》第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M885VKF3P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】福克纳《喧哗与骚动》第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M885VKSEU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】福克纳《喧哗与骚动》第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M885VHLOT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】福克纳《喧哗与骚动》第三部分 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M8860203S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】海明威的《有钱人和没钱人》 ",URL="https://open.163.com/newview/movie/free?pid=M87UTNVNK&mid=M886159K6",SOURCE=WEB
+#EXT-X-ENDLIST

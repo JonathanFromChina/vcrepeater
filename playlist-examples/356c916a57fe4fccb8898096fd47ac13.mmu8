@@ -1,0 +1,18 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2013/3/6/20130306145202e1c89.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="Blender基金会《钢之殇》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】电影《钢之殇》 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9BDC6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】DVD脚本处理 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9E4C4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】影像合成 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9JQNJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】键控和遮罩 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9LUBR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】如何制作出毁掉一堵墙的效果 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9M3LA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】特效场景制作—Thom和Celia争吵 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9OPFD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】特效场景制作—和队长有关的镜头 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9Q3JV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】特效场景制作—呆子科学家 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9R0S6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】特效场景制作—机器人手臂 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9TEHS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】特效场景制作—被机器人抓住 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OE9UJRB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】特效场景制作—科学家集体开火的场景 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OEA0HLP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】色彩管理 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M8OEA2904",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】运动延伸 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M9MA58M5H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】如何完成影片画面上的清理 ",URL="https://open.163.com/newview/movie/free?pid=M8O9EP0J0&mid=M9MA5CBQL",SOURCE=WEB
+#EXT-X-ENDLIST

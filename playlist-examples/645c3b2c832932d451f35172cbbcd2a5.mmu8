@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/10/20120910111947095ff.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哈佛大学《天文台之夜》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】愉快的巧合 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857FM4N9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】如何判断恒星的真实年龄 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857F4TPJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】恒星之音 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857F5TRO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】探索太阳 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857F55CF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】银河系中神秘的伽马射线 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857FO6G7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】我们的宇宙亲属 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857FO2ID",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】恒星与星系的形成 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857FNB2F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】观察秋天的夜空 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857GRS62",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】不明飞行物之外 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857FLJ04",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】搜索地外文明 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857G0PVD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】宇宙绘图发展史 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857FNIQU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】宇宙哲学讲座 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857GBV11",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】从伽利略开始的天文史 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857G0V9V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】宇宙第二大爆炸 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857G761L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】因为世界是圆的 ",URL="https://open.163.com/newview/movie/free?pid=M852B7VLM&mid=M857GBRJH",SOURCE=WEB
+#EXT-X-ENDLIST

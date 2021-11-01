@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/29/20120929085640265d9.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哥伦比亚大学《科学前沿-生物多样性》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】什么是科学家 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7A2FE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】课程简介 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M77BG6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】全球趋势 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7ATT5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】全球趋势1-陆地生态系统退化 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7BREJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】全球趋势2-水生生态系统退化 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7B5PV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】全球趋势3-二氧化碳含量增加 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7DVQ2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】全球趋势4-物种减少 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7ECJL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】全球趋势5-新发传染病增多 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7FE3V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】孟德尔遗传学基础 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7IN7P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】分子遗传学基础 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7KAI8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】种群遗传学基础 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7P9JN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】自然种群中的基因多样性 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7OAC6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】生物灭绝理论 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M83V2J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】群落生态学 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M8349J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】总结 ",URL="https://open.163.com/newview/movie/free?pid=M85KC2J32&mid=M85M7QFR5",SOURCE=WEB
+#EXT-X-ENDLIST

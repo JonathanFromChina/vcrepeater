@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/6be8f30ba76678de0e266e76c23b0690b74f4c6d.jpg@380w_240h.jpg",ALT="想偷懒的时候，看看这个视频！马斯克教你如何提高成功的几率"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1854y167LY?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1854y167LY?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1854y167LY?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

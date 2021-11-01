@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/cnews/2013/11/27/2013112718004828cce.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="密苏里州立大学《骑士与少女》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】介绍 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HEQF4CN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】亚瑟王影评 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HER80A0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】书评-中世纪战争 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HER8IF1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】书本讨论 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HES3946",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】亚瑟的教育 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HERP29H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】季节的象征 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HEROG3U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】书评 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HERRCCQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】书本讨论 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HESA7I2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】复习测验 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HGM7RTE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】书评 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HGM9TCI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】关于克雷蒂安的讨论 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HGMSEQ4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】Erec的讨论 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HGMSHG7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第18集】对Erec的讨论2 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HGMUVNS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第19集】《伊万》——威尔玛 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HGNAL8N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第20集】关于伊万的讨论2 ",URL="https://open.163.com/newview/movie/free?pid=M8HEQ367H&mid=M8HGNAPHH",SOURCE=WEB
+#EXT-X-ENDLIST

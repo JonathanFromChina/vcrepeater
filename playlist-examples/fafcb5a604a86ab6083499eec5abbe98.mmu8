@@ -1,0 +1,14 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img0.ph.126.net/z5nS6m3eS4rPrJN1fWFq_g==/6630859958000848239.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="Crash Course《大历史》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】宇宙大爆炸 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG4L517",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】探索宇宙 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG5H4RP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】太阳与地球 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG5HV79",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】生命的起源 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG5IFJ9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】进化的史诗 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG5VH4C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】人类进化 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG5VUH0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】迁徙与强化 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG60D53",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】现代革命 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG66CKD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】人类世与不远的未来 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MAFG65TIR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】深入未来 ",URL="https://open.163.com/newview/movie/free?pid=MAFG0LTKO&mid=MBPNB9NPO",SOURCE=WEB
+#EXT-X-ENDLIST

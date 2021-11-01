@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/29/201209290816514d64e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="仙后座计划《从宇宙大爆炸到人类》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】从大爆炸到太阳系 ",URL="https://open.163.com/newview/movie/free?pid=M7C99E029&mid=M7C99I6C4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】史前生命 ",URL="https://open.163.com/newview/movie/free?pid=M7C99E029&mid=M7C99JLNJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】 文明前夕 ",URL="https://open.163.com/newview/movie/free?pid=M7C99E029&mid=M7C99J7EQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】第四课 ",URL="https://open.163.com/newview/movie/free?pid=M7C99E029&mid=M7C99J2FC",SOURCE=WEB
+#EXT-X-ENDLIST

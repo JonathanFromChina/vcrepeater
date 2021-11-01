@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/17/20120917182551f4c96.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="纽约大学《美国文学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程概述 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOJO183",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】《白鲸》1 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOK9M6F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】殖民时期的文学 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOKA7CK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】美国的清教主义1 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOKAPA9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】美国的清教主义2 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOKB6HH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】美国的清教主义3 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOMAMHU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】爱德华兹以及向启蒙时期的转变 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOMBCDL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】美国启蒙运动时期的文学 ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AOM7SGM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】美国先验主义IV ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AP12OLF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第20集】汤姆叔叔的小屋 &#040;II&#041; ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AP1283P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第21集】霍桑 &#040;I&#041; ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AP3G3JE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第22集】霍桑 &#040;II&#041; ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AP2UEUP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第23集】1-23 Moby-Dick &#040;II&#041; ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AP3GK1C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第23集】白鲸记II ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=MCIPA75FI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第24集】1-24 Moby-Dick &#040;III&#041; ",URL="https://open.163.com/newview/movie/free?pid=M8AMMRMNM&mid=M8AP3H8B3",SOURCE=WEB
+#EXT-X-ENDLIST

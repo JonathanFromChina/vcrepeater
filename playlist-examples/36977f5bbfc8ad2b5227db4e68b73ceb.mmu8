@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/201209291029398139e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《自闭症讲座》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】自闭症概述（第一部分） ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V27MAE3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】自闭症概述（第二部分） ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V27NQ1A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】自闭症评估 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V27OH5R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】自闭症治疗方案概观 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V27P7TM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】自闭症中的社会性大脑 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V27UFRN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】婴幼儿自闭症 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V27UPUA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】对于社会知觉的电生理学研究 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V280GJ7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】神经影像 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V28097V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】行为治疗 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V282A49",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】父母的角度与家庭支持 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V280Q10",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】自闭症中的交流 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V284PHC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】精神病药物学 ",URL="https://open.163.com/newview/movie/free?pid=M6V0IPEL2&mid=M6V285L0T",SOURCE=WEB
+#EXT-X-ENDLIST

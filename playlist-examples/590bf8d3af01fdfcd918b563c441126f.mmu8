@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/10/4/20121004113658f9899.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="西南大学《投资学入门》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】什么是投资  ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H445NH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】投资类型概述 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H479G0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】风险和回报 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4D7O9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】短期投资 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4DSSD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】共同基金 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4I13K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】支出、费用及股票 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4LQF6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】共同基金类型 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4N7N7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】基金系列和一个共同基金示例 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4P9U6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】西南大学403b计划 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4QG47",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】股票市场 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4UUUI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】股票交易，委员会和市场指数 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H4U9C4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】其它股票特点 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H53LA7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】股票类型，市场资本化，股票策略 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H522MC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】交易所—经纪人和经销商 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H55IGR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】估值技术，价格比模型 ",URL="https://open.163.com/newview/movie/free?pid=MB1H3PL2C&mid=MB1H5ADQH",SOURCE=WEB
+#EXT-X-ENDLIST

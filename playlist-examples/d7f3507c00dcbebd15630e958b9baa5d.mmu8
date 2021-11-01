@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/10/5/20121005225201942b3.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="伯南克公开课《美联储与金融危机》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】联邦储蓄和金融危机：美联储的起源与使命 ",URL="https://open.163.com/newview/movie/free?pid=M7SK08RSL&mid=M7SLSD8PL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】联邦储蓄和金融危机：二战后的美联储 ",URL="https://open.163.com/newview/movie/free?pid=M7SK08RSL&mid=M7SLU13FV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】美联储对金融危机的应对 ",URL="https://open.163.com/newview/movie/free?pid=M7SK08RSL&mid=M7T117SLB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】危机的后果 ",URL="https://open.163.com/newview/movie/free?pid=M7SK08RSL&mid=M7T117D38",SOURCE=WEB
+#EXT-X-ENDLIST

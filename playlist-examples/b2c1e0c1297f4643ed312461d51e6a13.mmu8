@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/2012092912382086ec9.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="康奈尔大学《法学讲座》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】独立司法的重要性 ",URL="https://open.163.com/newview/movie/free?pid=M7F2KA4VM&mid=M7F2OMI2E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】伊拉克高级法院.豁免的终结 ",URL="https://open.163.com/newview/movie/free?pid=M7F2KA4VM&mid=M7F2NLU2A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】西尔斯法官谈公正 ",URL="https://open.163.com/newview/movie/free?pid=M7F2KA4VM&mid=M7F2OK0UV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】罗马法的精神 ",URL="https://open.163.com/newview/movie/free?pid=M7F2KA4VM&mid=M7F2UKI06",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】法律·心理学·人类发展 ",URL="https://open.163.com/newview/movie/free?pid=M7F2KA4VM&mid=M7F2UK78F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】犯罪调查中的既有偏见 ",URL="https://open.163.com/newview/movie/free?pid=M7F2KA4VM&mid=M7F2UKSGL",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2013/1/6/20130106144055892d7.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="新泽西理工学院《人力资源管理》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】人力资源管理概论 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JRMHUVL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】人力资源管理第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JRO6R13",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】人力资源管理第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKBQVG0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】劳动力的管理 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKC3SUN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】人力资源规划 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKCDV1Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】人力资源信息系统 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKD3J45",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】职业分析 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKCPBGJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】人力招聘 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKDCFA3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】人事与策略 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKDLD2J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】人事与策略 第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKE14VG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】培训 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKEP8CI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】培训 第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKF2IPN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】职业发展 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JKFBKG4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】职业发展 第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JML40IM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】绩效管理与评估 第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8JK420V2&mid=M8JMLF9QR",SOURCE=WEB
+#EXT-X-ENDLIST

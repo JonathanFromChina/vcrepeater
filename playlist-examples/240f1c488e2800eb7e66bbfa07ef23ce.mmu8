@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.ph.126.net/RYRTsFRewg2ElrO4VxtuzA==/6608222113097505466.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《几何折叠算法之课程研讨》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】概述 ",URL="https://open.163.com/newview/movie/free?pid=M9R9N2D83&mid=M9RRVEFAQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】通用性与简单折叠 ",URL="https://open.163.com/newview/movie/free?pid=M9R9N2D83&mid=M9RRVJFI2",SOURCE=WEB
+#EXT-X-ENDLIST

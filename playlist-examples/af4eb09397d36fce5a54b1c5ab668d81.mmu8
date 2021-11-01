@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/11/16/20121116110234ea55e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哥伦比亚大学《科学前沿-地球科学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】简介 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGCMR3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】全球变暖预测简介 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGF0SD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】是什么控制地球温度 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGG9UT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】太阳活动 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGHMI9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】反照率 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGIC9G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】温室效应 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGJRHE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】当今气候变化 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGL1DP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】二氧化碳 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGOQPU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】简介 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGPLJG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】人类进化史 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGR7KT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】非洲气候控制因素 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGGUV6D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】揭秘变化着的大草原 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGH067A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】非洲海洋证据 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGH1K46",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】第三部分简介 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGH28OR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】白垩纪第三纪事件 ",URL="https://open.163.com/newview/movie/free?pid=M8FGG53GP&mid=M8FGH3D24",SOURCE=WEB
+#EXT-X-ENDLIST

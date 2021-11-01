@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/12/11/20121211151233bd67a.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省《主流创业型企业的挑战和解决方案》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】企业投资与领导模式 ",URL="https://open.163.com/newview/movie/free?pid=M8HH71TSB&mid=M8KTLO59T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】麻省理工学院：企业发展、领导力与企业文化 ",URL="https://open.163.com/newview/movie/free?pid=M8HH71TSB&mid=M8HP0TRGC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】兴趣话题讨论 ",URL="https://open.163.com/newview/movie/free?pid=M8HH71TSB&mid=M8KTLLI35",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】总结与结语 ",URL="https://open.163.com/newview/movie/free?pid=M8HH71TSB&mid=M8KTLEPLV",SOURCE=WEB
+#EXT-X-ENDLIST

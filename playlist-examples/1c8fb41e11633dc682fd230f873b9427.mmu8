@@ -1,0 +1,15 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img0.ph.126.net/EdANaQl9FB6iNqecIR8CBg==/1484217552295429521.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="东伊利诺伊州大学《文本细读》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】欢迎 ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9APQOR58",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】比喻 ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9APQRU9M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】韵节分析（一） ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENEPGNB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】韵节分析（二） ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENEQB8L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】词源学（一） ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENESK08",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】词源学 （二） ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENESG4J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】主旨 ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENEUS5P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】双关语 ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENEUVAU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】意识流 ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENF1BHS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】话语和记叙方式  ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENF2P7C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】重复 ",URL="https://open.163.com/newview/movie/free?pid=M9AFC2UGN&mid=M9ENF7C2R",SOURCE=WEB
+#EXT-X-ENDLIST

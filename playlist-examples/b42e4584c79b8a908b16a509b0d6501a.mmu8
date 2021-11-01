@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/28/201209281923071e4be.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《近代社会理论的基础》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】序言 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SKKAMT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】 洛克：平等，自由，财产与权利的分歧 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SKKNA0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】孟德斯鸠：权力分割 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SKLCJR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】卢梭：主权在民与大众意志 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SKSQ6R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】卢梭：自然状态与教育 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SKV1L8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】亚当斯密：看不见的手 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SKVC6M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】密尔：功利主义与自由  ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SKT8IE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】马克思之异化理论 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SL0CL3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】马克思之历史唯物论 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SL11A4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】马克思之历史唯物论（续） ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SMA50K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】马克思之历史理论 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SMK1K4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】马克思之阶级与剥削论 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SML21U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】尼采：权力、知识与道德 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SMQ369",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】弗洛伊德：性行为与文明 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SMRV20",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】韦伯：新教与资本主义 ",URL="https://open.163.com/newview/movie/free?pid=M71SK71SK&mid=M71SMNOJ5",SOURCE=WEB
+#EXT-X-ENDLIST

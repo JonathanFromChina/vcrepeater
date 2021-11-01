@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/19/20120919103742b3aa8.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《基础物理 II》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】静电学 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AMGFLDS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】电场 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP7NE9C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】高斯法则 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP7T32S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】高斯法则以及在导体与绝缘器上的应用 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP876R2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】电势与能量守恒 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP8QRHV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】电容器 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP91U4A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】阻力 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP97O86",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】电与磁I ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP9HG5G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】磁II ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AP9MU7M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】安培定理 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8APA338N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】楞次法则和法拉第法则 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AQTN058",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】LCR电路-直流电压 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AQTO0AF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】电路问题.第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AQTQKRU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】麦克斯韦方程与电磁波 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AQTRLQ6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】麦克斯韦方程与电磁波.二 ",URL="https://open.163.com/newview/movie/free?pid=M8AMG6IJF&mid=M8AQTQ52E",SOURCE=WEB
+#EXT-X-ENDLIST

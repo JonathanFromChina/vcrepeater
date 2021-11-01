@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/cnews/2013/12/11/20131211140231d3b35.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="Crash Course《十分钟生物学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】为啥碳原子是个荡妇 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUAC3P8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】水 - 最棒的液体 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUAFL3U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】生物分子 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUBC87L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】动物细胞 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUAITM9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】细胞膜与运输 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUAMMH3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】植物细胞 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUAPRKB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】ATP与呼吸 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUB4OJG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】光合作用 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUB815G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】遗传 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUBGTH3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】DNA的结构与复制 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUBKM0L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】DNA, 夹心蛋糕, 世界上最长的单词 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUBQHKC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】有丝分裂 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUC1DIJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】减数分裂 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUC5964",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】自然选择 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUC8SCU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】物种 ",URL="https://open.163.com/newview/movie/free?pid=M9DU4R4K9&mid=M9DUCFQTO",SOURCE=WEB
+#EXT-X-ENDLIST

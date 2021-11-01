@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/84fa48c17511f03ad853f30fc1c374a901e92775.jpg@380w_240h.jpg",ALT="我们为啥总忍不住口吐芬芳？心理学家：这是祖先留给我们的遗产"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1fK4y1h7Q7?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1fK4y1h7Q7?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1fK4y1h7Q7?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

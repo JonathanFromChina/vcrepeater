@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2013/1/4/201301041635489cf2c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="英国公开大学《60秒经济学探奇》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】无形之手 ",URL="https://open.163.com/newview/movie/free?pid=M8I8I5FFB&mid=M8I8I8VVF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】节约悖论 ",URL="https://open.163.com/newview/movie/free?pid=M8I8I5FFB&mid=M8I8J813D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】菲利普斯曲线 ",URL="https://open.163.com/newview/movie/free?pid=M8I8I5FFB&mid=M8I8JD8AQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】比较优势原理 ",URL="https://open.163.com/newview/movie/free?pid=M8I8I5FFB&mid=M8I8JET19",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】三元悖论 ",URL="https://open.163.com/newview/movie/free?pid=M8I8I5FFB&mid=M8I8JGPI8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】理性选择理论 ",URL="https://open.163.com/newview/movie/free?pid=M8I8I5FFB&mid=M8I8JIG0Q",SOURCE=WEB
+#EXT-X-ENDLIST

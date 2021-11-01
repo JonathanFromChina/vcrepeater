@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/29/201209291639276a51a.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《计算机科学及编程导论》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程目标，数据类型，运算，变量 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCSTQD6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】分支，条件和循环 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCSS8PB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】一般代码样式，循环式程序 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCSU1R3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】函数抽象与递归简介 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCSU84T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】浮点数和二分法(逐次近似) ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT0L41",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】二分法，牛顿，拉复生方法，对于数组的简介 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT1PRR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】数组以及可变性，字典，伪码，对于代码运行效率的简介 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT2MRV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】算法的复杂度：对数级，线性级，平方级，指数级 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT3PLD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】二分法搜索，冒泡排序与选择排序 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT4MK4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】分治法，合并排序，异常 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT5JP0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】测试与调试 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT6GAS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】调试的更多内容:背包问题,动态规划简介 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT7JLO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】动态规划,重叠的子问题,最优子结构 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT9E81",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】背包问题的分析,面向对象编程简介 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCT8E3A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】抽象数据类型,类与方法 ",URL="https://open.163.com/newview/movie/free?pid=M6TCSIN1U&mid=M6TCTAASA",SOURCE=WEB
+#EXT-X-ENDLIST

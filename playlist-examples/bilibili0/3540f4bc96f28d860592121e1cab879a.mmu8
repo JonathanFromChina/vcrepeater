@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/2a4b1e651cbea93d8b80b2e9a7b2c330a842a96a.jpg@380w_240h.jpg",ALT="【别低头，脖子会断！】英国女王吐槽王冠太重"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV13E411v7BS?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://www.bilibili.com/video/BV13E411v7BS?p=2",SOURCE=WEB
+#EXT-X-ENDLIST

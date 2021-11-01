@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2013/9/18/201309181623207eeec.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《女性健康研究》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】 纳米技术治疗抗药性卵巢癌 ",URL="https://open.163.com/newview/movie/free?pid=M95SL3ALF&mid=M95SLGRM2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】人体免疫系统：乳腺癌治疗中“缺失的一环” ",URL="https://open.163.com/newview/movie/free?pid=M95SL3ALF&mid=M95SLO2LN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】为什么要研究性别差异 ",URL="https://open.163.com/newview/movie/free?pid=M95SL3ALF&mid=M95SM3DKT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】女性戒烟更不易：性别差异戒烟法 ",URL="https://open.163.com/newview/movie/free?pid=M95SL3ALF&mid=M95SM9N9I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】为甲状旁腺功能减退治疗制造干细胞 ",URL="https://open.163.com/newview/movie/free?pid=M95SL3ALF&mid=M95SMCNTC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】吸烟和抑郁症有关吗 ",URL="https://open.163.com/newview/movie/free?pid=M95SL3ALF&mid=M95SMJKM7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】女性更健康，世界更美好 ",URL="https://open.163.com/newview/movie/free?pid=M95SL3ALF&mid=M95SMLTVA",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/201209290800014c735.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《微积分重点》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程简介 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TADTFHM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】微积分总览 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAE0D8L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】导数总览 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAE25VA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】极值和二阶导数 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAE5PGH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】指数函数 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAE62DK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】积分总览 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAE6H33",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】sinx和cosx的导数 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAE69MT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】乘法法则和除法法则 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAEM6SH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】复合函数和链式法则 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAEO2JD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】极限和连续函数 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAEOF4R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】逆函数和对数函数 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAEP2KK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】对数函数和反三角函数的导数 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAEOPC4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】线性近似和牛顿法 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAETULA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】幂级数和欧拉公式 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAEVHK2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】关于运动的微分方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TAD6EGJ&mid=M6TAF0KPG",SOURCE=WEB
+#EXT-X-ENDLIST

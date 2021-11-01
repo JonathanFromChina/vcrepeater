@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/29/20120929085144565ab.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《热力学与动力学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】系统的状态、第零定律、状态方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUMOA2G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】功、热量与热力学第一定律 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUMUKTD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】内能与膨胀功 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUN1VUH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】焓 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUN61BH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】绝热过程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUN8RPN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】热化学 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUNBC0K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】量热法 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUNGE7C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】热力学第二定律 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUNHVVD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】熵与克劳修斯不等式 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUNLIVQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】熵与不可逆性 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUNMN67",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】热力学基本方程，绝对熵与热力学第三定律 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUNRK6S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】自发过程的判据 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUNTFEQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】吉布斯自由能 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUO0VV1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】多组分系统，化学势 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUO4OQB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】化学平衡 ",URL="https://open.163.com/newview/movie/free?pid=M6TUM0QVN&mid=M6TUO77QJ",SOURCE=WEB
+#EXT-X-ENDLIST

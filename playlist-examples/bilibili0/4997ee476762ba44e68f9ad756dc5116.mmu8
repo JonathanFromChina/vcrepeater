@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/1c148353100c3cbd935db244bf5572cf9da40bab.jpg@380w_240h.jpg",ALT="简单易用的英语短语"
+#EXT-X-INF:INDEX=0,NAME="简单易用的英语短语(1)",URL="https://www.bilibili.com/video/BV1VK411T73F?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="简单易用的英语短语(2)",URL="https://www.bilibili.com/video/BV1VK411T73F?p=2",SOURCE=WEB
+#EXT-X-ENDLIST

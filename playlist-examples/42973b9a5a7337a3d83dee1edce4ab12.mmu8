@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/cnews/2013/11/27/201311271755383c03c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《批判性推理入门》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】论证的特性 ",URL="https://open.163.com/newview/movie/free?pid=M6SIPABCK&mid=M6SIV1ISR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】论证的不同型态 ",URL="https://open.163.com/newview/movie/free?pid=M6SIPABCK&mid=M6SIUV8QL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】设定论证逻辑的课本形式 ",URL="https://open.163.com/newview/movie/free?pid=M6SIPABCK&mid=M6SIV1Q8R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】怎么样才是好的论证？正确的真实的 ",URL="https://open.163.com/newview/movie/free?pid=M6SIPABCK&mid=M6SIV22Q9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】论证评估1 ",URL="https://open.163.com/newview/movie/free?pid=M6SIPABCK&mid=M6SIVB9OP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】论证评估2 ",URL="https://open.163.com/newview/movie/free?pid=M6SIPABCK&mid=M6SIVBKU6",SOURCE=WEB
+#EXT-X-ENDLIST

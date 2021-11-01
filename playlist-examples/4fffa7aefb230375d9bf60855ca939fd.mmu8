@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2013/1/15/20130115152423acc11.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="英国公开大学《60秒脑筋急转弯》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】阿基里斯与乌龟赛跑 ",URL="https://open.163.com/newview/movie/free?pid=M8KB8VE0G&mid=M8KBDR4UL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】祖父悖论 ",URL="https://open.163.com/newview/movie/free?pid=M8KB8VE0G&mid=M8KDSJHTK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】无限旅馆 ",URL="https://open.163.com/newview/movie/free?pid=M8KB8VE0G&mid=M8KDSKGPB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】双胞胎悖论 ",URL="https://open.163.com/newview/movie/free?pid=M8KB8VE0G&mid=M8KDSL7CJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】薛定谔的猫 ",URL="https://open.163.com/newview/movie/free?pid=M8KB8VE0G&mid=M8KDSL173",SOURCE=WEB
+#EXT-X-ENDLIST

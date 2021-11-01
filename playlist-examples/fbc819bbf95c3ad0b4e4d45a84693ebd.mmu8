@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/10/19/20121019095737e1c45.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="拜欧拉大学《爱情那些事》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】拜欧拉大学公开课：判断你们之间的气氛 ",URL="https://open.163.com/newview/movie/free?pid=M8D857POS&mid=M8D8K6M5G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】拜欧拉大学公开课：约会 ",URL="https://open.163.com/newview/movie/free?pid=M8D857POS&mid=M8D8KG1A7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】爱之伤 ",URL="https://open.163.com/newview/movie/free?pid=M8D857POS&mid=M8D8KNIP3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】性 ",URL="https://open.163.com/newview/movie/free?pid=M8D857POS&mid=M8D8RE4I5",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/28/20120928184834a734e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《环境政治和法律》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程简介.科学与法律 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M7VNQ449A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】环境法中的原则与策略 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M7VNQ8SSU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】核试验 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M7VNQUVGD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】核秘密与生态 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804OJD3D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】为战争做准备.航空发动机用核能 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804OQ1TD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】海洋食物链 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804QM1FD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】场址修复法律 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804QLSDT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】化学依靠型农业 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804S1G5U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】法律与风险：以杀虫剂为例 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804S1F08",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】安全饮用水问题、科学与法律的关系 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804SUL9A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】言论自由与中伤诽谤 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804SUNJI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】空气质量法 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804TREDC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】汽车排放与公共交通 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804TS5DQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】塑料革命 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804URN5B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】烟草范式 ",URL="https://open.163.com/newview/movie/free?pid=M7VLQS3GP&mid=M804UMRL9",SOURCE=WEB
+#EXT-X-ENDLIST

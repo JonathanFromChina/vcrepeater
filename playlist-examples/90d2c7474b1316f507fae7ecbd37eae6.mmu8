@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/10/1/20121001224124a2046.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《透过摄影感受世界》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】从空中来拍摄地貌 ",URL="https://open.163.com/newview/movie/free?pid=M7BPL7EO6&mid=M7BPLKNO8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】麻省理工公开课：摄影时，如何在城市中取景？ ",URL="https://open.163.com/newview/movie/free?pid=M7BPL7EO6&mid=M7BPLOMJF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】分享照片背后的历史故事 ",URL="https://open.163.com/newview/movie/free?pid=M7BPL7EO6&mid=M7BPM77FD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】麻省理工公开课：与儿童合作的摄影 ",URL="https://open.163.com/newview/movie/free?pid=M7BPL7EO6&mid=M7BPM8199",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】摄像机镜头下的新奥尔良 ",URL="https://open.163.com/newview/movie/free?pid=M7BPL7EO6&mid=M7BPM7KL0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】麻省理工公开课：摄影中的气氛、编舞、感觉和录音 ",URL="https://open.163.com/newview/movie/free?pid=M7BPL7EO6&mid=M7BPMQ8D1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】构想的根源——观察 ",URL="https://open.163.com/newview/movie/free?pid=M7BPL7EO6&mid=M7BPN2NHN",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/13/201209131547503e696.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="纽约大学《Google vs Apple》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】第一课 ",URL="https://open.163.com/newview/movie/free?pid=M7OODBU0T&mid=M7OOIBIKF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】第二课 ",URL="https://open.163.com/newview/movie/free?pid=M7OODBU0T&mid=M7OOIDQ4Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】第四课 ",URL="https://open.163.com/newview/movie/free?pid=M7OODBU0T&mid=M7OOIJMOF",SOURCE=WEB
+#EXT-X-ENDLIST

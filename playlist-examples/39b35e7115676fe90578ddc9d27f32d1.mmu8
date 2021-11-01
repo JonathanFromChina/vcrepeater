@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/29/20120929125738633c8.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《伦理学入门》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】规范、真理和理论：伦理推论的介绍 ",URL="https://open.163.com/newview/movie/free?pid=M807CAKJD&mid=M80HLUM1P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】美德伦理学：美德、价值观和品行 ",URL="https://open.163.com/newview/movie/free?pid=M807CAKJD&mid=M80HNBJB8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】休谟的伦理学：非认知主义，激情与道德动机 ",URL="https://open.163.com/newview/movie/free?pid=M807CAKJD&mid=M80HN96P1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】义务论：康德、责任以及道德法则 ",URL="https://open.163.com/newview/movie/free?pid=M807CAKJD&mid=M80HPLC6C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】功利主义：穆勒与功用 ",URL="https://open.163.com/newview/movie/free?pid=M807CAKJD&mid=M80HPON51",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】最终抉择 ",URL="https://open.163.com/newview/movie/free?pid=M807CAKJD&mid=M80HR2UQJ",SOURCE=WEB
+#EXT-X-ENDLIST

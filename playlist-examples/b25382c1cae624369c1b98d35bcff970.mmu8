@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/13/201209131612007f32e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《电和磁》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】是什么将世界连在一起 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UJ0B5T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】电场和偶极子 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UJ9MCC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】电通量和高斯定律 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72ULP4KC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】静电势能和电势 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72ULP920",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】静电屏蔽 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72ULPCAE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】高压击穿和闪电 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72ULPL73",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】电容和场能 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72ULPRMG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】电介质及极化 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72ULCP0U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】电流、电阻率和欧姆定律 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UMQKUH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】电池和电动势 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UMIJFH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】磁场和洛伦兹力 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UMIQJN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】复习一(神秘陀螺) ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UMIVLF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】B场中的运动电荷 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UMJ486",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】毕奥萨伐尔定律 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UMJAHM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】安培定律 ",URL="https://open.163.com/newview/movie/free?pid=M72UIB0K0&mid=M72UN5FDU",SOURCE=WEB
+#EXT-X-ENDLIST

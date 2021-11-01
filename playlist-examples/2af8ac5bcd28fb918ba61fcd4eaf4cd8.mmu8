@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/10/7/2012100717333810103.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="宾夕法尼亚州立大学《华尔街训练营》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】华尔街礼仪 ",URL="https://open.163.com/newview/movie/free?pid=M7AQO97FT&mid=M7B4R0VJR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】什么是个人财富管理 ",URL="https://open.163.com/newview/movie/free?pid=M7AQO97FT&mid=M7B4R1VOO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】金融销售和交易 ",URL="https://open.163.com/newview/movie/free?pid=M7AQO97FT&mid=M7BA7AOCN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】什么是投资银行 ",URL="https://open.163.com/newview/movie/free?pid=M7AQO97FT&mid=M7BA7N60J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】华尔街招聘的人是什么样的 ",URL="https://open.163.com/newview/movie/free?pid=M7AQO97FT&mid=M7BA7MV4U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】如何提高在华尔街求职的竞争力 ",URL="https://open.163.com/newview/movie/free?pid=M7AQO97FT&mid=M7BA7KPM2",SOURCE=WEB
+#EXT-X-ENDLIST

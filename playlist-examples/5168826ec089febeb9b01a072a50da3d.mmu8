@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2013/6/27/20130627161556332be.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="IIIM神学教育资源中心《使徒信经》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】信条 ",URL="https://open.163.com/newview/movie/free?pid=M90VURA71&mid=M90VUV0VI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】圣父上帝 ",URL="https://open.163.com/newview/movie/free?pid=M90VURA71&mid=M90VV4VNN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】圣灵 ",URL="https://open.163.com/newview/movie/free?pid=M90VURA71&mid=M90VVECTN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】教会 ",URL="https://open.163.com/newview/movie/free?pid=M90VURA71&mid=M90VVJFSC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】救恩 ",URL="https://open.163.com/newview/movie/free?pid=M90VURA71&mid=M90VVOTQI",SOURCE=WEB
+#EXT-X-ENDLIST

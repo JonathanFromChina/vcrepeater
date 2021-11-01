@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2013/2/21/20130221144946e7f18.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="英国公开大学《生态系统》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】生态环境视频简介 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAK1H55",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】什么是生态系统 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAK56NP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】栖息地研究 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAK6GE4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】能量循环 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAK7UGK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】植物如何获取食物 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKA9GK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】遵守食物链 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAK7NIE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】泥沼地问题 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKA3JS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】维肯滩地的湿地 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAK99NL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】探索威肯沼泽中存在的食物链 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKDB7A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】威肯沼泽栖息地的管理 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKEITQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】第一周总结 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKBAGJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】探访栎树 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKCP0S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】发现万木网 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKFTDF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】互利共生 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKKMPQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】探讨滤食生物 ",URL="https://open.163.com/newview/movie/free?pid=M8N85RCM8&mid=M8NAKI3EM",SOURCE=WEB
+#EXT-X-ENDLIST

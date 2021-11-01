@@ -1,0 +1,15 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2013/12/20/20131220131710dbc42.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="拉斯维加斯艺术学院《美国美食》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】小龙虾浇饭 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FJVG6IS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】鸡肉辣熏肠秋葵汤饭 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FJVMFTK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】面包布丁 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FJVN6B6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】珍珠粉蛋黄酱炸鱼 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FJVRJ6R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】焖秋葵 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FJVQVUB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】盛宴式炖鸡 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FK01JUP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】三明治 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FK0320H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】核桃果仁糖 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FK06KMJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】红豆米饭 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FK07GIS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】鲜虾浓汤 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FK0AHVE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】炖牛肉 ",URL="https://open.163.com/newview/movie/free?pid=M9FJVBU0A&mid=M9FK0BVPN",SOURCE=WEB
+#EXT-X-ENDLIST

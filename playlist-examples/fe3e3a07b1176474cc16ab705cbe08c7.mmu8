@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2013/12/5/20131205121511aee51.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="IIIM神学教育资源中心《我们相信耶稣》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】救世主 ",URL="https://open.163.com/newview/movie/free?pid=M9ED9F4FJ&mid=M9EDG9OUI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】基督 ",URL="https://open.163.com/newview/movie/free?pid=M9ED9F4FJ&mid=M9EDITAA2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】先知 ",URL="https://open.163.com/newview/movie/free?pid=M9ED9F4FJ&mid=M9EDK3J9J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】祭司 ",URL="https://open.163.com/newview/movie/free?pid=M9ED9F4FJ&mid=M9EDQFNUR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】君王 ",URL="https://open.163.com/newview/movie/free?pid=M9ED9F4FJ&mid=M9EDQQU3D",SOURCE=WEB
+#EXT-X-ENDLIST

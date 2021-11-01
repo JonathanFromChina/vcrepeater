@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/29/2012092907563687f39.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《多变量微积分》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】点积 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHCEPF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】行列式，叉积 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHEI5O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】矩阵，逆矩阵 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHF7SL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】矩阵方程，平面方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHIHRK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】曲线和直线的参数方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHIV92",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】速度，加速度和开普勒第二定律 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHQP64",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】复习 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHQV1H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】等值面，偏导数，切平面逼近 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHR35P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】极大极小问题，最小二乘法 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUHRTR1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】二阶导检验：边界与无穷 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUI0PTD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】微分，链式法则 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUI41UN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】梯度，方向导数，切平面 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUI49PL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】拉格朗日乘数法 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUI4FPC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】非独立变量 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUI7E8J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】偏微分方程，复习 ",URL="https://open.163.com/newview/movie/free?pid=M6TUC9K75&mid=M6TUI936Q",SOURCE=WEB
+#EXT-X-ENDLIST

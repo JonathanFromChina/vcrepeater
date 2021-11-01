@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/10/20120910112542200f6.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哥伦比亚大学《科学前沿-神经科学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】简介 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80K2VJSQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】脑如何处理声音：蝙蝠实验 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80K32HIE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】脑基础 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80K35V14",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】神经元如何工作 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80K3DJ66",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】脑回路两大原理 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KEO96I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】声音是什么 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KEOCVK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】雄性和雌性发声器官 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KEUQU2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】雄性和雌性运动神经元 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KEQHFQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】两性差异：运动神经元和肌纤维 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KF092U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】两性分化：脑和发声器官 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KERKCO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】神经网络和发声 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KF2NAO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】嵌合体研究 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KESJMJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】非洲爪蟾 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KF4678",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】雄性和雌性声音行为 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KEUFHF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】进化史和分布 ",URL="https://open.163.com/newview/movie/free?pid=M80HPAISL&mid=M80KF5F8G",SOURCE=WEB
+#EXT-X-ENDLIST

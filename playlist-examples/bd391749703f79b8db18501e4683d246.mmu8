@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/10/7/20121007223513b3128.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="纽约大学《社会学入门》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】媒体与传播（一） ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868AF4M6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】媒体与传播（二） ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868AFVJ4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】社会性别（一） ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868A5J51",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】 社会性别（二） ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868AE6CV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】社会性别（三） ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868AGM0U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】性、身体与亲密 ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868AIOLF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】08 Race and Ethnicity ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868BL1D5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】种族与种性1 ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=MCLV3AN86",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】09 Race and Ethnicity Part II ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868BKN9G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】种族与种性2 ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=MCLV3H5O4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】10 Power and Class ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868C9KEC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】权力与阶级 ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=MCM2EMEK6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】11 Political Economy ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868C9RIK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】12 Environment Part I ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=M868C6S71",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】环境 ",URL="https://open.163.com/newview/movie/free?pid=M8688V1PP&mid=MCM2EVLVF",SOURCE=WEB
+#EXT-X-ENDLIST

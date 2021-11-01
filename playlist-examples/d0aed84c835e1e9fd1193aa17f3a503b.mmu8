@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/29/2012092915363419d7c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="《Android应用程序开发》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】第一讲 安卓应用开发介绍 ",URL="https://open.163.com/newview/movie/free?pid=M79HE97C3&mid=M79HEQJ8D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】第二讲 Hello World ",URL="https://open.163.com/newview/movie/free?pid=M79HE97C3&mid=M79HERJN6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】第三讲 用户界面基础 ",URL="https://open.163.com/newview/movie/free?pid=M79HE97C3&mid=M79HG5LH3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】第五讲 用户界面改进 ",URL="https://open.163.com/newview/movie/free?pid=M79HE97C3&mid=M79HG0L20",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】第六讲 进阶主题 ",URL="https://open.163.com/newview/movie/free?pid=M79HE97C3&mid=M79HGLJGQ",SOURCE=WEB
+#EXT-X-ENDLIST

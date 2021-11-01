@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/10/1/20121001220742432f0.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="旧金山亚洲艺术博物馆《日本艺术史》"
+#EXT-X-INF:INDEX=0,NAME="【第9集】日本奈良学派的复兴（上） ",URL="https://open.163.com/newview/movie/free?pid=M74HRKM0R&mid=M7519IC08",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】民族风格的形成（上） ",URL="https://open.163.com/newview/movie/free?pid=M74HRKM0R&mid=M751AKK5J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】民族风格的形成（下） ",URL="https://open.163.com/newview/movie/free?pid=M74HRKM0R&mid=M751AL2R4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】保元平治年间画作.第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M74HRKM0R&mid=M751ALBF7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】保元平治年间画作.第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M74HRKM0R&mid=M751ALIKI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第20集】室町时代建筑（下） ",URL="https://open.163.com/newview/movie/free?pid=M74HRKM0R&mid=M751BBNNJ",SOURCE=WEB
+#EXT-X-ENDLIST

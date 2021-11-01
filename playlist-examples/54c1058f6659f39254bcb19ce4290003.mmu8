@@ -1,0 +1,15 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/29/20120929135833ae017.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="巴黎高等商学院《直观的智慧》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】直观的智慧概述 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H2DCI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】直观智慧在商业环境中的作用 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H2KI1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】潜意识的作用 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756GV9TT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】直观指南针的工作方式 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H30IV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】直观指南针的应用 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H39IF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】直观指南针在高科技产业中的运用 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H9476",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】直观的智慧对于企业的意义 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H8KAF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】直观的智慧对于工作的意义 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H886J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】直观的智慧对于生活的意义 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H7Q0M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】巴黎高等商学院：直观的智慧对领导力的作用 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756H7GP5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】直观的智慧总结 ",URL="https://open.163.com/newview/movie/free?pid=M7547VPA0&mid=M756HC530",SOURCE=WEB
+#EXT-X-ENDLIST

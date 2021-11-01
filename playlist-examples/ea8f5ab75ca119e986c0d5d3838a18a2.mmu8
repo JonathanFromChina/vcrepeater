@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.ph.126.net/9Npepr2zJSGq8NixJljR8w==/6630143076420089941.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加利福尼亚大学欧文分校《有机谱学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】红外谱：介绍、理论、仪器与样本制备 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIHVMOVH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】红外谱：含有C、H、O的官能团 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAII020P6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】红外谱：含氮化合物 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAII0JONS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】质谱：理论、仪器与技术 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAII1CEVF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】同位素质量、同位素丰度、高分辨率质谱 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJPK28I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】EIMS中的碎裂：烷、烯、杂原子化合物、羰基化合物 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJQ3S2R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】核磁共振谱的概念和理论一 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJQL9BU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】核磁共振谱的概念和理论二 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJR76KU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】化学位移：质子核磁共振化学位移 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJRT7VT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】碳13核磁共振化学位移、化学等价与自旋-自旋耦合 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJSHC3L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】磁等价、自旋系统及波普尔表示法 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJT2AOT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】一阶和近一阶系统的耦合分析 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJTIT82",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】一阶和近一阶系统的耦合分析&#040;续&#041; ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJU3O1P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】立体化学中的自旋-自旋耦合与结构确定 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJULBHS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】涉及到其它原子核的耦合 ",URL="https://open.163.com/newview/movie/free?pid=MAIHAC27K&mid=MAIJV5JPK",SOURCE=WEB
+#EXT-X-ENDLIST

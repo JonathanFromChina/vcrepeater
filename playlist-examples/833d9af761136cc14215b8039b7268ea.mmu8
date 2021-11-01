@@ -1,0 +1,15 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2014/4/24/201404241056167f0c1.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="《好莱坞影视特效制作教程-科幻电影篇》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课前准备 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95Q84KA0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】如何使用练习文件 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95Q89LBK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】最终编排 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95QBO67H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】复习图像序列 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95QBRFVM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】新建项目 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95QBV9GF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】自动全景跟踪 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95QC2FB2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】用噪点掩饰标记 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95QC65KU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】转描前景 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95QCA5RS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】用遮罩去除脸上标记 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95S489LA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】学习运动跟踪 ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95S4FHP6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】建立mocha ",URL="https://open.163.com/newview/movie/free?pid=M95NEJ1PN&mid=M95S4ILO8",SOURCE=WEB
+#EXT-X-ENDLIST

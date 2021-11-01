@@ -1,0 +1,12 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/10/4/201210041149318f51c.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哥伦比亚大学《房地产金融学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】货币的时间价值 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M807OV8MK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】固定和可调利率 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M807P1HRG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】租约 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M807R091M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】租赁与估价 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M807R7C4J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】税收及杠杆 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M807T984I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】负债经营、风险和不动产处置规则 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M807V8ETF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】企业不动产管理 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M807UTJLK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】建设贷款和合作关系 ",URL="https://open.163.com/newview/movie/free?pid=M807ASTRN&mid=M809L2HIG",SOURCE=WEB
+#EXT-X-ENDLIST

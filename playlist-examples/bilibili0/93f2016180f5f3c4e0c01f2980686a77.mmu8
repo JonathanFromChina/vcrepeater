@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/506cd7384c11ab3b37da7b173543020e5fd4b04c.jpg@380w_240h.jpg",ALT="【精选英音】牛津辩论社 | 宗教在公共生活有一席之地吗？（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="有字幕",URL="https://www.bilibili.com/video/BV11h411H7Cn?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="无字幕",URL="https://www.bilibili.com/video/BV11h411H7Cn?p=2",SOURCE=WEB
+#EXT-X-ENDLIST

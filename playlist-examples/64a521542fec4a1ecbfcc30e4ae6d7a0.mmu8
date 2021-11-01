@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2014/5/13/2014051315580167ce3.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《儿童语言与读写障碍》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】儿童语言障碍 ",URL="https://open.163.com/newview/movie/free?pid=M9R74490I&mid=M9R9OGGCJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】特殊性语言障碍和发展性阅读障碍：症状、迷因和幻觉 ",URL="https://open.163.com/newview/movie/free?pid=M9R74490I&mid=M9R9OHMRB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】儿童语言障碍的种类 ",URL="https://open.163.com/newview/movie/free?pid=M9R74490I&mid=M9R9OAPQD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】何时判断宝宝是否为迟语儿 ",URL="https://open.163.com/newview/movie/free?pid=M9R74490I&mid=M9R9O66JO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】特殊语言障碍的原因 ",URL="https://open.163.com/newview/movie/free?pid=M9R74490I&mid=M9R9O6QGK",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2014/5/13/201405131543561acbd.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《魔术背后的化学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】烧钱 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9ON4P7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】橡皮糖熊之死 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9OPLPT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】迈达斯的魔术 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9OQOLR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】魔镜魔镜 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9OVOTU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】多彩指示剂 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9OTO3K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】荧光棒解剖 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9P00I6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】蒸汽枪 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9P09M7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】养家糊口的培根 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9P20RN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】着火的元素 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9P2FTJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】下雪 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9P2NFF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】振荡反应 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9P4RVT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】为此干杯 ",URL="https://open.163.com/newview/movie/free?pid=M9R73AFKC&mid=M9R9P4K9J",SOURCE=WEB
+#EXT-X-ENDLIST

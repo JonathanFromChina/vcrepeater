@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2016/4/26/201604261204208599d.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《MIT线性代数习题课》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】线性代数中的几何学 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBKJ0MDH1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】核心思想概述	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBKJ0KNJI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】矩阵的消去法	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBKJ0M8OJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】逆矩阵	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBLPMC95B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】LU分解 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBLPMH3V0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】三维空间的子空间 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBLPMLRJ2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】向量子空间 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBMGQPS6J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】解Ax=0 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBMGQU9V1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】解Ax=b ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBMGR18EV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】向量空间的基底与维数	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBN2TTTK8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】四个基本子空间的计算	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBN2TUT39",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】矩阵的空间	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBN2U324H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】测验题目讲解1 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBNI7H33I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】图像与网络 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBNI7N9QB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】正交向量和子空间 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0DQ52&mid=MBNI82I0K",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/ff8c25fcad2f0d712a672e183d6774f05d8e955b.jpg@380w_240h.jpg",ALT="生无可恋！当你做饭遇到害怕的食材时..."
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1Gf4y1Q7y3?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1Gf4y1Q7y3?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1Gf4y1Q7y3?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

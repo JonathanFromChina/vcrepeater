@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/20120929161746c8608.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《算法导论》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程简介及算法分析 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2T1JGF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】渐近符号、递归及解法 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2T4T2E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】分治法（1） ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2T998U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】快排及随机化算法 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2T7IS4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】线性时间排序 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2TBK7V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】顺序统计、中值 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M756SE0JJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】哈希表 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2TG4RE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】全域哈希和完全哈希 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2TGI3A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】二叉搜索树 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2TGB6U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】平衡搜索树 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2TJ49J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】扩充的数据结构、动态有序统计和区间树 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2TSIG0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】平摊分析，表的扩增，势能方法 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2U1OAL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】竞争性分析，自组织表 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2U1BI2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】动态规划，最长公共子序列 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2U1HL4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】最短路径算法：Dijkstra算法，广度优先搜索 ",URL="https://open.163.com/newview/movie/free?pid=M6UTT5U0I&mid=M6V2U4BEP",SOURCE=WEB
+#EXT-X-ENDLIST

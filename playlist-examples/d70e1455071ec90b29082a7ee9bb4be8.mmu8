@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/news/2017/7/24/2017072411172764a19.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="坎卡基社区学院《联邦党人文集》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】联邦党人文集1-11篇 ",URL="https://open.163.com/newview/movie/free?pid=MCOK19JQ2&mid=MCOP73RIE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】联邦党人文集12-22篇 ",URL="https://open.163.com/newview/movie/free?pid=MCOK19JQ2&mid=MCOP774F7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】联邦党人文集37 - 44篇 ",URL="https://open.163.com/newview/movie/free?pid=MCOK19JQ2&mid=MCOPGNU7P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】联邦党人文集45-56 ",URL="https://open.163.com/newview/movie/free?pid=MCOK19JQ2&mid=MCOPGRHGS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】联邦党人文集77-85篇 ",URL="https://open.163.com/newview/movie/free?pid=MCOK19JQ2&mid=MCOPGV13U",SOURCE=WEB
+#EXT-X-ENDLIST

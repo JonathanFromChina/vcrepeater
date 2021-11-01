@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2013/8/27/20130827100401ef768.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="拉斯维加斯艺术学院《日本料理》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】狐鲣鱼汤 DASHI ",URL="https://open.163.com/newview/movie/free?pid=M95DEDM2D&mid=M95NNRE92",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】日式饺子 ",URL="https://open.163.com/newview/movie/free?pid=M95DEDM2D&mid=M95NO2JV6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】林氏荞麦面 ",URL="https://open.163.com/newview/movie/free?pid=M95DEDM2D&mid=M95Q2BJV4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】鸭南蛮荞麦面 ",URL="https://open.163.com/newview/movie/free?pid=M95DEDM2D&mid=M95Q2IFL3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】寿司 ",URL="https://open.163.com/newview/movie/free?pid=M95DEDM2D&mid=M95Q2SOOK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】天妇罗 ",URL="https://open.163.com/newview/movie/free?pid=M95DEDM2D&mid=M95Q3051J",SOURCE=WEB
+#EXT-X-ENDLIST

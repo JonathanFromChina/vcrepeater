@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/cnews/2013/11/27/201311271759285499c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="西雅图太平洋大学《面试技巧》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】高效面试 ",URL="https://open.163.com/newview/movie/free?pid=M85KB5UHS&mid=M85KDUDPK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】面试和自我推销 ",URL="https://open.163.com/newview/movie/free?pid=M85KB5UHS&mid=M85KDV05V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】面试支招—如何在面试中脱颖而出赢得工作 ",URL="https://open.163.com/newview/movie/free?pid=M85KB5UHS&mid=M85M7RDOV",SOURCE=WEB
+#EXT-X-ENDLIST

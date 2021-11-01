@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2016/4/27/2016042708415723e76.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《经典力学习题课》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】雨中要走多快要怎么走才能湿的最少？ ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBKJ0DKLQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】向量是什么？标量是什么？ ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBKJ095GO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】笛卡尔坐标和极坐标系 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBKJ0DU7C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】向量A和-A ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBLPLMG3T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】向量加法 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBLPLPSGT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】不同时间以不同速度抛弃两件物体，它们会否碰撞？ ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBLPLV0V4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】使用vt图推出加速度 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBMGPVIQ1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】向量减法 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBMGQ45K0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】 瞬时加速度：一维和三维 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBMGQIBF9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】向量空间的基底与维数 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBN2QSUSU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】四个基本子空间的计算 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBN2R0BRS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】矩阵的空间 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBN2RM08F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】测验题目讲解1 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBNHQ4I3M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】 图像与网络 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBNHQPH8V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】正交向量和子空间 ",URL="https://open.163.com/newview/movie/free?pid=MBKIVSCQB&mid=MBNHQV9I5",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/11/1/201211011620287250a.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《飞行器构造工程》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】航天飞机的起源 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EAAIDEV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】航天飞机子系统设计 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EABF1D3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】制造航天飞机的决定 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EABQPC7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】卫星结构与热防护系统 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EAEUJSL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】推进装置.航天飞机的主要引擎 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EAFDQAL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】空气动力学 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EAFOB0G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】降落与机械系统 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EAG51QI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】辅助电源设备与液压系统 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EAGFF0E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】美国国防部与航天飞机 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8EAGMB3C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】空气热力学 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8ECTR4JM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】环境控制系统 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8ECU5500",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】航天飞机发射的地面准备 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8ECUO0HT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】导航，制导与控制 ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8ECVE0I5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】任务控制（第一部分） ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8ECVP4BN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第18集】任务控制II ",URL="https://open.163.com/newview/movie/free?pid=M8EA7PQCT&mid=M8ED039K1",SOURCE=WEB
+#EXT-X-ENDLIST

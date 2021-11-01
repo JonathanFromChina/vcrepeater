@@ -1,0 +1,51 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/3a5f8ca8551297906d4190bdb8a9c93509675765.jpg@380w_240h.jpg",ALT="英式发音口语课程"
+#EXT-X-INF:INDEX=0,NAME="1. 前言",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.元音 (ɪ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.元音 (iː)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4. 元音 (ʊ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.元音 (uː)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.元音 (ʌ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7. 元音 (ɑː)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.元音 (ɒ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.元音 (ɔː)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.元音 (ə)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=10",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.元音 (ɜː)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=11",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.元音 (e)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=12",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.元音 (æ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=13",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.元音 (ɪə)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=14",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.元音 (ʊə)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=15",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.元音 (aɪ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=16",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.元音 (ɔɪ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=17",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.元音 (əʊ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=18",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.元音 (eə)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=19",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.元音 (aʊ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=20",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.元音 (eɪ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=21",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.有声无声辅音",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=22",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.辅音 (p)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=23",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.辅音 (b)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=24",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.辅音 (t)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=25",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26. 辅音 (d)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=26",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.辅音 (k)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=27",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.辅音 (ɡ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=28",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.辅音 (f)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=29",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.辅音 (v)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=30",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.辅音 (θ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=31",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.辅音 (ð)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=32",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.辅音 (s)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=33",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.辅音 (z)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=34",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.辅音 (ʃ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=35",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.辅音 (ʒ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=36",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.辅音 (tʃ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=37",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.辅音 (dʒ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=38",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.辅音 (m)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=39",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.辅音 (n)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=40",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.辅音 (ŋ)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=41",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.辅音 (h)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=42",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.辅音 (l)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=43",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.辅音 (r)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=44",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.辅音 (w)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=45",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.辅音 (j)",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=46",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英文諺語 300句",URL="https://www.bilibili.com/video/BV1WV411z7sA?p=47",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/12/29/20121229140441b264d.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="明尼苏达州教育中心《婴儿发展里程碑》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】助我成长-新生儿 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGMS478",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】助我成长-一个月 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGN3IH8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】助我成长-2个月 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGOHS7N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】助我成长-4个月 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGOHPTG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】助我成长-6个月 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGOHN1Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】助我成长-9个月 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGOIAIP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】助我成长-12个月 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGOIOHJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】助我成长-18个月 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGOJ837",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】助我成长-2岁 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGP2J01",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】助我成长-3岁 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGP335B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】助我成长-4岁 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGP5K3R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】助我成长-5岁 ",URL="https://open.163.com/newview/movie/free?pid=M8FED47KL&mid=M8KGP5QPT",SOURCE=WEB
+#EXT-X-ENDLIST

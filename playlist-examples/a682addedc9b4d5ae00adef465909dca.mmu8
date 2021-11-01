@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/28/20120928145933ddd67.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哈佛大学《计算机科学导论》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】导言（上） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3R64J1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】导言（下） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3S32T1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】源代码、编译器、目标代码（上） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3S3FKN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】源代码、编译器、目标代码（下） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3S42M6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】全局变量、参数、返回值（上） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3SLO4P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】全局变量、参数、返回值（下） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3SM4FC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】线性搜索、二进制搜索、排序（上） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3T1N2F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】线性搜索、二进制搜索、排序（下） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3T29OT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】结构、动态内存分配、指针 ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3T9N2B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】调试、指针、堆（上） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3TGQ3I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】调试、指针、堆（下） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3TJJ7T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】链接列表 ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3TN4H0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】位运算符、堆、堆排序、哈夫曼编码（上） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3UHQIT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】位运算符、堆、堆排序、哈夫曼编码（下） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3URL96",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】TCP IP、HTTP、XHTML、PHP、SQL（上） ",URL="https://open.163.com/newview/movie/free?pid=M6G3LQ31K&mid=M6G3UILHR",SOURCE=WEB
+#EXT-X-ENDLIST

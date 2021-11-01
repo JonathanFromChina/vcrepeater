@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/28/20120928185758bd356.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《1600年以来西方社会的流行病》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程介绍 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNIHSJ0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】流行病的传统观点 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNINQHT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】瘟疫.(一) ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNJI8KS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】瘟疫(二).应对与限制 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNJI5PN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】瘟疫(三).建议与总结 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNKAUHD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】天花(一).有斑的怪物 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNKD2UL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】天花(二).接种与治疗 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNL5TAM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】十九世纪医学：巴黎医学院 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNL82K2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】流行性霍乱(一).个人反思 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNM047C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】流行性霍乱(二).五种流行病 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNM3P9E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】卫生运动与污物致病学说 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNMR1JN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】梅毒 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNOE0IA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】传染论与反传染论 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNNJL5E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】细菌致病理论 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNNJTMG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】热带医学 ",URL="https://open.163.com/newview/movie/free?pid=M7VLPTGMC&mid=M7VNMPVU0",SOURCE=WEB
+#EXT-X-ENDLIST

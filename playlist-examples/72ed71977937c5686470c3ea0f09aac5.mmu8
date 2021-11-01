@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2013/9/10/20130910144216bbf31.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="芝加哥大学《酷刑、法律与战争》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】学生演讲 ",URL="https://open.163.com/newview/movie/free?pid=M95FVPE91&mid=M95PK8OIE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】心理与酷刑 ",URL="https://open.163.com/newview/movie/free?pid=M95FVPE91&mid=M95PKUGUV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】哲学与酷刑 ",URL="https://open.163.com/newview/movie/free?pid=M95FVPE91&mid=M95PM6FJ6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】重点 ",URL="https://open.163.com/newview/movie/free?pid=M95FVPE91&mid=M95PMK2CK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】酷刑历史 ",URL="https://open.163.com/newview/movie/free?pid=M95FVPE91&mid=M95PN0OAL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】法律与哲学 ",URL="https://open.163.com/newview/movie/free?pid=M95FVPE91&mid=M95PNSHRV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】法律与政策 ",URL="https://open.163.com/newview/movie/free?pid=M95FVPE91&mid=M95POJ5EG",SOURCE=WEB
+#EXT-X-ENDLIST

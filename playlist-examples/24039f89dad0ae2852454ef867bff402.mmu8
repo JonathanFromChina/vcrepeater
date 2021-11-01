@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/29/20120929163643689f0.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哈佛大学《计算机科学cs50》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】算法,程序设计,语言等 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6MHDUR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】算法,数据存储,磁盘,程序设计等 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6MIN2M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】C语言，源代码，编译器（1） ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6MIFJV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】C语言，源代码，编译器（2） ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6NHCPF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】函数，全局变量，参数，返回值 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6NDE9K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】参数，返回值 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6NMOQT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】线性搜索，二进制搜索 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6NIIRO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】符号，递归，冒泡排序 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6NQJLF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】归并排序，动态内存分配，堆和栈 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6NS2D8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】CS50函数库，指针，文件输入输出 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6O02QJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】数独、计算机史上最有名的bug ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6O35U7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】魂斗罗游戏,如何分配内存 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6OA7H9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】用户体验,数组与指针,Hash函数 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6OJ05I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】网络编程,HTML语言,编写网页 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6OBEI6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】网络安全,窃取通讯的工具,动态网络 ",URL="https://open.163.com/newview/movie/free?pid=M6U6LS8CV&mid=M6U6OP3KI",SOURCE=WEB
+#EXT-X-ENDLIST

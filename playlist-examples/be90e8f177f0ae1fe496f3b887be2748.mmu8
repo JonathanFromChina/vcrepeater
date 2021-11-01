@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/201209291645259c98f.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="杜克大学《布鲁姆伯利》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】布鲁姆伯利与心理分析  ",URL="https://open.163.com/newview/movie/free?pid=M85UA270A&mid=M85UAJDF1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】凯恩斯的思想 ",URL="https://open.163.com/newview/movie/free?pid=M85UA270A&mid=M85UAL5NN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】伍尔夫：一间自己的房间 ",URL="https://open.163.com/newview/movie/free?pid=M85UA270A&mid=M85UAT9I9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】蒂德马什的卡林顿和斯特雷奇 ",URL="https://open.163.com/newview/movie/free?pid=M85UA270A&mid=M85UBONLQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】布鲁姆伯利的艺术与艺术家们 ",URL="https://open.163.com/newview/movie/free?pid=M85UA270A&mid=M85UBPGO9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】二十一世纪的教育 ",URL="https://open.163.com/newview/movie/free?pid=M85UA270A&mid=M85UCITGK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】美国文学 ",URL="https://open.163.com/newview/movie/free?pid=M85UA270A&mid=M85UC3A5Q",SOURCE=WEB
+#EXT-X-ENDLIST

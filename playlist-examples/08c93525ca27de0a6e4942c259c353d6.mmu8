@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/28/20120928184400c3383.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《爱情微讲座》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】柏拉图爱（不爱）谁 ",URL="https://open.163.com/newview/movie/free?pid=M807BPK1K&mid=M80A0VVK3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】牛津大学：如果婚姻是场交易 浪漫价值几何？ ",URL="https://open.163.com/newview/movie/free?pid=M807BPK1K&mid=M80A10B6I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】不止是孤独的人：网络约会的流行及社会影响 ",URL="https://open.163.com/newview/movie/free?pid=M807BPK1K&mid=M80A1614E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】关于永恒的爱 ",URL="https://open.163.com/newview/movie/free?pid=M807BPK1K&mid=M80A16ABB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】最“臭”的物种最成功 ",URL="https://open.163.com/newview/movie/free?pid=M807BPK1K&mid=M80A1MPAK",SOURCE=WEB
+#EXT-X-ENDLIST

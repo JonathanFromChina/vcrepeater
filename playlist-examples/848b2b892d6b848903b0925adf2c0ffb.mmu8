@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/29/201209291356195a994.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="巴黎高等商学院《对话领袖》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】巴黎高等商学院：领导力 ",URL="https://open.163.com/newview/movie/free?pid=M751K9ITE&mid=M751KM6IT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】奢侈品圆桌会议 ",URL="https://open.163.com/newview/movie/free?pid=M751K9ITE&mid=M751KPEUQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】奢侈品在生活中的意义 ",URL="https://open.163.com/newview/movie/free?pid=M751K9ITE&mid=M751KLT98",SOURCE=WEB
+#EXT-X-ENDLIST

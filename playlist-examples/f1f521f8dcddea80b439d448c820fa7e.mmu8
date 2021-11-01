@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/19/2012091918355644ab9.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="西雅图太平洋大学《大脑规则》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】运动 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARKSTO5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】生存——人类的大脑也在进化 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARL46EH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】每个大脑的具体构造都不相同 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHFQQH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】注意力 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHH499",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】记忆，通过重复来实现记忆 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHHRKF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】睡眠 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHKLHL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】 压力 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHLARF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】感官的集合 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHM46G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】视觉 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHMTB0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】性别 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHOQH8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】探索 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHPLLA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】附加材料 记忆 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHQ9UI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】附加材料 睡眠 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHQTV1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】附加材料 图式 ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHTMAL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】 附加材料 Jenkins ",URL="https://open.163.com/newview/movie/free?pid=M8ARHBB8S&mid=M8ARHUKHO",SOURCE=WEB
+#EXT-X-ENDLIST

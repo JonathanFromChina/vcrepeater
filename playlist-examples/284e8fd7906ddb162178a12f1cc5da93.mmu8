@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/10/7/20121007215804c12c6.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《金融理论》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】为何研究金融 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QK8BTH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】效用、禀赋和均衡 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QK9JCA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】均衡计算 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKDH30",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】效率、资产和时间 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKEDFA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】现值价格和实际利率 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKERCN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】费雪利息不耐理论 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKFEEA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】《威尼斯商人》、抵押品；现值和金融学词汇 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKG4CA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】基业长青机构该如何年度预算；收益率 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKGTU4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】收益率曲线套利 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKI32I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】动态现值，套息交易，抵押贷款 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKIMCR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】社会保障 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKJBQJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】人口统计和资产定价 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKP5EC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】量化乐观与悲观的不确定性 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKPSD0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】不确定性和理性预期假设 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKRID4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】逆向归纳法和最优停时 ",URL="https://open.163.com/newview/movie/free?pid=M71QJQ2MQ&mid=M71QKSTPJ",SOURCE=WEB
+#EXT-X-ENDLIST

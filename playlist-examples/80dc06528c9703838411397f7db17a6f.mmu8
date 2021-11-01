@@ -1,0 +1,12 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2013/1/5/20130105174934f93e6.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加利福尼亚大学电视台《海洋科学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】环境变化中的灰鲸 ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JRJ17GI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】拉霍亚海滨的豹鲨传奇 ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JRN7S6L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】对海星的研究 ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JRNFQKC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】海洋全球变暖的历史 ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JRNNKTL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】水母汉堡 ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JROHCUH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】从泰坦尼克到微观世界 ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JROUOMM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】炸鱼薯条 运用高科技手段研究鱼类 ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JRP64DE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】海水中的二氧化碳化学过程 介绍 &#040;1&#041; ",URL="https://open.163.com/newview/movie/free?pid=M8JHSFPCA&mid=M8JRPEUA3",SOURCE=WEB
+#EXT-X-ENDLIST

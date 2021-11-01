@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/cnews/2013/11/27/20131127175418f795e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《信息与熵》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】位与编码(上) ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859DC4PQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】位与编码(下) ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859DCBGQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】数据压缩 ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M97IHJ55A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】噪音和误差（上） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859E4ISG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】噪音和误差（下） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859FFJHK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】概率一（上） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859FFR4B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】概率一（下） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M8ACA3F73",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】概率二（上） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M8ACAAGBG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】概率二（下&#041; ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859FG11T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】通信一（上） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M8ACAM90E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】通信一（下） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859FGHGP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】通信二（上） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859FGBR5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】通信二（下） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M8ACAU505",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】噪声通道极限公式推导（上） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M8ACB4SJ5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】噪声通道极限公式推导（下） ",URL="https://open.163.com/newview/movie/free?pid=M852AB9GH&mid=M859G8D9C",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2013/10/15/20131015142044a73f1.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="阿肯色大学《西班牙语学习》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】音节 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95PVEUEP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】重音和重音符号 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95PVJFDA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】视角 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95PVLOOI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】动词表 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95PVN57K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】主格代词 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95PVOVHQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】数字 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95PVQP6Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】名词-形容词性数配合 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95PVTLF4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】冠词 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q00MOJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】动词Ser ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q044GR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】日期 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q05N1L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】表述时间 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q09UJK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】动词Estar ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q0CUHJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】Ser与Estar ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q0F9A9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】现在时态ar动词 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q0IKDG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】现在时态er与ir动词 ",URL="https://open.163.com/newview/movie/free?pid=M95G0M6E6&mid=M95Q0LLTC",SOURCE=WEB
+#EXT-X-ENDLIST

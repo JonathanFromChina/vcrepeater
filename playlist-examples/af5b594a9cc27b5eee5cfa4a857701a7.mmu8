@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/28/20120928170543f8989.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《线性代数》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】方程组的几何解释 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29E773",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】矩阵消元 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29EGPP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】乘法和逆矩阵 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FCHO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】A的LU分解 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29F33S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】转置-置换-向量空间R ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V29FRJK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】列空间和零空间 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AB1B5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】求解Ax=0：主变量、特解 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2ABAHH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】求解Ax=b：可解性和解的结构 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2ABHV8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】线性相关性、基、维数 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2ACDCT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】四个基本子空间 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2ADFDT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】矩阵空间、秩1矩阵和小世界图 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJS2T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】图和网络 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AIUTE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】复习一 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJ69K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】正交向量与子空间 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJEMH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】子空间投影 ",URL="https://open.163.com/newview/movie/free?pid=M6V0BQC4M&mid=M6V2AJLJU",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.ph.126.net/qWS15xjYFWaauTsaGUUrnQ==/2265029137690815842.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="Crash Course《生态学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】地球历史 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VJ08VF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】种群生态学 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VJB7D5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】人类人口增长 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VJOLDU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】群落生态学 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VJKFJQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】群落生态学2 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VJMT3N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】生态演替 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VJOS8R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】生态系统生态学 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VK0054",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】水循环和碳循环-永恒的循环1 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VJVNTL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】氮磷周期-永恒的循环2 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VK42JP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】人类对环境的5个影响 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VK5FPQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】污染 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VK9D5A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】保护和恢复生态 ",URL="https://open.163.com/newview/movie/free?pid=MA1VI2FUB&mid=MA1VKBOPS",SOURCE=WEB
+#EXT-X-ENDLIST

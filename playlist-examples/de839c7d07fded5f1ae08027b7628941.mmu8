@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/29/20120929123139752ac.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="西谷学院《性侵犯调查》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】警务报告写作 ",URL="https://open.163.com/newview/movie/free?pid=M7S6QBLUU&mid=M7S9MFGQP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】性侵犯处理组 1 ",URL="https://open.163.com/newview/movie/free?pid=M7S6QBLUU&mid=M7S9M9J2E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】性侵犯处理组 2 ",URL="https://open.163.com/newview/movie/free?pid=M7S6QBLUU&mid=M7S9LLUD7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】性侵犯调查 ",URL="https://open.163.com/newview/movie/free?pid=M7S6QBLUU&mid=M7S9M8QR5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】强暴危机中心 ",URL="https://open.163.com/newview/movie/free?pid=M7S6QBLUU&mid=M7S9PN7P4",SOURCE=WEB
+#EXT-X-ENDLIST

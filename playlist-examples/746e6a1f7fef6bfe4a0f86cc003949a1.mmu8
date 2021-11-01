@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/20120929082210d26b2.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《核反应堆安全》"
+#EXT-X-INF:INDEX=0,NAME="【第2集】反应堆物理的复习 ",URL="https://open.163.com/newview/movie/free?pid=M796S3654&mid=M7A1328KU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】反应堆动力学及控制 ",URL="https://open.163.com/newview/movie/free?pid=M796S3654&mid=M7A1G96DN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】安全分析报告 ",URL="https://open.163.com/newview/movie/free?pid=M796S3654&mid=M7A1HA16B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】运行要求的综合安全分析 ",URL="https://open.163.com/newview/movie/free?pid=M796S3654&mid=M7A1I8KP3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】管理安全问题 ",URL="https://open.163.com/newview/movie/free?pid=M796S3654&mid=M7A1J4J74",SOURCE=WEB
+#EXT-X-ENDLIST

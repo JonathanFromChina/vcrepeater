@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2015/11/17/2015111710094656244.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="剑桥大学《预见》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】古代文明中的预见 ",URL="https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB7MDN5PF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】科幻小说中的预见 ",URL="https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB7SFMO2E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】科学方法中的预见 ",URL="https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB7SFP7JL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】音乐中的预见 ",URL="https://open.163.com/newview/movie/free?pid=MB7MDCRU9&mid=MB8E80L9V",SOURCE=WEB
+#EXT-X-ENDLIST

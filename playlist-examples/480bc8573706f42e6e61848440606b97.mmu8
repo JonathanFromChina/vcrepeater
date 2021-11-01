@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2013/8/30/20130830191300e0926.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《文学与形式》"
+#EXT-X-INF:INDEX=0,NAME="【第2集】章节 ",URL="https://open.163.com/newview/movie/free?pid=M95V8534A&mid=M961E3LII",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】多重情节 ",URL="https://open.163.com/newview/movie/free?pid=M95V8534A&mid=M9691SG38",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】比较文学 ",URL="https://open.163.com/newview/movie/free?pid=M95V8534A&mid=M96922NPV",SOURCE=WEB
+#EXT-X-ENDLIST

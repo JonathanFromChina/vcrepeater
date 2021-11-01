@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/29/20120929091153aa68f.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《生物学导论》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】简介 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8P7T9G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】生物化学1 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8P9T59",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】生物化学2（源文件为音频） ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PFH6D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】生物化学3 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PFP42",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】生物化学4 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PG3NS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】遗传学1 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PQU95",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】遗传学2 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PR5MR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】遗传学3 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PRECA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】人类遗传学 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PRS4I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】分子生物学1 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8PSE1F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】分子生物学2 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8QBSTC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】分子生物学3 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8QC8ID",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】基因调控 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8QCI3L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】蛋白的定位 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8QCV53",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】重组DNA1 ",URL="https://open.163.com/newview/movie/free?pid=M6S8NS5PR&mid=M6S8QF8LD",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/cnews/2015/8/28/201508280951579ac74.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哈佛大学《领袖心理学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程简介 ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLIS3K3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】多面兼容思维（上） ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLJ03NG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】多面兼容思维（下） ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLJ4VVA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】高管教练术（上） ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLJ87B0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】高管教练术（下） ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLJBTLA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】哈佛大学：领导力培养 ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLJERK1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】领导力培养（下） ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLLFVUU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】从愿景到目标（上） ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLLK4BJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】玛丽福丽特  ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLLMR41",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】从愿景到目标（下） ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLM1A7O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】集环境 ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLM51Q3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】集道德回报 ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLM7J92",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】哈佛大学：劣质领导力 ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLMAP6M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】领导者创造其环境 ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLMGF5U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】巅峰表现&#040;Tony Schwartz&#041; ",URL="https://open.163.com/newview/movie/free?pid=MAOLIFV6H&mid=MAOLMJAG9",SOURCE=WEB
+#EXT-X-ENDLIST

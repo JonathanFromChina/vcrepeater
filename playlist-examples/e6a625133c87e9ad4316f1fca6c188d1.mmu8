@@ -1,0 +1,14 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2015/12/30/20151230184426565cb.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="布朗大学公开课《柯古特人文中心》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】迈克尔.斯坦伯格 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBB5VFMHU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】塞巴斯丁.鲁斯 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBB5VJALE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】艾瑞克·布斯和马克辛·格林 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBBSSIMFB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】阿琳·歌德巴德 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBBSSJOI3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】音乐教育与通过音乐进行教育 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBCM4PU6H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】音乐与机构-当代公民社会中的挑战 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBCM569A3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】森俊子 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBD15T3TA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】音乐教育中的社会变革 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBD1623SR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】关于黑人文化 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBDIIGSCT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】批判性思维与人文学 ",URL="https://open.163.com/newview/movie/free?pid=MBB5V9S5A&mid=MBDIIGVML",SOURCE=WEB
+#EXT-X-ENDLIST

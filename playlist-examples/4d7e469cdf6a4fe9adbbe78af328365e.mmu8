@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2015/8/6/20150806143841fba55.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="梨花女子大学《青少年心理学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】简介 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T1488U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】导论 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T1KDFD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】生理基础 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T1OIQ3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】心理认知发展 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T1SJSD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】智力 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T21BIH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】自我和同一性 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T24VOR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】自我和认同 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T28FSV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】性别 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T2CR4K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】青少年与家庭关系 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T2GNBB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】同伴和恋爱关系 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T2MIM3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】成功 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T2QODK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】工作和事业 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T2V7MO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】文化 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T33B0F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】青春期问题 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T36Q2C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】青少年时期和成年初期的问题 ",URL="https://open.163.com/newview/movie/free?pid=MA5T0OVML&mid=MA5T3C00S",SOURCE=WEB
+#EXT-X-ENDLIST

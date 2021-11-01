@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2013/1/5/201301051736368f4df.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《中世纪早期史》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】伟大罗马及第一次危机 ",URL="https://open.163.com/newview/movie/free?pid=M8JHRFHUC&mid=M8JMLG40O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】三世纪危机和戴克里先改革 ",URL="https://open.163.com/newview/movie/free?pid=M8JHRFHUC&mid=M8JMM851K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】君士坦丁和早期教会 ",URL="https://open.163.com/newview/movie/free?pid=M8JHRFHUC&mid=M8JMMHB5O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】圣奥古斯丁和忏悔录 ",URL="https://open.163.com/newview/movie/free?pid=M8JHRFHUC&mid=M8JMN205C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】伊斯兰征服和内战 ",URL="https://open.163.com/newview/movie/free?pid=M8JHRFHUC&mid=M8JU4QBHJ",SOURCE=WEB
+#EXT-X-ENDLIST

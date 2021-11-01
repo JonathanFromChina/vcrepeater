@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/28/201209281910549aca7.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="《CSIS专家探讨最热门全球问题》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】摩洛哥宪法 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE1EO5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】对巴军事援助 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE362D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】讨论能源和经济发展 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE3RR3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】巴勒斯坦的联合国计划 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE49FT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】释放战略石油储备 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE55MI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】战略与国际研究中心 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE5S4M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】非激进化 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE6AN9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】中东领导问题 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE73MI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】全球安全论坛 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE84UU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】向非洲新兴市场投资 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAE8F7D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】美国在北极地区的利益 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAEB1DO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】本拉登之死 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAECN9R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】探讨海地 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAEC5EI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】天然气和石油价格 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAED8IG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第18集】科特迪瓦 ",URL="https://open.163.com/newview/movie/free?pid=M7BADV802&mid=M7BAEFCPK",SOURCE=WEB
+#EXT-X-ENDLIST

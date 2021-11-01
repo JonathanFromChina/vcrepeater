@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2014/5/15/201405151050108d593.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加利福尼亚大学伯克利分校《中级微观经济学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】中级微观经济学概述 ",URL="https://open.163.com/newview/movie/free?pid=M9RBNASLA&mid=M9RBO4U01",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】经济学基本模型与假设 ",URL="https://open.163.com/newview/movie/free?pid=M9RBNASLA&mid=M9RBQCC1M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】偏好的表达——无差别曲线 ",URL="https://open.163.com/newview/movie/free?pid=M9RBNASLA&mid=M9RBQC4SN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】效用论 ",URL="https://open.163.com/newview/movie/free?pid=M9RBNASLA&mid=M9RBQCINH",SOURCE=WEB
+#EXT-X-ENDLIST

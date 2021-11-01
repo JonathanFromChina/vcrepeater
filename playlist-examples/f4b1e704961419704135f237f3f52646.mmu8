@@ -1,0 +1,18 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/cnews/2013/11/27/20131127175850bdceb.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="西雅图太平洋大学《基础护理理论》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】免疫 第1部分 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGPDA01",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】免疫 第2部分 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGPRGDU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】脑中风 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGPU66N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】糖尿病 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQ163H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】糖尿病第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQ2J2H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】全膝关节置换术，单磷酸腺苷，骨折-第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQ8SA4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】全膝关节置换术，单磷酸腺苷，骨折-第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQALB0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】肌肉骨骼和神经血管评估 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQE0I2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】活动障碍的影响 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQJH5F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】长期不活动对身体的影响 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQLRU5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】护理过程及护理病历的书写 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQO1TQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】护理过程和文件资料1 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQRHL6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】护理过程和文件资料2 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGQV4V2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】护理过程和文件资料3 ",URL="https://open.163.com/newview/movie/free?pid=M8FGP6QM9&mid=M8FGR2NMI",SOURCE=WEB
+#EXT-X-ENDLIST

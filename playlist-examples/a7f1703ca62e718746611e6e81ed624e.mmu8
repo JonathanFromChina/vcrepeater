@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/29/20120929165057d2fb4.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哈佛大学《2006年计算机科学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】硬件 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT1UNHO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】硬件（续） ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT1VH13",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】拆装个人计算机 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT0NFT8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】升级随机储存器 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT478AH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】浏览器之战 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT0BKFK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】安装Windows　XP ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT13R35",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】Mac与个人计算机 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT36BMB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】互联网 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT2PV09",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】寄存选择 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT11JBD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】注册域名 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT3ARKT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】在线购物 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT411A9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】寻宝 ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT47QL6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】互联网（续） ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT2QP02",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】HTTP ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT13KGE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】TCP/IP ",URL="https://open.163.com/newview/movie/free?pid=M6GR5TNLU&mid=M6GT421F5",SOURCE=WEB
+#EXT-X-ENDLIST

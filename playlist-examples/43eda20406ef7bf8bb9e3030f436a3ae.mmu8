@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/20/20120920144555b9d91.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="伦敦大学《运动训练医疗及奥运健康遗产》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】运动训练医疗对奥运会的贡献 ",URL="https://open.163.com/newview/movie/free?pid=M8ARTCMQE&mid=M8ARTJA8B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】2012年奥运会为伦敦带来了什么? ",URL="https://open.163.com/newview/movie/free?pid=M8ARTCMQE&mid=M8AS2USKP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】运动训练医疗及奥运健康遗产.第二期 ",URL="https://open.163.com/newview/movie/free?pid=M8ARTCMQE&mid=M8ATJ16QJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】克里夫.伍德华德演讲 ",URL="https://open.163.com/newview/movie/free?pid=M8ARTCMQE&mid=M8ATJ3R20",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】专题讨论会 ",URL="https://open.163.com/newview/movie/free?pid=M8ARTCMQE&mid=M8ATJ5OB3",SOURCE=WEB
+#EXT-X-ENDLIST

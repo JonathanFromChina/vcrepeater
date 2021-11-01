@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/20/20120920143042fd37c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《模拟与数字信号处理》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】引言 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8AROOU9F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】正弦信号和指数信号 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8AROT67A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】信号和系统：第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARP1Q3R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】卷积 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARPABA4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】模拟与数字信号处理 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARPUBH8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】采用微分差分方程表示系统 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARQ69K6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】连续时间傅里叶级数 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARQCE8A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】连续时间傅里叶转换 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARQJF0N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】傅立叶变换特性 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARSDJTU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】离散时间 傅立叶序列 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARSIF0L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】离散时间 傅里叶转换 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARSNULS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】滤波 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARST3VJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】连续时间调制 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ART6JGV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】调幅演示 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARTC0UT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】离散时间调制 ",URL="https://open.163.com/newview/movie/free?pid=M8AROL7GG&mid=M8ARTJ0J7",SOURCE=WEB
+#EXT-X-ENDLIST

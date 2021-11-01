@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/29/2012092913535971e82.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《供应链管理专题》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】欢迎辞和简介 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79JU302J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】电子标签研究的研发机遇与未来 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79K6D0IV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】物联网-一个巨大的飞跃 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79K9FK5L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】电子标签的机遇与未来 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KA5HRL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】射频识别频率研发与未来 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KBA8BJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】防伪研究：时间和温度谱系 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KC00SL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】航空航天技术和研发 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KDEI2O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】射频识别的自动生产研究线路图 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KECB74",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】RFID-1的医疗保健和生命科学要求 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KF6ETS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】ISPOTS介绍 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KEGBLO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】欢迎辞和简介 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KEPKUQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】 射频识别：研发和机遇 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KFG6S1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】射频识别：研发和机遇（续） ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M79KNCN8K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】射频识别的包装和材料科学 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M7ABGINJI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】供应链之外的射频识别系统和应用 ",URL="https://open.163.com/newview/movie/free?pid=M796RRGT5&mid=M7ABHPAMS",SOURCE=WEB
+#EXT-X-ENDLIST

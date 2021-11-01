@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/12/20120912113601d9c4c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《电路和电子学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】集总电路抽象介绍 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8O2HFQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】基本电路分析法 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8PC5NT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】叠加法和戴维南法 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8PC0MQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】数字抽象 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8QSJ2I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】数字门构造 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8QG78E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】非线性分析 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8RPD1L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】增量分析 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8S5TUN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】受控源和放大器 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8SLOUF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】放大器大信号分析 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8T0IKI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】放大器大信号分析（续） ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7G7HNMBT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】放大器，小信号模型 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8U14GO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】小信号电路 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M8QKDDV29",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】电容和一阶系统 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8U0MQK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】数字电路速度 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8UMQAM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】存储和状态 ",URL="https://open.163.com/newview/movie/free?pid=M7A8MMH3M&mid=M7A8UM923",SOURCE=WEB
+#EXT-X-ENDLIST

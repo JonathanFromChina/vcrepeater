@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2013/1/5/20130105151405cf52c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="英国公开大学《解析彩虹》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】亚里士多德的理论 ",URL="https://open.163.com/newview/movie/free?pid=M8JHHKKTF&mid=M8KQPMJJ3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】彩虹的全貌 ",URL="https://open.163.com/newview/movie/free?pid=M8JHHKKTF&mid=M8KQQ0MCK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】彩虹的七种颜色 ",URL="https://open.163.com/newview/movie/free?pid=M8JHHKKTF&mid=M8KQPO15A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】次彩虹--霓的形成 ",URL="https://open.163.com/newview/movie/free?pid=M8JHHKKTF&mid=M8KQPRFJQ",SOURCE=WEB
+#EXT-X-ENDLIST

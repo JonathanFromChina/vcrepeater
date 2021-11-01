@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/10/1/2012100123072928244.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津《<美丽公主>为何出自达芬奇之手》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】发现达芬奇 ",URL="https://open.163.com/newview/movie/free?pid=M751DSHRS&mid=M751E2E32",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】探索“美丽公主” ",URL="https://open.163.com/newview/movie/free?pid=M751DSHRS&mid=M751E1067",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】为什么说《美丽公主》是达芬奇真迹 ",URL="https://open.163.com/newview/movie/free?pid=M751DSHRS&mid=M751E18MI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】艺术背后的科学 ",URL="https://open.163.com/newview/movie/free?pid=M751DSHRS&mid=M751E1DVR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】公主的真实身份 ",URL="https://open.163.com/newview/movie/free?pid=M751DSHRS&mid=M751E1O70",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2016/4/26/20160426113239b0e31.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《多变量微积分习题课》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】（坐标系无关性）三角形的中心 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBKJ10JGR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】点积和角度	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBKJ153PD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】向量的分量 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBKJ14RFU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】平行四边形的面积 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBLPKS5U1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】行列式 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBLPKUE6I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】平行六面体的体积 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBLPL0GRH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】利用叉乘计算面积 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBMGA32UG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】矩阵乘法练习 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBMGA5IME",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】利用矩阵解方程组 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBMGA9CC0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】平面的方程 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBN29Q3NL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】点到面的距离 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBN29T339",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】线性方程组 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBN2A2SKN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】参数化直线及其交点	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBNHPGMCA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】参数化直线和平面相交	 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBNHPK1I1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】求向量值函数的微分 ",URL="https://open.163.com/newview/movie/free?pid=MBKJ0SKDH&mid=MBNHPNU82",SOURCE=WEB
+#EXT-X-ENDLIST

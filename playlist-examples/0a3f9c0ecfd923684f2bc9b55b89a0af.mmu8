@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/29/2012092910495293bf9.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="英国公开大学《空气污染》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】空气污染 ",URL="https://open.163.com/newview/movie/free?pid=M7K8MSNRL&mid=M7K8N9LGE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】汽车污染 ",URL="https://open.163.com/newview/movie/free?pid=M7K8MSNRL&mid=M7K8NCTN4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】航运污染 ",URL="https://open.163.com/newview/movie/free?pid=M7K8MSNRL&mid=M7K8NFLAF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】清洁技术 ",URL="https://open.163.com/newview/movie/free?pid=M7K8MSNRL&mid=M7K8NH8NT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】工业排放 ",URL="https://open.163.com/newview/movie/free?pid=M7K8MSNRL&mid=M7K8NJ65E",SOURCE=WEB
+#EXT-X-ENDLIST

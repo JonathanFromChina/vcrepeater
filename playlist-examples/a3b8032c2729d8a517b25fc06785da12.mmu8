@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2016/6/20/20160620155334e2cfe.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="Crash Course《天文学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】介绍天文学 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORG0M7B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】裸眼观察 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORG6I9K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】天空中的循环 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORGB9DS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】月亮 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORGHAA9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】天空中的残缺 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORGO2NU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】望远镜 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORHARIB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】引力 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORHTF2I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】潮汐 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBORIC738",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】介绍太阳系 ",URL="https://open.163.com/newview/movie/free?pid=MBORFMGLD&mid=MBPQ9SEC6",SOURCE=WEB
+#EXT-X-ENDLIST

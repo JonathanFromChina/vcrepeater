@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d4da737719d5b81105a620a87eef976a78edaf9a.jpg@380w_240h.jpg",ALT="我也想低调啊，实力不允许啊——碧梨谈格莱美丰收之夜"
+#EXT-X-INF:INDEX=0,NAME="【中英字幕】",URL="https://www.bilibili.com/video/BV1zT4y1c7J4?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1zT4y1c7J4?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1zT4y1c7J4?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

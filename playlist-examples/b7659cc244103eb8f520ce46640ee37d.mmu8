@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2017/3/28/20170328145046b0be8.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="俄勒冈州立大学《生物化学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程导论 ",URL="https://open.163.com/newview/movie/free?pid=MCFMHQBI5&mid=MCFMI5OM3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】缓冲 ",URL="https://open.163.com/newview/movie/free?pid=MCFMHQBI5&mid=MCFMIBHBN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】氨基酸 ",URL="https://open.163.com/newview/movie/free?pid=MCFMHQBI5&mid=MCFMIEN1L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】蛋白质一级和二级结构 ",URL="https://open.163.com/newview/movie/free?pid=MCFMHQBI5&mid=MCGQ6E0A7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】蛋白质三级和四级结构 ",URL="https://open.163.com/newview/movie/free?pid=MCFMHQBI5&mid=MCGQ6KR4H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】蛋白质纯化 ",URL="https://open.163.com/newview/movie/free?pid=MCFMHQBI5&mid=MCGQ7553T",SOURCE=WEB
+#EXT-X-ENDLIST

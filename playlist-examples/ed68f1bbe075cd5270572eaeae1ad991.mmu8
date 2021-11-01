@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/17/20120917183417a7ad3.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津《现代世界人口发展趋势与问题》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】老迈的欧洲.人口老龄化 ",URL="https://open.163.com/newview/movie/free?pid=M8AMN9QLE&mid=M8AOJ9814",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】国际人口迁移与劳工难民 ",URL="https://open.163.com/newview/movie/free?pid=M8AMN9QLE&mid=M8AOJB3KH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】死亡率的演变历程 ",URL="https://open.163.com/newview/movie/free?pid=M8AMN9QLE&mid=M8AOJFDDJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】家庭的新形势 ",URL="https://open.163.com/newview/movie/free?pid=M8AMN9QLE&mid=M8AOJG009",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/10/7/2012100721253704127.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="《Web2.0时代的营销沟通》"
+#EXT-X-INF:INDEX=0,NAME="【第2集】巴黎高等商学院：数字革命背景下的营销沟通 ",URL="https://open.163.com/newview/movie/free?pid=M7543LR4J&mid=M75446PDN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】口碑营销2 ",URL="https://open.163.com/newview/movie/free?pid=M7543LR4J&mid=M75442AF2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】口碑营销4 ",URL="https://open.163.com/newview/movie/free?pid=M7543LR4J&mid=M7544BN9J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】口碑营销5 ",URL="https://open.163.com/newview/movie/free?pid=M7543LR4J&mid=M7544CRRB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】口碑营销6 ",URL="https://open.163.com/newview/movie/free?pid=M7543LR4J&mid=M7544GUL2",SOURCE=WEB
+#EXT-X-ENDLIST

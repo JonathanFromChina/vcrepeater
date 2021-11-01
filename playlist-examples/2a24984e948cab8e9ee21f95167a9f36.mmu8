@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/cnews/2013/11/27/20131127175219a6811.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工《经典力学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】《十的力量》短片：介绍40个数量级的直观概念 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8LUVTV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】一维运动学 - 速率 - 速度 - 加速度 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8LVCRR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】矢量 - 点积 - 叉积 - 三维运动 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M0QJ2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】三维运动 - 自由落体参考系 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M0V96",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】匀速圆周运动 - 离心机实验 - 感知重力 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M1MLP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】牛顿定律 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M5F02",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】重力 - 失重 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M5N86",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】摩擦力 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M61AP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】复习一 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M6GSE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】简谐振动和胡克定律 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8M8IVD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】功.能.及万有引力 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8MAEV3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】阻力 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8MB93M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】简谐振子的运动方程 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8MC3SD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】轨道及逃逸速度 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8MCO8J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】动量及其守恒定律 ",URL="https://open.163.com/newview/movie/free?pid=M6S8LP3CJ&mid=M6S8MDHQG",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/29/20120929085017bcdaf.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《化学原理》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】化学原理的重要性 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUCLS2K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】电子与原子核的发现 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUCR7GA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】光的波粒二象性 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUCS2CU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】物质的波粒二象性 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUCSC7V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】氢原子能级 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUCVKN9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】氢原子波函数 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUCVDNG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】P轨道 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUD4206",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】多电子原子与电子态 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUD62MC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】周期趋势 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUD7I8D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】共价键 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUD955U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】Lewis Structures Lewis结构 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUDFA9V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】离子键 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUDIHAF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】极性共价键和VSEPR理论 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUDGP4B",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】分子轨道理论 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUDJHEO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】共价键理论与杂化 ",URL="https://open.163.com/newview/movie/free?pid=M6TUCF6FT&mid=M6TUDKC9L",SOURCE=WEB
+#EXT-X-ENDLIST

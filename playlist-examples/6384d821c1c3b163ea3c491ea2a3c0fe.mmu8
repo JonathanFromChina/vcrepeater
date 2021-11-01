@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/10/7/201210072139520ccc6.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="巴黎高商《会计与管理控制常见问题》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】潜在的资金流 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540IF6D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】直接法 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540IN2O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】现金流量表分析 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540KC73",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】现金流量表 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540KJ43",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】资产负债表分析 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540KQ4H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】产负债表分析-长期 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540MLM0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】准备金平衡表分析 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540MUMK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】收益表对比分析 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540NT7P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】按期限或按性质区分的资产负债表 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540POS9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】库存记录 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540OFP9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】库存报废 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540O5ES",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】商品库存变化 ",URL="https://open.163.com/newview/movie/free?pid=M753VER80&mid=M7540OMKV",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2013/2/26/20130226174148f5854.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加州艺术学院《家具装饰》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】B.A.哈林顿 ",URL="https://open.163.com/newview/movie/free?pid=M8NNG8F87&mid=M8NNLQIC3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】马蒂诺·扎诺塔讲座 ",URL="https://open.163.com/newview/movie/free?pid=M8NNG8F87&mid=M8NNLQ0N4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】制造的含义以及市场：手工艺以及新一代思想 ",URL="https://open.163.com/newview/movie/free?pid=M8NNG8F87&mid=M8NNLVE3T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】考特尼·史密斯讲座 ",URL="https://open.163.com/newview/movie/free?pid=M8NNG8F87&mid=M8NNLQA42",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】艾伦·韦克斯勒的讲座 ",URL="https://open.163.com/newview/movie/free?pid=M8NNG8F87&mid=M8NNLOOR4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】沃尔特·基通度的讲座 ",URL="https://open.163.com/newview/movie/free?pid=M8NNG8F87&mid=M8NNKG8CD",SOURCE=WEB
+#EXT-X-ENDLIST

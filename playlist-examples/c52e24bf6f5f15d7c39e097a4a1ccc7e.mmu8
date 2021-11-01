@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/27/2012092715322809dcc.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="英国公开大学《10分钟英语史》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】盎格鲁撒克逊人 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPHVERS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】莎士比亚 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI0E39",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】钦定版《圣经》 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI1OB4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】科学英语 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI1EH7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】英语和帝国 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI27BL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】词典时代 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI2IA9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】美式英语 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI3P1L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】互联网英语 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI4C13",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】全球英语 ",URL="https://open.163.com/newview/movie/free?pid=M7BN25K5V&mid=M7BPI49F4",SOURCE=WEB
+#EXT-X-ENDLIST

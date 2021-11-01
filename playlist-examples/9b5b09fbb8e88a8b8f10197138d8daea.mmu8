@@ -1,0 +1,15 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/3/201209031315338fadc.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="北卡罗来纳州立大学《体育法》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】1 法律体系 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868DJJPI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】2 青少年体育及其法律 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868DJGHV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】3 过失侵权 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868H80PO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】5 过失侵权诉讼的答辩 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868HA08C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】7 人力资源管理问题-合同 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868DHCTN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】8 人力资源管理问题-雇佣合同 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868DI2GI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】9 就业歧视-第一部分 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868DIU76",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】10 就业歧视-第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868HA7JK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】11 美国残疾人法案介绍、概述 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868HN1TU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】12 美国残疾人法案 参观设施 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868HN5BV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】13 设施和事件 风险管理 ",URL="https://open.163.com/newview/movie/free?pid=M868BOSVV&mid=M868HN9A9",SOURCE=WEB
+#EXT-X-ENDLIST

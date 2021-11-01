@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/10/4/2012100410383225b65.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《英国近代史》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程介绍 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFE0VV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】16世纪的社会秩序 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFG392",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】家庭：结构、优先权、策略、角色 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFHI55",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】社区：核心机构和关系 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFICJ9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】权力结构 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFK681",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】中世纪晚期宗教及其批判 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFL06F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】商品和联邦：经济和社会问题 1520-1560 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFQAG2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】伊丽莎白和国教：信仰一致、天主教徒、清教徒 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFSC49",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】伊丽莎白和君主共和国：政治参与 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFT9VT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】经济扩张 1560-1640 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFTV7J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】两极分化的社会 1560-1640 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFV10P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】巫术 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SFVMAB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】犯罪和法律 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SG2CFK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】教育和识字 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SG5D4N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第18集】宗教街道战：清教徒和阿民念派 ",URL="https://open.163.com/newview/movie/free?pid=M71SF5F1P&mid=M71SGA6TH",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,12 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/6/201209061114203df1d.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="剑桥大学《美》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】美与真理 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLT57I7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】美与怪诞 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLTDE3D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】量子之美 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLUN5SV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】声音之美 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLUMV8Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】美与吸引 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLU21OJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】美与幸福 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLTV6JJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】美丽与恐怖 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLTCF09",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】星云的奥秘与美丽 ",URL="https://open.163.com/newview/movie/free?pid=M7CTDM4AF&mid=M7VLTCOSI",SOURCE=WEB
+#EXT-X-ENDLIST

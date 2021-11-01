@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/29/2012092908275681100.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《探索黑洞》"
+#EXT-X-INF:INDEX=0,NAME="【第2集】宇宙——你不敢问的问题 ",URL="https://open.163.com/newview/movie/free?pid=M6VKV5ADN&mid=M6VL1LS6V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】爱因斯坦场方程 ",URL="https://open.163.com/newview/movie/free?pid=M6VKV5ADN&mid=M6VL1MKT5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】宇宙和三个例子 ",URL="https://open.163.com/newview/movie/free?pid=M6VKV5ADN&mid=M6VL1M71Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】宇宙结构形成,由暴涨到星系 ",URL="https://open.163.com/newview/movie/free?pid=M6VKV5ADN&mid=M6VL1PTST",SOURCE=WEB
+#EXT-X-ENDLIST

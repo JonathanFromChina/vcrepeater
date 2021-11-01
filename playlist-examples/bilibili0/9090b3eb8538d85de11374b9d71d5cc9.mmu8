@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/63b0d8f7f3ccfeb57e740c8fe4d1f77592951298.jpg@380w_240h.jpg",ALT="斯坦福大学课堂语速是怎样的？试试这节金融课你听得懂吗"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1iK4y137g4?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://www.bilibili.com/video/BV1iK4y137g4?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕完整版】",URL="https://www.bilibili.com/video/BV1iK4y137g4?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

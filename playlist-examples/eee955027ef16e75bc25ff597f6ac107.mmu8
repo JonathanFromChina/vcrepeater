@@ -1,0 +1,8 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/10/2/20121002234832b8b60.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省《艺术和科技中的感觉与想象》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】概论 ",URL="https://open.163.com/newview/movie/free?pid=M796R4R3U&mid=M7AAV6242",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】创造力 ",URL="https://open.163.com/newview/movie/free?pid=M796R4R3U&mid=M7AAL08TB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】创造力的性质 ",URL="https://open.163.com/newview/movie/free?pid=M796R4R3U&mid=M7D033ERS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】身体与大脑的联系 ",URL="https://open.163.com/newview/movie/free?pid=M796R4R3U&mid=M7AB3H5D0",SOURCE=WEB
+#EXT-X-ENDLIST

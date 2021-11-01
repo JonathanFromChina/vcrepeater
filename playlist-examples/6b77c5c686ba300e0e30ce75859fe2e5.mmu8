@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/29/201209290814158bc1e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="亚利桑那大学《量子理论和辐射》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】热传导 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLA5EUS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】对流 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLA5HTR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】镭射 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLA9N67",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】可见光谱 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAA89S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】不可见镭射 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAALP9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】温度 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLABG8G",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】温标 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAD035",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】绝对零度 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAD9K4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】气体中的原子速度 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLACN8L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】热辐射 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLADQEK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】热光谱 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAER5R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】维恩定律 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAEL9L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】红外线辐射 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAEUUI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】固有辐射 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAFREV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】反射辐射 ",URL="https://open.163.com/newview/movie/free?pid=M7FLA3VV7&mid=M7FLAG5JI",SOURCE=WEB
+#EXT-X-ENDLIST

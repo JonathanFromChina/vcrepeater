@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/11/16/20121116170705a2ea3.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加州理工学院《机器学习与数据挖掘》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】学习问题 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FTVDQ3C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】学习的可行性 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FTVTT54",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】线性模型 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FU0GNKH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】误差和噪声 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FU0SUES",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】雷蒙保罗MAPA泛化理论 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FU1AVCT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】VC维 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FU1HILL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】偏见方差权衡 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FU1OGUM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】线性模型II ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FU202QC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】神经网络 ",URL="https://open.163.com/newview/movie/free?pid=M8FH262HJ&mid=M8FU27PID",SOURCE=WEB
+#EXT-X-ENDLIST

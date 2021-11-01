@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/cnews/2015/8/27/201508271022212c2b6.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="拉斯维加斯艺术《越南美食》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】烤牛肉 ",URL="https://open.163.com/newview/movie/free?pid=MB10T4FSB&mid=MB10U8I8U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】春卷 ",URL="https://open.163.com/newview/movie/free?pid=MB10T4FSB&mid=MB10UAT4U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】鲜虾吐司 ",URL="https://open.163.com/newview/movie/free?pid=MB10T4FSB&mid=MB1GTTKP6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】南北风味炸春卷 ",URL="https://open.163.com/newview/movie/free?pid=MB10T4FSB&mid=MB1GTV55L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】越南鱼露 ",URL="https://open.163.com/newview/movie/free?pid=MB10T4FSB&mid=MB25H305J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】越南牛肉面汤 ",URL="https://open.163.com/newview/movie/free?pid=MB10T4FSB&mid=MB25H6SD5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】蜜汁排骨 ",URL="https://open.163.com/newview/movie/free?pid=MB10T4FSB&mid=MB2PC1G9O",SOURCE=WEB
+#EXT-X-ENDLIST

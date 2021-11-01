@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/cnews/2013/11/27/2013112717450845a6e.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="东京大学《法与现代社会》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】太田胜造：法与现代社会（一） ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOFO6DO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】太田胜造：法与现代社会（二） ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOFOI0A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】太田胜造：法与现代社会（四） ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOFPF6F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】大村敦志（一）：法和市民生活 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOG04LB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】大村敦志（三）：法和市民生活 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOG1914",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】大村敦志（四）：儿童法律 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOG1KMJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】大村敦志（七）：儿童法律 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGDJEC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】大村敦志（八）：法和市民生活 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGD3H1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】大村敦志（九）：法和市民生活 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGCJHM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】大村敦志（十）：法和市民生活 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGOL2A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】大村敦志（十一）：法和市民生活 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGP0FS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】大村敦志（十二）法和市民生活 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGPB2E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】畔柳達雄（一）：法律与科学 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGPMH9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第18集】畔柳達雄（二）：法律与科学 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGQ0MS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第20集】畔柳達雄（四）：法律与科学 ",URL="https://open.163.com/newview/movie/free?pid=M7AOF9FR5&mid=M7AOGT1UE",SOURCE=WEB
+#EXT-X-ENDLIST

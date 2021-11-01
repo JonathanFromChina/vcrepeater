@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/10/1/20121001210357d3da9.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="加州艺术学院《设计与工艺》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】迈克尔·库伯课程 ",URL="https://open.163.com/newview/movie/free?pid=M796QS038&mid=M79C7I6TG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】戈德·彼得课程 ",URL="https://open.163.com/newview/movie/free?pid=M796QS038&mid=M79C88CMQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】吉姆·谢拉登课程 ",URL="https://open.163.com/newview/movie/free?pid=M796QS038&mid=M79CB51PN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】马修·赫伯特课程 ",URL="https://open.163.com/newview/movie/free?pid=M796QS038&mid=M79CC0E5O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】詹妮弗与卡门课程 ",URL="https://open.163.com/newview/movie/free?pid=M796QS038&mid=M79CD4R35",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】谭雅课程 ",URL="https://open.163.com/newview/movie/free?pid=M796QS038&mid=M79EEI7D5",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/27/2012092714301401289.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="南方理工学院《西班牙语入门》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】你好和再见 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO715UV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】询问和介绍姓名 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO72OML",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】新西兰国立南方理工学院公开课：西班牙语字母表 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO752D8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】你是哪里人 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO75PDF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】其他人是哪里人 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO78KAS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】自我介绍 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO7A3S6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】年龄 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO7EIO3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】职业 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO7ED6M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】描述家乡 ",URL="https://open.163.com/newview/movie/free?pid=M7VO3FOF4&mid=M7VO7IP6A",SOURCE=WEB
+#EXT-X-ENDLIST

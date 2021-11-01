@@ -1,0 +1,12 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.cache.netease.com/video/2012/9/5/20120905104539c71b8.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="瑞典达拉纳大学《俄语入门》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】瑞典达拉纳大学公开课：俄语介绍 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HHLKKV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】俄语中的问候和告别 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HHUUB5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】结识熟悉 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HI7P6V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】职业 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HI7FH3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】介绍和提供信息 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HI6MTL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】介绍和提供信息 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HI2FH4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】电话用语 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HI72KA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】城市出行用语 ",URL="https://open.163.com/newview/movie/free?pid=M87FDE1HK&mid=M87HIBVOE",SOURCE=WEB
+#EXT-X-ENDLIST

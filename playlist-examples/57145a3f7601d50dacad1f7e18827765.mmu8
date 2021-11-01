@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/17/2012091717553618a08.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="伟谷《亚伯拉罕·林肯两百周年纪念》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】林肯的领导力 ",URL="https://open.163.com/newview/movie/free?pid=M8AML187E&mid=M8AP7A8GJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】林肯最令人深刻的品质 ",URL="https://open.163.com/newview/movie/free?pid=M8AML187E&mid=M8AP7E3IK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】青年林肯：成为总统之前的日子 ",URL="https://open.163.com/newview/movie/free?pid=M8AML187E&mid=M8LD1Q1AN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】亚伯拉罕林肯的艰苦岁月 ",URL="https://open.163.com/newview/movie/free?pid=M8AML187E&mid=M8AP90LMF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】林肯重现 ",URL="https://open.163.com/newview/movie/free?pid=M8AML187E&mid=M8AP91IEB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第17集】林肯的精神面 ",URL="https://open.163.com/newview/movie/free?pid=M8AML187E&mid=M8AP92877",SOURCE=WEB
+#EXT-X-ENDLIST

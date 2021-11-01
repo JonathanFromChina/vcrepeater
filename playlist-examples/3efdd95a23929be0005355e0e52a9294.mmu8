@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2015/9/10/201509101656494936b.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="俄亥俄州立大学《社会学范畴内的人类一生发展》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】人类发展简介 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB27TOHL3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】遗传学和胎儿发育 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB27TOEPQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】成长与改变 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB2Q2RSBH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】卫生和保健 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB2Q2TA8J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】认知发展1 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB3EQJNBF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】认知发展2 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB3QTBRTQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】语言发展 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB3QTLVJ0",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】社会与感情发展A ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB3QTLPN1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】社会与感情发展B ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB5K8801A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】道德发展与攻击 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB5K8OQ73",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】自我发展 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB5K93S8T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】性别与性 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB5K9467H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】朋友与家庭 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB5K9KMA4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】教育文化与社会 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB5K9LQ95",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】死亡与哀悼 生命的终结 ",URL="https://open.163.com/newview/movie/free?pid=MB27SF8BV&mid=MB5K9VM6B",SOURCE=WEB
+#EXT-X-ENDLIST

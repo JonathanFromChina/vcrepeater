@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/28/20120928170228016ab.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="拉筹伯大学《无处不在的代数学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】什么是代数？ ",URL="https://open.163.com/newview/movie/free?pid=M7ERNMNM3&mid=M7EU4GCAO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】对称代数学 ",URL="https://open.163.com/newview/movie/free?pid=M7ERNMNM3&mid=M7EU4HQ6E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】行为代数学 ",URL="https://open.163.com/newview/movie/free?pid=M7ERNMNM3&mid=M7EU4IIRL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】信息整理代数学 ",URL="https://open.163.com/newview/movie/free?pid=M7ERNMNM3&mid=M7EU4O4SV",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】日程安排代数学 ",URL="https://open.163.com/newview/movie/free?pid=M7ERNMNM3&mid=M7EU4O9MJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】买咖啡的代数学 ",URL="https://open.163.com/newview/movie/free?pid=M7ERNMNM3&mid=M7EU4U2E8",SOURCE=WEB
+#EXT-X-ENDLIST

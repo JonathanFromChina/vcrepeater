@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img0.ph.126.net/8PYHHAOm1UEa8eoPcy20ew==/6608215516027740048.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="牛津大学《艾滋病》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】我们能否根除HIV ",URL="https://open.163.com/newview/movie/free?pid=M9R9LFT9S&mid=M9R9RCTU8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】HIV疫苗研制 ",URL="https://open.163.com/newview/movie/free?pid=M9R9LFT9S&mid=M9R9RFJBK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】HIV与非洲儿童 ",URL="https://open.163.com/newview/movie/free?pid=M9R9LFT9S&mid=M9R9RHAS1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】我们如何与HIV共存 ",URL="https://open.163.com/newview/movie/free?pid=M9R9LFT9S&mid=M9R9RHJA9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】HIV疫苗的免疫 ",URL="https://open.163.com/newview/movie/free?pid=M9R9LFT9S&mid=M9R9RJL3P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】HIV疫苗的制作标准 ",URL="https://open.163.com/newview/movie/free?pid=M9R9LFT9S&mid=M9R9RK3RU",SOURCE=WEB
+#EXT-X-ENDLIST

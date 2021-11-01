@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/0593dcf63ddc210c2465f57b329f839f1667e02a.jpg@380w_240h.jpg",ALT="990个英语常用+重要短句"
+#EXT-X-INF:INDEX=0,NAME="990个英语常用短句",URL="https://www.bilibili.com/video/BV1ZK411J7fD?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="990个英语重要短句",URL="https://www.bilibili.com/video/BV1ZK411J7fD?p=2",SOURCE=WEB
+#EXT-X-ENDLIST

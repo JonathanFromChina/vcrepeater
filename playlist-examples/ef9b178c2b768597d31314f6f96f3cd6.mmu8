@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/29/201209290859284f1b3.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哥伦比亚大学《病毒学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】什么是病毒 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84IHJ3DJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】感染周期 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84IHMMS8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】基因组和遗传学 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84IJO1U9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】病毒的结构 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84IK1T8O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】病毒的附着与侵入 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84ILM0GS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】RNA合成 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84ISA6L1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】抗逆转录病毒 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84ILCP17",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】转译 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84IM735K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】DNA病毒基因组的复制 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M85PFKOF5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】转录及RNA合成 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84IN0PN6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】装配 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M85PEHTQM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】感染的基本要素 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M85PF7USC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】宿主防御 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84INFP72",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】病毒宿主间相互反应 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84INQK21",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】病毒宿主的相互作用 ",URL="https://open.163.com/newview/movie/free?pid=M84FN47JJ&mid=M84IOIM81",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img2.ph.126.net/XmNgxSHedPyj7i5E0aFmDw==/6608512384167106409.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="Crash Course《化学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】化学速成班-原子核 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MA8QD02MP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】化学速成班-单位转换与有效位数 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MA8QD2PIM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】化学速成班 - 基本定律 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MA8QD6GNO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】元素周期表 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MA8QD83QR",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】电子 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MA8QDCK5M",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】化学计量学 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVP6AQ5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】水和溶液 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVP7JM7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】溶液中的酸碱反应 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVP85LN",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】沉淀反应 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVP8JC2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】氧化还原反应 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVP9V9C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】怎样说化学用语 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVPC9AG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】理想气体定律 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVPO6SD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】理想气体问题 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVPRR68",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】实际气体 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVQ17UE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】局部压力和蒸气压 ",URL="https://open.163.com/newview/movie/free?pid=MA8QCC69T&mid=MAAVQ14D1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img5.cache.netease.com/video/2012/9/28/2012092815122626828.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="美国公共大学《几何学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】基础几何学定义 (一) ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9MLS7F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】相交线、平行线、斜交线 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9ML2J8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】基础几何学定义 (二) ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9MLHDE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】相交平面和平行平面 (一) ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N3IQJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】相交平面和平行平面 (二) ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N4FHE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】平行线与相交线中的角度计算 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N4OB3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】求多边形内角总和 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N56R9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】用非正式方法证明外角和为360° ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N5D5T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】距离公式与勾股定理的关系 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N9E35",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】距离公式和毕达哥拉斯定理的联系 2-1 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N9M47",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】距离公式和毕达哥拉斯定理的联系 3-1 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9N9S5U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】缩放 1 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9NAE01",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】缩放 2-1 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9NAJQU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】判定两直线是否平行 I-1 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9NBI62",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】判定两直线是否平行 II-1 ",URL="https://open.163.com/newview/movie/free?pid=M7G9MEFUH&mid=M7G9NB846",SOURCE=WEB
+#EXT-X-ENDLIST

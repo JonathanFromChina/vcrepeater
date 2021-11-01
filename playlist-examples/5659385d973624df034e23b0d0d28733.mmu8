@@ -1,0 +1,14 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/29/20120929152313ade7c.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="拉筹伯《新闻人的网络编辑和发布》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程介绍和概述 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA2QMEC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】建立wordpress帐户 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA3TS9I",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】HTML的第一印象 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA2QF2H",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】关于HTML&#040;1&#041; ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA4J6MJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】HTML的应用&#040;2&#041; ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA4DG03",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】层叠样式表基础知识-1 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA2TFDU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】CSS的基本介绍 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA3C61L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】导航 网页布局和设计原则 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA2SFFS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】导航－1 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA3BVQL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】浏览器的布局及定位 ",URL="https://open.163.com/newview/movie/free?pid=M7GA2ARN7&mid=M7GA35IUS",SOURCE=WEB
+#EXT-X-ENDLIST

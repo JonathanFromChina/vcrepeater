@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/20120929154924b0626.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="哈佛大学《构建动态网站》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】第零讲 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S94TUJJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】第一讲 PHP ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S955IN5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】第二讲 PHP&#040;续&#041; ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S94U6CU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】第三讲 XML ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S956APS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】第四讲 SQL ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S956MD2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】第五讲 SQL&#040;续&#041; ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S957A9F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】第六讲 JavaScript ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S957T4J",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】第七讲 Ajax ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S94QK5L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】第九讲 可规模性 ",URL="https://open.163.com/newview/movie/free?pid=M7S6PN5ED&mid=M7S958POG",SOURCE=WEB
+#EXT-X-ENDLIST

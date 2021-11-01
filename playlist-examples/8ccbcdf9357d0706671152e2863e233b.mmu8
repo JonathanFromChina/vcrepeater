@@ -1,0 +1,18 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2013/1/5/20130105145858cf059.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="伦敦大学玛丽女王学院《数学与魔术》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】导论 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JMK0OHA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】肢体语言 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JK0J1JF",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】会说话的王牌 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKKFU2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】运气偏向一方的骰子游戏 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKPH2R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】令人捉摸不透的骰子 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKKN9D",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】完美洗牌 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKM94V",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】心灵支配配对实验 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKPS78",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】被除数 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKR9F6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】油与水 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKQCEM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】大海寻针 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHKTCHI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】魔术钢琴 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHL001O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】数学计算的魔术 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHL1H8R",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】通过言语控制移动路径之谜 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHL46AU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】结尾 ",URL="https://open.163.com/newview/movie/free?pid=M8JHGS5KF&mid=M8JHL2LOU",SOURCE=WEB
+#EXT-X-ENDLIST

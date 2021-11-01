@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img6.cache.netease.com/video/2012/9/29/20120929084051d04e4.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《固态化学导论》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程介绍.课程政策.前言.化学分支的分类.现代化学的起源 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JRU9J4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】元素分类图.门捷列夫和周期表.原子结构 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JS2OIB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】卢瑟福原子模型.波尔的氢原子模型 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JSH47P",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】氢原子光谱.氢原子的物质和能量作用 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JSHCT9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】壳层模型.波尔-索末菲模型.多电子原子 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JSOQC4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】德布罗意、海森堡和薛定谔、构造原理、泡利不相容原理和洪特规则等 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JS5C0C",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】通过电子转移形成8电子稳定结构，离子键，离子化合物的性质，晶格能  ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JS5T68",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】波恩-哈伯循环，通过共用电子形成8电子稳定结构，共价键等 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JSHIG6",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】电负性，部分带电，极性键和极性分子，共价键的离子性 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JSHLMP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】LCAO MO&#040;原子轨道线性组合为分子轨道法&#041;，H2、He2、Li2的能级图等 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JSPAHG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】分子构型、电子域理论、弱键 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JTCH1O",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】金属键、固体的能带理论 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JTP8A4",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】本征和非本征半导体、化合物半导体、熔化半导体 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JTFMU3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】固体导论 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JTGSHT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】立方晶体的性质、简单立方、菱形立方 ",URL="https://open.163.com/newview/movie/free?pid=M70JBAUDP&mid=M70JTK6IS",SOURCE=WEB
+#EXT-X-ENDLIST

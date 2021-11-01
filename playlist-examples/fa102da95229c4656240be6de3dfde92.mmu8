@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/10/7/2012100721343696e9f.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="巴黎高等商学院《决策统计学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程简介 ",URL="https://open.163.com/newview/movie/free?pid=M751EVSQL&mid=M751F7488",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】多重回归 ",URL="https://open.163.com/newview/movie/free?pid=M751EVSQL&mid=M751FTUKK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】信任区间的修正练习 ",URL="https://open.163.com/newview/movie/free?pid=M751EVSQL&mid=M751FU6E5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】多重回归第二部分 ",URL="https://open.163.com/newview/movie/free?pid=M751EVSQL&mid=M751FVFK1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】使用SPSS软件研究实例 ",URL="https://open.163.com/newview/movie/free?pid=M751EVSQL&mid=M751G0035",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】一个真实项目的统计学分析介绍 ",URL="https://open.163.com/newview/movie/free?pid=M751EVSQL&mid=M751G4E3K",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】主成分因素分析 ",URL="https://open.163.com/newview/movie/free?pid=M751EVSQL&mid=M751G4NDO",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/28/20120928170855c29aa.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《微分方程》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】ODE的几何解法：方向场、积分曲线  ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUODQD9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】欧拉数值方法及推广 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUOIVHC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】一阶线性常微分方程解法 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUOJI41",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】一阶方程代换法  ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUONV5L",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】一阶自治微分方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUOO5HG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】复数及复指数 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUOOE24",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】一阶常系数线性方程  ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUOOQ0S",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】一阶常系数线性方程&#040;续&#041; ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUP4T03",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】二阶常系数线性方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUP53IP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】二阶常系数线性方程&#040;续&#041; ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUP59BT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】二阶齐次线性方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUP5ECL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】二阶非齐次方程 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUP5KML",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】非齐次方程特解求法 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUPAQ4N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】案例解读：共振 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUPLIG3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】傅里叶级数简介 ",URL="https://open.163.com/newview/movie/free?pid=M6TUO44DQ&mid=M6TUPN09H",SOURCE=WEB
+#EXT-X-ENDLIST

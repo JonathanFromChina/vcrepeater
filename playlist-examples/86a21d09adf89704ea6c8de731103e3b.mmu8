@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img4.cache.netease.com/video/2012/9/29/2012092915150310a07.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="亚琛工业大学《机械制造》"
+#EXT-X-INF:INDEX=0,NAME="【第2集】机械制图 ",URL="https://open.163.com/newview/movie/free?pid=M6UTRVM3M&mid=M6VFH078N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】面向制造的尺寸度量 ",URL="https://open.163.com/newview/movie/free?pid=M6UTRVM3M&mid=M6VFH0D4N",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】剖视图和爆炸图(立体装配图)上 ",URL="https://open.163.com/newview/movie/free?pid=M6UTRVM3M&mid=M6VFH4AJ9",SOURCE=WEB
+#EXT-X-ENDLIST

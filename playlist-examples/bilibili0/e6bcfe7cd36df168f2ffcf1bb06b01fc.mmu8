@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/8c7f24fb6c2b883d6cd64e564cf81c9dc11e2267.jpg@380w_240h.jpg",ALT="【HISHE】三代蜘蛛侠大集结！《蜘蛛侠：英雄远征》恶搞结局"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1e4411z7Q7?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://www.bilibili.com/video/BV1e4411z7Q7?p=2",SOURCE=WEB
+#EXT-X-ENDLIST

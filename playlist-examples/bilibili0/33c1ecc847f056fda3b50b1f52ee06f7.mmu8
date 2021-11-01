@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/e06e91c4882940b21df614b65c6f3d6de109c8e0.jpg@380w_240h.jpg",ALT="新冠时期的爱情"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://www.bilibili.com/video/BV1j7411f7Xh?p=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://www.bilibili.com/video/BV1j7411f7Xh?p=2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://www.bilibili.com/video/BV1j7411f7Xh?p=3",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/27/20120927141403106a9.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="耶鲁大学《塞万提斯的堂吉诃德》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】课程简介 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M83ENE50F",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】堂吉诃德.第一至十章 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M83ENE818",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】堂吉诃德.第一至十章.续集. ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840MCTBJ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】堂吉诃德.第十一至二十章 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840M53NI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】堂吉诃德.第十一至第二十章 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840N7OVP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】堂吉诃德.第一部分．第二十一至二十六章 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840NELKQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】堂吉诃德.第一部分.第二十一至二十六章.续集 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840O824Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】堂吉诃德.第一部分.第三十六至五十二章 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840PCPO9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】堂吉诃德.第一部分.第三十六至五十二章.续集 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840Q6MIO",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】堂吉诃德.第二部分介绍 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840Q8EBP",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】堂吉诃德.第二部分.第一至第十一章.续集 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840R9SL7",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】堂吉诃德.第二部分.第十二至二十一章 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840S6ONT",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第16集】堂吉诃德.第二部分.第十二至第二十一章.续集 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840SHHJQ",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第18集】堂吉诃德.第二部分.第二十二至三十五章.续集 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M840TIIAL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第19集】堂吉诃德.第二部分.第三十六至五十三章 ",URL="https://open.163.com/newview/movie/free?pid=M83ELFK0R&mid=M842KOKBG",SOURCE=WEB
+#EXT-X-ENDLIST

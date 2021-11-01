@@ -1,0 +1,12 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img0.ph.126.net/Zvja9AUoXPHzeqA4rbAqQA==/6619511898490551582.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="麻省理工学院《K12课程-地球科学》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】倾斜的地球1 -- 季节的缘由 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMSK7L3",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】倾斜的地球2 -- 午夜艳阳之地 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMSR994",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】岩石循环 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMSUF0Q",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】地球的组成 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMT0QGI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】快速地表运动 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMT2MJU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】磁场的吸引力 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMT46QH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】风能 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMT5OIG",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】用巧克力模拟冰川 ",URL="https://open.163.com/newview/movie/free?pid=M9VMS7ONT&mid=M9VMT7DHI",SOURCE=WEB
+#EXT-X-ENDLIST

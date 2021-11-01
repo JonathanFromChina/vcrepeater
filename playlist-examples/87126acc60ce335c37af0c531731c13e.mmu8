@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/10/5/20121005224747b86ad.png&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="芝加哥大学《理解全球经济》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】这个世界的经济机器是如何运转的 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVQI4A",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】什么是市场 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVCJM8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】本地化农业、国际市场和全球性压力 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVRG2U",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】经济学教学以及走出资本主义泡沫 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVRRE8",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】全球化大辩论 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DFVQSPH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】全球化时代的工人和移民权利—社会运动如何通过权力的重塑实现权利的提升 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DG072QE",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】全球化对贫困和童工的影响 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DG07FCU",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】生态资本和服务-当前金融危机对自然资源的影响 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M7DG0LASB",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】案例分析-非洲和美国-从刚果到芝加哥 ",URL="https://open.163.com/newview/movie/free?pid=M7CTG28EO&mid=M8TE8T0N2",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img3.cache.netease.com/video/2012/9/12/20120912134036720ac.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="密歇根网络教育《平面设计》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】Photoshop:画笔工具 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M83EJ5973",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】在Photoshop中导航 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M83EJ4958",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】Photoshop:使用选框工具 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840G12SD",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第4集】Photoshop:用快速蒙版做选区 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840G22SC",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第5集】Photoshop:关于图层课程简介 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840G68SH",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第6集】Photoshop:图案课程简介 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840G46SA",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第7集】Photoshop:基本颜色术语 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840G70BM",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第8集】Photoshop:画笔工具 II ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GANT9",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第9集】Photoshop:通道面板 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GCHNK",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第10集】Photoshop:平面设计四种主要文件格式 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GDG0T",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第11集】Photoshop:创建画笔 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GDD1E",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第12集】Photoshop:灰度图 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GERT2",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第13集】Photoshop:黑白图像 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GLDTL",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第14集】Photoshop:色调分离和矢量图 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GKDEI",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第15集】Photoshop:安装画笔 ",URL="https://open.163.com/newview/movie/free?pid=M83EIVSPK&mid=M840GJEGK",SOURCE=WEB
+#EXT-X-ENDLIST

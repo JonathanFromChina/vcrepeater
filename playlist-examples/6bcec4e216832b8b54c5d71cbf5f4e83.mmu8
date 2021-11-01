@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://oimagec2.ydstatic.com/image?url=http://img1.cache.netease.com/video/2012/9/27/20120927135556c058f.jpg&w=180&h=100&cw=180&ch=100&fill=0&sbc=0&quality=95&cgra=TOP_CENTER&product=open",ALT="瑞典达拉纳大学《俄语语法》"
+#EXT-X-INF:INDEX=0,NAME="【第1集】俄语语法 ",URL="https://open.163.com/newview/movie/free?pid=M86B4VE4J&mid=M86B5D3M5",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第2集】俄语语法 ",URL="https://open.163.com/newview/movie/free?pid=M86B4VE4J&mid=M86B5BFLS",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【第3集】俄语语法 ",URL="https://open.163.com/newview/movie/free?pid=M86B4VE4J&mid=M86B5BPAJ",SOURCE=WEB
+#EXT-X-ENDLIST
