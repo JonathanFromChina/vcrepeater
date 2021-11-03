@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/026adf8afdf649ed72ef99e9ee70dc57d404ed7f.jpg@640w_400h.jpg",ALT="高效提高英语听力水平：5段英文常用对话 (食物/运动篇)"
+#EXT-X-INF:INDEX=0,NAME="5段英文常用对话_高效提高英语听力水平(食物_运动篇)",URL="https://api.bilibili.com/x/player/playurl?avid=370803270&cid=196117395&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

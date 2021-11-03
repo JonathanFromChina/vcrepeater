@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/accb553575248a4249cb6fc3cdf94f8126049647.jpg@640w_400h.jpg",ALT="“太炸裂了”！国足最后时刻绝杀越南英文解说"
+#EXT-X-INF:INDEX=0,NAME="【中英+精讲】",URL="https://api.bilibili.com/x/player/playurl?avid=590877882&cid=422490654&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英】",URL="https://api.bilibili.com/x/player/playurl?avid=590877882&cid=422490505&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=590877882&cid=422491278&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

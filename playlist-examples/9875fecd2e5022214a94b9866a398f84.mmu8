@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/cdc6ae3b359181470616377ff92f5d4fc705597f.jpg@640w_400h.jpg",ALT="为什么你总是无法专心学习和工作？顶级心理学家告诉你：都是潜意识的锅"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=56397899&cid=100830233&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=56397899&cid=98550342&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

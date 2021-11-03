@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/a9c3d5d12af2aa9f6b0d0a48f7be59cafc73793c.jpg@640w_400h.jpg",ALT="中式口音克星！美女老师口把口教你美式发音，让你的发音比美国人还牛！"
+#EXT-X-INF:INDEX=0,NAME="示范1",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351331154&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="示范2",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351331562&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="1",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351309663&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351322021&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351323139&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351324145&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351325042&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351326186&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351327249&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351328362&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351329429&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10",URL="https://api.bilibili.com/x/player/playurl?avid=333549511&cid=351330316&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

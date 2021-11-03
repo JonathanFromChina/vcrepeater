@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/b8b964fefb7ea7c2654706067abc571b8493d5aa.jpg@640w_400h.jpg",ALT="【问问史蒂夫】当妈妈打扫儿子房间发现藏着的小黄书..."
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=84135390&cid=143923961&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=84135390&cid=143923829&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=84135390&cid=143924107&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

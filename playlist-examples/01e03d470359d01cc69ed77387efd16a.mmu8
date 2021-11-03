@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0d5322d0ec70dcb5aabc4f4266775d6e3cd8f77d.jpg@640w_400h.jpg",ALT="44个生活常用短句：实用基础英语听力练习"
+#EXT-X-INF:INDEX=0,NAME="44个生活常用短句_实用基础英语听力练习",URL="https://api.bilibili.com/x/player/playurl?avid=839276333&cid=227058387&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/c5b9e65039e64e0fc46bb8a6ea89bd1c1729ae49.jpg@640w_400h.jpg",ALT="训练改善英语听力能力：日常52句很实用英文"
+#EXT-X-INF:INDEX=0,NAME="20210217训练改善英语听力能力_日常52句很实用英文",URL="https://api.bilibili.com/x/player/playurl?avid=971811499&cid=302483103&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

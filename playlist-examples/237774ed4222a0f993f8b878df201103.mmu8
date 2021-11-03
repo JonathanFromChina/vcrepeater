@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/2efe0d63562bc0ba270665f5f5a74dc1ef5b5f69.jpg@640w_400h.jpg",ALT="带娃玩，差点害死儿子？安妮·海瑟薇回忆惊悚带娃经历"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=715228625&cid=327803295&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=715228625&cid=327803106&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕完整版】",URL="https://api.bilibili.com/x/player/playurl?avid=715228625&cid=327803630&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

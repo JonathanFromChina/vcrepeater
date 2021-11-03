@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/ff77f801385795192d3e08f1d9fd1a6b158f9e99.jpg@640w_400h.jpg",ALT="好记简单常用的英语短句六十个：丰富您的英文表达能力"
+#EXT-X-INF:INDEX=0,NAME="好记简单常用的英语短句六十个_丰富您的英文表达能力",URL="https://api.bilibili.com/x/player/playurl?avid=501555005&cid=294730111&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/1ab83a9ecdc44a95e44e055a792fbbe137b50f52.jpg@640w_400h.jpg",ALT="高效练习英语听说：学53句好用地道英文表达"
+#EXT-X-INF:INDEX=0,NAME="高效练习英语听说_学53句好用地道英文表达",URL="https://api.bilibili.com/x/player/playurl?avid=843868042&cid=288058484&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

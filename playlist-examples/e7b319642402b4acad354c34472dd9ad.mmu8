@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/1d3383bde12077ed83903144dd345790ff5892d0.jpg@640w_400h.jpg",ALT="【英音控请进】最高效磨耳朵英语听力50句（慢速，带音标）"
+#EXT-X-INF:INDEX=0,NAME="【英音控请进】最高效磨耳朵英语听力50句（慢速，带音标）",URL="https://api.bilibili.com/x/player/playurl?avid=969462750&cid=231150971&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

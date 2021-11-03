@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/be35a985ca5747a5a11801b4ee049e344641cd68.jpg@640w_400h.jpg",ALT="英语基础好用表达55句：每天进步一点点"
+#EXT-X-INF:INDEX=0,NAME="20201217英语基础好用表达55句_每天进步一点点",URL="https://api.bilibili.com/x/player/playurl?avid=928461273&cid=275787604&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

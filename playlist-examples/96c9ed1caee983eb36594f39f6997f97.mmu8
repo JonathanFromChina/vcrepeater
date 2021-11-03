@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/9aada83c6fb0fd987ba45850355e360845fa8b70.jpg@640w_400h.jpg",ALT="【最全口语提升法宝】日常必备口语130句，简单粗暴提升你的英语水平！流利地道不是梦！"
+#EXT-X-INF:INDEX=0,NAME="【中式英语克星】必备口语130句，简单粗暴提升你的英语水平！流利地道不是梦！",URL="https://api.bilibili.com/x/player/playurl?avid=804887362&cid=390818228&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

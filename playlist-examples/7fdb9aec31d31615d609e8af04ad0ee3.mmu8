@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/8e9a61d4747c4f3eb402df8ed2ca131f55ad49a4.png@640w_400h.png",ALT="【零基础英语】50个常用英语单词和句子【一小时循环洗脑】"
+#EXT-X-INF:INDEX=0,NAME="学英语初级五十个单词和句子！一个小时循环",URL="https://api.bilibili.com/x/player/playurl?avid=583103324&cid=187220624&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

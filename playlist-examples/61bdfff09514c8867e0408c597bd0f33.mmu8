@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e33c934c2084c5cb9758927d7a3caec65babe94f.jpg@640w_400h.jpg",ALT="【英美文学经典】A Nose for a Story（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="弗兰克·布伦南《一个故事的鼻子》",URL="https://api.bilibili.com/x/player/playurl?avid=202087222&cid=235951423&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

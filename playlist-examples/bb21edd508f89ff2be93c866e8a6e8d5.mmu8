@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/5cabc75da5a8de4039062cbc933715340d61f43b.jpg@640w_400h.jpg",ALT="【帅如萌德也会被女生冷落？】萌德：有一个女人，连看都不会看我一眼"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=71681547&cid=124214644&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=71681547&cid=124214601&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

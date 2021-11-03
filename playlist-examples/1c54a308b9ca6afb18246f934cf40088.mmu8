@@ -1,0 +1,59 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/09b87e7d3b8bde1031ef5bbab9a534f24ebeb143.jpg@640w_400h.jpg",ALT="【英语语法】一堂课解决英语语法问题"
+#EXT-X-INF:INDEX=0,NAME="英语语法",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148931060&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="1.Active Voice and Passive Voice - Learn",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148934441&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.ALL Tips You Need to Pass the TOEIC Ex",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148934539&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.ASK - Basic Verbs - Learn English Gram",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148934841&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.Basic Adjective Comparisons - Learn En",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148934912&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.BUY - Basic Verbs - Learn English Gram",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935003&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.Conditional and IF clauses - Learn Eng",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935094&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.Countable Nouns - Learn English Gramma",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935171&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.DIE - Basic Verbs - Learn English Gram",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935369&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.Difference between “By” and “Until” -",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935493&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.Difference between LOOK WATCH  SEE -",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935667&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.Difference between REALLY and VERY -",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935775&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.FOLLOW - Basic Verbs - Learn English",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935852&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.HEAR - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148935972&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.HELP - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936057&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.HOLD - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936166&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.How to Correctly Use Auxiliary Verb C",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936268&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.How to Properly Use IF and WHEN - Lea",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936353&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.How to Use a Semicolon in English  Pu",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936489&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.How to Use BE BEING and BEEN - Learn",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936566&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.How to Use Commas in English  Punctua",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936769&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.How to Use the Modal MUST - Learn Eng",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148936848&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.KEEP - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937009&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.LEAD - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937128&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.LET - Basic Verbs - Learn English Gra",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937289&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.LIKE LOOKS LIKE LIKE TO…All Explained",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937382&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.LIVE - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937574&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.LOOK - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937646&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.LOSE - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937747&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.MEET - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937867&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.Most Common Prefixes - Learn English",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148937972&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.MOVE - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148938113&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.Negative Prefixes - Learn English Gra",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148938184&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.OPEN - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148938384&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.PAY - Basic Verbs - Learn English Gra",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148938507&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.Prepositions of Place AT IN BY INTO O",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148938589&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.Present Perfect Tense - Learn English",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148938726&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.READ - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148939061&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.SAY TELL SPEAK - What is the differen",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148939136&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.SEE - Basic Verbs - Learn English Gra",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148939286&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.SERVE - Basic Verbs - Learn English G",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148939428&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.SET - Basic Verbs - Learn English Gra",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148939627&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.SHOW - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148939754&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.Simple Future Tense - WILL  GOING TO",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148939873&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.Simple Past Tense - Learn English Gra",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148940266&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.SPEAK vs TALK - What’s the Difference",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148940547&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.STAND - Basic Verbs - Learn English G",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148940751&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47.STOP - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148940896&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="48.THINK - Basic Verbs - Learn English G",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148941006&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="49.Uncountable Nouns - Learn English Gra",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148941147&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50.Using Perfect English ABOUT vs AROUND",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148941361&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="51.WALK - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148941492&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="52.WATCH - Basic Verbs - Learn English G",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148941621&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="53.When to use SOME and ANY Learn Englis",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148941730&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="54.WORK - Basic Verbs - Learn English Gr",URL="https://api.bilibili.com/x/player/playurl?avid=87165511&cid=148941898&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

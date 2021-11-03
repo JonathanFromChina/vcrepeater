@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/fc5b45aa42eaa52dcfb824b33a25109a51b0b1c2.jpg@640w_400h.jpg",ALT="【全字幕】女议员灵魂拷问+现场算账！成功让疾控中心承诺免费检测"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=96287869&cid=164372106&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=96287869&cid=164367421&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=96287869&cid=164376708&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

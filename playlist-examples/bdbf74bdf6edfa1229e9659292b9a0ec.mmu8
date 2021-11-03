@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/974fb05e160f619664cee5758449a7d3907054f3.jpg@640w_400h.jpg",ALT="你应该知道的32个基本的汉语句型"
+#EXT-X-INF:INDEX=0,NAME="32 Essential Chinese Sentence Patterns You Should Know 你应该知道的32个基本的汉语句型",URL="https://api.bilibili.com/x/player/playurl?avid=413134613&cid=192805739&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/03a969d19e7ac2ea73e96c0845d0727e6780b05e.jpg@640w_400h.jpg",ALT="身材走样？霉霉：看起来胖，总比病态要好"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=86957614&cid=148598118&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=86957614&cid=148597123&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=86957614&cid=148598795&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

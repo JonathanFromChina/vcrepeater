@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/6f82d3a6eca259a5ad6b60ff016d7ae7bfbb24a1.jpg@640w_400h.jpg",ALT="“马总”们的宿命？扎克伯格遭女议员灵魂拷问：就问你抄没抄"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=584064334&cid=219314230&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=584064334&cid=219318632&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=584064334&cid=219312237&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

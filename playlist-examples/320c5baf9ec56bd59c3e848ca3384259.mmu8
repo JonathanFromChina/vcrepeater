@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/59d796f238e7a84be2e22346a0624b603db1400f.jpg@640w_400h.jpg",ALT="生涯最后一次总统圣诞贺词？川普夫妇讲述圣诞节渊源"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=203353489&cid=271085630&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=203353489&cid=271085294&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=203353489&cid=271085922&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

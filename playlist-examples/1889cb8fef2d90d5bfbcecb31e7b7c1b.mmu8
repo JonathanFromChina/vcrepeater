@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/8cdabcdfaa093abe7ee93d0a81659e3696163552.jpg@640w_400h.jpg",ALT="练习听力学习英文口语：生活常用英语60句"
+#EXT-X-INF:INDEX=0,NAME="20201111练习听力学习英文口语_生活常用英语60句",URL="https://api.bilibili.com/x/player/playurl?avid=927892330&cid=260876212&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

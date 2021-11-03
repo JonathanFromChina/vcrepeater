@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/55c7032917b41b4a9647c39326f8870484d8318f.jpg@640w_400h.jpg",ALT="身材太绝了！肯豆Met舞会仙女长裙致敬赫本"
+#EXT-X-INF:INDEX=0,NAME="【中英+讲解】",URL="https://api.bilibili.com/x/player/playurl?avid=505519905&cid=411096116&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英】",URL="https://api.bilibili.com/x/player/playurl?avid=505519905&cid=411097837&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=505519905&cid=411098860&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

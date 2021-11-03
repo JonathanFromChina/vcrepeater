@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/bb8787535bca7f99a7a08db1811a9ed3a45c7495.jpg@640w_400h.jpg",ALT="如何听懂孟晚舟女士回国的英文报道？手把手教你新闻英语的技巧"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=763214433&cid=415558034&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

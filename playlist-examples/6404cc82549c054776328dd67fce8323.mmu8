@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0d85775bdc6eca61810ba55e153f3f27aa896433.jpg@640w_400h.jpg",ALT="【英美文学经典】A List to Starboard（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="霍普金逊·史密斯《驶向右舷的清单》",URL="https://api.bilibili.com/x/player/playurl?avid=202010282&cid=235945428&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/02404a5ebd71d2a34c699182a4782a75c46b2904.jpg@640w_400h.jpg",ALT="这样练英语最直接最高效！英语口语提高练习66句"
+#EXT-X-INF:INDEX=0,NAME="20210426这样练英语最直接最高效！英语口语提高练习66句",URL="https://api.bilibili.com/x/player/playurl?avid=375925628&cid=348173153&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/626f0ecdf24cb41946e969fe05e322abc4a4e69d.jpg@640w_400h.jpg",ALT="【英语口语】香港中学生英语演讲：发音开口跪，真死亡语速，不看字幕完全跟不上！"
+#EXT-X-INF:INDEX=0,NAME="【英语口语】香港中学生英语演讲：发音开口跪，真死亡语速，不看字幕完全跟不上！",URL="https://api.bilibili.com/x/player/playurl?avid=202061909&cid=233566562&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

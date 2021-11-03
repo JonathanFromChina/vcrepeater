@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/fb590f7e9fc1fdd03fa723ce6d5f37cd440f15fd.jpg@640w_400h.jpg",ALT="【耳朵怀孕|英文歌曲】高音质环绕助眠60分钟"
+#EXT-X-INF:INDEX=0,NAME="Because Of You",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187623911&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="You Raise Me Up",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187623951&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Heal The World",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187623184&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="We Are The World",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187623785&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Death Bed",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624145&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="All I Ask",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624206&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Bitterlove",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624225&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Can We Kiss Forever",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624243&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Just Give Me A Reason",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624257&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Queen Of Disaster",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624278&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Shallow",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624313&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The One That Got Away",URL="https://api.bilibili.com/x/player/playurl?avid=540562954&cid=187624352&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

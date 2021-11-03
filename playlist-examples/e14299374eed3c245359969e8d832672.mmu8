@@ -1,0 +1,50 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/6afeb8bd8852a5fa6748b548e0b9eb5d4624f5fe.png@640w_400h.png",ALT="BBC播音员教你地道英式发音！【最经典】【全集】【英式音标】"
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552457&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips. (1)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184550206&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips. (2)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184550225&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips. (3)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552421&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips. (4)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552427&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips. (5)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552434&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips. (6)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552440&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Diphthongs. Pronunciation Tips. (7)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552451&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to pronounce 'th' in 'this', 'other', and 'smooth'.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552468&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to pronounce the v sound in 'view', 'heavy' and 'move'.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552477&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Improve Your Pronunciation with BBC Learning English - Introduction",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552478&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Long Vowel. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552532&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Long Vowel. Pronunciation Tips. (1)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552484&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Long Vowel. Pronunciation Tips. (2)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552498&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Long Vowel. Pronunciation Tips. (3)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552508&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Long Vowel. Pronunciation Tips. (4)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552521&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say 'baby', 'back' and 'job'. Voiced Consonants. Pronunciation Tips",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552543&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say dame, ladder, odd and did. Voiced Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552551&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say get, giggle and ghost. Voiced Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552557&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say hot, whole and ahead. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552563&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say judge, age and soldier. Voiced Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552574&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say light, valley and feel. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552585&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say more, hammer and sum. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552588&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say nice, know and funny. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552596&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say pleasure, leisure and vision. Voiced Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552604&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say right, wrong and sorry. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552612&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say ring, anger and thanks. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552616&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say sure, ship and national. Voiceless Consonants. Pronunciation Tips",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552623&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say wet, one and when. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552625&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say yet, use and beauty. Other Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552629&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Say zero, music and roses. Voiced Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552638&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Short Vowel. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552646&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Short Vowel. Pronunciation Tips. (1)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552655&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Short Vowel. Pronunciation Tips. (2)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552657&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Short Vowel. Pronunciation Tips. (3)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552663&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Short Vowel. Pronunciation Tips. (4)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552683&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Short Vowel. Pronunciation Tips. (5)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552691&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Short Vowel. Pronunciation Tips. (6)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552700&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The Chinese myth of the meddling monk - Shunan Teng",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552714&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Voiceless Consonants. Pronunciation Tips.",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552754&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Voiceless Consonants. Pronunciation Tips",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552770&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Voiceless Consonants. Pronunciation Tips. (1)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552711&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Voiceless Consonants. Pronunciation Tips. (2)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552718&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Voiceless Consonants. Pronunciation Tips. (3)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552734&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Voiceless Consonants. Pronunciation Tips. (4)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552740&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Voiceless Consonants. Pronunciation Tips. (5)",URL="https://api.bilibili.com/x/player/playurl?avid=752941426&cid=184552746&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

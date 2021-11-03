@@ -1,0 +1,20 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d82a85281834568f24307b6947e0de942c8a8c64.jpg@640w_400h.jpg",ALT="【英语听力】Listening practice through dictation"
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (1)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148917637&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (2)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148917818&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (3)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148917981&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (4)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148918120&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (5)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148918248&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (6)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148918401&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (7)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148918597&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (8)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148918741&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (9)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148918884&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (10)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148919037&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (11)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148922426&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (12)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148922569&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (13)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148922745&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (14)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148922937&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (15)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148923046&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening practice through dictation (16)",URL="https://api.bilibili.com/x/player/playurl?avid=87154289&cid=148923201&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

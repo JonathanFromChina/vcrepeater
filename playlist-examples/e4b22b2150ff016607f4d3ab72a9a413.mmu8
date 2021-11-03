@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/bb9e9e0ce8ccca0d21fb44314e090c42584d272a.jpg@640w_400h.jpg",ALT="如何听懂正常语速的好莱坞大片预告？这个视频给你思路"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=462511191&cid=396149135&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,104 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/a1724e08810813416fcea89f242ad7e075fc1dc3.jpg@640w_400h.jpg",ALT="100本原版英文绘本，难得的英语启蒙教材"
+#EXT-X-INF:INDEX=0,NAME="1.a apple pie - learning abc alphabet",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294946844&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.bye bye crib!",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294946864&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.haley's friendship challenge 1",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294946922&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.haley's friendship challenge 2",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294946975&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.love and kisses by sarah wilson",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947006&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.the tale of benjamin bunny",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947034&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.my no no no day by rebecca patterso",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947103&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.my no no no day",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947140&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.part of the rainbow",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947157&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10. the circus procession",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947223&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.the house that jack built",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947301&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12. the motor car",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947325&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.the rainbow fish",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947384&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.the story of a fierce bad rabbit",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947403&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.the story of miss moppet by beatri",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947427&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.the tale of jemima puddle-duck",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947445&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.the tale of mrs. tittlemouse",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947482&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.the tale of squirrel nutkin",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947543&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.the tale of the flopsy bunnies",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947686&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.the tale of tom kitten",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947723&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.what do you love",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947788&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.willie mouse",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947825&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.the giving tree by shel silverstei",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947852&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.the tale of peter rabbit",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947881&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.mother goose nursery rhymes",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947926&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.jack and the beanstalk",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947973&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.the three bears",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948080&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.the three little pigs",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948171&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.Sleeping beauty",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948259&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.little red riding hood",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948285&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.Johny Johny Yes Papa  Part",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948514&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.Johny Johny Yes Papa Family",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948628&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.Johny Johny Yes Papa",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948702&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.Baby Shark Song  Sing and Dance  Anima（鲨鱼宝宝歌舞动漫）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294948779&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.Learn Dinosaur Names with Dino Finger（学习名字）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294949205&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.Let's Play In The Park!（让我们在公园里玩!）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294949259&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.Little Miss Muffet Nursery Rhyme  Car（小梅菲特小姐童谣车）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294949366&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.Months of the Year Song（月份歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294949449&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.NEW 3D Phonics Song（新的3D语音歌曲）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294949558&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.New No No Yes Yes Go to School Song（新的不不是的是的去学校）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294949997&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.Pat a Cake Song（轻拍蛋糕歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950092&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.Phonics Song with TWO Words （这首歌只有两个词）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950195&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.Pineapple Song（菠萝歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950259&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.Rain Rain Go Away Song（雨，雨，走开）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950341&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.Rain, Rain, Go Away Nursery Rhyme（雨，雨，走开童谣）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950412&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47.Ringa Ringa Roses（玫瑰）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950529&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="48.Baby Shark（小鲨鱼）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950702&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="49.Sea Otter（海獭）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950808&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50.Snap Snap Snap（打响指）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950925&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="51.Ten Little Boys and Girls（十个小男孩和女孩）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294950998&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="52.The Finger Family Song（手指家族歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951072&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="53.The Taste（那滋味）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951192&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="54.This Is The Way We Brush Our Teeth （这是我们刷牙的方式）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951243&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="55.This Little Piggy（小猪）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951312&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="56.Wake Up（起床）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294947156&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="57.Wash Your Hands Song（洗手歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951473&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="58.What do you want to be Jobs Song（你想成有什么样的工作）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951568&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="59.Wheels On The Bus  Wonders（巴士上的轮子很神奇）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951616&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="60.Yes Yes Wake Up Song（是的，是的，唤醒之歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951748&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="61.You put your right hand in （你把右手放进去）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951804&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="62.ABC Songs for Children（ABC儿童歌曲）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951885&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="63.The Spirit of Christmas （圣诞老人）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294951964&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="64.Wheels On The Bus Go Round And Round（公共汽车的轮子转啊转）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952087&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="65.Wake Wake Wake Up（醒醒，醒醒）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952172&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="66.Ten In The Bed Nursery Rhyme（床上十首童谣）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952266&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="67.Apple Song（苹果歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952338&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="68.Are You Sleeping Little Johny（你在睡觉吗小约翰）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952400&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="69.Baa Baa Black Sheep（咩咩小黑羊）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952467&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="70.Babies Play Peek a Boo to Surprise Dad（给爸爸一个惊喜）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952515&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="71.Baby Shark（鲨鱼宝宝）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952578&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="72.Baby Shark Numbers Song  Learn Numbers（鲨鱼宝宝数字歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952654&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="73.Bath Song  Let's take a Bath（沐浴曲）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952785&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="74.BINGO Dog Song（BINGO歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952834&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="75.Blue Whale Nursery Rhyme（蓝鲸童谣）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952906&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="76.Chubby Cheeks Rhyme（胖胖的脸颊）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952942&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="77.Chubby Cheeks Rhyme（胖胖的脸颊押韵）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294952979&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="78.ChuChu TV Baby Shark",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953010&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="79.Grape Song（葡萄歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953084&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="80.Numbers Song（数字歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953204&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="81.Color Songs（颜色歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953252&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="82.Color Songs - The BROWN Song（颜色歌-棕色）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953293&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="83.Color Songs - The GREEN Song（颜色歌-绿色）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953353&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="84.Color Songs - The Red Song（颜色歌-红色）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953387&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="85.Color Songs - The PURPLE（颜色歌-紫色）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953445&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="86.Finger Family Lion（手指家庭狮子）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953512&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="87.Finger Family Elephant（手指家庭大象）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953578&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="88.Finger Family Panda（手指家庭熊猫）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953652&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="89.Five Little Monkeys （五只小猴子）1",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953727&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="90.Five Little Monkeys （五只小猴子）2",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953777&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="91.Five Little Monkeys （五只小猴子）3",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953845&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="92.Grow Grow（成长歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953909&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="93.Halloween is Here（万圣节来了）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953937&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="94.Head, Shoulders, Knees and Toes（头，肩膀，膝盖和脚趾）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953965&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="95.Hey Diddle Diddle Nursery Rhyme（嘿，迪吧迪吧儿歌）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294953999&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="96.Hickory Dickory Dock Nursery Rhyme（山胡桃木码头童谣）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294954029&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="97.Hot Cross Buns Nursery Rhyme（热十字面包童谣）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294954043&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="98.Humpty Dumpty Nursery Rhyme（矮胖子童谣）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294954088&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="99.I Love My Family Song（我爱我家）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294954136&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="100.If You're Happy And You Know It（如果你知道自己很快乐）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294954401&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="101.Incy Wincy Spider Nursery Rhyme（可爱的蜘蛛童谣）",URL="https://api.bilibili.com/x/player/playurl?avid=714047410&cid=294954472&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

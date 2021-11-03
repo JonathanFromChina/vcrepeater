@@ -1,0 +1,20 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/94bacb2b8ede3a8aa2e934364f41f062ecf0c331.jpg@640w_400h.jpg",ALT="【英语口语】日本大学生英语演讲比赛，封面小姐姐发音超好，一点日式口音都没有！（16集）"
+#EXT-X-INF:INDEX=0,NAME="第7回全国学生英語プレゼンテーションコンテスト【最優秀賞】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228185089&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第2回全国学生英語プレゼンテーションコンテスト【最優秀賞】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111304&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2013全国学生英語プレゼンテーションコンテスト優秀賞（個人）発表ダイジェスト版",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228110413&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【Finalist】The 2nd All Japan Student English Presentation Contest",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228110337&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2014全国学生英語プレゼンテーションコンテスト～優秀賞　樫村真さん～",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228110443&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="インプレッシブ賞グループの部【第6回全国学生英語プレゼンテーションコンテスト】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228110550&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="インプレッシブ賞個人の部【第6回全国学生英語プレゼンテーションコンテスト】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228110771&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第2回全国学生英語プレゼンテーションコンテスト【インプレッシブ賞／グループ】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228110922&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第2回全国学生英語プレゼンテーションコンテスト【インプレッシブ賞／個人】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111034&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第2回全国学生英語プレゼンテーションコンテスト【優秀賞／グループ】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111119&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第3回全国学生英語プレゼンテーションコンテスト【インプレッシブ賞／グループ】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111403&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第3回全国学生英語プレゼンテーションコンテスト【インプレッシブ賞／個人】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111551&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第3回全国学生英語プレゼンテーションコンテスト【優秀賞／グループ】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111655&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第3回全国学生英語プレゼンテーションコンテスト【優秀賞／個人】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111776&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第3回全国学生英語プレゼンテーションコンテスト【最優秀賞】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111867&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="第4回全国学生英語プレゼンテーションコンテスト【優秀賞／グループ】",URL="https://api.bilibili.com/x/player/playurl?avid=796756894&cid=228111923&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

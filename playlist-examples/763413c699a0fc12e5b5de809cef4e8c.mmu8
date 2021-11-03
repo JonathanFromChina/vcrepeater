@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e5069f1bb3fe8febdc1e14c310a6d99491473a41.jpg@640w_400h.jpg",ALT="舒舒服服躺著学英语口语"
+#EXT-X-INF:INDEX=0,NAME="舒舒服服躺著_学英语口语",URL="https://api.bilibili.com/x/player/playurl?avid=200869175&cid=194255939&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/666ee47f06ed5eb7d7562a755686b57c241053ee.jpg@640w_400h.jpg",ALT="【精选英音】牛津辩论社 | 女权不是资本主义（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="英文字幕",URL="https://api.bilibili.com/x/player/playurl?avid=463012082&cid=408738634&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

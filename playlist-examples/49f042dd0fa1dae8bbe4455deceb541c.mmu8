@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/95535c0a627a4d5873bda67a81b847dc62fd59c3.jpg@640w_400h.jpg",ALT="马丁·弗瑞曼：当年因档期满拒绝了《霍比特人》，结果导演足足等了我5个月"
+#EXT-X-INF:INDEX=0,NAME="马丁·弗瑞曼 中英",URL="https://api.bilibili.com/x/player/playurl?avid=68610426&cid=118908799&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="马丁·弗瑞曼 English",URL="https://api.bilibili.com/x/player/playurl?avid=68610426&cid=118908861&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

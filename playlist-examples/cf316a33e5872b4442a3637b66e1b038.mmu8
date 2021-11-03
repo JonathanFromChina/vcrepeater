@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/5704a8a98fd539cc4dbcd105140d661a4482ec2a.jpg@640w_400h.jpg",ALT="[日语学习]新标日第14课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师"
+#EXT-X-INF:INDEX=0,NAME="14课无BGM",URL="https://api.bilibili.com/x/player/playurl?avid=760815646&cid=345331425&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14课单词有BGM",URL="https://api.bilibili.com/x/player/playurl?avid=760815646&cid=345333684&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

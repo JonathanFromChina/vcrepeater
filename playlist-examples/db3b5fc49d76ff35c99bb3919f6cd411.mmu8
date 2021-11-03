@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/05a1ef517722bdcba180ebfcaa3a785d75776dd1.jpg@640w_400h.jpg",ALT="酒鬼噶上线！说好的护肤分享，被王嘉尔录成了茅台品鉴会"
+#EXT-X-INF:INDEX=0,NAME="【中英+讲解】",URL="https://api.bilibili.com/x/player/playurl?avid=250598461&cid=408784390&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英】",URL="https://api.bilibili.com/x/player/playurl?avid=250598461&cid=408787508&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=250598461&cid=408787687&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

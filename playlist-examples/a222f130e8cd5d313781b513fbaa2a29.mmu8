@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/3ddeb2d71ca5b7fd58ea056c9ca6476656bab8a0.jpg@640w_400h.jpg",ALT="欧美乐坛劳模！碧昂斯：当年曾怀着孕，冒着流产的危险在台上表演"
+#EXT-X-INF:INDEX=0,NAME="【中英双语",URL="https://api.bilibili.com/x/player/playurl?avid=70695335&cid=122485662&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=70695335&cid=122485770&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

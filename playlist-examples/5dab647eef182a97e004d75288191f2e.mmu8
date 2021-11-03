@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/4591e1d64205a5922bff16d07271cf04d4826d59.jpg@640w_400h.jpg",ALT="「油管超燃励志视频」#2020最新#人都有绝望的时候，不要放弃（Don't give up）（中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="「油管超燃励志视频」#2020最新#人都有绝望的时候，不要放弃（Don't give up）（中英字幕）",URL="https://api.bilibili.com/x/player/playurl?avid=202992816&cid=261884568&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

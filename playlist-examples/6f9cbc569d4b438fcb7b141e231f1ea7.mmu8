@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/1ff75e325f368aa0cc88165f4dc8a7a4adec9553.jpg@640w_400h.jpg",ALT="事半功倍练习英语听力：逐渐听清楚外国老师的英文发音！"
+#EXT-X-INF:INDEX=0,NAME="20210525事半功倍练习英语听力_逐渐听清楚外国老师的英文发音！",URL="https://api.bilibili.com/x/player/playurl?avid=758381953&cid=349113954&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,82 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/c98005daeba2b2dd7893390342d514785ecfa02e.jpg@640w_400h.jpg",ALT="【80集全】撒欢学英语 -史诗级饶舌大战B站最全合集"
+#EXT-X-INF:INDEX=0,NAME="Donald Trump vs Hillary Clinton.特朗普对决希拉里",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924556&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Steve Jobs vs Bill Gates. 乔布斯对决比尔盖茨",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926457&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Albert Einstein vs Stephen Hawking. 爱因斯坦对决霍金",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212923647&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Batman vs Sherlock Holmes. 蝙蝠侠对决福尔摩斯",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924093&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ronald McDonald vs The Burger King. （麦当劳和汉堡王大战）",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926128&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Barack Obama vs Mitt Romney. 奥巴马对决罗姆尼",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924008&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Justin Bieber vs Beethoven. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925515&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Abe Lincoln vs Chuck Norris. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212923601&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam vs Eve. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212923611&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alexander the Great vs Ivan the Terrible. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212923667&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Artists vs TMNT. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212923766&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ash Ketchum vs Charles Darwin. Epic Rap Battles of History.",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212923827&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Babe Ruth vs Lance Armstrong. Epic Rap Battles of History.",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212923973&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Billy Mays vs Ben Franklin.  Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924137&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Blackbeard vs Al Capone. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924152&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Bob Ross vs Pablo Picasso. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924184&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Bruce Banner vs Bruce Jenner. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924215&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Bruce Lee vs Clint Eastwood. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924280&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Christopher Columbus vs Captain Kirk. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924320&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Darth Vader vs Hitler. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924379&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Donald Trump vs Ebenezer Scrooge. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924512&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="David Copperfield vs Harry Houdini. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924390&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Deadpool vs Boba Fett. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924428&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Doc Brown vs Doctor Who. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924467&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Dr Seuss VS Shakespeare.  Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924629&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Eastern Philosophers vs Western Philosophers. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924648&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Elon Musk vs Mark Zuckerberg. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924740&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Frank Sinatra vs Freddie Mercury. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924775&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Freddy Krueger vs Wolverine - Epic Rap Battles of History.",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924800&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Frederick Douglass vs Thomas Jefferson. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924828&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Gandalf vs Dumbledore. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924861&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Gandhi vs Martin Luther King Jr. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924879&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Genghis Khan vs Easter Bunny.  Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924903&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="George Carlin vs Richard Pryor. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924925&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="George Washington vs William Wallace. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212924968&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ghostbusters vs Mythbusters. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925026&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Goku vs Superman. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925060&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Gordon Ramsay vs Julia Child. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925090&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hitler vs Vader 2.  Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925208&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hitler vs Vader 3. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925239&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hulk Hogan and Macho Man VS Kim Jong-il. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925262&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="J. R. R. Tolkien vs George R. R. Martin. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925278&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Jack the Ripper vs Hannibal Lecter. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925308&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Jacques Cousteau vs Steve Irwin. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925336&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="James Bond vs Austin Powers. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925381&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Jim Henson vs Stan Lee. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925432&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="John Lennon V Bill O'Reilly. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925509&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lewis and Clark vs Bill and Ted. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925532&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Mario Bros vs Wright Bros. Epic Rap Battles of History.",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925560&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Master Chief vs Leonidas. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925585&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Michael Jackson vs Elvis Presley. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925603&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Michael Jordan vs Muhammad Ali. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925637&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Miley Cyrus vs Joan of Arc. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925667&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Moses vs Santa Claus. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925720&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Mother Teresa vs Sigmund Freud. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925754&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Mozart vs Skrillex. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925821&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Mr T vs Mr Rogers. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925845&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Napoleon vs Napoleon. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925865&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Nice Peter vs EpicLLOYD 2. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925890&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Nice Peter vs EpicLLOYD. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925928&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Nikola Tesla vs Thomas Edison. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925947&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Oprah Winfrey vs Ellen DeGeneres. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212925969&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Rasputin vs Stalin. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926003&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Rick Grimes vs Walter White.  Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926051&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Romeo and Juliet vs Bonnie and Clyde. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926079&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sarah Palin VS Lady Gaga. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926171&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Shaka Zulu vs Julius Caesar. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926283&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sir Isaac Newton vs Bill Nye. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926338&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Stephen King vs Edgar Allan Poe. Epic Rap Battles of History.",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926429&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Steven Spielberg vs Alfred Hitchcock. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926497&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Terminator vs Robocop.  Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926541&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Thanos vs J Robert Oppenheimer. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926566&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The Joker vs Pennywise. Epic Rap Battles Of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926608&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Theodore Roosevelt vs Winston Churchill. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926671&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Tony Hawk vs Wayne Gretzky. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926748&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Vlad the Impaler vs Count Dracula. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926820&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Wonder Woman vs Stevie Wonder. Epic Rap Battles of History",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926872&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Zeus vs Thor. Epic Rap Battles of History.",URL="https://api.bilibili.com/x/player/playurl?avid=883765614&cid=212926913&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

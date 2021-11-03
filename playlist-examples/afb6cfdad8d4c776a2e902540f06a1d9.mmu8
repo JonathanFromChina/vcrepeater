@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/6e3a773018ff8d1e7a4c54d1119d646b7246760d.jpg@640w_400h.jpg",ALT="【英美文学经典】Dead Man's Chest （有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="艾琳·特林布尔《死人的胸》",URL="https://api.bilibili.com/x/player/playurl?avid=927120878&cid=235959194&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

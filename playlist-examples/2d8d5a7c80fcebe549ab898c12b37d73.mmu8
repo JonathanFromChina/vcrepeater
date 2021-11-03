@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/5b837d5689e319c9b9ba3f8400242ebfc7840337.jpg@640w_400h.jpg",ALT="这口澳洲英语也太俏皮了吧！朴彩英Met舞会换装vlog"
+#EXT-X-INF:INDEX=0,NAME="【中英+讲解】",URL="https://api.bilibili.com/x/player/playurl?avid=805584993&cid=409815940&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英】",URL="https://api.bilibili.com/x/player/playurl?avid=805584993&cid=409818471&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=805584993&cid=409819731&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

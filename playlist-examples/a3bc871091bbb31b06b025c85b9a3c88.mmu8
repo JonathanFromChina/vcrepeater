@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/795d313fe34399f62b4e9759368738bc2343a289.jpg@640w_400h.jpg",ALT="最实用最浪漫的48句英语情话：表白/约会/谈恋爱/结婚英文一网打尽！"
+#EXT-X-INF:INDEX=0,NAME="20210313最实用最浪漫的48句英语情话_表白__约会_谈恋爱_结婚英文一网打尽！",URL="https://api.bilibili.com/x/player/playurl?avid=672192471&cid=311460109&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

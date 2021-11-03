@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/2c8c1016c8cc10f121bacd6bf1b5bc26cc733f38.jpg@640w_400h.jpg",ALT="营造英语环境：英语听力训练48句日常表达"
+#EXT-X-INF:INDEX=0,NAME="20201224营造英语环境_英语听力训练48句日常表达",URL="https://api.bilibili.com/x/player/playurl?avid=887195907&cid=311456362&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

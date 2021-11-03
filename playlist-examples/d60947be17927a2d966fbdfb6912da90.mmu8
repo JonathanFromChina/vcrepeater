@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/85551815755d0e9e712aa99909415a5eead24e6e.jpg@640w_400h.jpg",ALT="提升英语听力反应：听美国人说常用英语100句"
+#EXT-X-INF:INDEX=0,NAME="20210211提升英语听力反应_听美国人说常用英语100句",URL="https://api.bilibili.com/x/player/playurl?avid=544251987&cid=302482341&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

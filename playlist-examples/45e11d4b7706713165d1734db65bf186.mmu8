@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/a911527a935eca2dae2cdec6bc798b04c977c396.jpg@640w_400h.jpg",ALT="英语听力技能特训39句：提高英语听力理解力"
+#EXT-X-INF:INDEX=0,NAME="20201029英语听力技能特训39句_提高英语听力理解力",URL="https://api.bilibili.com/x/player/playurl?avid=245191715&cid=254627984&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/f8bff237460011c6b7bee02e14823dd2934807a7.jpg@640w_400h.jpg",ALT="听懂美国人生活英语：快速提高您的英语听力水平！"
+#EXT-X-INF:INDEX=0,NAME="听懂美国人生活英语_-_快速提高您的英语听力水平！",URL="https://api.bilibili.com/x/player/playurl?avid=502610935&cid=323942349&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

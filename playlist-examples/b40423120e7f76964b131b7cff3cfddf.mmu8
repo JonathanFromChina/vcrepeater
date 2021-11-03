@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/559dc3e1116d227c6e571f9c23c549e9cd03d263.jpg@640w_400h.jpg",ALT="30岁了还单身？艾玛·沃特森：那又怎样，我自己开心就好"
+#EXT-X-INF:INDEX=0,NAME="【中英】",URL="https://api.bilibili.com/x/player/playurl?avid=74931934&cid=128188328&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文】",URL="https://api.bilibili.com/x/player/playurl?avid=74931934&cid=128188467&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

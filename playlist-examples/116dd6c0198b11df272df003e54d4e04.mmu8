@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/10ac117fb783222e9a215a48a40778df6d0e01bb.jpg@640w_400h.jpg",ALT="【史诗级饶舌争霸】汉堡王VS麦当劳!"
+#EXT-X-INF:INDEX=0,NAME="經典饒舌爭霸戰S6 麥當勞叔叔 VS 漢堡王 Epic Rap Battles of History S6【中文字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=626388753&cid=213310613&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/48af43a9a8728217bbd0c7de3d04a00de739cc18.jpg@640w_400h.jpg",ALT="英语听力技能练习"
+#EXT-X-INF:INDEX=0,NAME="English listening skills practice Vol.1 英语听力技能练习卷一",URL="https://api.bilibili.com/x/player/playurl?avid=841604253&cid=220980240&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English listening skills practice Vol.2 英语听力技能练习卷二",URL="https://api.bilibili.com/x/player/playurl?avid=841604253&cid=220980643&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

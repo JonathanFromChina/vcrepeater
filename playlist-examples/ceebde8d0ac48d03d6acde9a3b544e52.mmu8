@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/c6f28091609feaa2734b338e7db8aa236021c8fb.jpg@640w_400h.jpg",ALT="如何听懂美国人正常的语速？试试川普的最新采访你能听懂多少"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=632927808&cid=408185919&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

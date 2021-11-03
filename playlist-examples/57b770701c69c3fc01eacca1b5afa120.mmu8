@@ -1,0 +1,22 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/d0f89cbd4a2fb4517dadf59ec72e1e9a94b1fd2d.jpg@640w_400h.jpg",ALT="【看动画学英语】日常必备英语 情景口语对话 学完立刻就能用上"
+#EXT-X-INF:INDEX=0,NAME="At the Airport Conversation",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727317&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="At the Restaurant Conversation",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727319&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Describing People, Places and Things",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727330&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Health and Ilnesses Conversation",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727329&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Introducing Yourself in English and Meeting New People",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727327&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="It was meant to be - English Phrases",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727333&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Long Time No See - Common English Phrases",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727335&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="My School Day - Classroom Language and Conversation",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727341&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Nice to meet you! How to Introduce People in English",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727340&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="School Conversation, School Dialogue",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727339&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Shopping at the Grocery Store - English Conversation",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727344&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Some, Every, Any, No & Compounds",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727348&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Talking about Clothes in English",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727350&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Talking about Daily Routines",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727351&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Talking about Hobbies and Free Time Activities",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727352&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Talking about household chores in English - short dialogues",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727356&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Talking about Your Home in English",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727363&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="We Went Camping - Irregular Verbs",URL="https://api.bilibili.com/x/player/playurl?avid=370949967&cid=198727366&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

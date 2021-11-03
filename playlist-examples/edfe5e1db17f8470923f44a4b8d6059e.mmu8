@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/4aeb36957d8e449459bf4829fe1d4f78b9f6e6da.jpg@640w_400h.jpg",ALT="【天道酬勤终成超巨】“字母哥”扬尼斯·安特托昆博MVP获奖感言完整版（中英双语）"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=57062069&cid=99654873&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=57062069&cid=99654097&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

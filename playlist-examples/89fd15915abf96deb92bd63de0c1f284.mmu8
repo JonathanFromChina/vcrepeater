@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/245f6786e1c759ec458e62566b05eb2dc6386c9b.jpg@640w_400h.jpg",ALT="来自清华的新疆吴彦祖初中希望之星英语演讲珍贵视频，人和人的差距怎么这么大呢？"
+#EXT-X-INF:INDEX=0,NAME="来自清华的新疆吴彦祖初中参加希望之星英语演讲精彩视频，别人家孩子从小就这么牛了！",URL="https://api.bilibili.com/x/player/playurl?avid=796976895&cid=231742115&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

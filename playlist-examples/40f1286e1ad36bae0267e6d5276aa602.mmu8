@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/fb6372dc2a8480e1b75984462e17448d5505ec90.jpg@640w_400h.jpg",ALT="高效提高您的英文听力：4个英语常用对话 (中级篇)"
+#EXT-X-INF:INDEX=0,NAME="4个英语常用对话_-_高效提高您的英文听力(中级篇)",URL="https://api.bilibili.com/x/player/playurl?avid=625847047&cid=196116819&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

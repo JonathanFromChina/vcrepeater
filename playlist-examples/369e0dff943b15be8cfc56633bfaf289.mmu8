@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/c167b6b74bfe0a80652d61c04a1d57bdb8f0c537.jpg@640w_400h.jpg",ALT="【英美文学经典】The Boy Who Couldn't Sleep by Foreman Peter（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="领班彼得著《睡不着的男孩》",URL="https://api.bilibili.com/x/player/playurl?avid=329942619&cid=246962896&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

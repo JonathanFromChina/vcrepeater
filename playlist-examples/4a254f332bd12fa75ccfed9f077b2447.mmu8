@@ -1,0 +1,39 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d9c46095fb97bdf038f9df2d191c0001c38ca65d.jpg@640w_400h.jpg",ALT="【美语故事绘本】醒醒，醒醒，要讲哄睡故事了"
+#EXT-X-INF:INDEX=0,NAME="儿童美语晚安故事 美人鱼 Little Mermaid's Surprise",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187630920&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语儿童故事 迪士尼动画奇妙仙子 TINKER BELL Disney Cartoon",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187630998&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Hats Hats Hatsl",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631038&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Hello Beach",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631089&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Hide and Seek",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631152&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Hurry up!",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631202&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers I Can Draw",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631253&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers I Like School",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631285&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers I Like Stripes l",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631320&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Ice Cream Scoops",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631391&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Look What I Found l",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631544&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Shapes for Lunch l",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631591&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Sweet Treatl",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631655&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little readers Tiny Things",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631794&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers What Can I see l",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631832&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers What DO I Need l",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631850&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers What Grows On trees",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187631892&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers What Is Red",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632013&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers What Shine",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632055&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers When Night Comes",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632076&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers WHERE IS PETEY",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632110&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 First Little Readers Winter is Herel中文字幕",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632134&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 班级宠物 Class Pets",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632182&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 春天来了 First Little Readers Almost Spring l",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632215&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 很棒的头发  Great Hair",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632240&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 姜饼男孩 Gingerbread Boy",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632270&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语绘本 云朵图片 Cloud Pictures",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632294&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语早教 幼儿英语绘本 实用日常单词 English Learning for kids and toldders First Words",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632327&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语早教儿童英语绘本 庭园英文单词学习 In the Garden",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632359&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语早教英语绘本 ABC字母 单词 English learning for kids toldders ABC WORDS",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632369&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语早教英语绘本 Colors颜色 常用英文单词 English learning for kids toldders Daily English Words",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632386&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语早教英语绘本 幼儿学数字 English learning for kids and toddlers Numbers",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632418&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语早教英语绘本 幼儿学英语形状篇 中英文对照 English learning for kids and toldders Shapes",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632428&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="美语早教英语绘本Things That Go 日常实用英文单词 English learning for kids toldders Daily English",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632448&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="学唱美语儿歌 英文字母歌 Kid's Nursery Rhyme The Alphabet Song",URL="https://api.bilibili.com/x/player/playurl?avid=795608172&cid=187632480&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

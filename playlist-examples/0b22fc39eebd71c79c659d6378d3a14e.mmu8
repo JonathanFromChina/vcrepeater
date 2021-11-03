@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/f56e08eeef04f46843caec4b643346e722ca945a.jpg@640w_400h.jpg",ALT="就要心动挑战！看欧美某音顶流帅哥；这路子是真的野！"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=844328865&cid=302813595&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

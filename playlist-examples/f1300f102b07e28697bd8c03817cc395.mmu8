@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/6f0a6c2e91dc99e0a5642f377b9be3c6a09bd8ec.jpg@640w_400h.jpg",ALT="面试求职英语口语表达：面试英文口语训练"
+#EXT-X-INF:INDEX=0,NAME="面试求职英语口语表达_面试英文口语训练",URL="https://api.bilibili.com/x/player/playurl?avid=626987628&cid=229809794&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

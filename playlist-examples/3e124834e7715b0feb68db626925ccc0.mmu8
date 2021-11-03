@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/414b60a00719e3bb11f3b25438a6b24852d08f79.jpg@640w_400h.jpg",ALT="流利讲地道英文：53句超好用英语训练"
+#EXT-X-INF:INDEX=0,NAME="流利讲地道英文_53句超好用英语训练",URL="https://api.bilibili.com/x/player/playurl?avid=374033691&cid=294726570&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/61402dd644fdd68fff0fef7da396e0a4f4031f4b.jpg@640w_400h.jpg",ALT="图片、例句、音标助你高效记忆29个常用英语单词"
+#EXT-X-INF:INDEX=0,NAME="图片_例句_音标助你高效记忆29个常用英语单词",URL="https://api.bilibili.com/x/player/playurl?avid=968995545&cid=213891116&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="听英文会话_提高英语听力水平(居住_未来篇)",URL="https://api.bilibili.com/x/player/playurl?avid=968995545&cid=213891263&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

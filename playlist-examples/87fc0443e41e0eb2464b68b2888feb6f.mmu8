@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/10f2a1efdff55e78ba42c3f4eaf1d98ccd52a201.jpg@640w_400h.jpg",ALT="超常见英文问句和回答：轻松从容应对英语会话"
+#EXT-X-INF:INDEX=0,NAME="20201215超常见英文问句和回答_轻松从容应对英语会话",URL="https://api.bilibili.com/x/player/playurl?avid=755986483&cid=275787046&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

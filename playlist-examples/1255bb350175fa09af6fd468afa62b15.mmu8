@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/5e6f9db0ef53f742895cb4d52ddf1a4b3cbe3dd5.jpg@640w_400h.jpg",ALT="学霸的神仙恋爱？诺贝尔奖得主：帮女友补课，把自己补成了诺贝尔奖"
+#EXT-X-INF:INDEX=0,NAME="【中英+讲解】",URL="https://api.bilibili.com/x/player/playurl?avid=976228715&cid=427717669&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英】",URL="https://api.bilibili.com/x/player/playurl?avid=976228715&cid=427717393&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=976228715&cid=427718326&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

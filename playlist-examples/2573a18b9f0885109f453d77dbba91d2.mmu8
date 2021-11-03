@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/671c26f7a649c9e981d5c9bcc839d29cf53dd0da.jpg@640w_400h.jpg",ALT="大预言家？1967年新加坡国父李光耀这样预言中国发展..."
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=66134329&cid=114712302&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,28 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/822f2c0dafe23eb4b941b74e4c696ad3be184a30.jpg@640w_400h.jpg",ALT="【24集】四季中国（双语字幕）| 解锁十二节气的口语表达"
+#EXT-X-INF:INDEX=0,NAME="1. 立春",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405710413&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2. 雨水",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405710732&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3. 惊蛰",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405711342&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4. 春分",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405711585&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5. 清明",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405711682&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.谷雨",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405712407&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.立夏",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405719657&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.小满",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405712659&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.芒种",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405712780&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.夏至",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405713089&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11. 小暑",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405713624&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12. 大暑",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405713919&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13. 立秋",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405714008&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14. 处暑",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405714572&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.白露",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405714972&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.秋分",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405715151&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.寒露",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405715785&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.霜降",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405716148&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.立冬",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405716433&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.小雪",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405717057&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21. 大雪",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405717369&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22. 冬至",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405717673&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.小寒",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405718244&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.大寒",URL="https://api.bilibili.com/x/player/playurl?avid=632986728&cid=405718534&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

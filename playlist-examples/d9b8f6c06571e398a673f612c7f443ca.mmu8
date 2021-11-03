@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/688dc4d3a6def6a7e204c876933b883c12a645b3.jpg@640w_400h.jpg",ALT="小罗伯特唐尼：人们会觉得我矫情，但我真的不想再当钢铁侠了"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=59628751&cid=103877902&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=59628751&cid=103878032&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文原版】",URL="https://api.bilibili.com/x/player/playurl?avid=59628751&cid=103878134&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

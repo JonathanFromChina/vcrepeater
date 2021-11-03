@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/88ca08d02095bc8ec7b755ac296cc4fa5b15e050.jpg@640w_400h.jpg",ALT="【科普英语】如果你被鲸鱼吞了会怎样？（中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=243946035&cid=215241949&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【硬核机翻中文版】",URL="https://api.bilibili.com/x/player/playurl?avid=243946035&cid=215242075&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯正英文字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=243946035&cid=215242486&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

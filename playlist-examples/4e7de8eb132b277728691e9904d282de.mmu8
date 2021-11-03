@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/341cb263e84de8ec6576954d73cab8cc0859de0a.jpg@640w_400h.jpg",ALT="【英语口语】日常生活·表达88句"
+#EXT-X-INF:INDEX=0,NAME="日常生活篇英语口语表达88句",URL="https://api.bilibili.com/x/player/playurl?avid=583206974&cid=190014195&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

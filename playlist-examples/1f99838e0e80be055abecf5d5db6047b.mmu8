@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/e4f29a5e3c4a7287df3a32ddd9effd9646dbfc09.jpg@640w_400h.jpg",ALT="【英美文学经典】The Blue Cat of Castle Town（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="凯瑟琳·凯特·科布伦茨《城堡镇的蓝猫》",URL="https://api.bilibili.com/x/player/playurl?avid=927129356&cid=238105443&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

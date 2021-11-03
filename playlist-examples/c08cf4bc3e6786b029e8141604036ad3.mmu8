@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0eb917c0847062fe7a30153eae175e0e2fcbf911.jpg@640w_400h.jpg",ALT="【英语口语】在餐厅点餐必备的60句表达，你知道多少？你难道只会说I want this this and that吗？"
+#EXT-X-INF:INDEX=0,NAME="【英语口语】在餐厅点餐必备的60句表达，你知道多少？你难道只会说I want this this and that吗？",URL="https://api.bilibili.com/x/player/playurl?avid=244137426&cid=222608446&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

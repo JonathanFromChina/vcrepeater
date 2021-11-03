@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/94f27b915d14b9cd74f161e2e079f2ad8d4d0ac3.png@640w_400h.png",ALT="【零基础英语】100最常用英语单词 (中英双语）"
+#EXT-X-INF:INDEX=0,NAME="100最常用英語單詞   100最常用英语单词 (英语单词学习)",URL="https://api.bilibili.com/x/player/playurl?avid=883869997&cid=209336924&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

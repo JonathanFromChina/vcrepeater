@@ -1,0 +1,21 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/617c9d81749a8dade109e91bc51756c14b4fa853.png@640w_400h.png",ALT="【看动画 学语法】一次性学会英语语法（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="If I Were You - Conditionals in English",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795589&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Action Verbs Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795590&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Describing Animals  with Simple Present Tense",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795571&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Future Continuous Tense",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795563&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Modal Verbs Conversation",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795607&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Past Perfect Tense",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795638&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Prepositions of Place and Prepositions of Movement through Conversation",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795628&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Some, Every, Any, No & Compounds",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795649&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The Most Important Thing - Comparatives and Superlatives",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795692&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Used To and Would",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795703&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="We Went Camping - Irregular Verbs",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795718&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What are they doing Present Continuous Tense",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795702&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What are you going to do Simple Future Tense - Will  Be Going To  Be+ing",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795758&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What Did You Do Simple Past Tense",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795752&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What Have You Been Doing - Present Perfect Continuous",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795770&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What have you done lately Present Perfect Tense",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795769&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What were you doing - Past Continuous",URL="https://api.bilibili.com/x/player/playurl?avid=838378343&cid=198795781&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/d726615aeb399da2c0b9faa283b822fe02268ef7.jpg@640w_400h.jpg",ALT="常用银行英语表达：银行英文口语训练"
+#EXT-X-INF:INDEX=0,NAME="常用银行英语表达_银行英文口语训练",URL="https://api.bilibili.com/x/player/playurl?avid=201750003&cid=227059271&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

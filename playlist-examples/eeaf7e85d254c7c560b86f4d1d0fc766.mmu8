@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/a896120943b5f1b30a25940972ee7afc4411a33e.jpg@640w_400h.jpg",ALT="人人都能学好英语：生活工作英文47句(初级篇)"
+#EXT-X-INF:INDEX=0,NAME="20210322人人都能学好英语_生活工作英文47句_(初级篇)",URL="https://api.bilibili.com/x/player/playurl?avid=802351475&cid=315377335&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

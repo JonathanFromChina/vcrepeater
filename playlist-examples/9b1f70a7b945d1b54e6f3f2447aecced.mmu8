@@ -1,0 +1,74 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/df1c22c9b3d5b2d938e20fd6fad90db8c3be2b01.png@640w_400h.png",ALT="经典口语教材【走遍美国Family Album USA】高清全集"
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》01 46 Linden Street 林登大街46号 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127625&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》01 46 Linden Street 林登大街46号 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127680&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》01 46 Linden Street 林登大街46号 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127689&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》02 The Blind Date 介绍会面 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127675&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》02 The Blind Date 介绍会面 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127756&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》03 Grandpa's Trunk 祖父的行李箱 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127748&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》03 Grandpa's Trunk 祖父的行李箱 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127772&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》03 Grandpa's Trunk 祖父的行李箱 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127780&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》05 The Right Magic 钓鱼秘决 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127889&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》05 The Right Magic 钓鱼秘决 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127896&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》06 Thanksgiving 感恩节 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127911&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》06 Thanksgiving 感恩节 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128003&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》07 Man's Best Friend 人类最好的朋友 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127983&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》07 Man's Best Friend 人类最好的朋友 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184127980&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》07 Man's Best Friend 人类最好的朋友 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128052&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》08 You're Going to Be Fine 早日康复 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128031&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》08 You're Going to Be Fine 早日康复 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128056&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》08 You're Going to Be Fine 早日康复 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128054&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》09 It's Up to You 由你决定 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128100&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》09 It's Up to You 由你决定 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128154&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》09 It's Up to You 由你决定 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128153&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》10 Smell the Flowers 忙里偷闲 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128126&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》11 A Place of Our Own 自己的房子 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128220&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》11 A Place of Our Own 自己的房子 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128239&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》11 A Place of Our Own 自己的房子 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128270&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》12 You're Tops 你是高手 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128310&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》12 You're Tops 你是高手 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128296&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》12 You're Tops 你是高手 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128364&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》13 A Real Stewart 真正的Stewart家后代 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128374&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》13 A Real Stewart 真正的Stewart家后代 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128367&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》13 A Real Stewart 真正的Stewart家后代 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128402&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》14 Playing Games 做游戏 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128460&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》14 Playing Games 做游戏 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128454&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》14 Playing Games 做游戏 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128466&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》15 Second Honeymoon 二度蜜月 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128492&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》15 Second Honeymoon 二度蜜月 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128521&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》15 Second Honeymoon 二度蜜月 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128532&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》16 Full of Surprises 意外惊喜 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128564&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》16 Full of Surprises 意外惊喜 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128590&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》16 Full of Surprises 意外惊喜 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128608&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》17 Photo Finish 大功告成 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128601&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》17 Photo Finish 大功告成 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128607&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》17 Photo Finish 大功告成 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128664&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》18 Making a Difference 当仁不让 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128710&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》18 Making a Difference 当仁不让 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128670&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》18 Making a Difference 当仁不让 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128714&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》19 I Do 我愿意 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128727&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》19 I Do 我愿意 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128761&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》19 I Do 我愿意 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128829&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》20 Quality Time 黄金时间 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128788&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》20 Quality Time 黄金时间 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128801&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》20 Quality Time 黄金时间 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128881&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》21 A Big Fish in a Little Pond 小池塘里的大鱼 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128880&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》21 A Big Fish in a Little Pond 小池塘里的大鱼 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128892&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》21 A Big Fish in a Little Pond 小池塘里的大鱼 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128930&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》22 Career Choices 职业选择 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184128939&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》22 Career Choices 职业选择 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129054&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》22 Career Choices 职业选择 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129011&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》23 The Community Center 社区中心 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129012&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》23 The Community Center 社区中心 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129040&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》23 The Community Center 社区中心 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129033&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》24 Parting Friends 告别朋友 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129095&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》24 Parting Friends 告别朋友 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129118&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》24 Parting Friends 告别朋友 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129136&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》25 Country Music 乡间音乐 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129148&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》25 Country Music 乡间音乐 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129158&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》25 Country Music 乡间音乐 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129216&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》26 Opening Night 首展之夜 ACT 1",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129227&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》26 Opening Night 首展之夜 ACT 2",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129234&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="《走遍美国Family Album USA》26 Opening Night 首展之夜 ACT 3",URL="https://api.bilibili.com/x/player/playurl?avid=242911741&cid=184129240&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/d6fbe0bcccf0ee0c77dd8c09be54f05c54b081a1.jpg@640w_400h.jpg",ALT="英美剧常用对白｜英文影视常听到的地道表达100句 | 最实用的英文学习材料"
+#EXT-X-INF:INDEX=0,NAME="英美剧常用对白｜英文影视常听到的地道表达100句_最实用的英文学习材料",URL="https://api.bilibili.com/x/player/playurl?avid=930038118&cid=323944875&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

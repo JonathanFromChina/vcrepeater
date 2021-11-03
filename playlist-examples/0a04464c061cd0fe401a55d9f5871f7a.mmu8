@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/3e03eaf84f374d70c936b22ae45cc142b5f40f0a.jpg@640w_400h.jpg",ALT="高效提升英语听觉：日常英文听力练习"
+#EXT-X-INF:INDEX=0,NAME="高效提升英语听觉_日常英文听力练习",URL="https://api.bilibili.com/x/player/playurl?avid=843636978&cid=281822726&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/84c9cad086e6efd18bbb9557181d0747843d6e5f.jpg@640w_400h.jpg",ALT="老炮字幕君吐血整理！最适合学英语的脱口秀都在这里了！"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=416122873&cid=281146112&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

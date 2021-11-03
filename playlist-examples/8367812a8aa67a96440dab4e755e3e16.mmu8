@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/bc90b4bfdc27752f1cf36d6427528285eb648c45.jpg@640w_400h.jpg",ALT="天王嫂昆凌英文采访：之前去纽约看秀我还怀着孕并且晕倒了，人美英文流利，开口即倾心！（中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="天王嫂昆凌英文采访：之前去纽约看秀我还怀着孕并且晕倒了，人美英文流利，开口即倾心！（中英字幕）",URL="https://api.bilibili.com/x/player/playurl?avid=584490655&cid=230431214&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

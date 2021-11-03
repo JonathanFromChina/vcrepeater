@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/caa02dbd6e9f129a1099b553edef2b480fa0b967.jpg@640w_400h.jpg",ALT="提高您的英语听力：生活英文精选60句"
+#EXT-X-INF:INDEX=0,NAME="20210516【就是这么简单】提高您的英语听力_生活英文精选60句",URL="https://api.bilibili.com/x/player/playurl?avid=888803172&cid=357883694&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/5e9b691f96871868d5c52166eed9c8235bca7c84.jpg@640w_400h.jpg",ALT="学英语初级听力：练习英语绝佳材料｜扩大英语词汇量"
+#EXT-X-INF:INDEX=0,NAME="20210126学英语初级听力_练习英语绝佳材料｜扩大英语词汇量",URL="https://api.bilibili.com/x/player/playurl?avid=459121861&cid=294732116&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

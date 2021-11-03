@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/2a939d200bf22da3d4ed3e009b483317a77a5399.jpg@640w_400h.jpg",ALT="【英美文学经典】Missing in Sydney（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="安德里亚·m·哈钦森《失踪在悉尼》",URL="https://api.bilibili.com/x/player/playurl?avid=244607815&cid=235962569&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

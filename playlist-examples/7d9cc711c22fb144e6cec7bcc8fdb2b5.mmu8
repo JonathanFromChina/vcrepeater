@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/cfcac78ef55aa583a0405bc8a7000f861acc2295.jpg@640w_400h.jpg",ALT="听懂英语长句的秘密：从短句一点点加大长度，阶梯式英文训练法"
+#EXT-X-INF:INDEX=0,NAME="听懂英语长句的秘密：从短句一点点加大长度_阶梯式英文训练法",URL="https://api.bilibili.com/x/player/playurl?avid=208507100&cid=423774954&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【每天听一遍】高效练英语听说_轻松听懂常见英文表达方式！",URL="https://api.bilibili.com/x/player/playurl?avid=208507100&cid=423775379&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

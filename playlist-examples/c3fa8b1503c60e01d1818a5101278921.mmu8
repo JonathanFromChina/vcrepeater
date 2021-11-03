@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/03bb4c50b1c7891ccbc91f23cf83edd5dc02c4a9.jpg@640w_400h.jpg",ALT="英文听力再进步：学基础英语表达43句"
+#EXT-X-INF:INDEX=0,NAME="英文听力再进步_学基础英语表达43句",URL="https://api.bilibili.com/x/player/playurl?avid=800217516&cid=254149183&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

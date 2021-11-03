@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/69e9dd302522b5fde8efeecfc06af3dfb79412d9.jpg@640w_400h.jpg",ALT="500个英语重要长句：帮你成为口语高手"
+#EXT-X-INF:INDEX=0,NAME="500个英语重要长句(1)—帮你成为口语高手",URL="https://api.bilibili.com/x/player/playurl?avid=884099920&cid=219384644&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="500个英语重要长句(2)—帮你成为口语高手",URL="https://api.bilibili.com/x/player/playurl?avid=884099920&cid=219384949&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

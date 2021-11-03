@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/9fafb9eb6f7929b0b84174640b1ffb365121997e.jpg@640w_400h.jpg",ALT="“闭上眼睛，仿佛他从未离开”；C罗曼联回归首秀进球英文解说"
+#EXT-X-INF:INDEX=0,NAME="【中英+讲解】",URL="https://api.bilibili.com/x/player/playurl?avid=975392777&cid=407731040&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英】",URL="https://api.bilibili.com/x/player/playurl?avid=975392777&cid=407730809&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=975392777&cid=407730903&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

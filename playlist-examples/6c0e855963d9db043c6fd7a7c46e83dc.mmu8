@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/9d670e9c072a502d3963e420f1e1e488afa0e0b0.jpg@640w_400h.jpg",ALT="高效练习英语听力：5个生活常用对话"
+#EXT-X-INF:INDEX=0,NAME="高效练习英语听力_-_5个生活常用对话",URL="https://api.bilibili.com/x/player/playurl?avid=626012836&cid=202320047&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

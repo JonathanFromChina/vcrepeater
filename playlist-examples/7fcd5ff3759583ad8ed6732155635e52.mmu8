@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/f92489f93d2e7193c9dcb5833c17ffbc6c022ca5.jpg@640w_400h.jpg",ALT="【常用英语片语】学完听力_口语_阅读能力大大提高！"
+#EXT-X-INF:INDEX=0,NAME="学懂常用「英语片语」听力口语阅读能力大大提高！",URL="https://api.bilibili.com/x/player/playurl?avid=378911452&cid=433992496&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

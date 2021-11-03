@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0ef6dbdb8ee76d9f2b3d7a9805d58db0b4e27264.jpg@640w_400h.jpg",ALT="【看片儿学英语】《傲慢与偏见》中适合学英语的名场面（配生词解释）"
+#EXT-X-INF:INDEX=0,NAME="【片段1-中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=61218610&cid=106502104&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

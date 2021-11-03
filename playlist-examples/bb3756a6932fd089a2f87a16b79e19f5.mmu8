@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d1a68fecbde50268864d10006db507da3b636f1d.jpg@640w_400h.jpg",ALT="[日语学习]新标日第17课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师"
+#EXT-X-INF:INDEX=0,NAME="17课单词BGM",URL="https://api.bilibili.com/x/player/playurl?avid=762021810&cid=381935006&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

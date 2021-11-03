@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/35a40b55d6f48f593a5cc6ddba284bf4f586ea68.jpg@640w_400h.jpg",ALT="高效练英语听力：4个英文日常对话(中级篇)"
+#EXT-X-INF:INDEX=0,NAME="高效练英语听力_-_4个英文日常对话(中级篇)",URL="https://api.bilibili.com/x/player/playurl?avid=286082202&cid=202329548&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

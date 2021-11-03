@@ -1,0 +1,98 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/499dc5fded19a142c3f10ffa0eff0fdc29225987.jpg@640w_400h.jpg",ALT="【100集全】最具影响力的TED演讲精选，培养你的英语思维，提高你的英语口语！"
+#EXT-X-INF:INDEX=0,NAME="An Art Made of Trust, Vulnerability and Connection   Marina Abramović   TED Talk",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221327520&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Andres Lozano Parkinson's, depression and the switch that might turn them off",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221327765&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Arthur Potts Dawson A vision for sustainable restaurants",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221328046&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ashraf Ghani How to fix broken states",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221328276&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ben Dunlap The life-long learner",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221328592&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Can a robot pass a university entrance exam   Noriko Arai",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221329176&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Carolyn Porco This is Saturn",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221329381&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Charles Fleischer insists All things are Moleeds",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221329608&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Close-up card magic with a twist   Lennart Green (2)",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221329912&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Could we speak the language of dolphins   Denise Herzing",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221330094&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Daniel Wolpert The real reason for brains",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221330428&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="David Deutsch Chemical scum that dream of distant quasars (2)",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221330655&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="David Kelley The future of design is human-centered",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221330901&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="David Logan Tribal leadership",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221331223&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Doris Kearns Goodwin What we can learn from past presidents",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221331435&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Drew Berry Animations of unseeable biology",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221331709&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Drew Dudley Everyday leadership",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221331925&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Erin McKean Go ahead, make up new words!",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221332245&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Fashion has a pollution problem -- can biology fix it   Natsai Audrey Chieza",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221332679&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Franco Sacchi Welcome to Nollywood",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221332909&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Fredy Peccerelli A forensic anthropologist who brings closure for the “disappear",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221333079&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Geoffrey West The surprising math of cities and corporations",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221333356&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Greg Lynn How calculus is changing architecture",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221333567&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Homaro Cantu + Ben Roche Cooking as alchemy",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221333767&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How a male contraceptive pill could work   John Amory",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221334046&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How a typeface helped launch Apollo   Douglas Thomas",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221334233&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How diversity makes teams more innovative   Rocío Lorenzo",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221334519&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How fashion helps us express who we are -- and what we stand for   Kaustav Dey",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221334691&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How germs travel on planes -- and how we can stop them   Raymond Wang",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221334928&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How I found a mythical boiling river in the Amazon   Andrés Ruzo",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221335101&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How isolation fuels opioid addiction   Rachel Wurzman",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221335272&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How my dad's dementia changed my idea of death (and life)   Beth Malone",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221335513&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How porn changes the way teens think about sex   Emily F. Rothman",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221335698&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to build (and rebuild) trust   Frances Frei",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221336312&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to get back to work after a career break   Carol Fishman Cohen",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221336543&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How urban agriculture is transforming Detroit   Devita Davison",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221336729&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How yarn bombing grew into a worldwide movement   Magda Sayeg",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221337002&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Immigrant voices make democracy stronger   Sayu Bhojwani",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221337163&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="In the opioid crisis, here's what it takes to save a life   Jan Rader",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221337304&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Indigenous knowledge meets science to solve climate change   Hindou Oumarou Ibra",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221337513&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Inside the world's deepest caves   Bill Stone",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221337680&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Jon Nguyen Tour the solar system from home",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221337914&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Judy MacDonald Johnston Prepare for a good end of life",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221338115&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Karen Bass Unseen footage, untamed nature",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221338283&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lawrence Lessig The unstoppable walk to political reform",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221338504&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Laws that choke creativity   Larry Lessig",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221338677&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Let the environment guide our development   Johan Rockstrom",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221338910&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Let's try emotional correctness   Sally Kohn",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221339055&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Let's use video to reinvent education   Salman Khan",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221339200&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lorrie Faith Cranor What's wrong with your pa$$w0rd",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221339516&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Marco Tempest The electric rise and fall of Nikola Tesla",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221339698&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Mechai Viravaidya How Mr. Condom made Thailand a better place",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221339890&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Michael Moschen Juggling rhythm and motion",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221340049&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Mustafa Akyol Faith versus tradition in Islam",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221340244&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Nathan Myhrvold A life of fascinations",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221340411&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Nathan Wolfe What's left to explore",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221340629&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Newton Aduaka The story of Ezra, a child soldier (2)",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221340770&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ory Okolloh The making of an African activist (2)",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221340916&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Our fight for disability rights -- and why we're not done yet   Judith Heumann",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221341130&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Peter Haas Haiti's disaster of engineering",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221341265&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Pico Iyer Where is home",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221341656&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Rachel Sussman The world's oldest living things",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221341789&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Roger Ebert Remaking my voice",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221341993&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sasa Vucinic Why a free press is the best investment",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221342143&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sergei Lupashin A flying camera ... on a leash",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221342324&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sheikha Al Mayassa Globalizing the local, localizing the global",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221342478&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sheila Nirenberg A prosthetic eye to treat blindness",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221342625&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Stanley McChrystal Listen, learn ... then lead",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221342816&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Steven Johnson The Web and the city",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221342933&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Strange answers to the psychopath test   Jon Ronson",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221343117&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The beauty of what we'll never know   Pico Iyer",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221343235&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The era of blind faith in big data must end   Cathy O'Neil",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221343403&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The incredible inventions of intuitive AI   Maurice Conti",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221343523&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The most mysterious star in the universe   Tabetha Boyajian",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221343643&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The next generation of African architects and designers   Christian Benimana",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221343791&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The Rise of Personal Robots   Cynthia Breazeal   TED Talks (2)",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221343927&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The science of friction -- and its surprising impact on our lives   Jennifer Vai",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221344080&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The secret sneaker market — and why it matters   Josh Luber",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221344202&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The surprisingly charming science of your gut   Giulia Enders",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221344304&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The thrilling potential for off-grid solar energy   Amar Inamdar",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221344519&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Tom Shannon's gravity-defying sculpture",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221344648&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What a driverless world could look like   Wanis Kabbaj",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221344799&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What doctors should know about gender identity   Kristie Overstreet",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345047&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What I learned as a prisoner in North Korea   Euna Lee",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345209&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What I learned from 100 days of rejection   Jia Jiang",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345314&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What I've learned about parenting as a stay-at-home dad   Glen Henry",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345465&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What we're missing in the debate about immigration   Duarte Geraldino",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345561&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What's your 200-year plan   Raghava KK",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345738&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Why fascism is so tempting -- and how your data could power it   Yuval Noah Hara",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345874&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Why open a school To close a prison   Nadia Lopez",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221345997&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Why we make bad decisions   Dan Gilbert",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221346174&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Why we need to end the era of orphanages   Tara Winkler",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221346299&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Wingham Rowan A new kind of job market",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221346425&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Your brain hallucinates your conscious reality   Anil Seth",URL="https://api.bilibili.com/x/player/playurl?avid=244189989&cid=221346559&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

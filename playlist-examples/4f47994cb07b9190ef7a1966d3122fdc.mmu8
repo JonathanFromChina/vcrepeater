@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/9fbcb2de4e14402dc2b664ebb1dc2731e33af90c.png@640w_400h.png",ALT="【零基础英语】 英语数字1到100"
+#EXT-X-INF:INDEX=0,NAME="【数字英文】 英语数字1到100 (英文數字)",URL="https://api.bilibili.com/x/player/playurl?avid=328770983&cid=209335399&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

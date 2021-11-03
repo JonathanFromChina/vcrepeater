@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/8cd204021316de7363f3afa4b9f931acb4f2f4ca.jpg@640w_400h.jpg",ALT="碧昂斯致辞2020毕业生：投资自己，赌自己赢！"
+#EXT-X-INF:INDEX=0,NAME="【中英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=883593026&cid=202061077&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=883593026&cid=202060367&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=883593026&cid=202064832&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

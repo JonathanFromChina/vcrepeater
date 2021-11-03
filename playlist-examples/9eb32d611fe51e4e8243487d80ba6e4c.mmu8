@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/8471d5c3e7ea94b69b46cb8292021205841884b1.jpg@640w_400h.jpg",ALT="攻克英语口语：每天英文口说跟读训练39句（初级_中级英语）"
+#EXT-X-INF:INDEX=0,NAME="20210518攻克英语口语_每天英文口说跟读训练39句（初级_中级英语）",URL="https://api.bilibili.com/x/player/playurl?avid=248870835&cid=357884107&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

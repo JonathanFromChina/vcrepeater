@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/450cc3928b7647fdb1b9b7c4c96a6bd1c7661523.jpg@640w_400h.jpg",ALT="必学必会英语听力特训179句"
+#EXT-X-INF:INDEX=0,NAME="必学必会英语听力特训179句",URL="https://api.bilibili.com/x/player/playurl?avid=328541601&cid=202302127&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

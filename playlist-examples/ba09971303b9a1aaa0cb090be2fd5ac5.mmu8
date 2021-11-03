@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/78f5b452341f933dff89c05da1e6a6ebccd61115.jpg@640w_400h.jpg",ALT="流利说英语：有效提高您的英文口语60句"
+#EXT-X-INF:INDEX=0,NAME="20210324流利说英语_有效提高您的英文口语60句",URL="https://api.bilibili.com/x/player/playurl?avid=587253475&cid=315378217&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,69 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/0cfde312016be688109fb831815e7821c146ce9e.jpg@640w_400h.jpg",ALT="【动画背单词·65集】英语分类词汇合集 （适合少儿教学/新手自学）"
+#EXT-X-INF:INDEX=0,NAME="1.Jobs and Occupations Vocabulary _ List",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390544&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.Outdoor Activities Vocabulary in English",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390600&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.Common Action Verbs in English _ Actio",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390614&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.Learn Nature Vocabulary _ The Natural",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390626&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.Halloween Vocabulary in English _ Talk",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390635&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.Laboratory Equipment Names _ List of L",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390651&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.Words that Describe Personality and Ch",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390669&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.Stationery and Office Supplies Vocabul",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390693&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.Technological Gadgets Vocabulary _ Lea",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390708&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.Countable u0026 Uncountable FOOD in E",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390713&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.Prepositions of Movement - Prepositio",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390719&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.Numbers Vocabulary _ How to Say Numbe",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390737&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.Learn Prepositions of Place with Cats",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390745&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.Formal Table Setting _ Learn Table Se",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390749&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.Learn Crime and Punishment Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390757&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.Human Life Cycle Vocabulary _ Human L",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390766&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.British vs. American Food Names _ Dif",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390770&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.Learn Handicraft Vocabulary with Pict",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390784&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.Learn Firefighting and Rescue Vocabul",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390796&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.Linking Words and Phrases _ Transitio",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390804&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.Learn Common Informal Contractions to",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390821&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.Learn 120+ Verb Collocations to Speak",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390830&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.HOMOPHONES - Confusing Words that Sou",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390865&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.INTERNET Slang_ 100+ Popular Texting",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390887&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.Learn 120+ Common Opposites in Englis",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390942&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.Do You Want To Speak English Faster_",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390974&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.Learn 60+ Common Synonyms in English",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104390992&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.How to Pronounce Contractions - Alpha",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391003&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.Adjectives u0026 Prepositions _ 100+",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391015&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.Learn 45+ Ways to Say Congratulations",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391036&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.30 Ways to Say HELLO - 30 Useful Engl",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391049&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.Learn Common Irregular Plural Nouns i",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391066&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.Expand Your Vocabulary_ 30+ English P",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391102&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.HOMOGRAPHS - Confusing Words with Sam",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391187&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.How English is Really Spoken_ Informa",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391263&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.55 Alternative Ways to Say 'NO'",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391285&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.Thanks a Million! 65 New Ways to Say",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391302&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.Useful Phrasal Verbs for TRAVEL in En",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391367&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.SPORTS Vocabulary in English - Talkin",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391395&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.Countries, Nationalities and Language",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391419&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.Collective Nouns for THINGS_ Useful C",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391448&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.50+ Collective Nouns for PEOPLE to Bo",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391467&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.Countries, Nationalities and Language",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391514&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.English Vocabulary_ Parts of A CHICKE",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391561&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.English Vocabulary_ Parts of a CAT %2",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391583&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.Learn 120+ Common SYNONYMS to Improve",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391612&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47.Countries, Nationalities and Language",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391687&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="48.Countries, Nationalities and Language",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391712&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="49.Learn 120+ Common ANTONYMS in English",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391746&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50.Important AMERICAN and BRITISH Spelli",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391778&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="51.Learn English VOCABULARY Through PICT",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391818&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="52.COUNTRIES, NATIONALITIES and LANGUAGE",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104391892&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="53.Learn How to Tell the TIME Properly i",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392014&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="54.ANIMAL BODY PARTS Vocabulary in Engli",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392046&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="55.SCHOOL Vocabulary in English _ School",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392098&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="56.JOBS Vocabulary in English _ Names of",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392146&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="57.DO vs MAKE_ The Difference between DO",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392180&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="58.BRITISH English vs. AMERICAN English_",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392205&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="59.FORMAL and INFORMAL Words_ 400+ English",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392240&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="60.English Vocabulary_ Weather, Natural",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392345&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="61.Things in the Kitchen Vocabulary _ Le",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392393&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="62.IN THE CITY Vocabulary _ Learn Names",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392486&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="63.Members of the Family Vocabulary_ Nam",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392512&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="64.ANIMAL NAMES in English_ 100+ Animals",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392557&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="65.150 Sets of HOMOPHONES from A-Z _ Lis",URL="https://api.bilibili.com/x/player/playurl?avid=59939704&cid=104392612&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

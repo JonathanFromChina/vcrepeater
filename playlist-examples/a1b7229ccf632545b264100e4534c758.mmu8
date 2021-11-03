@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/b7f3dbdfab95c08940331ebeeb2d0b1851fe2647.jpg@640w_400h.jpg",ALT="科学训练英语听力：渐进式提高英文句子难度（从基础到进阶）"
+#EXT-X-INF:INDEX=0,NAME="20210504科学训练英语听力_渐进式提高英文句子难度（从基础到进阶）",URL="https://api.bilibili.com/x/player/playurl?avid=973396279&cid=348169078&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

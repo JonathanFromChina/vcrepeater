@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/9c18e7094aaba3b86a84baea81cb38a359fe68fe.jpg@640w_400h.jpg",ALT="能说会道英语口语听力训练：高效练耳朵（基础提升篇）"
+#EXT-X-INF:INDEX=0,NAME="能说会道英语口语听力训练_高效练耳朵（基础提升篇）",URL="https://api.bilibili.com/x/player/playurl?avid=843758348&cid=288056980&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

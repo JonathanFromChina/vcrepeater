@@ -1,0 +1,30 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/ae4fd6c7c891eb62e5fc6e405ace56c020443039.jpg@640w_400h.jpg",ALT="【英文听力练习】沉浸式助眠·美语口音环绕"
+#EXT-X-INF:INDEX=0,NAME="30 English dialogues for Daily life",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187497524&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36 English Dialogues for Job Application and Interview",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187497759&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40 Basics English Lessons for Life and Business",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187498783&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40_Topics_for_English_Dialogues_-_Ask_and_Answer",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187499272&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45 English Situations of the Social Communication",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187499708&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46 Social Conversations in English",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187500240&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47 Practical English Lessons for Communication",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187500733&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50 English Conversations for Office Staff",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187501280&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50 Topics for Everyday Life Conversations",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187501503&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="57 English Conversations for Everyday Life",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187502185&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="72_Common_English_Dialogs_for_Daily_Life",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187502664&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15_English_Lessons_for_Conversational_English",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187503349&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="72_Short_and_Funny_English_Dialogs",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187504772&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="74_Topics_-_Daily_Life_English_conversations_for_Self-Study",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187505005&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="82_English_Conversations_for_Business_and_Trade",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187505791&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="95_Short_English_Dialogs_for_learning_English",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187506839&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="100_American_Idioms_in_English_speaking",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187507208&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="104_Daily_Life_English_Dialogues",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187507380&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="130_English_Sentences_-_Ask_and_Answer",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187507989&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="150_Common_English_Questions_and_Answers",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187508360&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="160_English_Dialogues_for_Travelling_and_Tourism",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187508638&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="1000_English_Sentences_for_Business",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187509628&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="400_Basic_English_Sentences_for_Daily_Conversations",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187510821&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="365_Basic_English_Sentences",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187511303&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="250_Common_English_Questions_and_Answers",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187512249&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="250_Basic_English_Sentences_for_Life",URL="https://api.bilibili.com/x/player/playurl?avid=968072371&cid=187513637&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/1555db9f3f2b0515876c00478780afeb859649a4.jpg@640w_400h.jpg",ALT="直接高效学英语：提高您的口语听力，轻松掌握55句日常英文"
+#EXT-X-INF:INDEX=0,NAME="20210317直接高效学英语_提高您的口语听力_轻松掌握55句日常英文",URL="https://api.bilibili.com/x/player/playurl?avid=929755033&cid=315376295&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

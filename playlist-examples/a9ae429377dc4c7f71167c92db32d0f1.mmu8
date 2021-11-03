@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/decabb6fb28d0d6fe2be3ff9201e3604cc56e39f.jpg@640w_400h.jpg",ALT="【6小时听力集训】绝佳听力素材，洗脑式磨炼你的英语耳，学完英语提升N个层次！"
+#EXT-X-INF:INDEX=0,NAME="6 Hours Listening to English When Sleeping -",URL="https://api.bilibili.com/x/player/playurl?avid=207277434&cid=387426036&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

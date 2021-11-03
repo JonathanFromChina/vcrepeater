@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/aa0186b7306728bd441972d31b43443431255546.jpg@640w_400h.jpg",ALT="【英语发音强势矫正】来自好莱坞的大师帮你分析口音产生的原因，口把口带你彻底摆脱中式口音！（5小时超详细教学）"
+#EXT-X-INF:INDEX=0,NAME="1",URL="https://api.bilibili.com/x/player/playurl?avid=629551953&cid=307852526&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2",URL="https://api.bilibili.com/x/player/playurl?avid=629551953&cid=307853354&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3",URL="https://api.bilibili.com/x/player/playurl?avid=629551953&cid=307853990&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

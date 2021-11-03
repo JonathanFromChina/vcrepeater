@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/06863cf0ff831c3c9e2768698babdcc6c80f3c6a.jpg@640w_400h.jpg",ALT="[日语学习]新标日第24课单词带背音频"
+#EXT-X-INF:INDEX=0,NAME="24课有BGM",URL="https://api.bilibili.com/x/player/playurl?avid=293837250&cid=431706734&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

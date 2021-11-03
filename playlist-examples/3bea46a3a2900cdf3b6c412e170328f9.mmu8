@@ -1,0 +1,49 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/e8264a19864bc55951f93338f45f1704b12494a2.jpg@640w_400h.jpg",ALT="【英语】听力+口语+词汇+语法（精品课）"
+#EXT-X-INF:INDEX=0,NAME="1.how to communicate with native eng",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120814473&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.english sentences creative thinkin",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120814497&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.english vocabulary creative thinki",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120814521&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.a 750 mile hike through the grand",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120814530&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.5 mistakes to avoid as an english",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120814574&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.30 american slang words and phrase",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120814657&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.how to answer any question in engl",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120814971&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.ow to describe a person in english",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815012&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.how to describe images in english",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815051&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.how to express your opinion in en",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815085&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.how to express yourself in englis",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815138&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.how to find the main topic and su",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815213&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.how to get fluent in english in 5",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815242&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.how to give english presentations",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815316&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.how to go from a basic to an adva",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815351&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.how to improve your english liste",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815398&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.how to improve your english readi",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815425&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.how to improve your english vocab",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815459&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.how to improve your english writi",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815515&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.how to know if you are fluent in",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815611&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.how to learn english in 15 minute",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815653&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.how to learn english in a year",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815691&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.how to make long english sentence",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815750&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.how to pass an interview in engli",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815782&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.how to practice and improve your",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815814&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.how to practice speaking in engli",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815847&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.how to properly write a business",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815889&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.how to speak english like a nativ",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815930&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.how to speak fluently in english",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815956&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.how to stay motivated when you st",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120815996&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.how to stop making grammar mistak",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816012&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.how to study english for 30 days",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816032&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.how to study english for intermed",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816049&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.how to study for the ielts speaki",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816098&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.how to summarize any article in e",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816123&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.how to talk about any topic in en",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816177&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.how to talk about relationships i",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816217&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.how to think creatively in englis",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816244&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.how to understand any english mov",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816275&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.how to use 25 of the most common",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816306&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.how to use 50 natural english exp",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816339&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.how to use complex english senten",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816367&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.how to use vocabulary in real lif",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816378&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.learn english vocabulary words an",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816416&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.the best way to learn english for",URL="https://api.bilibili.com/x/player/playurl?avid=69720596&cid=120816453&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

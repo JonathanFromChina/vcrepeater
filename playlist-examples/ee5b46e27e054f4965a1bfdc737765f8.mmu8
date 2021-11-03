@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e6e458984994006005291a77599f71b30fdae8e4.jpg@640w_400h.jpg",ALT="提升英文听力技能：常用英语会话训练(聚会Party篇)"
+#EXT-X-INF:INDEX=0,NAME="提升英文听力技能_常用英语会话训练(聚会Party篇)",URL="https://api.bilibili.com/x/player/playurl?avid=286244783&cid=208636037&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="提高英文听力水平_高效训练9个英语对话(Party篇_第二集)",URL="https://api.bilibili.com/x/player/playurl?avid=286244783&cid=208635746&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

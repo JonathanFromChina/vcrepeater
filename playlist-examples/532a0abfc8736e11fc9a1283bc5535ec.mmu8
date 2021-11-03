@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/24c271bf7cd8a9ab5a12f388ac3d471c23c49c69.jpg@640w_400h.jpg",ALT="一生受益的英语万用句型22个：你的英语马上说得更自然更地道！"
+#EXT-X-INF:INDEX=0,NAME="一生受益的英语万用句型22个_-_你的英语马上说得更自然更地道！",URL="https://api.bilibili.com/x/player/playurl?avid=806016448&cid=423779026&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【每天听一遍】高效练英语听说_轻松听懂常见英文表达方式！",URL="https://api.bilibili.com/x/player/playurl?avid=806016448&cid=423779395&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

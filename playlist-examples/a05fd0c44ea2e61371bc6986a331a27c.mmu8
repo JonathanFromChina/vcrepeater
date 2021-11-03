@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/ad4684c0ec3ee2b34f23f1dd2ac2407acee42c12.png@640w_400h.png",ALT="王嘉尔超酥英文采访超长版，雅思口语9分范例！（中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="【硬核机翻中文字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=926395634&cid=215242849&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯正英文字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=926395634&cid=215248423&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

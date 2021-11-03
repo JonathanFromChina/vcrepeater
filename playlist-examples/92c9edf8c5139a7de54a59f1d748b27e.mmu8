@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/90ded0a1c785d3a637ad392ac43d29c1490538cf.jpg@640w_400h.jpg",ALT="Lady Gaga首谈19岁遭制作人性侵并怀孕；欧美贵圈水太深不好把握！"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=760921970&cid=347921255&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=760921970&cid=347921142&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕完整版】",URL="https://api.bilibili.com/x/player/playurl?avid=760921970&cid=347921682&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

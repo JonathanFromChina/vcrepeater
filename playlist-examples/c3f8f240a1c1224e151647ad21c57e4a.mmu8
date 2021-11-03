@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/b8f95d59931e4a5556a58faed9a2113b79b6db8f.png@640w_400h.png",ALT="【英语口语】你想更快更流利地说英语吗？这些词竟然可以弱读！（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="Do You Want To Speak English Faster Common Informal Contractions You Will Hear_0",URL="https://api.bilibili.com/x/player/playurl?avid=541354325&cid=211046294&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

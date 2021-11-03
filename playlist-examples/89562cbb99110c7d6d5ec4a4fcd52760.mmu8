@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/720ea1218a336cb3122bef6915238b8f9781a6ba.jpg@640w_400h.jpg",ALT="【英美文学经典】Blackbeard's Treasure（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="珍妮·杜利《黑胡子的宝藏》",URL="https://api.bilibili.com/x/player/playurl?avid=414609669&cid=235955861&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

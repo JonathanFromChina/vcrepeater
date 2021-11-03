@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/a51ce7534e8130e243498f985c7135139f0ab1e4.jpg@640w_400h.jpg",ALT="高效练耳朵英语：听力填空练习(家庭关系/爱情篇)"
+#EXT-X-INF:INDEX=0,NAME="高效练耳朵英语听力填空练习(家庭关系_爱情篇)",URL="https://api.bilibili.com/x/player/playurl?avid=753554311&cid=202319063&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

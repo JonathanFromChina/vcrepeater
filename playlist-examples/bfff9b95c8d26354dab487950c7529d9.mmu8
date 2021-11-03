@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/d215228d537c31598b3a5c6d9c351f0e59539dde.jpg@640w_400h.jpg",ALT="【英美文学经典】Home for Christmas（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="安德里亚·m·哈钦森的《圣诞回家》",URL="https://api.bilibili.com/x/player/playurl?avid=499513882&cid=235960700&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

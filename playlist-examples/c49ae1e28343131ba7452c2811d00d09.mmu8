@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/a6f81ad12d5fbaf343535569887a4cdabf5a2e79.jpg@640w_400h.jpg",ALT="如何听懂英国女王的王室英语？听完这段对话你就懂了！"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=589896787&cid=393412462&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

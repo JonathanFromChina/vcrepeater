@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/78efa8e01d7d6a9748d4401c95ec959ab3be59c1.jpg@640w_400h.jpg",ALT="蕾哈娜是如何睡前护肤的？来跟日日学护肤品英文吧！"
+#EXT-X-INF:INDEX=0,NAME="【中英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=329128764&cid=221961865&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=329128764&cid=221961370&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=329128764&cid=221960956&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

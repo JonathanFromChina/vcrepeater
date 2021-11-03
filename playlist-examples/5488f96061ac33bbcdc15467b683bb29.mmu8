@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/fa46e96fd90909defdbcc4048a061002271a400e.jpg@640w_400h.jpg",ALT="45句英语听力突破：学会生活常用英文基础表达"
+#EXT-X-INF:INDEX=0,NAME="45句英语听力突破_学会生活常用英文基础表达",URL="https://api.bilibili.com/x/player/playurl?avid=330164692&cid=254145836&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

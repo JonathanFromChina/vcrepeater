@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/e51a697666912a0e43e3f5dabf3cb95badc05969.jpg@640w_400h.jpg",ALT="【英美文学经典】柯南·道尔《最后一个问题》（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="柯南·道尔《最后一个问题》",URL="https://api.bilibili.com/x/player/playurl?avid=842431110&cid=246966703&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/46ce34ae884fb53c583c539cbc969404954db937.jpg@640w_400h.jpg",ALT="每天英语听力：加强提升英文敏锐力47句"
+#EXT-X-INF:INDEX=0,NAME="20210202每天英语听力_加强提升英文敏锐力47句",URL="https://api.bilibili.com/x/player/playurl?avid=886552994&cid=294733338&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

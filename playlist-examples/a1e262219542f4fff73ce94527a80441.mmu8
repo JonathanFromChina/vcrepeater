@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/1ad12c500b0866ecc04e0d0161ddddf6d013a5d0.jpg@640w_400h.jpg",ALT="强效英语听说82句：躺着就能把交流英语学会！"
+#EXT-X-INF:INDEX=0,NAME="20210719强效英语听说82句_躺着就能把交流英语学会！",URL="https://api.bilibili.com/x/player/playurl?avid=805760039&cid=415754079&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

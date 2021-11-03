@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/5ee763001513d24ee60934b1fca22edd6609da82.jpg@640w_400h.jpg",ALT="【15集 • 高级英语听力训练】从零基础到大神的听力练习材料，让你的听力提高n个level！"
+#EXT-X-INF:INDEX=0,NAME="A English Business Presentation",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751799&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="At a Printing Company in the USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751809&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Choosing Travel Insurance in The USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751818&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Deciding on a Hotel in The USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751832&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Discussing Survey Results in English",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751841&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Getting a Gym Membership in the USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751850&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Getting to the Airport in The USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751855&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Giving Back to the Community in The USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751863&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Going to the Library in The USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751871&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ordering Office Supplies in English",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751884&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Preparing For an English Business Meeting",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751898&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Reserving Tickets to a Play in English",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751903&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Setting up a Meeting Room in The USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751915&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Talking to a Supplier in English",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751920&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What's On These Shelves in The USA",URL="https://api.bilibili.com/x/player/playurl?avid=627475633&cid=245751932&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

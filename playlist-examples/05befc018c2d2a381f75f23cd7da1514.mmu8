@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/eb71196c78c58fae6fcc32a86c84583c3306a457.jpg@640w_400h.jpg",ALT="如何听懂正常语速的英语新闻？这篇《鱿鱼游戏》的报道教给你"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=676266495&cid=430831481&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

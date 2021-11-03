@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/2b388a13c199a7aeeea99edcb877245d8645465c.jpg@640w_400h.jpg",ALT="一定用得到的机场英语｜坐飞机英语｜听懂机场英文｜实用机场口语"
+#EXT-X-INF:INDEX=0,NAME="一定用得到的机场英语｜坐飞机英语｜听懂机场英文｜实用机场口语",URL="https://api.bilibili.com/x/player/playurl?avid=806075150&cid=423776999&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【每天听一遍】高效练英语听说_轻松听懂常见英文表达方式！",URL="https://api.bilibili.com/x/player/playurl?avid=806075150&cid=423777385&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

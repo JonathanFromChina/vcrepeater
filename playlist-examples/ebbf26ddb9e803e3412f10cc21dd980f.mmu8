@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/512b420a8d310ce437f91f08ba84889885686e06.jpg@640w_400h.jpg",ALT="轻轻松松学交流常用英文句子68个：英语口语和听力再进步！"
+#EXT-X-INF:INDEX=0,NAME="20210514轻轻松松学交流常用英文句子68个_英语口语和听力再进步！",URL="https://api.bilibili.com/x/player/playurl?avid=631271203&cid=357882919&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

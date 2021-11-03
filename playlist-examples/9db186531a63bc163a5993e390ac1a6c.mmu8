@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/c9e23b5d5a7c89950e1e9a24215ae5a811d6315c.jpg@640w_400h.jpg",ALT="学会随时可用的英语一问一答：最适合英文初学者反复练习和提高"
+#EXT-X-INF:INDEX=0,NAME="20210522学会随时可用的英语一问一答_最适合英文初学者反复练习和提高_（第9集）",URL="https://api.bilibili.com/x/player/playurl?avid=376267334&cid=357885700&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

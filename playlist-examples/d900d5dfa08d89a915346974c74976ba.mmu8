@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/3461e43d3bd5bffb788bd24428f324898771eecd.jpg@640w_400h.jpg",ALT="品德/性格英语听力针对训练：提高英文词汇量"
+#EXT-X-INF:INDEX=0,NAME="品德_性格英语听力针对训练_提高英文词汇量",URL="https://api.bilibili.com/x/player/playurl?avid=797685336&cid=254619725&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

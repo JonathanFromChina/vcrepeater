@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/efda55541f06ae19afde3c99af4c9f4641c10e4a.jpg@640w_400h.jpg",ALT="英语听力加速提高:46个重要生活基础短句"
+#EXT-X-INF:INDEX=0,NAME="英语听力加速提高_46个重要生活基础短句",URL="https://api.bilibili.com/x/player/playurl?avid=969333597&cid=227062951&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

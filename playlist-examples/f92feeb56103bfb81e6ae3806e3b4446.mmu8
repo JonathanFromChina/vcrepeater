@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/c8694619ee98603cbc3e7be2a1029e944727780c.jpg@640w_400h.jpg",ALT="英文对话听力加强训练：提高您的英语听力技能"
+#EXT-X-INF:INDEX=0,NAME="英文对话听力加强训练_-_提高您的英语听力技能",URL="https://api.bilibili.com/x/player/playurl?avid=883913680&cid=213892042&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

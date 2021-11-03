@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/414b60a00719e3bb11f3b25438a6b24852d08f79.jpg@640w_400h.jpg",ALT="英语初级表达56个：高效率练习听力+跟读"
+#EXT-X-INF:INDEX=0,NAME="英语初级表达56个_高效率练习听力+跟读",URL="https://api.bilibili.com/x/player/playurl?avid=756527297&cid=294729655&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

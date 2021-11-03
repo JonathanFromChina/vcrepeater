@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/dc454c81c94e48a262e683f2897bd9be282a50e6.jpg@640w_400h.jpg",ALT="如何听懂正常语速的毕业演讲？一起这样练吧！"
+#EXT-X-INF:INDEX=0,NAME="【修改版】",URL="https://api.bilibili.com/x/player/playurl?avid=547582800&cid=398062950&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

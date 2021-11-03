@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/fb2682e0295b069558fb51fbef1a3723c7eee3b6.jpg@640w_400h.jpg",ALT="如何听懂英国人的正常语速？试试凯拉的语速你听得懂吗"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=675352329&cid=402179740&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

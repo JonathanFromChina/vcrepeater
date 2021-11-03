@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/7b838ba1283344a533fb435eea4398c542b495f2.jpg@640w_400h.jpg",ALT="听英文会话：提高英语听力水平(居住/未来篇)"
+#EXT-X-INF:INDEX=0,NAME="听英文会话_提高英语听力水平(居住_未来篇)",URL="https://api.bilibili.com/x/player/playurl?avid=583930386&cid=213890604&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="听日常英文对话_-_快速提高英语听力（不带中文音频）",URL="https://api.bilibili.com/x/player/playurl?avid=583930386&cid=213890694&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

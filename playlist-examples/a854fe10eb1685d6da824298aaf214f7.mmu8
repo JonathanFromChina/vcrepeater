@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/02be7d48d3e34e9012c656831a45621ea03d8873.jpg@640w_400h.jpg",ALT="让你进入深度睡眠的英语"
+#EXT-X-INF:INDEX=0,NAME="Fast reading English phrases that will lull you into a deep sleep快速阅读能让你进入深度睡眠的英",URL="https://api.bilibili.com/x/player/playurl?avid=625654632&cid=192807257&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/46ff8559a0ccb91c07d76ccf9b0cfcf3e90a0df9.jpg@640w_400h.jpg",ALT="英语长句一点一点适应：从短句到长句练习，一天比一天进步"
+#EXT-X-INF:INDEX=0,NAME="英语长句一点一点适应：从短句到长句练习_一天比一天进步",URL="https://api.bilibili.com/x/player/playurl?avid=506098733&cid=423780701&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【每天听一遍】高效练英语听说_轻松听懂常见英文表达方式！",URL="https://api.bilibili.com/x/player/playurl?avid=506098733&cid=423781579&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

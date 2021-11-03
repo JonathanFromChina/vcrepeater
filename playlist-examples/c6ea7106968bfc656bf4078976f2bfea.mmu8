@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/278466b9419f14e57260a9c9d4990cd45d147570.jpg@640w_400h.jpg",ALT="提高英语听力训练：英文常用会话6个"
+#EXT-X-INF:INDEX=0,NAME="提高英语听力训练_英文常用会话6个",URL="https://api.bilibili.com/x/player/playurl?avid=541243737&cid=208641515&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="提高英语听力水平_高效练习英文对话4个(电视节目_人物比较)",URL="https://api.bilibili.com/x/player/playurl?avid=541243737&cid=208642393&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/5429c16f8f42c86fecc3771a0aa6f96d8e8fe19d.jpg@640w_400h.jpg",ALT="开口讲英语：实用英文句子训练68句 显著提高您的表达能力！"
+#EXT-X-INF:INDEX=0,NAME="开口讲英语：实用英文句子训练68句 显著提高您的表达能力！",URL="https://api.bilibili.com/x/player/playurl?avid=589035320&cid=366696907&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

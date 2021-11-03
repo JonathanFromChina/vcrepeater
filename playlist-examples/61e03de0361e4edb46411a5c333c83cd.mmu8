@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/f84986012a062ff3f2cbf5a5993e83800c4aa945.jpg@640w_400h.jpg",ALT="英语对话听力训练_真正有效提升您的听力水平(学科/科目)"
+#EXT-X-INF:INDEX=0,NAME="英语对话听力训练_真正有效提升您的听力水平(学科_科目)",URL="https://api.bilibili.com/x/player/playurl?avid=498999371&cid=213896735&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英文听力练习600句_-_彻底提高您的英文听力水平",URL="https://api.bilibili.com/x/player/playurl?avid=498999371&cid=213896920&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

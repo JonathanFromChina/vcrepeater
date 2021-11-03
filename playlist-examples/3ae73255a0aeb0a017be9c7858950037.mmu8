@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/cc54aeee90a3b3c5890509f8c6c3bbb30fbc35c0.jpg@640w_400h.jpg",ALT="实用英语短句42句：初学者听力练习必备"
+#EXT-X-INF:INDEX=0,NAME="实用英语短句42句_初学者听力练习必备",URL="https://api.bilibili.com/x/player/playurl?avid=798856021&cid=288059513&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

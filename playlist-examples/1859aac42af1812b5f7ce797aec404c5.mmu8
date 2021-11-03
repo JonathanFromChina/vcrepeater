@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/8b4e7ce4acab681e33349d11c9b4212bb8560c79.jpg@640w_400h.jpg",ALT="灵活表达心中所想：练习开口说英语70句｜英文口说越来越熟练"
+#EXT-X-INF:INDEX=0,NAME="灵活表达心中所想_练习开口说英语70句｜英文口说越来越熟练",URL="https://api.bilibili.com/x/player/playurl?avid=806049534&cid=423775874&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【每天听一遍】高效练英语听说_轻松听懂常见英文表达方式！",URL="https://api.bilibili.com/x/player/playurl?avid=806049534&cid=423775978&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

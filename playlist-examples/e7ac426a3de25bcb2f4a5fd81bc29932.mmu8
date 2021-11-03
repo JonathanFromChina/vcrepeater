@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/27e3a591f82508ca9eff2ecb77830a566d8fafc5.jpg@640w_400h.jpg",ALT="【英语听力】超实用英语听力训练119句"
+#EXT-X-INF:INDEX=0,NAME="超实用英语听力训练119句_-_同时学会常用英语表达",URL="https://api.bilibili.com/x/player/playurl?avid=967811007&cid=179741020&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

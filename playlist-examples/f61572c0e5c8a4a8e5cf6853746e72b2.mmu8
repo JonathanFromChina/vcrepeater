@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/10e16c93ca1381ea3d5a2d23ebf11330e084a45b.jpg@640w_400h.jpg",ALT="英语听力从入门到提高：难度n+1增加训练法高效练耳朵"
+#EXT-X-INF:INDEX=0,NAME="20201226英语听力从入门到提高_难度n+1增加训练法高效练耳朵",URL="https://api.bilibili.com/x/player/playurl?avid=844736074&cid=311457324&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

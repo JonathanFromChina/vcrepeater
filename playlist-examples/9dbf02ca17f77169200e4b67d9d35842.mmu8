@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/bc26a92eb1b225c30eac4ed90436820cefbf08e9.jpg@640w_400h.jpg",ALT="高效提升英语听力：4段英文常用对话 (聚会/做菜篇)"
+#EXT-X-INF:INDEX=0,NAME="高效提升英语听力_4段英文常用对话(聚会_做菜篇)",URL="https://api.bilibili.com/x/player/playurl?avid=201219669&cid=205958335&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

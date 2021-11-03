@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/77908032231f7996633f36f8317c74d9ac7edbad.jpg@640w_400h.jpg",ALT="初级进阶英语51句：听力提高训练"
+#EXT-X-INF:INDEX=0,NAME="20201031初级进阶英语51句_听力提高训练",URL="https://api.bilibili.com/x/player/playurl?avid=457735103&cid=254627665&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/7b66f1ba41a613cc12eabc919c5ea1944526aefd.jpg@640w_400h.jpg",ALT="句句重要，身边的常用英语78句：反复提高和进步"
+#EXT-X-INF:INDEX=0,NAME="句句重要_身边的常用英语78句_反复提高和进步",URL="https://api.bilibili.com/x/player/playurl?avid=721030339&cid=423779866&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【每天听一遍】高效练英语听说_轻松听懂常见英文表达方式！",URL="https://api.bilibili.com/x/player/playurl?avid=721030339&cid=423780214&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

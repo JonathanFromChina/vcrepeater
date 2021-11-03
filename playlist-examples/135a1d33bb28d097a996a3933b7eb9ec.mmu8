@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/6632077fe640d54507bc5acdc6dc0b881d43f9cc.jpg@640w_400h.jpg",ALT="提升英语语感55句：练习提高您的英语听力"
+#EXT-X-INF:INDEX=0,NAME="提升英语语感55句_练习提高您的英语听力",URL="https://api.bilibili.com/x/player/playurl?avid=842601294&cid=249141623&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

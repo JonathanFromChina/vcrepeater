@@ -1,0 +1,58 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/af44e4a9b6954cf1e9bcc125994195a77b5fbbbb.png@640w_400h.png",ALT="【英语速成】2个月从零基础直达流利（54集全）"
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 1 Numbers",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197443782&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 2 This and That",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197443873&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 3 Who is he and Who is she",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197443853&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 4 Like and Don't Like",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197443921&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 5 Can and Can't",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197443912&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 6 Whose",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444019&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 7 What are you Wearing",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444089&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 8 Parts of the Body and Review",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444144&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 9 Months, Days and the Date",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444170&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 10 What are you doing",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444094&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 11 Negative forms Can Can't is isn't like dont like",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444199&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 12 Numbers to One Hundred 100",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444225&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 13 It's all about counting",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444443&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 14 Story 1 Let's Read Together. Mikay's trip to the playgro",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444620&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 15 Story 2 Let's talk about the weather and fly a kite",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444507&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 16 Meet the new characters and tour Yuna's house",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444384&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 17 Story 3 Going to a Birthday Party and Shopping",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444863&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 18 Let's explore the park together",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444950&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 19 Review Test",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444560&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 20 Learning about dinosaurs together",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444821&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English lesson 21 Feelings and making sentences",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445240&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 22 School and Making Sentences",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445012&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 23 Feeling Sick and Making Sentences",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445040&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 24 Review School, Sick and Feelings",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197444972&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 25 Meeting New Friends",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445060&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 26 School Lunch",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445113&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 27 Getting A Haircut",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445155&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English lesson 28 Review",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445138&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 29 Writing Practice Test 1",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445247&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 30 Test 2",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445227&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 31 Writing Test 3",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445249&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 32 The Movies",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445435&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English lesson 33 Eating Healthy",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445736&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 34 Let's have a party",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445679&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 35 Review Eating Healthy, The Movies and Party",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445420&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 36 English Writing Practice Test 4",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445411&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 37 Writing Practice Test 5",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445523&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 38 Writing Practice Test 6",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445544&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 39 Making Sentences about Pets",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445668&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 40 Writing Sentences about the Zoo",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445735&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 41 Writing Sentences about a Festival",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445787&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 42 Writing Sentences Chapter Review Festivals, The Zoo and",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445755&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 43 Writing Practice Test 7",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445776&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 44 Writing Practice Test 8",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445826&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 45 Writing Practice Test 9",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445843&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 46 Writing Sentences about the Theater",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197446036&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 47 Cooking Together English Tag Questions",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445985&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 48 Writing Sentences about Being Late",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197446017&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 49 Review Being Late, Cooking and The Theater",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445925&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 50 Writing Practice Test 10",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197445999&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 51 Writing Practice Test 11",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197446053&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Basic English Lesson 52 Writing Practice Test 12",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197446138&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Easiest 5 Minute Method for A An and The Articles. No Grammar! Simple Pattern",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197446536&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Message to Students and Friends",URL="https://api.bilibili.com/x/player/playurl?avid=370981530&cid=197446297&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

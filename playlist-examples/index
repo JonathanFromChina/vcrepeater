@@ -1,278 +1,1020 @@
-NAME="356c916a57fe4fccb8898096fd47ac13.mmu8",LANG="ENG",TITLE="Blender基金会《钢之殇》",VALID=true
-NAME="0e43db793764a289899554c0d38efe56.mmu8",LANG="ENG",TITLE="Crash Course--《解剖与生理》",VALID=true
-NAME="ebc763ef68ba9181523fc9dc8c0d8a87.mmu8",LANG="ENG",TITLE="Crash Course《化学》",VALID=true
-NAME="2c104df2a1e318ffc7c59bbfe3055180.mmu8",LANG="ENG",TITLE="Crash Course《十分钟生物学》",VALID=true
-NAME="fafcb5a604a86ab6083499eec5abbe98.mmu8",LANG="ENG",TITLE="Crash Course《大历史》",VALID=true
-NAME="a3b8032c2729d8a517b25fc06785da12.mmu8",LANG="ENG",TITLE="Crash Course《天文学》",VALID=true
-NAME="2d1ee7c0e2beef5ed258c3aee7ef691d.mmu8",LANG="ENG",TITLE="Crash Course《心理学》",VALID=true
-NAME="39fc07c3125dbfa5e491c66b468d6371.mmu8",LANG="ENG",TITLE="Crash Course《生态学》",VALID=true
-NAME="eef13498d7f0e277a0c93ef890561fe1.mmu8",LANG="ENG",TITLE="CSIS《解读2012年大选》",VALID=true
-NAME="0622f773bb3839441666806a463dee59.mmu8",LANG="ENG",TITLE="伯克利《大灾难时期的伦理和公共健康》",VALID=true
-NAME="d7f3507c00dcbebd15630e958b9baa5d.mmu8",LANG="ENG",TITLE="伯南克公开课《美联储与金融危机》",VALID=true
-NAME="9b5b09fbb8e88a8b8f10197138d8daea.mmu8",LANG="ENG",TITLE="北卡罗来纳州立大学《体育法》",VALID=true
-NAME="3be528ec80de7579d0512a003631fa55.mmu8",LANG="ENG",TITLE="北弗吉尼亚社区学院《ART 116-网页设计I》",VALID=true
-NAME="8787111eba7884d55e5e95f2e4a8bd86.mmu8",LANG="ENG",TITLE="埃里克·施密特：波士顿大学2012毕业演讲",VALID=true
-NAME="69de52d863f1af2bf0356f0a9d9d04cb.mmu8",LANG="ENG",TITLE="埃默里大学《心灵生活》",VALID=true
-NAME="881f6615b6a47a77f5177d9407c63a4b.mmu8",LANG="ENG",TITLE="埃默里大学《解读好莱坞》",VALID=true
-NAME="0e1543bbf6ce2ab787076531dff1a2d8.mmu8",LANG="ENG",TITLE="奥巴马：哥伦比亚大学2012毕业演讲",VALID=true
-NAME="af73aac1d1eeab93e928d8b8690b68e7.mmu8",LANG="ENG",TITLE="奥蒂斯艺术设计学院《画室课堂演示》",VALID=true
-NAME="eea00d9dcc59d04efd25d09b15b6b960.mmu8",LANG="ENG",TITLE="宾夕法尼亚大学《60秒系列讲座》",VALID=true
-NAME="0561c7c8d3275f25e412c9777ef5334f.mmu8",LANG="ENG",TITLE="宾夕法尼亚大学《物权法》",VALID=true
-NAME="078adc092f9adae5cd342e64b429b335.mmu8",LANG="ENG",TITLE="宾夕法尼亚州社区学院《商务写作》",VALID=true
-NAME="2af8ac5bcd28fb918ba61fcd4eaf4cd8.mmu8",LANG="ENG",TITLE="宾夕法尼亚州立大学《华尔街训练营》",VALID=true
-NAME="eb93a265979a8b5d5fb39feb3048adef.mmu8",LANG="ENG",TITLE="宾州大学沃顿商学院《沃顿的学问》",VALID=true
-NAME="95011b29a09e30720f741592253fbc0a.mmu8",LANG="ENG",TITLE="宾汉姆顿大学《职业发展中心》",VALID=true
-NAME="6384d821c1c3b163ea3c491ea2a3c0fe.mmu8",LANG="ENG",TITLE="巴黎高商《会计与管理控制常见问题》",VALID=true
-NAME="2634325abd2435417ca9c857c95a1b72.mmu8",LANG="ENG",TITLE="巴黎高商《第二届金融与统计学大会》",VALID=true
-NAME="fa102da95229c4656240be6de3dfde92.mmu8",LANG="ENG",TITLE="巴黎高等商学院《决策统计学》",VALID=true
-NAME="848b2b892d6b848903b0925adf2c0ffb.mmu8",LANG="ENG",TITLE="巴黎高等商学院《对话领袖》",VALID=true
-NAME="54c1058f6659f39254bcb19ce4290003.mmu8",LANG="ENG",TITLE="巴黎高等商学院《直观的智慧》",VALID=true
-NAME="e6a625133c87e9ad4316f1fca6c188d1.mmu8",LANG="ENG",TITLE="布朗大学公开课《柯古特人文中心》",VALID=true
-NAME="fbc819bbf95c3ad0b4e4d45a84693ebd.mmu8",LANG="ENG",TITLE="拜欧拉大学《爱情那些事》",VALID=true
-NAME="4b71b36525452121c157b37dba6204d8.mmu8",LANG="ENG",TITLE="波士顿大学《生物空气动力学》",VALID=true
-NAME="802a771a81951ae0abc8fba07e221ac3.mmu8",LANG="ENG",TITLE="爱荷华州立大学《营养健康与癌症预防》",VALID=true
-NAME="a5872d127d33aee41836c13a98374dd1.mmu8",LANG="ENG",TITLE="阿肯色大学《西班牙语学习》",VALID=true
-NAME="c2c087042152961439a1f92a75d26e90.mmu8",LANG="ENG",TITLE="EBS《对外韩国语初级教程》",VALID=true
-NAME="2e4e60500feb288b1e2c3dabd1c92227.mmu8",LANG="ENG",TITLE="东京大学《法与现代社会》",VALID=true
-NAME="1c8fb41e11633dc682fd230f873b9427.mmu8",LANG="ENG",TITLE="东伊利诺伊州大学《文本细读》",VALID=true
-NAME="b6642b9ff6e84e0500ca9f97efabbe6e.mmu8",LANG="ENG",TITLE="东田纳西州立大学《市场营销原理》",VALID=true
-NAME="cf24c6e0a1b4ac08546b30a21e2a5005.mmu8",LANG="ENG",TITLE="俄亥俄州立大学《兽医麻醉学》",VALID=true
-NAME="13865aa5b19db1ff3fae26eb07e8a1d7.mmu8",LANG="ENG",TITLE="俄亥俄州立大学《建筑史》",VALID=true
-NAME="c745576874d335bc65e63910d396c9de.mmu8",LANG="ENG",TITLE="俄亥俄州立大学《杂志写作》",VALID=true
-NAME="3efdd95a23929be0005355e0e52a9294.mmu8",LANG="ENG",TITLE="俄亥俄州立大学《社会学范畴内的人类一生发展》",VALID=true
-NAME="f9204761617f090dc5619cb4df44dd73.mmu8",LANG="ENG",TITLE="俄克拉荷马大学《英国媒体研究》",VALID=true
-NAME="b7659cc244103eb8f520ce46640ee37d.mmu8",LANG="ENG",TITLE="俄勒冈州立大学《生物化学》",VALID=true
-NAME="0b8110ce4ae71294d1e9542006175558.mmu8",LANG="ENG",TITLE="大师名校行-魔兽音乐大师的东方情结",VALID=true
-NAME="8ccc86168e19a51b898fced2d0554a5c.mmu8",LANG="ENG",TITLE="弗吉尼亚理工大学《世界地区》",VALID=true
-NAME="70a0e57db297099e3ad82c3374cae2aa.mmu8",LANG="ENG",TITLE="弗里德-哈德曼大学《法语会话》",VALID=true
-NAME="3eb13cb4c1cd2f859df3169054b05854.mmu8",LANG="ENG",TITLE="杜克大学《企业家培养系列》",VALID=true
-NAME="be90e8f177f0ae1fe496f3b887be2748.mmu8",LANG="ENG",TITLE="杜克大学《布鲁姆伯利》",VALID=true
-NAME="be9572accf5a1b1508c4cebcac92979c.mmu8",LANG="ENG",TITLE="杜克大学《怪诞行为学》",VALID=true
-NAME="539a682d8cff12d4cd4005ab50da27a8.mmu8",LANG="ENG",TITLE="杜克大学《苹果CEO蒂姆·库克访谈》",VALID=true
-NAME="5168826ec089febeb9b01a072a50da3d.mmu8",LANG="ENG",TITLE="IIIM神学教育资源中心《使徒信经》",VALID=true
-NAME="698b7f9412dc470f39949e375ef143b7.mmu8",LANG="ENG",TITLE="IIIM神学教育资源中心《太古历史》",VALID=true
-NAME="fe3e3a07b1176474cc16ab705cbe08c7.mmu8",LANG="ENG",TITLE="IIIM神学教育资源中心《我们相信耶稣》",VALID=true
-NAME="79b5c61a07bb1cdc8d9dd65b1ff19ad3.mmu8",LANG="ENG",TITLE="哈佛《新媒体时代的保密与新闻业》",VALID=true
-NAME="a7f1703ca62e718746611e6e81ed624e.mmu8",LANG="ENG",TITLE="哈佛大学《2006年计算机科学》",VALID=true
-NAME="645c3b2c832932d451f35172cbbcd2a5.mmu8",LANG="ENG",TITLE="哈佛大学《天文台之夜》",VALID=true
-NAME="f9d23c10d163f1cef2272d4d6cca823e.mmu8",LANG="ENG",TITLE="哈佛大学《头脑战争》",VALID=true
-NAME="5e96e9417837fc25c5888bcf541398a7.mmu8",LANG="ENG",TITLE="哈佛大学《构建动态网站》",VALID=true
-NAME="15953b97cf3e71bf7907f328ad4ee1ac.mmu8",LANG="ENG",TITLE="哈佛大学《科学与烹饪》",VALID=true
-NAME="03962cb814a57a624acd524690fae0e3.mmu8",LANG="ENG",TITLE="哈佛大学《立大志》",VALID=true
-NAME="836dc39ddde62daac66ef89cefd1aa9a.mmu8",LANG="ENG",TITLE="哈佛大学《肯尼迪政治论坛》",VALID=true
-NAME="24039f89dad0ae2852454ef867bff402.mmu8",LANG="ENG",TITLE="哈佛大学《计算机科学cs50》",VALID=true
-NAME="a682addedc9b4d5ae00adef465909dca.mmu8",LANG="ENG",TITLE="哈佛大学《计算机科学导论》",VALID=true
-NAME="cbc8267a4f050ed8ef72aabdc727742d.mmu8",LANG="ENG",TITLE="哈佛大学《领袖心理学》",VALID=true
-NAME="7324ec59ddf2f075bb028a014936bac9.mmu8",LANG="ENG",TITLE="哈里斯堡社区大学《统计学入门》",VALID=true
-NAME="7f56de47ac129022c9dc6b83735effb3.mmu8",LANG="ENG",TITLE="哥伦比亚大学《世界领导人论坛》",VALID=true
-NAME="1601b48624f13caea53e250992674eb8.mmu8",LANG="ENG",TITLE="哥伦比亚大学《房地产金融学》",VALID=true
-NAME="ef9b178c2b768597d31314f6f96f3cd6.mmu8",LANG="ENG",TITLE="哥伦比亚大学《病毒学》",VALID=true
-NAME="af4eb09397d36fce5a54b1c5ab668d81.mmu8",LANG="ENG",TITLE="哥伦比亚大学《科学前沿-地球科学》",VALID=true
-NAME="9748cf74dffce4fccc4255ca57dd8a89.mmu8",LANG="ENG",TITLE="哥伦比亚大学《科学前沿-生物多样性》",VALID=true
-NAME="440094abddbed41f6274f505315be35f.mmu8",LANG="ENG",TITLE="哥伦比亚大学《科学前沿-神经科学》",VALID=true
-NAME="07fa17ee656f7775009c743ab94f104a.mmu8",LANG="ENG",TITLE="荷兰代尔夫特理工大学《空气动力学概论》",VALID=true
-NAME="43eda20406ef7bf8bb9e3030f436a3ae.mmu8",LANG="ENG",TITLE="伦敦大学《运动训练医疗及奥运健康遗产》",VALID=true
-NAME="8ccbcdf9357d0706671152e2863e233b.mmu8",LANG="ENG",TITLE="伦敦大学玛丽女王学院《数学与魔术》",VALID=true
-NAME="cff5067b4131395f736a9b09617931fc.mmu8",LANG="ENG",TITLE="利伯缇大学《特殊儿童研究》",VALID=true
-NAME="0f9a2cafbb39d328d5ccf6411303361e.mmu8",LANG="ENG",TITLE="利伯缇大学《犯罪心理学》",VALID=true
-NAME="b0dc1286e4d9034c92e03da61d208021.mmu8",LANG="ENG",TITLE="剑桥大学《人类学》",VALID=true
-NAME="91f0975b2ed0ce30fa4029b7367114b4.mmu8",LANG="ENG",TITLE="剑桥大学《公法讲座》",VALID=true
-NAME="b1c70551d959af865fda76d5f9f4251b.mmu8",LANG="ENG",TITLE="剑桥大学《气候模式及预测》",VALID=true
-NAME="96e69d1e1de52fbc3eab88eb244b0492.mmu8",LANG="ENG",TITLE="剑桥大学《生命》",VALID=true
-NAME="d078ba80f3950e151a179f433bf22b63.mmu8",LANG="ENG",TITLE="剑桥大学《美》",VALID=true
-NAME="683a693a646c8c5d8befebc435e06d8c.mmu8",LANG="ENG",TITLE="剑桥大学《预见》",VALID=true
-NAME="859571c9f7c3bdf21d6b8e9c9b3322de.mmu8",LANG="ENG",TITLE="加利福尼亚大学《克服公众演讲焦虑》",VALID=true
-NAME="635af9d3d064ae33ffe215477c3dc6f5.mmu8",LANG="ENG",TITLE="加利福尼亚大学伯克利分校《中级微观经济学》",VALID=true
-NAME="855d5094fcb877f1bbc8788710fd4a63.mmu8",LANG="ENG",TITLE="加利福尼亚大学尔湾分校《环境心理学》",VALID=true
-NAME="bdd6305b742bcf94e7506b6f2da22ed4.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《分子结构与统计力学》",VALID=true
-NAME="2e503d4f1ed266507fc75e1a416c6650.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《化学生物导论》",VALID=true
-NAME="e6edbb0a7114a1cae4f2c6657bf659b9.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《化学预备课程》",VALID=true
-NAME="9de61f64f01ac03b431396db6760bbe0.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《普通化学1B》",VALID=true
-NAME="648c3acf2c79550c795d985de0415d92.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《普通化学1C》",VALID=true
-NAME="eaa630a835f69ede17bcb989506e0a49.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《有机化学51A》",VALID=true
-NAME="fa60f722ff83bc12e2d44e415b265a51.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《有机化学51B》",VALID=true
-NAME="e602b279a1e39c6cddc2e1705554618c.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《有机化学51C》",VALID=true
-NAME="ea8f5ab75ca119e986c0d5d3838a18a2.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《有机谱学》",VALID=true
-NAME="4238593673678681ad3adf9f8bb22c01.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《热力学和化学动力学》",VALID=true
-NAME="45bd41e3fd7d45405f41f4832812d9c6.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《科学计算技能》",VALID=true
-NAME="ca51679edbead30e4de3cf49792245b0.mmu8",LANG="ENG",TITLE="加利福尼亚大学欧文分校《量子原理》",VALID=true
-NAME="c506910c4515ddc310ce08786159db81.mmu8",LANG="ENG",TITLE="加利福尼亚大学洛杉矶分校《社会心理学》",VALID=true
-NAME="80dc06528c9703838411397f7db17a6f.mmu8",LANG="ENG",TITLE="加利福尼亚大学电视台《海洋科学》",VALID=true
-NAME="6d6a5cb8e9614850c2db9dbb87dfe44e.mmu8",LANG="ENG",TITLE="加利福尼亚大学电视台《睡眠健康》",VALID=true
-NAME="383447ef134fd651560e0403d5e4a8dc.mmu8",LANG="ENG",TITLE="加州大学《工业革命前的世界经济史》",VALID=true
-NAME="36adb095ac2c65b8f7e2ad93fb9fd2f5.mmu8",LANG="ENG",TITLE="加州大学《神经外科学的100个话题》",VALID=true
-NAME="a3caa5b4567a2dc0350f59b6d16cfeb6.mmu8",LANG="ENG",TITLE="加州大学伯克利分校《植物学与微生物学》",VALID=true
-NAME="eac592020722882a59905e22b2ec7abf.mmu8",LANG="ENG",TITLE="加州大学伯克利分校《综合生物学》",VALID=true
-NAME="47e1175da050f0c117618e6c34c2aac4.mmu8",LANG="ENG",TITLE="加州大学洛杉矶分校《家庭夫妇心理学》",VALID=true
-NAME="f8ad09ad589a68e29fa4ea4b96a05ff7.mmu8",LANG="ENG",TITLE="加州理工学院《机器学习与数据挖掘》",VALID=true
-NAME="b54b86e388d9f0baebd7764b32591df8.mmu8",LANG="ENG",TITLE="加州艺术学院《家具装饰》",VALID=true
-NAME="217246d49998483b39b9970a1e92bd66.mmu8",LANG="ENG",TITLE="加州艺术学院《建筑学》",VALID=true
-NAME="21222ad34e430654d3f99775b25510a4.mmu8",LANG="ENG",TITLE="加州艺术学院《绘画与绘图》",VALID=true
-NAME="0e4da1bf97ae21abf775d2c12a2542bf.mmu8",LANG="ENG",TITLE="加州艺术学院《设计与工艺》",VALID=true
-NAME="d70e1455071ec90b29082a7ee9bb4be8.mmu8",LANG="ENG",TITLE="坎卡基社区学院《联邦党人文集》",VALID=true
-NAME="e81cfb6a8f5e20b1f4fde703ccc7883b.mmu8",LANG="ENG",TITLE="康多莉扎·赖斯：南卫理公会大学毕业演讲",VALID=true
-NAME="b2c1e0c1297f4643ed312461d51e6a13.mmu8",LANG="ENG",TITLE="康奈尔大学《法学讲座》",VALID=true
-NAME="9498d56acbb2282711cd260ec889a8df.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术《越南美食》",VALID=true
-NAME="5955abb7a1c96bd1151e6bae6b780a5e.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术学院《中国美食》",VALID=true
-NAME="30f61582ee572e421e6079097fea5f9b.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术学院《印尼美食》",VALID=true
-NAME="0ee47e68f1b7476394cd943386c0d553.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术学院《意大利美食》",VALID=true
-NAME="2a585d4643bdec988ffd3734c56d28ca.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术学院《日本料理》",VALID=true
-NAME="c7f781728f73cae7c5a11ac46d65bb2d.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术学院《烹饪糕点》",VALID=true
-NAME="7ba3c62828a546395a1082703f1a5e5e.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术学院《美国美食》",VALID=true
-NAME="8740a95d22faea10990e462672b861b8.mmu8",LANG="ENG",TITLE="拉斯维加斯艺术学院《韩国料理》",VALID=true
-NAME="5659385d973624df034e23b0d0d28733.mmu8",LANG="ENG",TITLE="拉筹伯《新闻人的网络编辑和发布》",VALID=true
-NAME="3865da0f610cd95e42ab04668fbd8efe.mmu8",LANG="ENG",TITLE="拉筹伯大学《无处不在的代数学》",VALID=true
-NAME="eb6eaec0dfb8be73f5ad9507b6f0dee3.mmu8",LANG="ENG",TITLE="拉筹伯大学《欧盟研究》",VALID=true
-NAME="5cdd97e45c7e9799ce30578dfbb269ec.mmu8",LANG="ENG",TITLE="旧金山亚洲艺术博物馆《日本艺术史》",VALID=true
-NAME="4d7e469cdf6a4fe9adbbe78af328365e.mmu8",LANG="ENG",TITLE="梨花女子大学《青少年心理学》",VALID=true
-NAME="7c4a98e959c38838effb6dbaba2d9423.mmu8",LANG="ENG",TITLE="梨花女子大学公开课《韩国传统音乐》",VALID=true
-NAME="b4666f59d7da63f00adb59e4492177f4.mmu8",LANG="ENG",TITLE="简·林奇：史密斯学院2012毕业演讲",VALID=true
-NAME="3677417102c3747aa976bc85932b2540.mmu8",LANG="ENG",TITLE="南加州大学《城市发展研讨会》",VALID=true
-NAME="5bc39a12ac1574d75d9eec223b17600c.mmu8",LANG="ENG",TITLE="南方理工学院《西班牙语入门》",VALID=true
-NAME="eff30fd9204a9e489a5c60f44021c5a9.mmu8",LANG="ENG",TITLE="密歇根网络教育《平面设计》",VALID=true
-NAME="79502f32d568df5f93e43ae564a77663.mmu8",LANG="ENG",TITLE="密苏里州立大学《1877年以来的美国史》",VALID=true
-NAME="00b300bb2afdf4d6c3754aa64bb911fc.mmu8",LANG="ENG",TITLE="密苏里州立大学《三个超级大国的兴衰故事》",VALID=true
-NAME="af1ad6a674c3f29fd552c7cda47cd1a8.mmu8",LANG="ENG",TITLE="密苏里州立大学《世界音乐综述》",VALID=true
-NAME="f743bf3268625a3bb92bc48ef727c380.mmu8",LANG="ENG",TITLE="密苏里州立大学《个人理财》",VALID=true
-NAME="f515ffc3ab0b61f406beda77a2bbc4a9.mmu8",LANG="ENG",TITLE="密苏里州立大学《人类发展规则》",VALID=true
-NAME="b2a4e3a597dea88764a936ccff66802e.mmu8",LANG="ENG",TITLE="密苏里州立大学《骑士与少女》",VALID=true
-NAME="03a39f83c8756966596cfd7b6d92a5c7.mmu8",LANG="ENG",TITLE="慕尼黑大学《黑格尔与精神现象学》",VALID=true
-NAME="c7139fa125e703b2fa701fe8217b8797.mmu8",LANG="ENG",TITLE="明尼苏达州教育中心《婴儿发展里程碑》",VALID=true
-NAME="685691f4070982752e1a4aa08dc43d35.mmu8",LANG="ENG",TITLE="牛津《 美丽公主 为何出自达芬奇之手》",VALID=true
-NAME="ed68f1bbe075cd5270572eaeae1ad991.mmu8",LANG="ENG",TITLE="牛津《现代世界人口发展趋势与问题》",VALID=true
-NAME="39b35e7115676fe90578ddc9d27f32d1.mmu8",LANG="ENG",TITLE="牛津大学《伦理学入门》",VALID=true
-NAME="64a521542fec4a1ecbfcc30e4ae6d7a0.mmu8",LANG="ENG",TITLE="牛津大学《儿童语言与读写障碍》",VALID=true
-NAME="12bcfe967fade02a757beb315876c019.mmu8",LANG="ENG",TITLE="牛津大学《古英语》",VALID=true
-NAME="0f79e7eb6b2ad16728cbe0a7d3cc8820.mmu8",LANG="ENG",TITLE="牛津大学《康德的纯粹理性批判》",VALID=true
-NAME="b463978a32c4edecf2b5a4a7bb41779b.mmu8",LANG="ENG",TITLE="牛津大学《戴维·赫伯特·劳伦斯》",VALID=true
-NAME="42973b9a5a7337a3d83dee1edce4ab12.mmu8",LANG="ENG",TITLE="牛津大学《批判性推理入门》",VALID=true
-NAME="480bc8573706f42e6e61848440606b97.mmu8",LANG="ENG",TITLE="牛津大学《文学与形式》",VALID=true
-NAME="c5ae57586b6c60d2aab03e36b7de45ad.mmu8",LANG="ENG",TITLE="牛津大学《新视角下的一战》",VALID=true
-NAME="08c93525ca27de0a6e4942c259c353d6.mmu8",LANG="ENG",TITLE="牛津大学《爱情微讲座》",VALID=true
-NAME="b4fa80cf27f8c768819330958e5dd567.mmu8",LANG="ENG",TITLE="牛津大学《犯罪小说》",VALID=true
-NAME="896ba3248130b7e385feb242b9139b47.mmu8",LANG="ENG",TITLE="牛津大学《艾滋病》",VALID=true
-NAME="aa85e99be84bc352dbf8d63870c0ecee.mmu8",LANG="ENG",TITLE="纽约大学《21世纪的外交与国际交流》",VALID=true
-NAME="e4af7709624d04ae2f643f8b0f9c05f7.mmu8",LANG="ENG",TITLE="纽约大学《Google vs Apple》",VALID=true
-NAME="bd391749703f79b8db18501e4683d246.mmu8",LANG="ENG",TITLE="纽约大学《社会学入门》",VALID=true
-NAME="5cba08d8a4ead8faf572572507ebdb86.mmu8",LANG="ENG",TITLE="纽约大学《美国文学》",VALID=true
-NAME="4c49ed2262ae9ea02775b20be2039d84.mmu8",LANG="ENG",TITLE="缅因州教育部《游戏与学习》",VALID=true
-NAME="f26cf90d8a3323d47a1c8426b55a096f.mmu8",LANG="ENG",TITLE="美国公共大学《几何学》",VALID=true
-NAME="a0cd0c189af98d7b62e726b6d02288b3.mmu8",LANG="ENG",TITLE="美国加州大学电视台《饮食与营养》",VALID=true
-NAME="3a9b83423e1cde172da4907568e52fb7.mmu8",LANG="ENG",TITLE="美国国会图书馆《音乐与大脑》",VALID=true
-NAME="92e497a61ae7631a83e6c2071d5cff04.mmu8",LANG="ENG",TITLE="美国西南学院《2012》",VALID=true
-NAME="e4c08d6196461dd635bde4e10dd22304.mmu8",LANG="ENG",TITLE="诺丁汉大学《60秒了解政治学名词》",VALID=true
-NAME="708333b13874546b84d19abad1b1b089.mmu8",LANG="ENG",TITLE="诺丁汉大学《元素周期表》",VALID=true
-NAME="c03ce5a9d581f0f0408172aea65424e7.mmu8",LANG="ENG",TITLE="迈克尔·刘易斯：普林斯顿大学2012毕业演讲",VALID=true
-NAME="3454cc3940c814adac18ee69ead0aa6f.mmu8",LANG="ENG",TITLE="马里兰大学《儿童发展心理学》",VALID=true
-NAME="1879a1e7370aa1abf2d07a987c652aea.mmu8",LANG="ENG",TITLE="麦克马斯特大学《发现心理学》",VALID=true
-NAME="1552b0f1993e163dc588369d789514da.mmu8",LANG="ENG",TITLE="麻省《主流创业型企业的挑战和解决方案》",VALID=true
-NAME="fc2109da4328016993d8a94bfecf5347.mmu8",LANG="ENG",TITLE="麻省《城市面貌——过去和未来》",VALID=true
-NAME="eee955027ef16e75bc25ff597f6ac107.mmu8",LANG="ENG",TITLE="麻省《艺术和科技中的感觉与想象》",VALID=true
-NAME="12c7a29ab94c48c80035f4a4590e80f0.mmu8",LANG="ENG",TITLE="麻省理工《供应链管理专题》",VALID=true
-NAME="665d664f16ab46ca00f4c3b6ec73319b.mmu8",LANG="ENG",TITLE="麻省理工《创新与发明》",VALID=true
-NAME="ff45b5eb4844b81fbe1188041a9a063f.mmu8",LANG="ENG",TITLE="麻省理工《微积分重点》",VALID=true
-NAME="746e6a1f7fef6bfe4a0f86cc003949a1.mmu8",LANG="ENG",TITLE="麻省理工《核反应堆安全》",VALID=true
-NAME="83878236f383cf2749d6247db6cf03d9.mmu8",LANG="ENG",TITLE="麻省理工《生物学导论》",VALID=true
-NAME="fb70bb0a8a88116c3dfda9bc64856bd4.mmu8",LANG="ENG",TITLE="麻省理工《电路和电子学》",VALID=true
-NAME="af5b594a9cc27b5eee5cfa4a857701a7.mmu8",LANG="ENG",TITLE="麻省理工《线性代数》",VALID=true
-NAME="2a24984e948cab8e9ee21f95167a9f36.mmu8",LANG="ENG",TITLE="麻省理工《经典力学》",VALID=true
-NAME="274b1261eb9ac0988064bf448bfe5685.mmu8",LANG="ENG",TITLE="麻省理工《计算机科学及编程导论》",VALID=true
-NAME="90d2c7474b1316f507fae7ecbd37eae6.mmu8",LANG="ENG",TITLE="麻省理工《透过摄影感受世界》",VALID=true
-NAME="97a407ad81828bd5b52ca8cc396c9a99.mmu8",LANG="ENG",TITLE="麻省理工大学《媒体》",VALID=true
-NAME="bf5f670c66fa826e322d3b878645f678.mmu8",LANG="ENG",TITLE="麻省理工学院《K12 材料》",VALID=true
-NAME="414c31066070246ddf5948899627cce7.mmu8",LANG="ENG",TITLE="麻省理工学院《K12 测量》",VALID=true
-NAME="f3415ae887acba1a7a548e241411154a.mmu8",LANG="ENG",TITLE="麻省理工学院《K12 生物》",VALID=true
-NAME="ff3a70f3bd34c5fb4ebf1460db3b4fb4.mmu8",LANG="ENG",TITLE="麻省理工学院《K12 简介》",VALID=true
-NAME="82e35b9e9de5c7f3673a4d5333ac5663.mmu8",LANG="ENG",TITLE="麻省理工学院《K12课程-地球科学》",VALID=true
-NAME="124555665c07cc31655d19cf6d7cd811.mmu8",LANG="ENG",TITLE="麻省理工学院《K12课程-物理》",VALID=true
-NAME="0c58867439183c359739babe0ffad491.mmu8",LANG="ENG",TITLE="麻省理工学院《MIT线性代数习题课》",VALID=true
-NAME="756c4361127c69bdcb0ff2fc7cac905f.mmu8",LANG="ENG",TITLE="麻省理工学院《信息与熵》",VALID=true
-NAME="4392a2a7ca8fbdc398d15e81f48650dc.mmu8",LANG="ENG",TITLE="麻省理工学院《公共政策学》",VALID=true
-NAME="2325ceca4df88a4a6e43564f076d78ff.mmu8",LANG="ENG",TITLE="麻省理工学院《几何折叠算法之教学篇》",VALID=true
-NAME="240f1c488e2800eb7e66bbfa07ef23ce.mmu8",LANG="ENG",TITLE="麻省理工学院《几何折叠算法之课程研讨》",VALID=true
-NAME="a6ee327c3c4cea33050380371df6cdcf.mmu8",LANG="ENG",TITLE="麻省理工学院《化学原理》",VALID=true
-NAME="335e2128f7a7d843d47185edb5c47875.mmu8",LANG="ENG",TITLE="麻省理工学院《商业及领导能力》",VALID=true
-NAME="76c46746cadaf794ac8024a6f8ef82c0.mmu8",LANG="ENG",TITLE="麻省理工学院《固态化学导论》",VALID=true
-NAME="7c7a6d046db8246287f5e8db345203e0.mmu8",LANG="ENG",TITLE="麻省理工学院《多变量微积分》",VALID=true
-NAME="a92ba25712b30d13edd74fd031181f52.mmu8",LANG="ENG",TITLE="麻省理工学院《多变量微积分习题课》",VALID=true
-NAME="38d2362333a1dff23e19e7147f90d41e.mmu8",LANG="ENG",TITLE="麻省理工学院《媒体、教育、市场》",VALID=true
-NAME="05e041e65e84cb33e79c05c208a32313.mmu8",LANG="ENG",TITLE="麻省理工学院《微分方程》",VALID=true
-NAME="89d0baaae36e3b870425234dd15dd7c0.mmu8",LANG="ENG",TITLE="麻省理工学院《探索黑洞》",VALID=true
-NAME="4cf49e7c19950c385eed8b12cd4e718b.mmu8",LANG="ENG",TITLE="麻省理工学院《模拟与数字信号处理》",VALID=true
-NAME="c61d5390cbe490da5106180dea4bfae1.mmu8",LANG="ENG",TITLE="麻省理工学院《热力学与动力学》",VALID=true
-NAME="b25382c1cae624369c1b98d35bcff970.mmu8",LANG="ENG",TITLE="麻省理工学院《电和磁》",VALID=true
-NAME="31b743f035fbad25ba15214fcafa3d3b.mmu8",LANG="ENG",TITLE="麻省理工学院《算法导论》",VALID=true
-NAME="5208c7411434833d91c4b1d202fab6c0.mmu8",LANG="ENG",TITLE="麻省理工学院《经典力学习题课》",VALID=true
-NAME="11b655a6f2341511a96cf3a20f56cd6b.mmu8",LANG="ENG",TITLE="麻省理工学院《飞行器构造工程》",VALID=true
-NAME="4b2d5429a67979b8a5015d8139f5cbe1.mmu8",LANG="ENG",TITLE="麻省理工学院《魔术背后的化学》",VALID=true
-NAME="d0aed84c835e1e9fd1193aa17f3a503b.mmu8",LANG="ENG",TITLE="《Android应用程序开发》",VALID=true
-NAME="c1ff3960eef349b2e254eca63778ae9c.mmu8",LANG="ENG",TITLE="《CSIS专家探讨最热门全球问题》",VALID=true
-NAME="e83f3c8cc89b420503b634562d6c6fc7.mmu8",LANG="ENG",TITLE="《Web2.0时代的营销沟通》",VALID=true
-NAME="0a41a2f528ae1ee19e3536ea86830779.mmu8",LANG="ENG",TITLE="《奢侈品的风靡对设计师的影响》",VALID=true
-NAME="833d9af761136cc14215b8039b7268ea.mmu8",LANG="ENG",TITLE="《好莱坞影视特效制作教程-科幻电影篇》",VALID=true
-NAME="cc21fd6bd29671614de4040ca8cda8d8.mmu8",LANG="ENG",TITLE="《好莱坞电影特效制作教程第一季》",VALID=true
-NAME="4ea3522c53064e4dbde5d2c60772ff80.mmu8",LANG="ENG",TITLE="《恐怖主义事件风险及经济分析》",VALID=true
-NAME="182bd3be771eb00c9b5178a6c16391ce.mmu8",LANG="ENG",TITLE="《意大利文艺复兴时期的艺术与爱情》",VALID=true
-NAME="e97bbc9bfd5a69aac75c6a3a619fcb90.mmu8",LANG="ENG",TITLE="《教育创新与课堂教学方法》",VALID=true
-NAME="98cf9cba9519886aa9d25277077eb1be.mmu8",LANG="ENG",TITLE="《新产品开发中的创造力和心理学》",VALID=true
-NAME="742675fedba043c070bdbfb521fa4d4a.mmu8",LANG="ENG",TITLE="《资本主义的成功、危机和改革》",VALID=true
-NAME="6d40b3c148840fc10847ed0731685d35.mmu8",LANG="ENG",TITLE="《超级英雄们：漫画电影人物与时尚》",VALID=true
-NAME="31a66779a2ab43c179c9b201aec74a40.mmu8",LANG="ENG",TITLE="《银行业危机——源起与后果》",VALID=true
-NAME="925c3c4d525a77939f6ed06a31e5afa0.mmu8",LANG="ENG",TITLE="普林斯顿大学《普林斯顿名家讲坛》",VALID=true
-NAME="74d1bda4fbdb7225d7db6702d92da49f.mmu8",LANG="ENG",TITLE="普林斯顿大学《科技世界的领导能力》",VALID=true
-NAME="722898ab3d2203292bf6bfedd7494c7a.mmu8",LANG="ENG",TITLE="瑞典达拉纳大学《俄语入门》",VALID=true
-NAME="6bcec4e216832b8b54c5d71cbf5f4e83.mmu8",LANG="ENG",TITLE="瑞典达拉纳大学《俄语语法》",VALID=true
-NAME="a3890dfc6a91671cb6c76a0c6e644b0a.mmu8",LANG="ENG",TITLE="瑞典达拉纳大学《阿拉伯语入门》",VALID=true
-NAME="c626cd3d10dc6d6af34a8ba678525339.mmu8",LANG="ENG",TITLE="圣母大学《拓扑学》",VALID=true
-NAME="7d80e7e71343fa2aae73001ec0c903de.mmu8",LANG="ENG",TITLE="圣母院《成人与可替换干细胞研究》",VALID=true
-NAME="fbcba3b3af6bbbbed189f2a83c65754e.mmu8",LANG="ENG",TITLE="圣母院大学《你会为什么而奋斗》",VALID=true
-NAME="8bd908dc405652dceb4d62876e2a9d05.mmu8",LANG="ENG",TITLE="圣母院大学《古代智慧与当代爱情》",VALID=true
-NAME="6eb5cc28c3440c73ab2fe87c8be0ee38.mmu8",LANG="ENG",TITLE="斯运伯恩科技大学《Flash设计教程》",VALID=true
-NAME="280a52a530457f2ede1f573f1e3138aa.mmu8",LANG="ENG",TITLE="萨尔曼·可汗：麻省理工2012年度毕业演讲",VALID=true
-NAME="0c932e9d54a967a2b733d0b6ce0f9993.mmu8",LANG="ENG",TITLE="仙后座计划《从宇宙大爆炸到人类》",VALID=true
-NAME="57145a3f7601d50dacad1f7e18827765.mmu8",LANG="ENG",TITLE="伟谷《亚伯拉罕·林肯两百周年纪念》",VALID=true
-NAME="ec9f73328728dc59a9d1e9e3bdb7545d.mmu8",LANG="ENG",TITLE="新泽西理工学院《人力资源管理》",VALID=true
-NAME="32753d71febb157ca65302f94e9e9507.mmu8",LANG="ENG",TITLE="新西兰国立南方理工学院《英语强化课程I》",VALID=true
-NAME="57de414c5a94bb3412b708c2f4b1377f.mmu8",LANG="ENG",TITLE="新西兰国立南方理工学院《英语强化课程Ⅱ》",VALID=true
-NAME="590bf8d3af01fdfcd918b563c441126f.mmu8",LANG="ENG",TITLE="西南大学《投资学入门》",VALID=true
-NAME="1c9edb1d9abae57717cc0c2c968a7fdb.mmu8",LANG="ENG",TITLE="西卡罗来纳州大学《日语入门》",VALID=true
-NAME="de839c7d07fded5f1ae08027b7628941.mmu8",LANG="ENG",TITLE="西谷学院《性侵犯调查》",VALID=true
-NAME="d6b38c2b4b79029f9eb7438a181f958a.mmu8",LANG="ENG",TITLE="西雅图太平洋大学《J.R.R.托尔金》",VALID=true
-NAME="f4b1e704961419704135f237f3f52646.mmu8",LANG="ENG",TITLE="西雅图太平洋大学《基础护理理论》",VALID=true
-NAME="f1f521f8dcddea80b439d448c820fa7e.mmu8",LANG="ENG",TITLE="西雅图太平洋大学《大脑规则》",VALID=true
-NAME="0ff661b9542ec96854fe0c660eee327d.mmu8",LANG="ENG",TITLE="西雅图太平洋大学《如何制作简历》",VALID=true
-NAME="2ffdf5f4ddff76c2afddb8d8791fe8c8.mmu8",LANG="ENG",TITLE="西雅图太平洋大学《婴儿大脑规则》",VALID=true
-NAME="d3d4b4df370482f52ec4d787b0b5660d.mmu8",LANG="ENG",TITLE="西雅图太平洋大学《面试技巧》",VALID=true
-NAME="e2e5a297812ce2c2f124d54b97ce23f8.mmu8",LANG="ENG",TITLE="谢丽尔·桑德伯格：哈佛商学院2012毕业演讲",VALID=true
-NAME="45e285a706651124404168ea223eb78a.mmu8",LANG="ENG",TITLE="香港公开大学《中国的合同法》",VALID=true
-NAME="885fe646c06c6f7c3de9cfdc4a560b57.mmu8",LANG="ENG",TITLE="亚利桑那大学《宇宙起源》",VALID=true
-NAME="cec5cb3651b00ab45f0c17af698e7963.mmu8",LANG="ENG",TITLE="亚利桑那大学《活到一百岁》",VALID=true
-NAME="16e0e44c3beee580f3e17fe6d85359e4.mmu8",LANG="ENG",TITLE="亚利桑那大学《知识产权》",VALID=true
-NAME="721804540fd3990ce39a53d437b2b74e.mmu8",LANG="ENG",TITLE="亚利桑那大学《精神病学病例研讨》",VALID=true
-NAME="6b77c5c686ba300e0e30ce75859fe2e5.mmu8",LANG="ENG",TITLE="亚利桑那大学《量子理论和辐射》",VALID=true
-NAME="86a21d09adf89704ea6c8de731103e3b.mmu8",LANG="ENG",TITLE="亚琛工业大学《机械制造》",VALID=true
-NAME="e72486bd4300c2b4625901dbee6040f8.mmu8",LANG="ENG",TITLE="耶鲁《海明威、菲茨杰拉德和福克纳》",VALID=true
-NAME="e57e3f486d955a330efbc196d3bb39e4.mmu8",LANG="ENG",TITLE="耶鲁大学《1600年以来西方社会的流行病》",VALID=true
-NAME="3ce66fee370c1b8b67f83b70fcd9e775.mmu8",LANG="ENG",TITLE="耶鲁大学《中世纪早期史》",VALID=true
-NAME="295d02f12d4c82cec977810d8056b55c.mmu8",LANG="ENG",TITLE="耶鲁大学《基础物理 II》",VALID=true
-NAME="0ac018ffddedf2e9d556dc2cc71ddcdb.mmu8",LANG="ENG",TITLE="耶鲁大学《塞万提斯的堂吉诃德》",VALID=true
-NAME="53f16044abf465b7f26c963de8805251.mmu8",LANG="ENG",TITLE="耶鲁大学《女性健康研究》",VALID=true
-NAME="4708483c491015c78d78296c2c2657e1.mmu8",LANG="ENG",TITLE="耶鲁大学《新生有机化学II》",VALID=true
-NAME="c4670d49170e77abed2ebcb8d8cf756a.mmu8",LANG="ENG",TITLE="耶鲁大学《环境政治和法律》",VALID=true
-NAME="6cd856fc6a90cc9c8e4594d7ea822e43.mmu8",LANG="ENG",TITLE="耶鲁大学《美国独立战争》",VALID=true
-NAME="f6938470166a02a680a98c4b660898a7.mmu8",LANG="ENG",TITLE="耶鲁大学《能效展望》",VALID=true
-NAME="36977f5bbfc8ad2b5227db4e68b73ceb.mmu8",LANG="ENG",TITLE="耶鲁大学《自闭症讲座》",VALID=true
-NAME="8fd0aa8ec1b554097ba188e5a70c5afa.mmu8",LANG="ENG",TITLE="耶鲁大学《英国近代史》",VALID=true
-NAME="b42e4584c79b8a908b16a509b0d6501a.mmu8",LANG="ENG",TITLE="耶鲁大学《近代社会理论的基础》",VALID=true
-NAME="284e8fd7906ddb162178a12f1cc5da93.mmu8",LANG="ENG",TITLE="耶鲁大学《金融理论》",VALID=true
-NAME="87126acc60ce335c37af0c531731c13e.mmu8",LANG="ENG",TITLE="芝加哥大学《理解全球经济》",VALID=true
-NAME="72ed71977937c5686470c3ea0f09aac5.mmu8",LANG="ENG",TITLE="芝加哥大学《酷刑、法律与战争》",VALID=true
-NAME="c52e24bf6f5f15d7c39e097a4a1ccc7e.mmu8",LANG="ENG",TITLE="英国公开大学《10分钟英语史》",VALID=true
-NAME="f44ecd4c6ce070c7c658be19d783e04a.mmu8",LANG="ENG",TITLE="英国公开大学《60秒天文学历险记》",VALID=true
-NAME="03d21dfcec7cc45e4bf162bb6680cf0b.mmu8",LANG="ENG",TITLE="英国公开大学《60秒宗教探奇》",VALID=true
-NAME="7260e782e7c5095068e607b8acb8178e.mmu8",LANG="ENG",TITLE="英国公开大学《60秒经济学探奇》",VALID=true
-NAME="4fffa7aefb230375d9bf60855ca939fd.mmu8",LANG="ENG",TITLE="英国公开大学《60秒脑筋急转弯》",VALID=true
-NAME="b957dcde2a1ebb464c9ee0c5f2d5e7ed.mmu8",LANG="ENG",TITLE="英国公开大学《生态系统》",VALID=true
-NAME="0a3f9c0ecfd923684f2bc9b55b89a0af.mmu8",LANG="ENG",TITLE="英国公开大学《空气污染》",VALID=true
-NAME="de6562dc56374d777449541acea1e5fe.mmu8",LANG="ENG",TITLE="英国公开大学《解析彩虹》",VALID=true
-NAME="0fe45d01fdb08a8888a88a664ebca8c5.mmu8",LANG="ENG",TITLE="英国国家剧院《戏剧写作》",VALID=true
+NAME="fb77a05f2fac717e8fff2c0d9d6c0bf4.mmu8",LANG="ENG",TITLE="100本原版英文绘本，难得的英语启蒙教材",VALID=true
+NAME="982553f43e633fae46262145641c763a.mmu8",LANG="ENG",TITLE="36句英语常用表达：高效提升您的英语听力技能",VALID=true
+NAME="c10c5b8128f4607717d1da0d219a1628.mmu8",LANG="ENG",TITLE="41句英语听力练习提高：多听英文多进步",VALID=true
+NAME="944a84f608949dd600c15c87b41ac71b.mmu8",LANG="ENG",TITLE="42句基础英语表达练习：提高英语听力能力",VALID=true
+NAME="01e03d470359d01cc69ed77387efd16a.mmu8",LANG="ENG",TITLE="44个生活常用短句：实用基础英语听力练习",VALID=true
+NAME="5488f96061ac33bbcdc15467b683bb29.mmu8",LANG="ENG",TITLE="45句英语听力突破：学会生活常用英文基础表达",VALID=true
+NAME="e53364ea4528848b52dfb03ba88828f6.mmu8",LANG="ENG",TITLE="500个英语重要长句：帮你成为口语高手",VALID=true
+NAME="c66f12994ee1f2d0c115a145028c5002.mmu8",LANG="ENG",TITLE="58个好用英文交流表达：英语口语听力训练",VALID=true
+NAME="54ef7abd9fe1b08c6acd4008bb62dd31.mmu8",LANG="ENG",TITLE="58句基础英语听说训练：助你英文水平从入门到提高",VALID=true
+NAME="1b8a68f67ac526c58635598ad2a92933.mmu8",LANG="ENG",TITLE="60句基础英语听说轻松练：打造最扎实的英文基础！",VALID=true
+NAME="114d5b589c7694d7de82fd97e3bbf912.mmu8",LANG="ENG",TITLE="61句常见生活英文：持续高效训练英语听力",VALID=true
+NAME="9ce2c1ded7aba36bd48feef32f292033.mmu8",LANG="ENG",TITLE="990个英语常用 重要短句",VALID=true
+NAME="8eb1af4bfdfd9ae8cdb226d9441ad1bf.mmu8",LANG="ENG",TITLE="99个重要英语句子--助你自信流畅说好英文！",VALID=true
+NAME="0d4ca8ebd8b4547428320a2958e8082f.mmu8",LANG="ENG",TITLE="从初级到中级英语听力练习：最有效帮助提高您的听力水平",VALID=true
+NAME="a06a0837f1073d53777b4a3334690d91.mmu8",LANG="ENG",TITLE="从初级到中级英语听力训练：最有效地提高您的听力水平（第二集）",VALID=true
+NAME="9ee557cbf0f5cedda6378f5937a4d8df.mmu8",LANG="ENG",TITLE="从零开始学英语：简单又重要的基础英文54句",VALID=true
+NAME="953b81926ab58ccb3674a34e904d5802.mmu8",LANG="ENG",TITLE="初学者练习英语听力",VALID=true
+NAME="c0684895d91aa8b32472e809350f5c43.mmu8",LANG="ENG",TITLE="初级进阶英语51句：听力提高训练",VALID=true
+NAME="9bc7d59fdba5ca4dbbb932ade4b4d9be.mmu8",LANG="ENG",TITLE="常用英语对话问答50句：流利讲英文 听力练习加强",VALID=true
+NAME="dd57fdd61660a8341bffb8e64e3ba2e3.mmu8",LANG="ENG",TITLE="常用英语提问51句：掌握用英文提问的正确方式！",VALID=true
+NAME="d102416b94fd3f4a25b6a24377c972c1.mmu8",LANG="ENG",TITLE="常用银行英语表达：银行英文口语训练",VALID=true
+NAME="be2d983c004d66d19e84bde355fc02e4.mmu8",LANG="ENG",TITLE="必学必会英语听力特训179句",VALID=true
+NAME="0b0a70c70a751fea815d4bae181e116d.mmu8",LANG="ENG",TITLE="必须学会的60句超常用英语问答：生活聊天对话必备英文",VALID=true
+NAME="53ee9991504f3e3f3224ad175a3d2c65.mmu8",LANG="ENG",TITLE="把学英语当成一种习惯！锻炼英文听力与表达力70句",VALID=true
+NAME="1832a9f890ba9e866c9da54b02c51b84.mmu8",LANG="ENG",TITLE="报警英语：紧急电话超常用英文口语，从容应对紧急突发情况",VALID=true
+NAME="6d699867dfd117f3168f559b6acda994.mmu8",LANG="ENG",TITLE="持之以恒学英语：高效强化英文听与说（超实用100句）",VALID=true
+NAME="ca2d231bfd1f8ec5457f2ea2f2db2a82.mmu8",LANG="ENG",TITLE="持续练耳朵英语听力，不带中文音频（初级篇）",VALID=true
+NAME="e098520ffca5f5818dc36acb28057c43.mmu8",LANG="ENG",TITLE="超实用英文问句和回答系列：轻松应付基础英语对话",VALID=true
+NAME="d944be242f15c2280664ac414b1f8a1b.mmu8",LANG="ENG",TITLE="超实用英语口语200句：快速学会常用英语口语表达",VALID=true
+NAME="3742a9c9ec85b18e846243e92e5bc6e2.mmu8",LANG="ENG",TITLE="超实用英语听力训练119句，同时学会常用英语表达",VALID=true
+NAME="c802b32dd286d412c0404b1e834d034b.mmu8",LANG="ENG",TITLE="超实用英语表达35句",VALID=true
+NAME="a9c11dbccdd8c09f5c6c94dd4d41b602.mmu8",LANG="ENG",TITLE="超常用交流英语加强练习五十句：高效训练您的英语大脑",VALID=true
+NAME="5f0995ed235ef868d1ba427d9918fd8c.mmu8",LANG="ENG",TITLE="超常用英文问句和回答：从容应对日常英语对话",VALID=true
+NAME="a275f448cdb38973efd21db99a2cc34c.mmu8",LANG="ENG",TITLE="超常用英语问答｜影子跟读法练习英文 轻松应对大部分生活场景！（第13集）",VALID=true
+NAME="87fc0443e41e0eb2464b68b2888feb6f.mmu8",LANG="ENG",TITLE="超常见英文问句和回答：轻松从容应对英语会话",VALID=true
+NAME="f8471c363052974a2870e45f0c19aa69.mmu8",LANG="ENG",TITLE="超易学的生活口语53句：英语听力再提高",VALID=true
+NAME="9011eae93801faa9f3a7bb4a54de7435.mmu8",LANG="ENG",TITLE="超有用日常英文55句：英语听力持续进步",VALID=true
+NAME="ab477f96b231f7fd44dd32c98a01d8bf.mmu8",LANG="ENG",TITLE="超有用英语口语42句：英语听力有效练习",VALID=true
+NAME="3c42fd8fd5440bc9df1cc9c8737264f3.mmu8",LANG="ENG",TITLE="边听边记61句重要英文：强化英语听力训练",VALID=true
+NAME="c3acd48607d59b6f50dce0005b3f7ef1.mmu8",LANG="ENG",TITLE="边睡边练超实用英语听力101句：提高听力技能好帮手",VALID=true
+NAME="527c814ffa1833859aad23e2e702ba97.mmu8",LANG="ENG",TITLE="边睡边记英语口语精华99句",VALID=true
+NAME="de728b38b16c32afbeb68667e09d60a0.mmu8",LANG="ENG",TITLE="边睡边记！地道实用英语口语500句",VALID=true
+NAME="36ee15e1797eaf236f84c9aece69e729.mmu8",LANG="ENG",TITLE="边睡边记！英语基本口语1000句",VALID=true
+NAME="6bc4b574d5d14b200e0c1b129bead6a4.mmu8",LANG="ENG",TITLE="边睡边记！超有用英语口语500句",VALID=true
+NAME="d05c3bfc9ed8b13a3c2ad8882ce16c2e.mmu8",LANG="ENG",TITLE="迟早都用到的英语日常表达61句！高效训练英语大脑 ",VALID=true
+NAME="237256875845bef9acca89fed9a38cf0.mmu8",LANG="ENG",TITLE="长期训练•显著提高英语听说能力：科学高效练英文",VALID=true
+NAME="2b483dffd61c1749b4592fbc0f331413.mmu8",LANG="ENG",TITLE="餐厅英语常见表达：预定 点餐 结账英语口语彻底掌握！",VALID=true
+NAME="9a51ad6d9de6b72873c0cae2678e88ae.mmu8",LANG="ENG",TITLE="反反复复练，轻松英语听力（精选英文常用53句）",VALID=true
+NAME="b9a0ae2ef69fba489c13f17bd59d4e5a.mmu8",LANG="ENG",TITLE="多听勤练：天天日常英语59句，英文进步必经之路！",VALID=true
+NAME="8ff684a3cd65ee4f25cd52fb46839737.mmu8",LANG="ENG",TITLE="多听多说勤练习：切实提高英语听力能力水平65句 初级篇 ",VALID=true
+NAME="52cc227b830bc54372b5ade5dff049f0.mmu8",LANG="ENG",TITLE="多听英文勤练听力：生活英语口语42句",VALID=true
+NAME="fe7222e9ff7788510cad8ab0f87d0040.mmu8",LANG="ENG",TITLE="多练习多提高英语听力训练54句：专攻英语听力提升",VALID=true
+NAME="49108292298f0f0937d4edfaaca67d7b.mmu8",LANG="ENG",TITLE="电话英语训练：提高您的英文听力水平",VALID=true
+NAME="762fa01f1dbbbde2624fd28fa3f034b3.mmu8",LANG="ENG",TITLE="短途旅行英文：高效练耳朵英语听力练习",VALID=true
+NAME="5312df2f04233bcec763e9dce88cc86e.mmu8",LANG="ENG",TITLE="光听就出效果！生活中超实用英文 边听边记简单学英语！",VALID=true
+NAME="3149aad55fb8d579eb08352785e1292f.mmu8",LANG="ENG",TITLE="关心 安慰 鼓励常用英文：高效练习59句英语口语和听力",VALID=true
+NAME="88eecc9942d0d0b3368fbd686b86c6a7.mmu8",LANG="ENG",TITLE="好记简单常用的英语短句六十个：丰富您的英文表达能力",VALID=true
+NAME="9eb32d611fe51e4e8243487d80ba6e4c.mmu8",LANG="ENG",TITLE="攻克英语口语：每天英文口说跟读训练39句（初级_中级英语）",VALID=true
+NAME="18bb212d03f1429aa80b2028ba8b7de9.mmu8",LANG="ENG",TITLE="活学活用基础英语表达五十句：加速提升口语表达技能和听力水平",VALID=true
+NAME="7ea046fa23fb63bbc2c76f4aab666a52.mmu8",LANG="ENG",TITLE="高效学习常用英语口语51句：锻炼您的英文思维",VALID=true
+NAME="74475193c698e61af3fd5fbc5150e2c4.mmu8",LANG="ENG",TITLE="高效学英文，短句到长句练习50句：有效改善英文听力适应力！",VALID=true
+NAME="69f1c03d6a2a96707e34eab4455c0539.mmu8",LANG="ENG",TITLE="高效学英语：四十六个超实用英语口语和听力句子",VALID=true
+NAME="1017748a6938213d80d0b68575360ae5.mmu8",LANG="ENG",TITLE="高效掌握45个英语常用句子：练习听力和口语",VALID=true
+NAME="2a65d040cc9d562c7a00e7c7a4f39cd5.mmu8",LANG="ENG",TITLE="高效掌握58句生活英语：基础英语听力练习",VALID=true
+NAME="c632cedf8cba560d5f66027b7e450a15.mmu8",LANG="ENG",TITLE="高效提升初学者英语水平：超有用55句英文口说训练",VALID=true
+NAME="9dbf02ca17f77169200e4b67d9d35842.mmu8",LANG="ENG",TITLE="高效提升英语听力：4段英文常用对话  聚会 做菜篇 ",VALID=true
+NAME="0a04464c061cd0fe401a55d9f5871f7a.mmu8",LANG="ENG",TITLE="高效提升英语听觉：日常英文听力练习",VALID=true
+NAME="40f1286e1ad36bae0267e6d5276aa602.mmu8",LANG="ENG",TITLE="高效提高您的英文听力：4个英语常用对话  中级篇 ",VALID=true
+NAME="388b3d7d86b0f8ece0aa0acf9b46b66a.mmu8",LANG="ENG",TITLE="高效提高英语听力水平50句：英文表达能力加速提升",VALID=true
+NAME="aa50b89dd3d1ee51593ff3129329090e.mmu8",LANG="ENG",TITLE="高效提高英语听力水平训练：28句英语常用表达",VALID=true
+NAME="3e033296bfbf601491df978746f975fd.mmu8",LANG="ENG",TITLE="高效提高英语听力水平：5段英文常用对话  食物 运动篇 ",VALID=true
+NAME="72bf731ea90eb8e6a068327a5fe0fdc7.mmu8",LANG="ENG",TITLE="高效率练听力：初级实用英语口语44句，大大改善英语听力水平",VALID=true
+NAME="49ad7a82c9ceaa03bd1dc786b908fafc.mmu8",LANG="ENG",TITLE="高效磨听说：超有用英语85句",VALID=true
+NAME="98f10e853522bb21a8091a316c184314.mmu8",LANG="ENG",TITLE="高效练习英语口语五十句：学好超有用生活英语表达",VALID=true
+NAME="6c0e855963d9db043c6fd7a7c46e83dc.mmu8",LANG="ENG",TITLE="高效练习英语听力：5个生活常用对话",VALID=true
+NAME="fc88d27cdfcf912a106ed3b380b920d3.mmu8",LANG="ENG",TITLE="高效练习英语听说：学53句好用地道英文表达",VALID=true
+NAME="0d7e6d281d1a511735290d59d4234010.mmu8",LANG="ENG",TITLE="高效练耳朵英语听力  ：空中英语",VALID=true
+NAME="4f5f53e618f96032b3689fc4cf0f9dd9.mmu8",LANG="ENG",TITLE="高效练耳朵英语听力100句 饮食篇 ",VALID=true
+NAME="4e86a9e2e39ec1a0ef8eb629da0bbed7.mmu8",LANG="ENG",TITLE="高效练耳朵英语听力90句",VALID=true
+NAME="79166463697696c0ca1d450619b05a8b.mmu8",LANG="ENG",TITLE="高效练耳朵英语听力中级篇：提高您的英文听力水平",VALID=true
+NAME="52d1e83661a1ccb307205c9e7f2ef545.mmu8",LANG="ENG",TITLE="高效练耳朵英语听力：在训练中提升你的英文听力技能",VALID=true
+NAME="6e80784b1dadb3562ed12bd8678ac980.mmu8",LANG="ENG",TITLE="高效练耳朵英语：听力填空练习 家庭关系 爱情篇 ",VALID=true
+NAME="780d29ed27584da4e34699937a164350.mmu8",LANG="ENG",TITLE="高效练耳朵：英语短文听力训练（不带中文音频）",VALID=true
+NAME="43c9b7a7e18e9351afec1f7519485333.mmu8",LANG="ENG",TITLE="高效练英语听力31句：常速 慢速地道英文表达",VALID=true
+NAME="e62620f53fb672264d59d2a39ee27565.mmu8",LANG="ENG",TITLE="高效练英语听力：4个英文日常对话 中级篇 ",VALID=true
+NAME="798ddf151897e8d1008f8a5504a22b76.mmu8",LANG="ENG",TITLE="高效英语听力训练：轻松学习65句日常生活英语",VALID=true
+NAME="f41f0d9ccf5aa6dcfa0e466ef8784f40.mmu8",LANG="ENG",TITLE="高频率万用句子：英语听力必练100句",VALID=true
+NAME="cb2dbcd0963b879880829f2e65051fed.mmu8",LANG="ENG",TITLE="高频英语口语练习55：英文水平每天都会有进步",VALID=true
+NAME="9b0f67aecdeefea6a81f7317bf587085.mmu8",LANG="ENG",TITLE="高频英语口语练习：英文水平每天都会有进步",VALID=true
+NAME="9082ed6b0d8f69c7448836eb87ace128.mmu8",LANG="ENG",TITLE="举一反三练习生活英语听与说81句 每天学习｜英文必然进步提高！",VALID=true
+NAME="20a7aa76446239eee69e353e1775532e.mmu8",LANG="ENG",TITLE="交流实用英文：强效提高听力与口语",VALID=true
+NAME="c7df9d2ef3900fa698973d918730626d.mmu8",LANG="ENG",TITLE="加强英语口语训练46句：强化英文口语表达技能！",VALID=true
+NAME="a564ad9aa37f97885da184c85cc3077e.mmu8",LANG="ENG",TITLE="加快英文思考反应！英语听力高效训练63句",VALID=true
+NAME="a2d576040bd4d65b56d3156f05b2c07d.mmu8",LANG="ENG",TITLE="加油站英语 汽车故障英文口语：轻松掌握超实用英语表达",VALID=true
+NAME="175e216348b93c715204d2228b23e237.mmu8",LANG="ENG",TITLE="即学即用55句基本英语表达听力训练：助你更快提高英语水平",VALID=true
+NAME="54a461c488017d36194efd219b2bcf3d.mmu8",LANG="ENG",TITLE="句句重要，身边的常用英语78句：反复提高和进步",VALID=true
+NAME="2fc6172d7b1460a68b8fd68cdbc7190a.mmu8",LANG="ENG",TITLE="基础实用英语：40句初学者英文听力 英语听力综合提高",VALID=true
+NAME="214e0f22e8a994ae7156426fc9584886.mmu8",LANG="ENG",TITLE="基础很重要｜英文一问一答  轻轻松松应付日常生活交流（第11集）",VALID=true
+NAME="73373d1164790782c2044b2fb6c81985.mmu8",LANG="ENG",TITLE="基础英语口语训练44句：生活英文融会贯通",VALID=true
+NAME="10ce6a2bf101bc5f39d71d3f0919a856.mmu8",LANG="ENG",TITLE="基础英语表达37句：进一步提高英语听力和口语技能",VALID=true
+NAME="0a7dbb907ba5e17552b027ab88cc14cf.mmu8",LANG="ENG",TITLE="家用电器 家具 日用品英语口语训练：高效提高英文表达能力",VALID=true
+NAME="33517e733bcefe1aecfd73d389375ce6.mmu8",LANG="ENG",TITLE="开口讲英语：实用英文句子训练68句 显著提高您的表达能力！",VALID=true
+NAME="6f76cf916fc34ed97412e075c0b3423a.mmu8",LANG="ENG",TITLE="旅游常用英文47句：训练提高英语听力水平",VALID=true
+NAME="a49a9fc0d3ef8202bb627994c0fcfb7f.mmu8",LANG="ENG",TITLE="既能听又能说：加快英语临场反应力，生活高频英文表达95句",VALID=true
+NAME="3e124834e7715b0feb68db626925ccc0.mmu8",LANG="ENG",TITLE="流利讲地道英文：53句超好用英语训练",VALID=true
+NAME="c76fc98417c0130b07523f1132723963.mmu8",LANG="ENG",TITLE="流利讲英语53句：超常用英文口语训练提高",VALID=true
+NAME="ba09971303b9a1aaa0cb090be2fd5ac5.mmu8",LANG="ENG",TITLE="流利说英语：有效提高您的英文口语60句",VALID=true
+NAME="1859aac42af1812b5f7ce797aec404c5.mmu8",LANG="ENG",TITLE="灵活表达心中所想：练习开口说英语70句｜英文口说越来越熟练",VALID=true
+NAME="a1b7229ccf632545b264100e4534c758.mmu8",LANG="ENG",TITLE="科学训练英语听力：渐进式提高英文句子难度（从基础到进阶）",VALID=true
+NAME="b1cadf117e5869d0ae6b70b1efc776cd.mmu8",LANG="ENG",TITLE="简单好用的50个打招呼英语短句：轻松学会聊天 问候 打招呼英语口语！",VALID=true
+NAME="385522c09dffca62cd1bdbad840c6ede.mmu8",LANG="ENG",TITLE="简单易用的英语短语",VALID=true
+NAME="b6ea2c00b9c9f024cd0857f979c812c5.mmu8",LANG="ENG",TITLE="简单高效记忆43句超实用英语：常用生活英语听力训练",VALID=true
+NAME="dc324725ea09c51c76aa54ed6d0105b0.mmu8",LANG="ENG",TITLE="简短英语口语四十七句：英语听力从零入门到提高",VALID=true
+NAME="1889cb8fef2d90d5bfbcecb31e7b7c1b.mmu8",LANG="ENG",TITLE="练习听力学习英文口语：生活常用英语60句",VALID=true
+NAME="85ca81630d8262d8e4ec09bc144dfa7d.mmu8",LANG="ENG",TITLE="练习简单易用的英语短语",VALID=true
+NAME="7b974ddcd31f43404add00867846d315.mmu8",LANG="ENG",TITLE="练好英文听力 口语61句：反复训练｜每天都会有进步",VALID=true
+NAME="ef0f10c757e7307415858d53be6d959f.mmu8",LANG="ENG",TITLE="练英语听力：学会常用英文表达  周末活动安排 ",VALID=true
+NAME="780c3a77a90a9e9eac5dc82a93b3e338.mmu8",LANG="ENG",TITLE="老外基础英语学习：显著提高英语听力训练",VALID=true
+NAME="9372c2457b1c07dcde461e9d9f23aabd.mmu8",LANG="ENG",TITLE="零基础学习生活英语短句46句：英文初学者入门必备",VALID=true
+NAME="bdbf74bdf6edfa1229e9659292b9a0ec.mmu8",LANG="ENG",TITLE="你应该知道的32个基本的汉语句型",VALID=true
+NAME="0801ff71023424344a5c61953860573c.mmu8",LANG="ENG",TITLE="每天开口说英语：练习基本生活口语（常用50句）",VALID=true
+NAME="362a293e7b306c22c2a25ef7ca1a495f.mmu8",LANG="ENG",TITLE="每天练习英文口说：英语水平必然有显著进步！ 62句实用英语表达 ",VALID=true
+NAME="9b6dc348426685869e4fef380acf65c3.mmu8",LANG="ENG",TITLE="每天英语听力：加强提升英文敏锐力47句",VALID=true
+NAME="884596b192b419ae30e59698c90359dd.mmu8",LANG="ENG",TITLE="牛津英文词典 54课",VALID=true
+NAME="8002f1eea6f7367ebc7a988aeac59424.mmu8",LANG="ENG",TITLE="牛津英文词典 59课",VALID=true
+NAME="73b95cfde385be0610acb9f0ddfeff88.mmu8",LANG="ENG",TITLE="磨耳朵52个常用句：进阶训练您的英语听力",VALID=true
+NAME="cd6b120a98a99b7d234f450cbf138e70.mmu8",LANG="ENG",TITLE="磨耳朵实用英语听力练习：听力能力上升一个水平，扩充词汇量",VALID=true
+NAME="9d11c6c8c5e5cb6b952113f272623e74.mmu8",LANG="ENG",TITLE="秒翻英语训练48句：必学基础英文短句",VALID=true
+NAME="b2f4d354d77e7b5c6ce9b3ac941caa32.mmu8",LANG="ENG",TITLE="秒记英语：听懂美国人生活表达100句！",VALID=true
+NAME="4a30bd437a1b5b89ecc7ad55f5c26644.mmu8",LANG="ENG",TITLE="美国人常用英语50句：英语听力水平更上一层楼",VALID=true
+NAME="9babc6b077b6655d6380c621b0e313d7.mmu8",LANG="ENG",TITLE="美国人说生活实用英语：精准提高您的英语听力水平",VALID=true
+NAME="3dfa8a510452cdb19caaa17931ca9dcc.mmu8",LANG="ENG",TITLE="能说会道英语口语听力训练：高效练耳朵（基础提升篇）",VALID=true
+NAME="f1300f102b07e28697bd8c03817cc395.mmu8",LANG="ENG",TITLE="面试求职英语口语表达：面试英文口语训练",VALID=true
+NAME="75c969e9d89e172a14ab40550abf2287.mmu8",LANG="ENG",TITLE="《走遍美国》口语课",VALID=true
+NAME="977b150f48f2e842cbcda62a19f61c02.mmu8",LANG="ENG",TITLE="【134集】这可能是最具艺术的英语学习视频！",VALID=true
+NAME="4f840bc00caa79102cc60673773144d0.mmu8",LANG="ENG",TITLE="【24集】四季中国（双语字幕）  解锁十二节气的口语表达",VALID=true
+NAME="eaaa016dfe7d5442309d12c27e44ca19.mmu8",LANG="ENG",TITLE="【34p】英文动画《金银岛》  希望源于失望，奋起始于忧患   英语基础差，看它就够了",VALID=true
+NAME="b1b02d25436dae8f80ebef6189b93959.mmu8",LANG="ENG",TITLE="【45集】最好的词汇课，带你搞定上万词汇   四六级考研不看吃亏！",VALID=true
+NAME="b734d6cf30c4735207b8a391845f6272.mmu8",LANG="ENG",TITLE="【45集】经典英文有声书合辑一，书籍跟读，增加英文阅读量，磨练你的英语耳",VALID=true
+NAME="4aecb5cc8eccdbbb95332031a166e2da.mmu8",LANG="ENG",TITLE="【56句】聊天必备的英文问答对话，和每个人生活息息相关",VALID=true
+NAME="d57b7c07865577f23a0ea01003156f60.mmu8",LANG="ENG",TITLE="【CATTI】口译二级长线备考 含讲义 ",VALID=true
+NAME="6199a7aa9e92081f740bb6b501899da1.mmu8",LANG="ENG",TITLE="【CATTI】笔译二三级真题及预测（含讲义）",VALID=true
+NAME="345224769caf570a88fdcc3d03253969.mmu8",LANG="ENG",TITLE="【CATTI笔译】英汉互译技巧（最新全）",VALID=true
+NAME="f829a73a4c9f7d91ba3c704d9c0c5b65.mmu8",LANG="ENG",TITLE="【YouTube最好的基础英语教程】常用英文口语 高效练习英语听力",VALID=true
+NAME="465a275c54d5a94e5ff69e4f2d19c6da.mmu8",LANG="ENG",TITLE="【YouTube最好的基础英语教程】高效练耳朵英语听力",VALID=true
+NAME="fb5df72bc16a56a7e4eafa77ada268a7.mmu8",LANG="ENG",TITLE="【YouTube最好的基础英语教程】高效练耳朵英语听力（2021年4月）",VALID=true
+NAME="ccfdd57b7d6a130197af30f74087f14e.mmu8",LANG="ENG",TITLE="【YouTube最好的基础英语教程】高效练耳朵英语听力（2021年5月）",VALID=true
+NAME="d0178ff93e1b24cb9e55aed17b1bc4c7.mmu8",LANG="ENG",TITLE="【“土味”英语 共85集】如何才能跟上美国人的语速？如何练成外国人说英语的语速？我，懂了",VALID=true
+NAME="d689a44998a080dddd28ce92479e6b1d.mmu8",LANG="ENG",TITLE="【一点一点提高难度】科学地突破英文水平83句｜从短句过渡到长句",VALID=true
+NAME="a931ed18a7f528f0a78a602789cc98cf.mmu8",LANG="ENG",TITLE="【全面增强英文表达】 每天练习英语听与说（初级很实用55句）",VALID=true
+NAME="31ced0a6dd269e8f904cd96de73549fe.mmu8",LANG="ENG",TITLE="【动画背单词·100集】英语分类词汇合集 （适合少儿教学 新手自学）",VALID=true
+NAME="d65e1b60ba78975f5b44362a431d11df.mmu8",LANG="ENG",TITLE="【动画背单词·65集】英语分类词汇合集 （适合少儿教学 新手自学）",VALID=true
+NAME="6e18ebb4351123104f598d06dc5d2e0f.mmu8",LANG="ENG",TITLE="【原版英语启蒙】英文动画故事系列",VALID=true
+NAME="4dc5929258067782f4e56a9ec0441af8.mmu8",LANG="ENG",TITLE="【双语字幕】2020是极具关键性的一年，你准备好了吗？",VALID=true
+NAME="3378ef33116e61152f531ae9ab27ee6d.mmu8",LANG="ENG",TITLE="【双语字幕】耶鲁大学公开课《心理学导论》  超级实用的心理学课程",VALID=true
+NAME="07d2c91afe9f266a66ad0b980559a6d8.mmu8",LANG="ENG",TITLE="【听力口语】英语情景剧（English Speaking lessons）",VALID=true
+NAME="7ac9477c578cbc98e9a3895fd09d899d.mmu8",LANG="ENG",TITLE="【商务英语】Business English（15个场景）",VALID=true
+NAME="9cd5451f18914869f11b55c37a361ff3.mmu8",LANG="ENG",TITLE="【小小世界 II】 Tiny World 第二季 （4K.HD中英双字）",VALID=true
+NAME="03ac7e47d05750ce188d6b9abfc15356.mmu8",LANG="ENG",TITLE="【小小世界 I】 Tiny World 第一季 （4K.HD中英双字）",VALID=true
+NAME="7fcd5ff3759583ad8ed6732155635e52.mmu8",LANG="ENG",TITLE="【常用英语片语】学完听力_口语_阅读能力大大提高！",VALID=true
+NAME="9d06d52eedfd5953498dff27a33a5eea.mmu8",LANG="ENG",TITLE="【开口讲英语】实用英文句子训练68句 显著提高您的表达能力！",VALID=true
+NAME="fed7c72cf94f7b28ed2e077645e40003.mmu8",LANG="ENG",TITLE="【提升你的口语表达能力】高效训练英语口语表达50句",VALID=true
+NAME="47d72b21201fec80579eb878a228d64d.mmu8",LANG="ENG",TITLE="【无字幕挑战】美语养成 Go Natural English with Gabby",VALID=true
+NAME="2b1ffdde3c23025bb61d07e959100bc3.mmu8",LANG="ENG",TITLE="【无字幕挑战】美语养成 Learn English with Bob the Canadian",VALID=true
+NAME="0d3424a17c17e1c9aab8882ae41b16a3.mmu8",LANG="ENG",TITLE="【无字幕挑战】英音养成 English With Lucy",VALID=true
+NAME="56f454ab51231f8c081e432065abd595.mmu8",LANG="ENG",TITLE="【更有效率地学英语】听得懂 说得出   日常需要的英文表达95句！",VALID=true
+NAME="378d3bfa8882a2fce05eecdc9d452103.mmu8",LANG="ENG",TITLE="【最好的英语早教启蒙】Cocomelon ABCKidTV（早教动画片）",VALID=true
+NAME="d050322d636c5425bbc9a4c77d4b8d5c.mmu8",LANG="ENG",TITLE="【浅显易懂】超实用英语听说84句，重复多遍，必然提高英文表达和听力技能！",VALID=true
+NAME="5e50e5b303c9f48cd8bc2d547e6c6d02.mmu8",LANG="ENG",TITLE="【点餐英语 郊游日记】高效提高您的英文听力",VALID=true
+NAME="2787f4a660cc3c33ebda33ae26614a42.mmu8",LANG="ENG",TITLE="【看动画学英语】通过场景学英语（36集）",VALID=true
+NAME="4ac9d0c510bd31afb746151d83e9b7a2.mmu8",LANG="ENG",TITLE="【精选英音】牛津辩论社   We Are  NOT  The Architect Of Our Own Demise",VALID=true
+NAME="5745ba21682e02feabafce363712b0d8.mmu8",LANG="ENG",TITLE="【精选英音】牛津辩论社   女权不是资本主义（英文字幕）",VALID=true
+NAME="5925626b36487cf763d996ad60915ba4.mmu8",LANG="ENG",TITLE="【精选英音】牛津辩论社   宗教在公共生活有一席之地吗？（英文字幕）",VALID=true
+NAME="eb264e966aa039237f2b032a822ed86a.mmu8",LANG="ENG",TITLE="【练好英语听力】适合初学者提升的常见英文38句",VALID=true
+NAME="9f4d9c3f5b8fcfe7b3b2187a0174a468.mmu8",LANG="ENG",TITLE="【经典版本】新概念英语（第一册）",VALID=true
+NAME="b81e3365daab65f7aa91318fc713bb06.mmu8",LANG="ENG",TITLE="【经典版本】新概念英语（第三册）",VALID=true
+NAME="dc4ddfa506b66a618e24f1e97eff276e.mmu8",LANG="ENG",TITLE="【经典版本】新概念英语（第二册）",VALID=true
+NAME="03b212321d2ef962abad3eba0484578b.mmu8",LANG="ENG",TITLE="【经典版本】新概念英语（第四册）",VALID=true
+NAME="4a254f332bd12fa75ccfed9f077b2447.mmu8",LANG="ENG",TITLE="【美语故事绘本】醒醒，醒醒，要讲哄睡故事了",VALID=true
+NAME="0c766c81f8a1a91044a37a13dc25968d.mmu8",LANG="ENG",TITLE="【耳朵怀孕 英文歌曲】高音质环绕助眠60分钟",VALID=true
+NAME="c892fe279628f792e684327fd4cf099d.mmu8",LANG="ENG",TITLE="【英式口语】ETJ 口语课",VALID=true
+NAME="2594410b931b58370b407e7c6cba87d0.mmu8",LANG="ENG",TITLE="【英文听力 口语 词汇练习·400集】彻底提高您的英文水平",VALID=true
+NAME="6547f3f5eb60985a0003b0e6afcce96a.mmu8",LANG="ENG",TITLE="【英文听力初级练习】助您提高英文听力水平",VALID=true
+NAME="b70bdd63d4a4c704ee8d04cc169b3d15.mmu8",LANG="ENG",TITLE="【英文听力练习600句】彻底提高您的英文听力水平",VALID=true
+NAME="762cb2a839e0e3312f66472bf2bdfb01.mmu8",LANG="ENG",TITLE="【英文听力练习】沉浸式助眠·美语口音环绕",VALID=true
+NAME="0685c712e33056372b9ee53ff6b3f3f2.mmu8",LANG="ENG",TITLE="【英文听说进阶训练】反复听、反复说、反复看，进步每一天！",VALID=true
+NAME="9a303c7fceb54042ff709b06fc93d7de.mmu8",LANG="ENG",TITLE="【英文启蒙】88集原版英文动画，非常好的启蒙教材（精选）",VALID=true
+NAME="95c7af3d6a6b543f7ce3f17cbfc36ebb.mmu8",LANG="ENG",TITLE="【英文启蒙】原版美式音标教学，非常好的启蒙课程",VALID=true
+NAME="6404cc82549c054776328dd67fce8323.mmu8",LANG="ENG",TITLE="【英美文学经典】A List to Starboard（有声书 文本精读）",VALID=true
+NAME="61bdfff09514c8867e0408c597bd0f33.mmu8",LANG="ENG",TITLE="【英美文学经典】A Nose for a Story（有声书 文本精读）",VALID=true
+NAME="33a85868b8f15f1abc3435a01d0daf96.mmu8",LANG="ENG",TITLE="【英美文学经典】A Pretty Face（有声书 文本精读）",VALID=true
+NAME="49dca51d0bd0fb8f13136dab26098eae.mmu8",LANG="ENG",TITLE="【英美文学经典】At the World s End（有声书 文本精读）",VALID=true
+NAME="89562cbb99110c7d6d5ec4a4fcd52760.mmu8",LANG="ENG",TITLE="【英美文学经典】Blackbeard s Treasure（有声书 文本精读）",VALID=true
+NAME="90c80a849a331f34b35e38a6bb2da235.mmu8",LANG="ENG",TITLE="【英美文学经典】British and American Festivities（有声书 文本精读）",VALID=true
+NAME="056838d7ec3e973c3a5422e7cdb5a36d.mmu8",LANG="ENG",TITLE="【英美文学经典】Casino Royale（有声书 文本精读）",VALID=true
+NAME="8c3c5d37e3e1b3626b354a8ca921a6d1.mmu8",LANG="ENG",TITLE="【英美文学经典】Christmas in Prague（有声书 文本精读）",VALID=true
+NAME="afb6cfdad8d4c776a2e902540f06a1d9.mmu8",LANG="ENG",TITLE="【英美文学经典】Dead Man s Chest （有声书 文本精读）",VALID=true
+NAME="c58cfef559783aea64f645c8216bf485.mmu8",LANG="ENG",TITLE="【英美文学经典】Green Gardens（有声书 文本精读）",VALID=true
+NAME="bfff9b95c8d26354dab487950c7529d9.mmu8",LANG="ENG",TITLE="【英美文学经典】Home for Christmas（有声书 文本精读）",VALID=true
+NAME="c79530c30ea520279ca8071f6605a40d.mmu8",LANG="ENG",TITLE="【英美文学经典】Meet Me in Istanbul（有声书 文本精读）",VALID=true
+NAME="18d5fb9e7d1075d7ea36e12d6909723e.mmu8",LANG="ENG",TITLE="【英美文学经典】Missing in Sydney（有声书 文本精读）",VALID=true
+NAME="3ad99c03247f6a2a0bb084039a355344.mmu8",LANG="ENG",TITLE="【英美文学经典】One Way Ticket（有声书 文本精读）",VALID=true
+NAME="5c1830d17aa27897dbc4236dfcfc662b.mmu8",LANG="ENG",TITLE="【英美文学经典】Sister Love（有声书 文本精读）",VALID=true
+NAME="f8a6e8207d92c03217f520aad33f2a4c.mmu8",LANG="ENG",TITLE="【英美文学经典】Swan Lake《天鹅湖》（有声书 文本精读）",VALID=true
+NAME="1f99838e0e80be055abecf5d5db6047b.mmu8",LANG="ENG",TITLE="【英美文学经典】The Blue Cat of Castle Town（有声书 文本精读）",VALID=true
+NAME="369e0dff943b15be8cfc56633bfaf289.mmu8",LANG="ENG",TITLE="【英美文学经典】The Boy Who Couldn t Sleep by Foreman Peter（有声书 文本精读）",VALID=true
+NAME="dfff43765a3e8296d297a4c4fbed95bd.mmu8",LANG="ENG",TITLE="【英美文学经典】《佐罗》（有声书 文本精读）",VALID=true
+NAME="22fbe69d220c84715a596ea97452317f.mmu8",LANG="ENG",TITLE="【英美文学经典】《宝岛》（有声书 文本精读）",VALID=true
+NAME="8b902f3ab443556ebe64957fca56291a.mmu8",LANG="ENG",TITLE="【英美文学经典】《庄园之谜》（有声书 文本精读）",VALID=true
+NAME="5c7c7fefbb889d7e701e4d8e0b61fe95.mmu8",LANG="ENG",TITLE="【英美文学经典】《最后的莫希干人》（有声书 文本精读）",VALID=true
+NAME="42c4e31474cf34067744a65ec46879b8.mmu8",LANG="ENG",TITLE="【英美文学经典】《歌剧魅影》（有声书 文本精读）",VALID=true
+NAME="f37cb5bfd66bb28e9ef00c500377b8e3.mmu8",LANG="ENG",TITLE="【英美文学经典】《王冠》（有声书 文本精读）",VALID=true
+NAME="98c176fb0cbb19e1312368f0ed4ffce3.mmu8",LANG="ENG",TITLE="【英美文学经典】柯南·道尔《最后一个问题》（有声书 文本精读）",VALID=true
+NAME="d76f6d060d4770c100fa1bac2242eb1c.mmu8",LANG="ENG",TITLE="【英美文学经典】艾琳·特里姆布尔《黑珍珠的诅咒》（有声书 文本精读）",VALID=true
+NAME="71521065a28f5a3767bc702b7ebcdf32.mmu8",LANG="ENG",TITLE="【英美文学经典】蒂姆·维里卡《地球上最冷的地方》（有声书 文本精读）",VALID=true
+NAME="6f1e3dc9c6e78943ac6beeea5a1203db.mmu8",LANG="ENG",TITLE="【英美文学经典】雅各布《猴爪》（有声书 文本精读）",VALID=true
+NAME="ed6bcea56e3a0549f3c3ae8f3994bdc8.mmu8",LANG="ENG",TITLE="【英美文学经典】马克·吐温《汤姆·索亚历险记》 （有声书 文本精读）",VALID=true
+NAME="06895a52c02912127e7aa954fd0e1688.mmu8",LANG="ENG",TITLE="【英美文学经典】马克·吐温《百万英镑钞票》（有声书 文本精读）",VALID=true
+NAME="bbd7dc424bf0cde2b29d54d868f14291.mmu8",LANG="ENG",TITLE="【英语】原版中英双语课程，绝佳的口语练习（100集）",VALID=true
+NAME="3bea46a3a2900cdf3b6c412e170328f9.mmu8",LANG="ENG",TITLE="【英语】听力 口语 词汇 语法（精品课）",VALID=true
+NAME="349d22d4d926dd6f8737f2bb0939622a.mmu8",LANG="ENG",TITLE="【英语写作 口语】造句子 单词发音（手把手教学）",VALID=true
+NAME="6bac07aefeb92cf8f2f929dad1a91160.mmu8",LANG="ENG",TITLE="【英语口语】常用短句训练120句",VALID=true
+NAME="918b5caef04b1fd6777cb34d9c8ea87f.mmu8",LANG="ENG",TITLE="【英语口语】常用英语口语短句训练120句",VALID=true
+NAME="4e7de8eb132b277728691e9904d282de.mmu8",LANG="ENG",TITLE="【英语口语】日常生活·表达88句",VALID=true
+NAME="5147f884bb52579f96d0fccc9a688ee9.mmu8",LANG="ENG",TITLE="【英语口语】日常生活篇英语口语表达88句",VALID=true
+NAME="cb2a1441f6275c30972d5fb380356b27.mmu8",LANG="ENG",TITLE="【英语口语】高效训练英语口语表达50句",VALID=true
+NAME="bc343ba6fc6f40c8558a0517fb37b8fb.mmu8",LANG="ENG",TITLE="【英语听力】Listening practice through dictation",VALID=true
+NAME="cb3114677347ead38135462d84eb80ca.mmu8",LANG="ENG",TITLE="【英语听力】“标准语速”",VALID=true
+NAME="70094088ec55c251421c2049d6018121.mmu8",LANG="ENG",TITLE="【英语听力】提升英语听力训练159句",VALID=true
+NAME="627352d8938a591f91aeac7612cbddb1.mmu8",LANG="ENG",TITLE="【英语听力】英文听力初级提升",VALID=true
+NAME="e7ac426a3de25bcb2f4a5fd81bc29932.mmu8",LANG="ENG",TITLE="【英语听力】超实用英语听力训练119句",VALID=true
+NAME="51a2c9dfc8aab7d5ac8218332ad785f1.mmu8",LANG="ENG",TITLE="【英语听力技能】高效练耳朵英语听力100句 饮食篇 ",VALID=true
+NAME="85b3ec13cbe2861a303e1a859878efbd.mmu8",LANG="ENG",TITLE="【英语听力训练】49个生活交流英文口语练习",VALID=true
+NAME="e995d1132a9f0a2ca637c3715b29999c.mmu8",LANG="ENG",TITLE="【英语听力高效训练】提高您的英语听力水平",VALID=true
+NAME="4f420d21dcecf8f61c880fddef5df5bc.mmu8",LANG="ENG",TITLE="【英语常速 慢速发音】高效提高英语听力训练",VALID=true
+NAME="1c54a308b9ca6afb18246f934cf40088.mmu8",LANG="ENG",TITLE="【英语语法】一堂课解决英语语法问题",VALID=true
+NAME="c07197da5af0064875897d71550571d2.mmu8",LANG="ENG",TITLE="【贴近生活的英语听说特训85句】逐步改善和提高英文表达和听力技能！",VALID=true
+NAME="eeaf7e85d254c7c560b86f4d1d0fc766.mmu8",LANG="ENG",TITLE="人人都能学好英语：生活工作英文47句 初级篇 ",VALID=true
+NAME="d900d5dfa08d89a915346974c74976ba.mmu8",LANG="ENG",TITLE="品德 性格英语听力针对训练：提高英文词汇量",VALID=true
+NAME="a1e262219542f4fff73ce94527a80441.mmu8",LANG="ENG",TITLE="强效英语听说82句：躺着就能把交流英语学会！",VALID=true
+NAME="79282a70f52a173c12536172a0721a71.mmu8",LANG="ENG",TITLE="日常生活中的英语短语",VALID=true
+NAME="a854fe10eb1685d6da824298aaf214f7.mmu8",LANG="ENG",TITLE="让你进入深度睡眠的英语",VALID=true
+NAME="7105f3d1025af5828f8179c6dedbbede.mmu8",LANG="ENG",TITLE="让听英语的耳朵更敏锐！生活惯用英语听力训练70句",VALID=true
+NAME="f96050c5f491e5d8d6e71d979a6022ef.mmu8",LANG="ENG",TITLE="轻松掌握购物英语必备表达：买东西 购物英语口语强化训练",VALID=true
+NAME="954ec2566e919498d2b29cf36eec2703.mmu8",LANG="ENG",TITLE="轻松练习生活英语：猜测 不确定 怀疑（初学者必学）",VALID=true
+NAME="b8f33d2fb33f3a7a0007f8d8272daf57.mmu8",LANG="ENG",TITLE="轻松练习英语听力43句：边睡边听英文口语",VALID=true
+NAME="127d5087c524072ef2c92a83dd3726e9.mmu8",LANG="ENG",TITLE="轻松练英语听力：学习43句初级英语口语基础表达",VALID=true
+NAME="ebbf26ddb9e803e3412f10cc21dd980f.mmu8",LANG="ENG",TITLE="轻轻松松学交流常用英文句子68个：英语口语和听力再进步！",VALID=true
+NAME="6f9cbc569d4b438fcb7b141e231f1ea7.mmu8",LANG="ENG",TITLE="事半功倍练习英语听力：逐渐听清楚外国老师的英文发音！",VALID=true
+NAME="f2cd710b78b2ea3a0079725f777ad720.mmu8",LANG="ENG",TITLE="听实用英语：英文提高不止一点点！（88句优选英文表达）",VALID=true
+NAME="4757c5829e0650b7001abacee3da2b91.mmu8",LANG="ENG",TITLE="听懂生活常用英语90句：磨耳朵练出好听力！",VALID=true
+NAME="9d797d15da92ab1b3812cd28b5175cbe.mmu8",LANG="ENG",TITLE="听懂美国人生活英语：快速提高您的英语听力水平！",VALID=true
+NAME="7d9cc711c22fb144e6cec7bcc8fdb2b5.mmu8",LANG="ENG",TITLE="听懂英语长句的秘密：从短句一点点加大长度，阶梯式英文训练法",VALID=true
+NAME="02e03f3c9f186817efc1ab4c55b93cd1.mmu8",LANG="ENG",TITLE="听日常英文对话：快速提高英语听力（不带中文音频）",VALID=true
+NAME="914bf0acdb387c0442830955d1ecc829.mmu8",LANG="ENG",TITLE="听英文会话：提高英语听力水平 居住 未来篇 ",VALID=true
+NAME="efddf19e49bf3fb27aa24d273a21c0e7.mmu8",LANG="ENG",TITLE="图片、例句、音标助你高效记忆29个常用英语单词",VALID=true
+NAME="e2e2540ebbc38583f0493145e1ef5a75.mmu8",LANG="ENG",TITLE="天天练英语听力：高效学习56句常用英文交流口语",VALID=true
+NAME="c54b2ea8761815e6383567d58c407104.mmu8",LANG="ENG",TITLE="天天说英语：坚持积累｜持续提高英文口说表达能力！",VALID=true
+NAME="9607e3acea51e4a9652139ead027bc8d.mmu8",LANG="ENG",TITLE="失眠之夜听听英语快速会话",VALID=true
+NAME="3ae73255a0aeb0a017be9c7858950037.mmu8",LANG="ENG",TITLE="实用英语短句42句：初学者听力练习必备",VALID=true
+NAME="834ffb5e320c14e04290d43f3d677626.mmu8",LANG="ENG",TITLE="实用英语短句练习：初学者口语听力练习必备",VALID=true
+NAME="ee5b46e27e054f4965a1bfdc737765f8.mmu8",LANG="ENG",TITLE="提升英文听力技能：常用英语会话训练 聚会Party篇 ",VALID=true
+NAME="d60947be17927a2d966fbdfb6912da90.mmu8",LANG="ENG",TITLE="提升英语听力反应：听美国人说常用英语100句",VALID=true
+NAME="35a7fa0d53ce9d00fb542374d0938917.mmu8",LANG="ENG",TITLE="提升英语听力水平：7个常用英语对话训练 中级篇 ",VALID=true
+NAME="44189bebb57dad4d47aae38abe6ab689.mmu8",LANG="ENG",TITLE="提升英语听力训练159句：有效提高英文听力水平",VALID=true
+NAME="135a1d33bb28d097a996a3933b7eb9ec.mmu8",LANG="ENG",TITLE="提升英语语感55句：练习提高您的英语听力",VALID=true
+NAME="16d14851af0cf1cbbfb13c7730a945c4.mmu8",LANG="ENG",TITLE="提高您的英语听力训练：掌握38句生活日常表达",VALID=true
+NAME="8baedeb07d5fa03c5ad98b68fa0ce94a.mmu8",LANG="ENG",TITLE="提高您的英语听力：生活英文精选60句",VALID=true
+NAME="4bab98b77ad3efa7a7a99194807b2f69.mmu8",LANG="ENG",TITLE="提高耳朵敏锐力：高效训练英语听力日常表达47句",VALID=true
+NAME="56aba5e950e993a763f548666545acae.mmu8",LANG="ENG",TITLE="提高英语听力反应：56句时间相关的常用英文短句专项训练",VALID=true
+NAME="4f16de8cefc7208f7a0ffb3977dffcbe.mmu8",LANG="ENG",TITLE="提高英语听力和表达49句：每天训练英文综合技能",VALID=true
+NAME="3ff7e5952572532ae12bcb75aea9aad7.mmu8",LANG="ENG",TITLE="提高英语听力和表达：每天训练英文综合技能",VALID=true
+NAME="d0d7cfc1b5a5e9a76ac07671c3cd52b0.mmu8",LANG="ENG",TITLE="提高英语听力必备：常用英文对话训练 规则_规定篇 ",VALID=true
+NAME="a04260a9c3a25cec7be88ebc215bef86.mmu8",LANG="ENG",TITLE="提高英语听力技能115句：高效练耳朵英语听力",VALID=true
+NAME="4f4e5ddc4d2d182982ee789f3b8fdbe6.mmu8",LANG="ENG",TITLE="提高英语听力水平：高效练习英文对话4个 电视节目 人物比较 ",VALID=true
+NAME="4aa402931a5a0c0fe51470865ed654fc.mmu8",LANG="ENG",TITLE="提高英语听力训练59句：多听多练多进步（不带中文音频）",VALID=true
+NAME="c6ea7106968bfc656bf4078976f2bfea.mmu8",LANG="ENG",TITLE="提高英语听力训练：英文常用会话6个",VALID=true
+NAME="cd0118a8dab222b023b0a02d3de8d8bf.mmu8",LANG="ENG",TITLE="生活会话超实用表达38个 英语口语听力水平双提高",VALID=true
+NAME="6611007a4febadb2627f18004429d59b.mmu8",LANG="ENG",TITLE="睡前轻松记忆简短英语表达",VALID=true
+NAME="1c0444b7727c19008a7eb7f44ac8102a.mmu8",LANG="ENG",TITLE="睡前轻松记忆：简短法语表达",VALID=true
+NAME="c8d609b01699f8fd2e74bae189f7be49.mmu8",LANG="ENG",TITLE="睡眠学习：1000个英语短语",VALID=true
+NAME="93877b53716b4ae6b3a6ae6559b98dc0.mmu8",LANG="ENG",TITLE="睡眠学习：500个有用的英语短语",VALID=true
+NAME="7fca5aecb2342a111d7ce6531243ea8f.mmu8",LANG="ENG",TITLE="睡觉时学习1000个普通话短语",VALID=true
+NAME="763413c699a0fc12e5b5de809cef4e8c.mmu8",LANG="ENG",TITLE="舒舒服服躺著学英语口语",VALID=true
+NAME="979eaa6f24bfe5c9dd16238e2880e9fc.mmu8",LANG="ENG",TITLE="说英语做中餐：「可乐鸡翅」- Cola Chicken Wings",VALID=true
+NAME="f3474e381e316724a734832a044362ac.mmu8",LANG="ENG",TITLE="说英语做中餐：西兰花炒虾仁-Stir fired broccoli with shrimp",VALID=true
+NAME="20db8beeb81bbbaeb1de13e8a13233a4.mmu8",LANG="ENG",TITLE="适合所有人练习 即学即用67句交流英语｜加速掌握核心基础英文表达",VALID=true
+NAME="544b84db68dde523291e5e45fa9899ee.mmu8",LANG="ENG",TITLE="随时用得着的英语基础句子：锻炼提高英语听力",VALID=true
+NAME="b0d81ba50b11f78fdf3fbea0ee8d0924.mmu8",LANG="ENG",TITLE="学以致用常用英文｜适合初学者的强效英语练习62句",VALID=true
+NAME="8262ea8b244b920febb7a7b442143889.mmu8",LANG="ENG",TITLE="学会用英语口语表达各种数字：掌握常用数字的正确读法",VALID=true
+NAME="662f824ebd6b36198cf9970e723a4589.mmu8",LANG="ENG",TITLE="学会用英语和外国人对话  英文问与答｜生活篇54句（第12集）",VALID=true
+NAME="9db186531a63bc163a5993e390ac1a6c.mmu8",LANG="ENG",TITLE="学会随时可用的英语一问一答：最适合英文初学者反复练习和提高",VALID=true
+NAME="dfef47d51b5b8a720493c6568f8b744a.mmu8",LANG="ENG",TITLE="学名言佳句英语：掌握常见励志英语句子（英语座右铭）",VALID=true
+NAME="3b89a3beee5ab880eec1eed5f8d9fa17.mmu8",LANG="ENG",TITLE="学最流行的生活英文：英美剧常用表达听力训练",VALID=true
+NAME="b5daf26a9028b9866757a277808a2bb0.mmu8",LANG="ENG",TITLE="学生活会话常用英语：实用英语听力100句，反复训练提高英语耳听力！",VALID=true
+NAME="d666b761b378fb444bd79a615cbdae96.mmu8",LANG="ENG",TITLE="学英语初级听力：练习英语绝佳材料｜扩大英语词汇量",VALID=true
+NAME="0e9ae957eb262c139c029328cca76ac8.mmu8",LANG="ENG",TITLE="想说但不知怎么说的实用交流英文口语：生活口语立刻开口说",VALID=true
+NAME="b217852500eafcad8c9c32454bef6bb6.mmu8",LANG="ENG",TITLE="想说却想不起来的真实生活英语口语 训练自己成为英文口说达人！",VALID=true
+NAME="2e6774c836553cbf8f63402b357a35de.mmu8",LANG="ENG",TITLE="想说又不会说的基础英语口语52句：高速提高您的表达能力",VALID=true
+NAME="d5dc91ef21c09fbcb9a6d2c9e135d8b8.mmu8",LANG="ENG",TITLE="训练改善英语听力能力：日常52句很实用英文",VALID=true
+NAME="95b74f51dcf4de1380444353ea7c0615.mmu8",LANG="ENG",TITLE="问路、地点英文对话：英语听力提高练习",VALID=true
+NAME="f01f5b52c9571328616004d62339fd2c.mmu8",LANG="ENG",TITLE="YouTuBe 最经典的世界名人演讲合集，教科书式英文发音！（英文字幕 80集）",VALID=true
+NAME="dabfbc8e33ad696d4b0b0046b956a3bf.mmu8",LANG="ENG",TITLE="YouTube最好的英语提升课程（第一季）",VALID=true
+NAME="577ccecb69f5389195f0084c4a6050e4.mmu8",LANG="ENG",TITLE="YouTube最好的英语提升课程（第二季）",VALID=true
+NAME="f5012fe18e30d5cb72f98f4d44f70493.mmu8",LANG="ENG",TITLE="一天比一天进步！英文口语听力90句 你也可以说一口流利英语！",VALID=true
+NAME="96e4c6d87a22a942564f15eaf0ab2369.mmu8",LANG="ENG",TITLE="一定会用得到的英文问答对话，轻松克服英语对话障碍！",VALID=true
+NAME="8267720daec5c27f6412143db999f878.mmu8",LANG="ENG",TITLE="一定用得到的机场英语｜坐飞机英语｜听懂机场英文｜实用机场口语",VALID=true
+NAME="75d3ec65afae8c162356a8c7023635cb.mmu8",LANG="ENG",TITLE="一心学好英语：勤练英语听力五十句（必备常用篇）",VALID=true
+NAME="532a0abfc8736e11fc9a1283bc5535ec.mmu8",LANG="ENG",TITLE="一生受益的英语万用句型22个：你的英语马上说得更自然更地道！",VALID=true
+NAME="c338b683e360c5b8ad0e2d379abdde3b.mmu8",LANG="ENG",TITLE="专注提高英语听力52句：让听力水平持续进步",VALID=true
+NAME="f54fc45fd8af7c31c5f76da0fc352a93.mmu8",LANG="ENG",TITLE="中级英语听力提升训练：英语能力进阶45句",VALID=true
+NAME="f2e7fa24b82aa095313658a91a44975c.mmu8",LANG="ENG",TITLE="值得反复训练的英文问句和回答：非常实用的一问一答英语会话",VALID=true
+NAME="32ca61bc4030b2b039b7e418c5182454.mmu8",LANG="ENG",TITLE="做生意 创业超实用英语表达46句：学会用英语讨论投资创业话题",VALID=true
+NAME="bef4160b8e5981253d05a9aa4e41d9ac.mmu8",LANG="ENG",TITLE="只要练习就有进步！ 73句超实用英语口语听力｜英语初学者提高基础必备",VALID=true
+NAME="78b6f12271700f3cd01a06d95c08ced5.mmu8",LANG="ENG",TITLE="早晚练习｜不断进步，英文听与说80句：真正学好一口流利英语",VALID=true
+NAME="a3bc871091bbb31b06b025c85b9a3c88.mmu8",LANG="ENG",TITLE="最实用最浪漫的48句英语情话：表白 约会 谈恋爱 结婚英文一网打尽！",VALID=true
+NAME="4299e5d1d992bac17ac544c34cd15351.mmu8",LANG="ENG",TITLE="最适合初学者入门：英语简短对话 听力特训",VALID=true
+NAME="36592d3245173f58822b4c554502b3e4.mmu8",LANG="ENG",TITLE="有效提高英语听力49句：反复训练提升英语听力技能",VALID=true
+NAME="c3a011d19ee01c27356569a2deac24bb.mmu8",LANG="ENG",TITLE="游刃有余说英语！练习很常用的生活英语口语79句｜看得见的英文进步",VALID=true
+NAME="b988e30ea5bcffe251143b91f23e3c29.mmu8",LANG="ENG",TITLE="用得着的生活英语口语：初级37句练习，提高英文表达层次",VALID=true
+NAME="bed62214879be50ce2521bb180778808.mmu8",LANG="ENG",TITLE="直接高效学英语：提高您的口语听力，轻松掌握55句日常英文",VALID=true
+NAME="6b82bc05a103ea7cb3f161b4a7f09397.mmu8",LANG="ENG",TITLE="直接高效提高英文听力练习69句：学英语练听力",VALID=true
+NAME="1b0b18f80b122ad6a64cb7cd7e981f8a.mmu8",LANG="ENG",TITLE="职业名称英语：学会各种职业的英文称呼，提高您的英语口语技能",VALID=true
+NAME="b4378ec89d32bfe4838b15360acacdb0.mmu8",LANG="ENG",TITLE="英式发音口语课程",VALID=true
+NAME="91e28d75fb0297ae77f8362430f2fd17.mmu8",LANG="ENG",TITLE="英文初学者提高必备   英语重要句子听力练习71句",VALID=true
+NAME="c3fa8b1503c60e01d1818a5101278921.mmu8",LANG="ENG",TITLE="英文听力再进步：学基础英语表达43句",VALID=true
+NAME="8cfdca1cc3ae787a8b9e68142a3e3e90.mmu8",LANG="ENG",TITLE="英文听力练习600句：彻底提高您的英文听力水平",VALID=true
+NAME="eee78a1e290b4f06f92eaef6e8767bbc.mmu8",LANG="ENG",TITLE="英文听力高效提高训练：4个英语会话 生活作息_时间篇 ",VALID=true
+NAME="5145369720bf31d321263713256af345.mmu8",LANG="ENG",TITLE="英文启蒙：原版美国英文儿歌 英文童谣（100集）",VALID=true
+NAME="f92feeb56103bfb81e6ae3806e3b4446.mmu8",LANG="ENG",TITLE="英文对话听力加强训练：提高您的英语听力技能",VALID=true
+NAME="4315b8fa9b0c199939a0a7e7925a7b55.mmu8",LANG="ENG",TITLE="英美剧常用对白｜英文影视常听到的地道表达100句   最实用的英文学习材料",VALID=true
+NAME="3f9f1b84931541840bcbd41371b8f4e9.mmu8",LANG="ENG",TITLE="英语一问一答简短情景会话：学会就可以用的生活表达！",VALID=true
+NAME="386e20bdb28a5e3bded94d82dafca314.mmu8",LANG="ENG",TITLE="英语会话听力特训：快速学会常用英语表达  距离 出行方式 ",VALID=true
+NAME="425b459a1bc3f8bd99739bb6e74c51be.mmu8",LANG="ENG",TITLE="英语初级表达56个：高效率练习听力 跟读",VALID=true
+NAME="304b775af715ce345ee1d57d474f7439.mmu8",LANG="ENG",TITLE="英语口语进步训练：学会生活简单英语49句",VALID=true
+NAME="f61572c0e5c8a4a8e5cf6853746e72b2.mmu8",LANG="ENG",TITLE="英语听力从入门到提高：难度n 1增加训练法高效练耳朵",VALID=true
+NAME="264f6e987e4c2ee3f40c0e8627b7746f.mmu8",LANG="ENG",TITLE="英语听力加强练习：超实用英文日常表达61句 初级篇 不带中文音频 ",VALID=true
+NAME="5983e0d47ea6ff3b34f70b53da3a409f.mmu8",LANG="ENG",TITLE="英语听力加速提高 46个重要生活基础短句",VALID=true
+NAME="1e0e25454968e8e88491fefaf82daf4e.mmu8",LANG="ENG",TITLE="英语听力口语水平提高：英文初级表达五十句",VALID=true
+NAME="94806817a50b85159e6d05169547d93d.mmu8",LANG="ENG",TITLE="英语听力口语练习54句：英文水平再上一个台阶",VALID=true
+NAME="6f6172f0de2ea6b300523837a0f63527.mmu8",LANG="ENG",TITLE="英语听力技能提升：高效练耳朵48句常用英文表达",VALID=true
+NAME="45e11d4b7706713165d1734db65bf186.mmu8",LANG="ENG",TITLE="英语听力技能特训39句：提高英语听力理解力",VALID=true
+NAME="41a5671a8900ce97dacd180a01fb1a0e.mmu8",LANG="ENG",TITLE="英语听力技能练习",VALID=true
+NAME="de27f41d826451c38b5b4c0409a811ca.mmu8",LANG="ENG",TITLE="英语听力技能训练  慢速／常速 ",VALID=true
+NAME="0b9c846649007b064a8629822996ec47.mmu8",LANG="ENG",TITLE="英语听力技能进阶：超实用英文四十九句",VALID=true
+NAME="8bbcdeaed7e5378f32cb16caf1e5e1b4.mmu8",LANG="ENG",TITLE="英语听力有效突破：学习英语基础42句",VALID=true
+NAME="3035e4262946147a761c0a66e7047b8a.mmu8",LANG="ENG",TITLE="英语听力精听素材",VALID=true
+NAME="a7d0fae22c67d01b93675db87a2806d2.mmu8",LANG="ENG",TITLE="英语听力练习：进阶学习50句精选英文（中级篇）",VALID=true
+NAME="8c7b7bb46b788b274ab9587d981d52eb.mmu8",LANG="ENG",TITLE="英语听力进阶训练40句：改善您的英语听力水平（中级篇）",VALID=true
+NAME="d6075a8878fa05440d032d271fc5ae14.mmu8",LANG="ENG",TITLE="英语听力高效磨练：常用英语表达句型49个",VALID=true
+NAME="6b494fcbe9dc7f97c30a16dac2e49066.mmu8",LANG="ENG",TITLE="英语听力高效练习30句：高效练耳朵",VALID=true
+NAME="a4d1e93f789cc717fd81fd20ed653d7b.mmu8",LANG="ENG",TITLE="英语听力高效练习：高效练耳朵",VALID=true
+NAME="fae1ec45b8f0f644cef2d841fc2f13f9.mmu8",LANG="ENG",TITLE="英语基础好用表达55句：每天进步一点点",VALID=true
+NAME="ce5a071d476f29580122b3a5a4ce3698.mmu8",LANG="ENG",TITLE="英语学习100句：一次听懂那些似懂非懂的生活英语用句",VALID=true
+NAME="61e03de0361e4edb46411a5c333c83cd.mmu8",LANG="ENG",TITLE="英语对话听力训练_真正有效提升您的听力水平 学科 科目 ",VALID=true
+NAME="1a05c7ced289ed282efe648af1e96761.mmu8",LANG="ENG",TITLE="英语对话听力训练：真正有效提升您的听力水平 学科 科目 ",VALID=true
+NAME="0af52689e7dd1004684c2114184414d0.mmu8",LANG="ENG",TITLE="英语泛听磨耳朵61句：沉浸英文环境",VALID=true
+NAME="95e07911fb9ea601c783973a74aece0a.mmu8",LANG="ENG",TITLE="英语熟练之路！每天英文口说训练65句 逐步提高英语表达水平！",VALID=true
+NAME="ff5af45f3159a560ba111ab4cb829ce9.mmu8",LANG="ENG",TITLE="英语短句到长句口语听力训练：阶梯式高效提高您的英语水平",VALID=true
+NAME="96cbafedf6b84ea0fb9bb9a527225bc2.mmu8",LANG="ENG",TITLE="英语精听 （完整版）",VALID=true
+NAME="70324283945b4e90812d116a2343b6d2.mmu8",LANG="ENG",TITLE="英语能力突破：轻松提高英语听力（基础实用59句）",VALID=true
+NAME="7f303e1551d4f79bf74cb7b8d2725826.mmu8",LANG="ENG",TITLE="英语这么练更有效！磨耳朵和口说这75句！",VALID=true
+NAME="263021fa8b33ed797897882d2a51067f.mmu8",LANG="ENG",TITLE="英语长句一点一点适应：从短句到长句练习，一天比一天进步",VALID=true
+NAME="2fb14ac643a229fe440e6271b67b3d75.mmu8",LANG="ENG",TITLE="英语问答对话超好用50句：轻松应对大部分生活对话情景",VALID=true
+NAME="94617b403e1b8d4e8f9603fa031412d1.mmu8",LANG="ENG",TITLE="营造英语环境：英语听力训练48句日常表达",VALID=true
+NAME="65095d7fea73b48cd9ac17b87944e024.mmu8",LANG="ENG",TITLE="赞美 表扬英语常用句：学会英文口语表达你的赞美！",VALID=true
+NAME="01fa1017596c268364717567f0afd98d.mmu8",LANG="ENG",TITLE="这些英文早晚会用得到！勤听英语多进步｜生活英文90句",VALID=true
+NAME="adfc6ff330fe3f5f17edf3b924e5c386.mmu8",LANG="ENG",TITLE="这样学英语最有效：英文口说听力特训（基础篇42句）",VALID=true
+NAME="5a01ac8d0c256b4e976054ac1fede889.mmu8",LANG="ENG",TITLE="这样练英语最直接最高效！英语口语提高练习66句",VALID=true
+NAME="362e4451899d8c49d4f0fbd1e69e936f.mmu8",LANG="ENG",TITLE="重要生活英语口语108句：短句到长句进阶训练",VALID=true
+NAME="c6d8d4bc6475b50f62a4a8a2c82b84e5.mmu8",LANG="ENG",TITLE="Angelababy 杨颖 大宝贝 外媒全英文采访，你为她的口语打多少分呢？（英文字幕）",VALID=true
+NAME="cf091888cc888ff5da3a1b49a5161570.mmu8",LANG="ENG",TITLE="BBC出的蛋炒饭教程，逼疯亚洲人最快的方式，煮饭不淘米，还将米饭煮成粥再沥干再用冷水冲洗？（硬核机翻双语字幕）",VALID=true
+NAME="e14299374eed3c245359969e8d832672.mmu8",LANG="ENG",TITLE="BBC播音员教你地道英式发音！【最经典】【全集】【英式音标】",VALID=true
+NAME="3ef69c98b4b0977b1b6e8c19eedd40fd.mmu8",LANG="ENG",TITLE="BBC蛋炒饭后续：真勇士大姐照着BBC教程学做蛋炒饭，做出来的比狗粮还难吃，太坑了！（硬核机翻字幕）",VALID=true
+NAME="bd00cbeb456a3b719323ad8941d0e729.mmu8",LANG="ENG",TITLE="不刷10遍亏死的日常生活口语合集，三秒练成流利英语！（25集 英文字幕）",VALID=true
+NAME="fadd7e36cce535db5418405cc843968f.mmu8",LANG="ENG",TITLE="炒饭女王狂喷BBC炒饭教程：我的老天爷啊，用水洗熟米饭，我就问你，这玩意能吃吗？（硬核机翻字幕）",VALID=true
+NAME="5e84ec509966e4ab5a63366b80be25b9.mmu8",LANG="ENG",TITLE="国外网红狂喷BBC蛋炒饭教程：这是哪门子的炒饭，这分明就是意大利面式煮饭，我的苍天啊！（硬核机翻字幕）",VALID=true
+NAME="090820d1782e061a47b916aeea56a1a8.mmu8",LANG="ENG",TITLE="跟ESL专业老师从零基础入门开始学英语【语法】【发音】【口语】【词汇】一网打尽【65集高清全集】",VALID=true
+NAME="6ea8a629e93764d9d56375a372b4f54e.mmu8",LANG="ENG",TITLE="跟Lisa老师一起学美式英语口语【最新83集全】【一学就会】",VALID=true
+NAME="89fd15915abf96deb92bd63de0c1f284.mmu8",LANG="ENG",TITLE="来自清华的新疆吴彦祖初中希望之星英语演讲珍贵视频，人和人的差距怎么这么大呢？",VALID=true
+NAME="8d2ba807b1ada353b8b577eb13a98275.mmu8",LANG="ENG",TITLE="来自清华的新疆吴彦祖英语演讲，人帅英语好，一分钟内我要他所有联系方式！（英文字幕）",VALID=true
+NAME="fe44d97633378722eb8fb7f2cee3c853.mmu8",LANG="ENG",TITLE="柯南英文配音版超虐片段，新一竟然叫Jimmy，小兰叫Rachel，辣耳朵",VALID=true
+NAME="42d2a366ce2c06412399beb863dda24c.mmu8",LANG="ENG",TITLE="练听力最牛的材料，每天一遍，一个月英语听力提升N个level！（2）（50集精品合集）",VALID=true
+NAME="9b1f70a7b945d1b54e6f3f2447aecced.mmu8",LANG="ENG",TITLE="经典口语教材【走遍美国Family Album USA】高清全集",VALID=true
+NAME="5bbe16f1172cf0aedfa0e0772db04bec.mmu8",LANG="ENG",TITLE="零基础入门英语口语一学就会！跟最红外教Shane学口语！【Coach Shane】【350集持续更新】",VALID=true
+NAME="2d8d9ed595c71a669f24e31714060065.mmu8",LANG="ENG",TITLE="零基础英语口语！跟美女Lucy老师学地道英语口语【English with Lucy】【完结】",VALID=true
+NAME="79b70ca7e89b3d47931c22fd3c0f98b3.mmu8",LANG="ENG",TITLE="零基础重头开始学单词！跟Christina老师一起背英语单词【全集高清】学单词最好的视频！",VALID=true
+NAME="a36ccbbfe769c76044570cbee899a5d5.mmu8",LANG="ENG",TITLE="零基础重头开始学英语口语【26集完】这可能是最好的的英语视频！",VALID=true
+NAME="500ffba54bfd3073869cdc868b94fa24.mmu8",LANG="ENG",TITLE="零基础重头开始学英语音标！跟美女Lucy老师学习地道英式音标发音【最新全集】",VALID=true
+NAME="05c0229dd4bf9b8d790133ea251651d7.mmu8",LANG="ENG",TITLE="零基础重头开始背英语单词！跟美女Lucy老师学英语单词词汇【最新全集】【已完结】",VALID=true
+NAME="5dab647eef182a97e004d75288191f2e.mmu8",LANG="ENG",TITLE="「油管超燃励志视频」 2020最新 人都有绝望的时候，不要放弃（Don t give up）（中英字幕）",VALID=true
+NAME="fe7b159e153a43c3d9f3c4be77961481.mmu8",LANG="ENG",TITLE="【100集 • 英文童话 • 纯干货】边回忆童年边学英语，看完英语水平赶超美国人！",VALID=true
+NAME="d181a5009ac7b5574df3066a0e9f3b3f.mmu8",LANG="ENG",TITLE="【100集•TED精选演讲】刷一遍后你的英语口语听力会6到起飞！（2）",VALID=true
+NAME="23ab5c7481ad3df9b62f6f116bc8f1b5.mmu8",LANG="ENG",TITLE="【100集•TED精选演讲】英音美音都有，刷完这系列，英语水平吊打同龄人！",VALID=true
+NAME="49b510ae5414b968eabac2298b4fa0b3.mmu8",LANG="ENG",TITLE="【100集全】最具影响力的TED演讲精选，培养你的英语思维，提高你的英语口语！",VALID=true
+NAME="acff3257a8972c29dabc753f27ef2492.mmu8",LANG="ENG",TITLE="【10集全】吹爆的听力练习课，神仙英音发音，一周拯救你的烂听力！",VALID=true
+NAME="558b2697820551e8520aeb4ad1fa758d.mmu8",LANG="ENG",TITLE="【110集 • 油管最好的口语课】最接地气的日常英语口语对话，刷一遍英语就能无敌的那种！（中英字幕）",VALID=true
+NAME="ad0fcdd80bb4911421b39e84b1cecdcd.mmu8",LANG="ENG",TITLE="【15集 • 高级英语听力训练】从零基础到大神的听力练习材料，让你的听力提高n个level！",VALID=true
+NAME="c90f8892549f3908c549c318e4373f87.mmu8",LANG="ENG",TITLE="【15集合集·魔鬼听力训练】24小时循环听，磨炼你的英语耳，一个月听力满分不是梦！",VALID=true
+NAME="2015310db6e0dcccf4278857c19a28db.mmu8",LANG="ENG",TITLE="【16集全】看世界经典英文童话——小美人鱼，感受震撼爱情，学习英语口语！（英文字幕）",VALID=true
+NAME="834497df1e704037313d13fc0753841b.mmu8",LANG="ENG",TITLE="【16集全】看动画学英语口语，拇指姑娘，童年回忆！",VALID=true
+NAME="ec1554d4b1053516db1dc30f33102af8.mmu8",LANG="ENG",TITLE="【18集 • 初级英语听力训练】最强，包你一个月听力就能提升n个level的神奇合集！ 2 ",VALID=true
+NAME="db9ae5f784e49b2f1603e3101e707db8.mmu8",LANG="ENG",TITLE="【19集 • 中级英语听力训练】包你一个月听力就能提升n个level的神奇合集！（3）",VALID=true
+NAME="fa14599fdbc1b55f6cd767014d8f8270.mmu8",LANG="ENG",TITLE="【19集 • 零基础英语听力训练】包你一个月听力就能提升n个level的神奇合集！（1）",VALID=true
+NAME="706273890ca7556b2764fe56a313c086.mmu8",LANG="ENG",TITLE="【21天突破英语口语】影子跟读练习，沉浸式洗脑循环，一个人也能轻松练口语！",VALID=true
+NAME="481695f88a215d29a03fa2f5984430f3.mmu8",LANG="ENG",TITLE="【24集合集· 零基础原版启蒙英语】美国小学生用来学英语的教材，吹爆，口语原地起飞！",VALID=true
+NAME="8f996e61199d6b017016418baa31391f.mmu8",LANG="ENG",TITLE="【267集全】英语口语重磅经典教材——新概念1-4册动画版全集，珍贵资源！（高清英文字幕）",VALID=true
+NAME="5f95f069093456bc23468b4a42c2f552.mmu8",LANG="ENG",TITLE="【27集】超燃！韩国高中生英语辩论赛，发音超地道，逻辑缜密，一开口就秒杀全场！",VALID=true
+NAME="2b6f1f6868cbd50cbda2d88653be43c1.mmu8",LANG="ENG",TITLE="【27集全】日常英语基础口语对话，一次性提高你的口语水平（英文字幕）",VALID=true
+NAME="74b08eb8a7c54860f55b40b08e4de8a3.mmu8",LANG="ENG",TITLE="【30集全】最好的的词汇课，一个月搞定2万单词不是梦，学就完了！",VALID=true
+NAME="f8f610fcb544235369549d6fc758e406.mmu8",LANG="ENG",TITLE="【30集合集】一个月听力从零基础直达大神，最牛的英语听力练习视频！",VALID=true
+NAME="fb9e9be95cc7126a927ac4556017ae57.mmu8",LANG="ENG",TITLE="【40集全 · 看动画学英语】原汁原味，美国儿童专用启蒙教程，让您像孩子一样轻松学会英语口语！",VALID=true
+NAME="efe8eda67c12df8e8a6dbc63302c779c.mmu8",LANG="ENG",TITLE="【50集 • 日常英语对话】油管播放量破亿、最适合国人的英语课程！（英文字幕）",VALID=true
+NAME="c7ac9653cc6b7c884ecb6f29ed8803f2.mmu8",LANG="ENG",TITLE="【51集全】撒欢学英语 -公主饶舌大战 魔性英语学习 最全合集（英文字幕）",VALID=true
+NAME="910afcd714cea555e88d2ad43f727158.mmu8",LANG="ENG",TITLE="【57集 · 英语口语】油管镇管之宝的2分钟英语，每天只要学2分钟，口语就像坐火箭一样起飞！ 全英字幕 ",VALID=true
+NAME="d101366bd52cf5575aab6c3f525bcdc8.mmu8",LANG="ENG",TITLE="【60集全 · 宇宙最强口语课】日常口语对话，疯狂跟读10遍，口语原地起飞！",VALID=true
+NAME="eec07ba7d1d19bc186a56e968236f724.mmu8",LANG="ENG",TITLE="【62集 • 英音口语】酷炫老汉头顶时尚贝雷帽秀英音，一开口虽然听不懂但却让人心醉！",VALID=true
+NAME="a9ae429377dc4c7f71167c92db32d0f1.mmu8",LANG="ENG",TITLE="【6小时听力集训】绝佳听力素材，洗脑式磨炼你的英语耳，学完英语提升N个层次！",VALID=true
+NAME="a2e3ae10d658ecfe719fdaf94e7b0201.mmu8",LANG="ENG",TITLE="【70集精选】听故事学英语 · 睡个觉就把英语学会了（英文字幕 · 沉浸式学习）",VALID=true
+NAME="57f1e53ee3a341e95603e751fdd5a9e7.mmu8",LANG="ENG",TITLE="【76精华合集 • 最牛保姆式听力训练】一个月内彻底提升你的英语听力，达到同声传译大神水平！",VALID=true
+NAME="8be6c422b439ababd3026a4bb2a791d9.mmu8",LANG="ENG",TITLE="【7集全】台湾美女老师教英语口语，神仙发音，情景式讲解，零基础也能轻松学会",VALID=true
+NAME="c065e8793443d16a230466a9a0df55ed.mmu8",LANG="ENG",TITLE="【7集全】看美国小学英语动画，练英语口语对话，超简单易学！",VALID=true
+NAME="9ca3615ef7248a4479081f1a7d1117e0.mmu8",LANG="ENG",TITLE="【80集全】撒欢学英语 -史诗级饶舌大战最全合集",VALID=true
+NAME="9c0bccf580f4ab4809dd1a0ff9939c7d.mmu8",LANG="ENG",TITLE="【85集 • 世界名人英语演讲】油管最震撼人心的英语演讲，教科书式英文发音，超然励志！（英文字幕 ）",VALID=true
+NAME="aa301d4f1791b96ed6e7d84c7fc71e77.mmu8",LANG="ENG",TITLE="【96集纯干货 • BBC一分钟英语最全合集】每天一分钟，口语轻松练！",VALID=true
+NAME="4e76454d99649ed9ceef339a20dd7194.mmu8",LANG="ENG",TITLE="【BLACKPINK】Lisa说英语，发音也太地道太酥了吧！",VALID=true
+NAME="873d9180cd622f808957c006637b5a1e.mmu8",LANG="ENG",TITLE="【TED-ED 700集】最好英语合集，刷一遍绝对能让你英语口语起飞！",VALID=true
+NAME="4ac73579c869eabfeb9a83924a181f86.mmu8",LANG="ENG",TITLE="【YouTube最好的日常英语】让您像孩子一样沉浸式学英语口语！（86集全）（英文字幕）",VALID=true
+NAME="b39503360154cdc20bedef05686a5aa7.mmu8",LANG="ENG",TITLE="【传世经典 • 72集 • 英语口语】新概念英语第一册名师精讲视频，口语听力轻松击破！",VALID=true
+NAME="a67023bbb841110a151840bb1c4937de.mmu8",LANG="ENG",TITLE="【你一定能学好英语】不想学英语的时候进来看看，怎么才能每天鸡血满满的学英语！",VALID=true
+NAME="e5368df016349010459fe8d0e7c1ccc4.mmu8",LANG="ENG",TITLE="【励志英语演讲】Kobe Bryant s 布莱恩特科比  如何成为一个传奇人物【改变你的命运】",VALID=true
+NAME="abd1e66e20e4fba22fa07339232f816b.mmu8",LANG="ENG",TITLE="【励志英语演讲】Taylor Swift ：我是如何变得坚不可摧的",VALID=true
+NAME="116dd6c0198b11df272df003e54d4e04.mmu8",LANG="ENG",TITLE="【史诗级饶舌争霸】汉堡王VS麦当劳 ",VALID=true
+NAME="60b8139f6b6694c8140d8ff682353feb.mmu8",LANG="ENG",TITLE="【听故事学英语】初级入门英语 沉浸式学习（持续更新 附英文字幕）",VALID=true
+NAME="d97e5871019b35ae44ba72db659b1332.mmu8",LANG="ENG",TITLE="【地道英式发音】纯正地道英音速成课，来自伦敦的碾压！（26集全）",VALID=true
+NAME="8be3a36d1bc2f65c303d7b08e9084e04.mmu8",LANG="ENG",TITLE="【地道英音】陈奕迅获得母校金斯顿大学颁发的荣誉博士学位时的演讲，这英音真是碾压一切啊！",VALID=true
+NAME="9300221f0263fcf765ec3569cb4f2539.mmu8",LANG="ENG",TITLE="【如何快速学好英语】俄罗斯学霸小姐姐教你快速学好英语的窍门，从零基础直达流利！",VALID=true
+NAME="caaf99cf7c9dd0b04349c26e3b7e0b88.mmu8",LANG="ENG",TITLE="【学英语必备】100常用英语名词 - 【英语单词】",VALID=true
+NAME="8c7bf8b5e8513c2d552307bf0b8e867b.mmu8",LANG="ENG",TITLE="【强迫症福利】看国外医生挤出55年陈年大黑头！（油管搬运）",VALID=true
+NAME="406b27a5e78ee1f89a82855a38d487c9.mmu8",LANG="ENG",TITLE="【影子跟读训练】跟12岁天才少年练英语口语，神仙式清晰发音，三遍播放循环洗脑磨耳朵！",VALID=true
+NAME="285181846cdad45ca96a351dac296d5d.mmu8",LANG="ENG",TITLE="【摆脱中式口音最佳】跟Lisa老师学英语连读【全集高清】",VALID=true
+NAME="04110d70a3430b70d453d53823294c5c.mmu8",LANG="ENG",TITLE="【日常英语】10句最常用的餐厅英文 （中英字幕）",VALID=true
+NAME="f87a230077e7a94347713943a6105dcc.mmu8",LANG="ENG",TITLE="【日常英语】可别只知道Lucy Lily了！好听的女生英文名推荐",VALID=true
+NAME="d62ec9e26df1e19aaaa664a780d0c698.mmu8",LANG="ENG",TITLE="【日常英语】可别只知道Tom Tony了！好听的男生英文名推荐",VALID=true
+NAME="3d0cc1fb18523ba79f212b89ca501a1d.mmu8",LANG="ENG",TITLE="【日常英语】日常生活作息英语（中英字幕）",VALID=true
+NAME="c6169e8c8a58af4dc491e82fe83ea570.mmu8",LANG="ENG",TITLE="【日常英语口语】和美女老师一起快乐学英语，一周后口语开挂，秒杀老外！",VALID=true
+NAME="96c9ed1caee983eb36594f39f6997f97.mmu8",LANG="ENG",TITLE="【最全口语提升法宝】日常必备口语130句，简单粗暴提升你的英语水平！流利地道不是梦！",VALID=true
+NAME="389b989235908d2cc5c3449aff8e1824.mmu8",LANG="ENG",TITLE="【最好的口语练习素材】每天一遍，口语变神仙，一个月后英语水平超同传！",VALID=true
+NAME="ff2d81e1f6e715709e32a488b0067641.mmu8",LANG="ENG",TITLE="【最神口语练习方法】台湾大学外籍教授教你练习口语最快速的方法——回音法！",VALID=true
+NAME="e9a178d3c0cf8bac61c1008000448c53.mmu8",LANG="ENG",TITLE="【特朗普】油管破亿播放量！特朗普鬼畜翻唱 Havana 原唱Camila Cabello（英文字幕）",VALID=true
+NAME="26e42c8a786de329fea80165dd8b7f19.mmu8",LANG="ENG",TITLE="【由简到难 ·英语口语】沉浸式口语听力练习，从初级到高级，彻底提高你的英语水平！",VALID=true
+NAME="210e803c023f0542b58edd33083cf00e.mmu8",LANG="ENG",TITLE="【看动画 学语法】一次性学会英语语法（英文字幕）",VALID=true
+NAME="70498ff06274d5e0321fddb45d40767c.mmu8",LANG="ENG",TITLE="【看动画学英语】基础日常英语对话，让你的英语口语从零基础直达流利（英文字幕   35分钟沉浸式学习）",VALID=true
+NAME="57b770701c69c3fc01eacca1b5afa120.mmu8",LANG="ENG",TITLE="【看动画学英语】日常必备英语 情景口语对话 学完立刻就能用上",VALID=true
+NAME="ccf033be7e0e37842330ded66d311301.mmu8",LANG="ENG",TITLE="【看动画背单词】常用单词看个动画片就轻松记住了！（沉浸式学习 全集）",VALID=true
+NAME="bb7ed60618e8ca4866cb4990f5a4fd07.mmu8",LANG="ENG",TITLE="【神仙磨耳朵英语练习】绝佳听力口语学习素材，刷一遍顶你过去学一年！",VALID=true
+NAME="7f4c1c50113c4dbe313591e566d950e3.mmu8",LANG="ENG",TITLE="【科普英语】如果你被鲸鱼吞了会怎样？（中英字幕）",VALID=true
+NAME="d31e10663260d952a4ed608512daad7e.mmu8",LANG="ENG",TITLE="【英文有声书】我敢说这是最适合学英语的有声书资源，语速适中，发音标准，让你的口语水平原地起飞！",VALID=true
+NAME="0c50658c561c3950ea40fa088c57b80e.mmu8",LANG="ENG",TITLE="【英文自我介绍】教你怎么用英语做完美自我介绍（中英双语字幕）",VALID=true
+NAME="0170ff2c8527d93355dd1ffa3c6e4d61.mmu8",LANG="ENG",TITLE="【英语发音强势矫正】来自好莱坞的大师帮你分析口音产生的原因，口把口带你彻底摆脱中式口音！（5小时超详细教学）",VALID=true
+NAME="7492e54daddc7674dfe6743d1d878b20.mmu8",LANG="ENG",TITLE="【英语口语100句】常用生活英语听力训练，强化英文口语表达技能，一个人也能练好口语！",VALID=true
+NAME="c3f8f240a1c1224e151647ad21c57e4a.mmu8",LANG="ENG",TITLE="【英语口语】你想更快更流利地说英语吗？这些词竟然可以弱读！（英文字幕）",VALID=true
+NAME="c08cf4bc3e6786b029e8141604036ad3.mmu8",LANG="ENG",TITLE="【英语口语】在餐厅点餐必备的60句表达，你知道多少？你难道只会说I want this this and that吗？",VALID=true
+NAME="fcf158599f889aa2878212e684b1d0a6.mmu8",LANG="ENG",TITLE="【英语口语】日本大学生英语演讲比赛，封面小姐姐发音超好，一点日式口音都没有！（16集）",VALID=true
+NAME="7e768647445f8672deb3e2c879c3fbf3.mmu8",LANG="ENG",TITLE="【英语口语】油管最好的口语练习视频！英语口语精华99句  （中英字幕）",VALID=true
+NAME="3f8924ef490f56960d07d5cf36cbe5c8.mmu8",LANG="ENG",TITLE="【英语口语】王嘉尔英语采访：3分钟快答30问题，这英语确定不是母语吗，太好了吧！（英文字幕）",VALID=true
+NAME="e299c3b0998fd7dc937691d00a9cdc41.mmu8",LANG="ENG",TITLE="【英语口语】跟权力的游戏学口语，英式发音，轻松易学！",VALID=true
+NAME="0417b5a79f1a37c985e3bc696da52ceb.mmu8",LANG="ENG",TITLE="【英语口语】酷炫小伙去韩国顶尖学校用英语跟学生对话，看看韩国学生的英语如何吧！（英文字幕）",VALID=true
+NAME="7b73d4ea40658cca80881bcd6ee960cd.mmu8",LANG="ENG",TITLE="【英语口语】韩国高中生英语辩论赛：思维缜密，发音地道，口语流利，这群小哥哥小姐姐也太厉害了吧！（14集全）",VALID=true
+NAME="0d46f279e647940840f6ac9ef9fe18b6.mmu8",LANG="ENG",TITLE="【英语口语】香港中学生英语演讲：发音开口跪，真死亡语速，不看字幕完全跟不上！",VALID=true
+NAME="e9334c8facaf68a83cf478c72468f516.mmu8",LANG="ENG",TITLE="【英语听力】英语听力进阶提升 51个日常生活重要句子",VALID=true
+NAME="cf1d21027646e971626155002ba75688.mmu8",LANG="ENG",TITLE="【英语听力】零基础初级到精通【听力训练】【磨耳朵听力】【精听材料】【范听材料】",VALID=true
+NAME="806b734c0acf91822c6d890c8c3e10b6.mmu8",LANG="ENG",TITLE="【英语听力训练】从零基础—中级—高级听力练习【磨炼你的英语耳】",VALID=true
+NAME="bbe0e1873aeb81cc6426c85323c62b1b.mmu8",LANG="ENG",TITLE="【英语技能】如何自学口语成为英语大神？最好的英语口语自学向导 【英文字幕】",VALID=true
+NAME="38f2a52bffd095bdd6ccd50e230e0502.mmu8",LANG="ENG",TITLE="【英语技能】如何通过看电影学好英语？【英文字幕】",VALID=true
+NAME="b61ec37ab1031fa9dd1e7fb0bac58463.mmu8",LANG="ENG",TITLE="【英语晨读】 每天一句精选英语口语，跟着大声念就对了！",VALID=true
+NAME="7391591943c2f8d547b7d82cfa036d4f.mmu8",LANG="ENG",TITLE="【英语纪录片】看BBC Earth 纪录片学英语，50个精彩绝伦的自然历史时刻！",VALID=true
+NAME="bd5f98708c59d18dd4de9ba6f9ce56e1.mmu8",LANG="ENG",TITLE="【英语速成】2个月从零基础直达流利（54集全）",VALID=true
+NAME="845daa39ee655c8c1a70870f38c88e34.mmu8",LANG="ENG",TITLE="【英语音标】这绝对是最好的音标 发音教学视频，口把口教你，学不会你打我！",VALID=true
+NAME="e7b319642402b4acad354c34472dd9ad.mmu8",LANG="ENG",TITLE="【英音控请进】最高效磨耳朵英语听力50句（慢速，带音标）",VALID=true
+NAME="de41dc2edd2a242142c9032bca42917d.mmu8",LANG="ENG",TITLE="【野外生存】国外小伙徒手荒野搭建最美地下隧道",VALID=true
+NAME="7d9f5ce7bb17f6082318c90b245e2f88.mmu8",LANG="ENG",TITLE="【野外生存】大牛教你如何在荒野里【徒手】搭建豪华泳池！",VALID=true
+NAME="6a8d609014780a5f0b6949e5ab2ce15f.mmu8",LANG="ENG",TITLE="【雅思口语】印度老哥咖喱味9分雅思口语示范，你觉得他的口语有9分吗？",VALID=true
+NAME="4f47994cb07b9190ef7a1966d3122fdc.mmu8",LANG="ENG",TITLE="【零基础英语】 英语数字1到100",VALID=true
+NAME="63b0797fdd4c18a5c7b1fd5170e6395d.mmu8",LANG="ENG",TITLE="【零基础英语】100最常用英语单词  中英双语）",VALID=true
+NAME="7fdb9aec31d31615d609e8af04ad0ee3.mmu8",LANG="ENG",TITLE="【零基础英语】50个常用英语单词和句子【一小时循环洗脑】",VALID=true
+NAME="14b5983f656ebc89a8b3958bb967fc23.mmu8",LANG="ENG",TITLE="【零基础英语】990个英语常用短句  中英文真人录音 字幕 ",VALID=true
+NAME="e625b18d679bf5baae3721ec66373722.mmu8",LANG="ENG",TITLE="【零基础英语】从ABC开始自学英语【15集全】【这可能是学英语最轻松的视频了】",VALID=true
+NAME="83e60d6a03cac056cdd30a3127054282.mmu8",LANG="ENG",TITLE="【零基础英语】入门生活英语句子短语口语速成【中英字幕】",VALID=true
+NAME="bfeb48eb0fae7151054eb351e2c19053.mmu8",LANG="ENG",TITLE="【零基础英语】初级入门英语口语1000句（中英字幕）",VALID=true
+NAME="214a3fa65b9a4f95186d6e6546feb313.mmu8",LANG="ENG",TITLE="【零基础英语】最实用的简单英语口语 （中英字幕）",VALID=true
+NAME="2510427bf1ba4b240b54575f75c04b26.mmu8",LANG="ENG",TITLE="【零基础英语】简单入门英语对话 中英字幕 ",VALID=true
+NAME="5f6b1754364b0940bb62fc31e4761253.mmu8",LANG="ENG",TITLE="【零基础英语】英语初学者50个常用单词和句子【一小时循环洗脑】",VALID=true
+NAME="798763d4d75e9a638f2033a36e87c5ae.mmu8",LANG="ENG",TITLE="【震撼人心的英文演讲】女神安妮·海瑟薇联合国为女性发声，堪称英语听力材料的典范！",VALID=true
+NAME="8367812a8aa67a96440dab4e755e3e16.mmu8",LANG="ENG",TITLE="天王嫂昆凌英文采访：之前去纽约看秀我还怀着孕并且晕倒了，人美英文流利，开口即倾心！（中英字幕）",VALID=true
+NAME="a1b52b143cf9f45e04848ec3625182d7.mmu8",LANG="ENG",TITLE="心碎休斯顿领事馆被关闭，除此之外不搬去休斯顿的10大理由！",VALID=true
+NAME="a05fd0c44ea2e61371bc6986a331a27c.mmu8",LANG="ENG",TITLE="王嘉尔超酥英文采访超长版，雅思口语9分范例！（中英字幕）",VALID=true
+NAME="daeb8b60dfd163a4ef33deffb678819c.mmu8",LANG="ENG",TITLE="中式口音克星！美女老师口把口教你美式发音，让你的发音比美国人还牛！",VALID=true
+NAME="ea409145dd5e463859074647fb62f221.mmu8",LANG="ENG",TITLE="最好的学习发音音标视频！高清全集！零基础也能学会！",VALID=true
+NAME="c3f38f1309e496bec8ec4f31bc90ac23.mmu8",LANG="ENG",TITLE="油管爆燃励志英文短片——至：孤军奋战的勇士，你本就该光芒万丈，怎么甘心沉沦黑暗？！（每天一遍，斗志全满）",VALID=true
+NAME="612ff9616d414fd9419810ad9ed8c0a1.mmu8",LANG="ENG",TITLE="油管破亿播放超燃励志视频：没有借口！看完不滚去学习算我输！",VALID=true
+NAME="7a81465969826e300f0787ddf8fb0a78.mmu8",LANG="ENG",TITLE="油管超然励志英语短片：停止虚度光阴！人从生下来就走向死亡，你没有时间浪费！",VALID=true
+NAME="dda24e8bb963c67c7b32e914bd95047e.mmu8",LANG="ENG",TITLE="英语听力听写填空练习 － 高效提高你的听力能力",VALID=true
+NAME="9b7a205c96c46ce84f9ce134eb3bfd55.mmu8",LANG="ENG",TITLE="这绝对是练听力最牛的材料，每天一遍，一个月英语听力精通！（50集精品合集）",VALID=true
+NAME="e931800a523857a94fe7e9cc4a1f71ad.mmu8",LANG="ENG",TITLE="重头开始学英语【零基础日常口语对话】【32集全】【一学就会】",VALID=true
+NAME="cef7ecafedba2a6badda201cf17896c9.mmu8",LANG="ENG",TITLE="雅思口语0分示范，千万不要在喝水的时候看，全程高能！",VALID=true
+NAME="b40423120e7f76964b131b7cff3cfddf.mmu8",LANG="ENG",TITLE="30岁了还单身？艾玛·沃特森：那又怎样，我自己开心就好",VALID=true
+NAME="d1781a5050d2aba482496bf944ca2df0.mmu8",LANG="ENG",TITLE="5大奥斯卡影帝影后同台飙戏！小李子领衔最新灾难片《don t look up》预告",VALID=true
+NAME="3db081cbc0551e5a5735e69127814652.mmu8",LANG="ENG",TITLE="5年前的比尔·盖茨：面对下一场疫情，我们根本没准备好",VALID=true
+NAME="d8b02796f11798e6429a96b04bf08e95.mmu8",LANG="ENG",TITLE="BLACKPINK全团秀口语～Rosé的澳洲音也太俏皮了吧？",VALID=true
+NAME="8a830efec6d5a6249c7176c63441ba8a.mmu8",LANG="ENG",TITLE="不会和女生聊天？来跟安妮海瑟薇做个1对1练习吧",VALID=true
+NAME="aab190fefdaca59ec850ef6fe71f65f4.mmu8",LANG="ENG",TITLE="不到一周态度大翻转？福克斯主持人告诉你什么叫变脸",VALID=true
+NAME="42b6a85ad4152ee7e027b75af79c27ea.mmu8",LANG="ENG",TITLE="不愧是你！川普参加婚礼致祝酒词：今天你们结婚，我来骂骂拜登吧",VALID=true
+NAME="5d3bb73c19ac54ab9e535e9b631d4b8a.mmu8",LANG="ENG",TITLE="从“被误当寡姐”到演出场场爆满～碧梨：我靠艺术赢得了大家的认可",VALID=true
+NAME="5e7aa7f9e01e75c0ffea6165efcbda77.mmu8",LANG="ENG",TITLE="从想买跑车，到想帮助他人～碧梨今年真的成长太多了！",VALID=true
+NAME="d830a1fe50106a9700d33809c071770c.mmu8",LANG="ENG",TITLE="从网坛传奇到创业者-莎拉波娃自述成长之路",VALID=true
+NAME="ae0a3be48d449197e61df62e8ec49442.mmu8",LANG="ENG",TITLE="保罗·乔治谈两罚不中：我关键时刻罚球一直可以的；只是今天不太成功",VALID=true
+NAME="235883a5bc66e91c438d072b0205213b.mmu8",LANG="ENG",TITLE="保罗进入总决赛后动情发言：整整16年，所有的手术，努力和失败，终于有了回报",VALID=true
+NAME="feffb54b4636752b287391ae419e5abb.mmu8",LANG="ENG",TITLE="别再笑川普沙雕了，美国人民连自家地图都快不认识了！",VALID=true
+NAME="ed1f143d5c78f91724e09f149818cb39.mmu8",LANG="ENG",TITLE="变学化妆变练听力～当红花旦莉莉·柯林斯教你法式裸妆！",VALID=true
+NAME="c633e72f81ffddfabb360df73358a918.mmu8",LANG="ENG",TITLE="吃透这段演讲，再也不怕长难句！杜克大学校长毕业致辞",VALID=true
+NAME="c784c0d8cd84ffe2a63d1ec87557fd7e.mmu8",LANG="ENG",TITLE="吹不动了，中国跳水队太废词汇量了！外媒是这样解说男子三米板的",VALID=true
+NAME="0bba1cde18fc92829bd2026e965d44dd.mmu8",LANG="ENG",TITLE="奥巴马电话录音泄露狠批川普：对疫情的应对犹如贫血",VALID=true
+NAME="ca8efb3d01d4428edf8e87c01eece770.mmu8",LANG="ENG",TITLE="奥斯卡上的女性声音：每一位女性都是超级英雄",VALID=true
+NAME="f270b308fc8533c9e105442a5eb2bddb.mmu8",LANG="ENG",TITLE="奥观海谈直男癌：真男人，是不需要女人在身边扭屁股的！",VALID=true
+NAME="53cd9b5efa9e04a146b9d5a65050a4ac.mmu8",LANG="ENG",TITLE="奥运史上争议最大的运动员？变性女运动员：望大家敞开心扉，别感情用事",VALID=true
+NAME="814b032d878c7e7fcbd4d5437a79a86e.mmu8",LANG="ENG",TITLE="奥运男单卫冕，乒坛第一人！外媒是这样解说乒乓球男单决赛的",VALID=true
+NAME="772f355168301202f8e429cae9590fd6.mmu8",LANG="ENG",TITLE="崔娃吐槽美国政客：人们在受罪，你们却在卖股票？",VALID=true
+NAME="218ec279df79719935c39f77c9238e66.mmu8",LANG="ENG",TITLE="崔娃爆笑吐槽各国迷惑行为：奥运会也可以云举办嘛",VALID=true
+NAME="5ff04c5720ed1577866e8a016018b13e.mmu8",LANG="ENG",TITLE="崔娃谈双标：事不关己爱干嘛干嘛；对我不利我重拳出击",VALID=true
+NAME="cfda88b7055ed46f94b46211eb77da90.mmu8",LANG="ENG",TITLE="崔娃随口侃大山都超多梗？这个男人的人生就是一场喜剧",VALID=true
+NAME="c9293814078d12426bdbe9f0e25cf613.mmu8",LANG="ENG",TITLE="川普又有新录音曝光：病毒超级可怕；但我们已经做到最好了！",VALID=true
+NAME="18e500328dd2ad5303e99b806d898618.mmu8",LANG="ENG",TITLE="川普康复后到处索吻？崔娃：对抗病毒的胜利，让他变得无比饥渴",VALID=true
+NAME="4ac73fad4b193c13931b21ab64c1b4ae.mmu8",LANG="ENG",TITLE="川普建议注射消毒剂抗疫？川普：我只是用了讽刺的手法",VALID=true
+NAME="d3ada01d19dd579c75c17df663afb520.mmu8",LANG="ENG",TITLE="川普拒绝败选后交出总统位子？崔娃：某国要成全世界最大的独裁国了",VALID=true
+NAME="db3637441c5929e8ed997d737ca2d803.mmu8",LANG="ENG",TITLE="川普疫情来首次公开场合戴口罩！崔娃：爷的青春结束了",VALID=true
+NAME="7917d3d4ea85211e6f7015be51964fd6.mmu8",LANG="ENG",TITLE="川普的异次元历史回忆录；那个世界有个国家叫芝士？",VALID=true
+NAME="993543e24f85a3faf76a93bc08d66a0e.mmu8",LANG="ENG",TITLE="川普的智商究竟是个什么水平？心理学家JP的观点是..",VALID=true
+NAME="ab6567eea23cd2619448b0f3568d7a62.mmu8",LANG="ENG",TITLE="川普私密音频曝光！亲承瞒报疫情严重性，误导美国民众",VALID=true
+NAME="462b5236eff36aa82825a6bfab21eef2.mmu8",LANG="ENG",TITLE="川普称没人比他更懂韩国？崔娃：这数学也不知道咋当的亿万富翁",VALID=true
+NAME="eda6ad86e84be3e1daf70b4260739fe1.mmu8",LANG="ENG",TITLE="川普要解封全国？崔娃：看看武汉咋抗疫的，再看看你！",VALID=true
+NAME="57ba5e082d37fd15c35f8145a5db9d89.mmu8",LANG="ENG",TITLE="川普谈美国暴乱：望各地自行平息；不然我可要用军队了",VALID=true
+NAME="0ce10b08471a52e37d4ead38ef357135.mmu8",LANG="ENG",TITLE="川普：我不是个医生，但没人比我更懂医学",VALID=true
+NAME="03d40bdf85b3c30d66ed2f771c5c44f6.mmu8",LANG="ENG",TITLE="成也瑞秋败也瑞秋？詹妮弗：我是真特么不想再当瑞秋了",VALID=true
+NAME="1308aabb2ab1951224bfe33218d85ab3.mmu8",LANG="ENG",TITLE="把采访变成了吐槽大会？拳王阿里幽默谈种族歧视",VALID=true
+NAME="44d009581002975d21f22b5cef1bac07.mmu8",LANG="ENG",TITLE="操纵媒体风向影响大选？美国议员怒斥推特CEO：是谁特么给了你权力",VALID=true
+NAME="d23cd25705420ed5cad4e1514d939450.mmu8",LANG="ENG",TITLE="曾被凯特弄哭？儿子黑人血统被歧视？梅根王妃爆王室巨瓜",VALID=true
+NAME="b99a780c1009e54d7696c6f8abb9d281.mmu8",LANG="ENG",TITLE="比伯泪目谈碧梨：我只是想要去保护她",VALID=true
+NAME="77db69a35012ea81a47710837d5ff747.mmu8",LANG="ENG",TITLE="比伯红遍全球的《Stay》该如何唱？手把手教你英文歌词的连读",VALID=true
+NAME="687aa996d42aef3c2eb4635886829412.mmu8",LANG="ENG",TITLE="沉迷乐高惨遭老婆吐槽～小贝神反击：你比我还大一岁好吗？",VALID=true
+NAME="15270346be28461a544b246cdac2dd60.mmu8",LANG="ENG",TITLE="波什名人堂励志演讲：科比让我知道，所有的伟大都非命中注定",VALID=true
+NAME="f9a67b491111f3579cb0b844642fbd9d.mmu8",LANG="ENG",TITLE="澳洲英语福利：米兰达·可儿教你如何像超模般越吃越瘦",VALID=true
+NAME="8f3f8c14a21aa3e73e0016b14dc6e74e.mmu8",LANG="ENG",TITLE="碧昂斯致辞2020毕业生：投资自己，赌自己赢！",VALID=true
+NAME="09ecfe25d145ee252d896ffd4d851478.mmu8",LANG="ENG",TITLE="碧梨一听比伯的歌就哭？妈妈：我们曾考虑带她看心理医生",VALID=true
+NAME="489c4df99d574e6fb24c14f18a3a1f40.mmu8",LANG="ENG",TITLE="碧梨微纪录片：一个住在爸妈家的歌坛新星",VALID=true
+NAME="afd3c96d3157d274218f11cc5c5b5f3e.mmu8",LANG="ENG",TITLE="艾佛森世纪一跨19周年；这一跨偷走了一代人的青春",VALID=true
+NAME="123b5df06e7be656363cdabcacd2474e.mmu8",LANG="ENG",TITLE="被问凭啥演赫敏？11岁的艾玛·沃特森：因为我配得上",VALID=true
+NAME="36d30392d1a90760306a0ba82957d51c.mmu8",LANG="ENG",TITLE="超暖心～外卖小哥闯红灯，法官念其生活不易将罚款分期",VALID=true
+NAME="0f4964c3963e4d2021f4c423a7e28dd7.mmu8",LANG="ENG",TITLE="长得太帅也是烦恼？约翰尼德普：不喜欢被别人当成绣花枕头",VALID=true
+NAME="d468f5cd00185c47d8eaf614ddfbb9cf.mmu8",LANG="ENG",TITLE="Emoji猜歌挑战！和傻脸娜一起看看能答对几题吧",VALID=true
+NAME="cdb621bc7f42978c484b1da43b4b09ba.mmu8",LANG="ENG",TITLE="东京最燃之战，破世界纪录也未必赢？外媒是这样解说女子200米自由泳接力赛的",VALID=true
+NAME="3761d78a0df813155daffbef892a96f0.mmu8",LANG="ENG",TITLE="儿时竟是“戏霸”，喜欢欺负男生们？小艾玛：亿点点吧～",VALID=true
+NAME="46b44c51d7de3edcac93b354cd70b150.mmu8",LANG="ENG",TITLE="发歌宁缺毋滥，一张专辑做一年！总算知道Blackpink为啥火了！",VALID=true
+NAME="3d8f5aa0767d604eaacbccd399e9d69f.mmu8",LANG="ENG",TITLE="大型社死现场！当成人片演员出现在你家门口时...",VALID=true
+NAME="ca2313506bdc208832a9de1380625fbc.mmu8",LANG="ENG",TITLE="大片即视感！Blackpink纪录片官方预告！",VALID=true
+NAME="2573a18b9f0885109f453d77dbba91d2.mmu8",LANG="ENG",TITLE="大预言家？1967年新加坡国父李光耀这样预言中国发展...",VALID=true
+NAME="12d9e04c8104241528b018ef0362f4ee.mmu8",LANG="ENG",TITLE="对比惨烈！同样的题材，奥巴马和川普为你演绎不同的演讲",VALID=true
+NAME="c19e3df3c293f0eae58bbad9ac791a6e.mmu8",LANG="ENG",TITLE="封王国际赛事射手王！C罗绝杀爱尔兰的英文解说，你能听懂吗？",VALID=true
+NAME="237774ed4222a0f993f8b878df201103.mmu8",LANG="ENG",TITLE="带娃玩，差点害死儿子？安妮·海瑟薇回忆惊悚带娃经历",VALID=true
+NAME="2523db1233a44e7b41c32542cee23649.mmu8",LANG="ENG",TITLE="当  老妈陪儿子一起相亲时",VALID=true
+NAME="beb2cc30c4c804be008aa06956a3aced.mmu8",LANG="ENG",TITLE="当4岁女儿当全家人面宣布有男朋友时...老爸全程崩溃",VALID=true
+NAME="3e0a53d4b7217eb98f6235ccd8142a5d.mmu8",LANG="ENG",TITLE="当你的好姐妹沉迷给你化妆时...肯豆的反应可以说很真实了",VALID=true
+NAME="199c7815c0cb6f04a83ace426757c16b.mmu8",LANG="ENG",TITLE="当欧美女星见到肌肉型男～词汇量可以说很丰富了",VALID=true
+NAME="123baaf3405b62a170c508a40341b29a.mmu8",LANG="ENG",TITLE="当霉霉发现，自己专辑未获格莱美任何提名时...",VALID=true
+NAME="4edac7544f740257b0a4bfa9e1a4fb82.mmu8",LANG="ENG",TITLE="戴口罩被当罪犯；不戴影响防疫？崔娃：美国黑人太难了",VALID=true
+NAME="0c53014627cfef503cdf646339aff124.mmu8",LANG="ENG",TITLE="打不上球就退役？欧文：全是谣言，我不会退役的！",VALID=true
+NAME="da2a62db854b4adac845e0070ce96734.mmu8",LANG="ENG",TITLE="杜兰特谈G7绝平球：我的操蛋大脚踩了线，差一点终结对方赛季",VALID=true
+NAME="f85afaa5a2d4bd5282c2b47b0daafb1e.mmu8",LANG="ENG",TITLE="父爱如山..崩地裂？亲爹能有多不靠谱，看看这些爆笑老爸就懂了",VALID=true
+NAME="433bd71f84c315809761cded137e5e06.mmu8",LANG="ENG",TITLE="第一次约会就被甩了？碧梨：那哥们现在丑爆了",VALID=true
+NAME="b27f0b9cc6171334358e81b2fa61355f.mmu8",LANG="ENG",TITLE="粉碎退出国家队谣言！易建联对阵尼日利亚赛后英文采访完整版",VALID=true
+NAME="9889ec07f0382d08412407eb0d9fc529.mmu8",LANG="ENG",TITLE="读秒绝杀，一剑封王！外媒是如何解说孙一文绝杀夺冠的？",VALID=true
+NAME="cf272dd4af2320bdf13d374bf29dc0f2.mmu8",LANG="ENG",TITLE="逗比属性初现！15年前的小李子：我最喜欢的一场和女主的吻戏是…",VALID=true
+NAME="d0da3128e48af9426a60b71b08e48764.mmu8",LANG="ENG",TITLE="防弹少年团队长RM致词毕业生；这口语也太秀了！",VALID=true
+NAME="ea63a563d59a7779ecf15af60a27f274.mmu8",LANG="ENG",TITLE="非母语者的口语天花板？逐词揭秘七哥完美英语的底层逻辑",VALID=true
+NAME="ed49c752eaf1ed48938b7802ec89f393.mmu8",LANG="ENG",TITLE="顶级理工学霸的浪漫？卡内基梅隆教授教你用数学说情话",VALID=true
+NAME="ecd638306d66f26475d06a9064cbb971.mmu8",LANG="ENG",TITLE="化繁为简，驾轻就熟！Jennie金智妮示范雅思口语满分模版",VALID=true
+NAME="2f5353c6572fa8d4614747ef1015a75b.mmu8",LANG="ENG",TITLE="化身老赖？川普要求各州解封后不认账：自己的锅自己背好",VALID=true
+NAME="cfa76fa4017fae4ad13490eaec307e67.mmu8",LANG="ENG",TITLE="各有各的美！卡戴珊姐妹齐上阵大聊身材",VALID=true
+NAME="fef700187f53a32470264bc138e69159.mmu8",LANG="ENG",TITLE="哈佛商学院是如何教全球后浪的？一起云听哈佛MBA课程",VALID=true
+NAME="c2c70efc17a2d24cd3835fe8b2b75ac8.mmu8",LANG="ENG",TITLE="哈佛大学校长毕业典礼致辞：用你的才华，去把不完美的世界变完美",VALID=true
+NAME="976fd9a07d24db797991d99dada751e5.mmu8",LANG="ENG",TITLE="国内外两幅面孔？吴亦凡面对外媒的那些“内涵”内容",VALID=true
+NAME="276d5116076872e5b5e96f9dc4f3f810.mmu8",LANG="ENG",TITLE="国外教授的语速你跟得上吗？伯克利教授谈为啥不要作弊",VALID=true
+NAME="8ef884eb4f74ecfedc6e00e51d50d999.mmu8",LANG="ENG",TITLE="好人真的一生平安？心理学家告诉你：学会残忍，才是对你安全的最大保障",VALID=true
+NAME="0e9e5aac24f63c4d21bd21f4450774b4.mmu8",LANG="ENG",TITLE="好莱坞最当红花旦颜值及谈吐什么水平？一个视频告诉你！",VALID=true
+NAME="b4d1d56a05e8050f875f69991b0083bb.mmu8",LANG="ENG",TITLE="干脆你俩过得了！得知傻脸娜学做饭的霉霉：你知道这一刻我等了多久吗？",VALID=true
+NAME="280477a8d34780507cf46e1700244419.mmu8",LANG="ENG",TITLE="横空出世，奠定总统之路！奥巴马成名演讲：无畏的希望",VALID=true
+NAME="727e7ad3a308ce7fd93144f830449aaf.mmu8",LANG="ENG",TITLE="给年轻人的建议？“美丽心灵”原型约翰·纳什：一定学好数学",VALID=true
+NAME="9dee0d94220026ba18c6752c88de97b1.mmu8",LANG="ENG",TITLE="给年轻的对手上一课！奥观海教你如何在辩论中逆风反杀",VALID=true
+NAME="c62965202f4fbcf6d3b1d281f72ad52b.mmu8",LANG="ENG",TITLE="给缺乏勇气的女生们！TED经典打气演讲：你无需完美，而是要勇敢",VALID=true
+NAME="4d725e7333ac806e33c8ee996335fccf.mmu8",LANG="ENG",TITLE="股神翻车上百亿买来的教训？巴菲特：新手投资者必备的5大原则",VALID=true
+NAME="b65d71405e96cc73ad07a49f7657a1a9.mmu8",LANG="ENG",TITLE="过气总统不如狗？川普失势前后共和党政客的两幅面孔",VALID=true
+NAME="0392879dc577514e8568bde1355afbf7.mmu8",LANG="ENG",TITLE="隔离期间的戳爷每天在干嘛？戳爷居家小日常告诉你！",VALID=true
+NAME="00853ec53230b2081c801486dfbbc764.mmu8",LANG="ENG",TITLE="黄老板谈“一万小时理论”：这是真的！我写了无数的烂歌，才有了今天",VALID=true
+NAME="0ed54b02ae868d5546b97c4aa805c90b.mmu8",LANG="ENG",TITLE="黑出翔！当代活人献祭：福克斯新闻",VALID=true
+NAME="12455fbb472fa0c5df75fed7d2102c10.mmu8",LANG="ENG",TITLE="JK罗琳：我最喜欢的称赞，是让孩们爱上了读书",VALID=true
+NAME="92c9edf8c5139a7de54a59f1d748b27e.mmu8",LANG="ENG",TITLE="Lady Gaga首谈19岁遭制作人性侵并怀孕；欧美贵圈水太深不好把握！",VALID=true
+NAME="5ba9099e930c95f3c54a5aa681de0570.mmu8",LANG="ENG",TITLE="刘亦菲朗读英文诗《无声胜有声》；这是什么仙女气质啊？",VALID=true
+NAME="b288c774649efd68f097075434f21b7b.mmu8",LANG="ENG",TITLE="口语 听力神器！实用英语短语汇总（一）",VALID=true
+NAME="ce7f33954e2648980cae5b7ea3cb4549.mmu8",LANG="ENG",TITLE="坎耶举办竞选集会竟成迷惑行为？崔娃：来个人救救他吧！",VALID=true
+NAME="dd1859cba5816c8712aa0825449fb1c2.mmu8",LANG="ENG",TITLE="坚持不下去时请听听这段话～霍金：记得去仰望星空，不要望向脚下",VALID=true
+NAME="a8eafeda3224db621fa6e76b80b2097c.mmu8",LANG="ENG",TITLE="嫁入英国王室压力有多大？梅根王妃：王子的老婆可是很难当的！",VALID=true
+NAME="b5c64b7e859463a949c8a8cf389b77e3.mmu8",LANG="ENG",TITLE="将熊熊一窝？美国副总统食言后离谱辩解：我说会测试，没说能测完啊",VALID=true
+NAME="0b22fc39eebd71c79c659d6378d3a14e.mmu8",LANG="ENG",TITLE="就要心动挑战！看欧美某音顶流帅哥；这路子是真的野！",VALID=true
+NAME="0813395bd59a530d8dbacd0545578982.mmu8",LANG="ENG",TITLE="库里大学爆红时期珍贵访谈：上课迟到后，老师竟然停课为我鼓掌",VALID=true
+NAME="89bf5b2c1eb64e46fa189447967babf0.mmu8",LANG="ENG",TITLE="库里谈为何“英年早婚”：遇到了对的人，就不想再浪费时间了",VALID=true
+NAME="89a094003e437ae706c35025fbc73d64.mmu8",LANG="ENG",TITLE="敬告美国青年-碧梨：别出去蹦迪啦！在家撸狗不香么",VALID=true
+NAME="1e3738b381a0403da7bfdf7b582ffbfb.mmu8",LANG="ENG",TITLE="李子柒做个咸菜引来十几万攻击评论？一起看看杠精们都说了些啥！",VALID=true
+NAME="7cb8b673a24dcfd284d7601d0a4291b1.mmu8",LANG="ENG",TITLE="极致英音享受～女王圣诞贺词：最黑暗的夜，也有黎明的曙光",VALID=true
+NAME="cf005213a38d399efabb5618ccf6af8d.mmu8",LANG="ENG",TITLE="离职前的疯狂？川普最后一次新年演讲疯狂邀功：我们必须被铭记！",VALID=true
+NAME="8f57ba06c2c7c51e0aa8c4d3f155a43c.mmu8",LANG="ENG",TITLE="科技果然是第一生产力！95后女生靠做化学实验当选美国小姐",VALID=true
+NAME="2a6c959ec4ad2e9064ca0eaa90605429.mmu8",LANG="ENG",TITLE="科技英语全都又难又长？这个视频告诉你并非如此",VALID=true
+NAME="f302afd1ff42081c7ef9ac5f65420ca8.mmu8",LANG="ENG",TITLE="科比最新名场面：奥尼尔要能勤快点儿，我TM能赢12个冠军",VALID=true
+NAME="df74df2bbba203414bb25d2306d77020.mmu8",LANG="ENG",TITLE="科比生涯最励志的一段采访！听他讲何为努力，何为家庭，何为痛苦",VALID=true
+NAME="675ed1f41ab435b3de77988f001260eb.mmu8",LANG="ENG",TITLE="究竟何为后代，何为生命？TED经典演讲谈代孕争议",VALID=true
+NAME="5c88c0aba4416c6ac8b7f2f3d414c312.mmu8",LANG="ENG",TITLE="简直甜掉牙！当你在晚上告诉男友你饿了时...",VALID=true
+NAME="d7235340227785892219f212a790dce0.mmu8",LANG="ENG",TITLE="篮球界时尚鼻祖？艾佛森谈联盟着装规定：哥不是律师，哥是去打篮球的！",VALID=true
+NAME="2268913bccc85bff99e7df901549cd05.mmu8",LANG="ENG",TITLE="精彩攻防，令人窒息：当你和兄弟玩测谎仪游戏时",VALID=true
+NAME="9a4b17c475e13ad798965681a076cc92.mmu8",LANG="ENG",TITLE="绝佳英语听力素材！央视《美丽中国》系列短片53集完整版（不背诵可惜了）",VALID=true
+NAME="a0c2595a5f46dc27739af7208d8a9887.mmu8",LANG="ENG",TITLE="老双标川普无脑袒护警察？崔娃：只要你跟他一伙，绿了他都没意见",VALID=true
+NAME="23431e869de63782aab934d20b55c98c.mmu8",LANG="ENG",TITLE="老外谈中国人煮米饭：为啥光靠手指就知道加多少水？？",VALID=true
+NAME="a3459df36a3ac693d329898e6b1e8a52.mmu8",LANG="ENG",TITLE="老头子还有两副面孔呐？老年表演艺术家川普爆笑演讲花絮",VALID=true
+NAME="91979130ce81775fc9d6568fe9362409.mmu8",LANG="ENG",TITLE="老炮字幕君吐血整理！最适合学英语的脱口秀都在这里了！",VALID=true
+NAME="47b85dacc57f7c7336a868332694ec8f.mmu8",LANG="ENG",TITLE="肯豆告诉妈妈自己怀孕了！？一起学习下女生大姨妈的常用英文表达",VALID=true
+NAME="15a9c6a24ea8d11bdfa9ca9f9f26b8a4.mmu8",LANG="ENG",TITLE="肯豆帮姐姐们带娃～是一个用bro称呼亲侄子的酷小姨了",VALID=true
+NAME="0115bb09a7279aa68b25f6614a94d98e.mmu8",LANG="ENG",TITLE="脸书散播疫情虚假信息？美国议员：小扎，你这么害人，不应该负责么",VALID=true
+NAME="06edad770bfb1565784439f206391c40.mmu8",LANG="ENG",TITLE="蕾哈娜是如何睡前护肤的？来跟日日学护肤品英文吧！",VALID=true
+NAME="cd9bd0b5bb851e5ddaf6cde0d13b168b.mmu8",LANG="ENG",TITLE="见二战老兵未戴口罩被质疑；川普：就没人关心关心我？",VALID=true
+NAME="6d1ce07022c969a525b76b6b86088ccc.mmu8",LANG="ENG",TITLE="近百年前男孩讲英文，呼吁西方打破对中国的刻板印象",VALID=true
+NAME="db3b5fc49d76ff35c99bb3919f6cd411.mmu8",LANG="ENG",TITLE="酒鬼噶上线！说好的护肤分享，被王嘉尔录成了茅台品鉴会",VALID=true
+NAME="2fa29dbef384519d81b3312058804bb0.mmu8",LANG="ENG",TITLE="镜头外也太可爱了吧！蠢萌寡姐悄悄带你剧透《黑寡妇》片场",VALID=true
+NAME="667a5f33e94c7f1795bacee4385c2138.mmu8",LANG="ENG",TITLE="领命抗击疫情，但你的上司却是个铁憨憨时...",VALID=true
+NAME="30855ba2ad524965db8b0a2cf39bb25d.mmu8",LANG="ENG",TITLE="鸡汤都是骗人的！比尔·盖茨：虽然我从哈佛退学了，但我当时是可以随时回去的",VALID=true
+NAME="9242736106a190a0dac00f81261c7a09.mmu8",LANG="ENG",TITLE="你在教我做事？库克教你如何处乱不惊，和女议员谈笑风生",VALID=true
+NAME="b916affdc937a8977f8f05a73784c731.mmu8",LANG="ENG",TITLE="你想将一件事做到极致，还是拥有完整的生活？听听心理学家怎么说",VALID=true
+NAME="9d391eb63765b11bb8e3295efa4fa2e5.mmu8",LANG="ENG",TITLE="名垂影视的反派独白；《蝙蝠侠》小丑：Now  I m always smiling",VALID=true
+NAME="96aed3bd2bff33c76a0f67e3c3b0a1f4.mmu8",LANG="ENG",TITLE="女生帅起来能有多帅？安妮·海瑟薇核能说唱怒怼狗仔队",VALID=true
+NAME="40e87b279d7ab3d7e565a5c854d70e42.mmu8",LANG="ENG",TITLE="女议员怒斥美国“2.2万亿撒币法案”：羞耻，实在是羞耻！",VALID=true
+NAME="f23fa76818f1f62682ca63b0d22a15f8.mmu8",LANG="ENG",TITLE="年度最佳TED演讲？东西方文明之间为啥冲突不断，看完你就懂了",VALID=true
+NAME="5bbc00a218dd5a6430737e0a3398265a.mmu8",LANG="ENG",TITLE="明星情侣吵架是怎样的？萌德：我的内心，也有邪恶的一面",VALID=true
+NAME="fa492808805b65c8a603ee8c5b0e00be.mmu8",LANG="ENG",TITLE="明星是如何备孕的？听听准妈妈水果姐怎么说！",VALID=true
+NAME="52865fe474de8816a00fed736c47b17b.mmu8",LANG="ENG",TITLE="明星道歉致辞模版？陈冠希经典艳照门英文道歉视频",VALID=true
+NAME="dfed95343227e61c1b90208107a71e6d.mmu8",LANG="ENG",TITLE="欧美三大学神护体！祝所有高考生都能取得佳绩！",VALID=true
+NAME="a222f130e8cd5d313781b513fbaa2a29.mmu8",LANG="ENG",TITLE="欧美乐坛劳模！碧昂斯：当年曾怀着孕，冒着流产的危险在台上表演",VALID=true
+NAME="3cd43e42ba034a29e52cedfef11b0db4.mmu8",LANG="ENG",TITLE="欧美小曲库？王嘉尔英文歌大挑战；会得也太多了吧？",VALID=true
+NAME="1b2cde800be613c5cd7dceeb9f9eca65.mmu8",LANG="ENG",TITLE="欧美最耿直艺人？卡老师谈“黑历史”：我很喜欢当脱衣舞女郎！",VALID=true
+NAME="79eb18b2f69a0450eeae3bcfeb92db93.mmu8",LANG="ENG",TITLE="欧美语速最快的女明星？试试你跟得上凯拉的语速吗",VALID=true
+NAME="65b142f81fa4d83fe43dd244cb6d85b1.mmu8",LANG="ENG",TITLE="每天一遍，横扫颓废！科比励志名言合集：当我没有拼尽全力时，我会寝食难安",VALID=true
+NAME="ac350958a489ecd2fdda8fcdb80fa9af.mmu8",LANG="ENG",TITLE="民主党最后的王牌？奥巴马最新热血演讲：川普，总统不是这么当的",VALID=true
+NAME="1ccd3ea9df104c1086482fe4a3b9b9de.mmu8",LANG="ENG",TITLE="民主党版《出师表》？奥巴马呛川普：再让他这么搞下去，咱可要亡国了",VALID=true
+NAME="8e8ed2b4af9db851cfd85c49d81b381a.mmu8",LANG="ENG",TITLE="没喝假酒前原来这么正经？1998年的川普：人生得一灵魂伴侣足矣",VALID=true
+NAME="ae28f0fa8f6072b59ac93d206977fce6.mmu8",LANG="ENG",TITLE="漫威最被低估的超级英雄？《鹰眼》电影最新官方预告片！",VALID=true
+NAME="0591a775fc4674e1dede27a9ef301e4a.mmu8",LANG="ENG",TITLE="男子未戴口罩被暴力拖下车 崔娃：“哲学”抗疫不会有用的",VALID=true
+NAME="0b84cf75c39fc0edae9cff55036d09e7.mmu8",LANG="ENG",TITLE="磨耳朵的绝佳英语听力素材！央视《中国工艺》系列短片64集完整版（假期必备英文口粮）",VALID=true
+NAME="ea102b54ee53a75a8ce3af5b040d1557.mmu8",LANG="ENG",TITLE="米歇尔·奥巴马批川普：别选他，他上班摸鱼！",VALID=true
+NAME="a559a626c29b49840752725f2e0b3d08.mmu8",LANG="ENG",TITLE="美国“钟南山”：2月份就有建议进行隔离；可某人不听啊",VALID=true
+NAME="2ad7924e8584489438fb4ca967255c29.mmu8",LANG="ENG",TITLE="美国佛州市民花式对线戴口罩？崔娃：这智商，基本告别不了新冠了",VALID=true
+NAME="0eac3e1c7bbe9c8d48b6339896809995.mmu8",LANG="ENG",TITLE="美国史上最烂总统辩论？崔娃：这辈子从来没有这么想看广告",VALID=true
+NAME="1b908fe55b55ab2f518ba78a4a99b1a8.mmu8",LANG="ENG",TITLE="美国史上最解气的一次宣判：先生，你被判了175年",VALID=true
+NAME="7bda91288200932be3c19dc90b720d3f.mmu8",LANG="ENG",TITLE="美国各地为防疫撕破脸？崔娃：既然要撕，那就贯彻到底咯",VALID=true
+NAME="2f1680e5ace1059538d66fd45892ee7f.mmu8",LANG="ENG",TITLE="美国各地爆发抗议抵制隔离：“居家隔离就是社会主义！”",VALID=true
+NAME="3cabc152ae15ef261f588a42c0643e7c.mmu8",LANG="ENG",TITLE="美国各州联手架空川普？崔娃：不架空，等着替他背锅么？",VALID=true
+NAME="d2a1dbaf7f9bdec5fcb268ddf8e68371.mmu8",LANG="ENG",TITLE="美国女议员灵魂拷问世界首富贝佐斯：人血馒头好吃么？",VALID=true
+NAME="8e05f2a5e112d28655a085eb0b74651e.mmu8",LANG="ENG",TITLE="美国如何才能到达拐点？比尔·盖茨：应该学中国进行全国关停",VALID=true
+NAME="66532ede3e58887ae220ab55c2ed2fb9.mmu8",LANG="ENG",TITLE="美国小哥怒斥市长火爆全美：疫情当前，你却断了人们的电？",VALID=true
+NAME="56b028e60238d74f449092ad9d5aef16.mmu8",LANG="ENG",TITLE="美国总统演讲天花板？奥巴马11年前复旦大学经典演讲：温故而知新",VALID=true
+NAME="41993fee62b113bc9ab6831916fecd56.mmu8",LANG="ENG",TITLE="美国总统的家庭地位是怎样的？奥巴马：我真的好卑微",VALID=true
+NAME="f3b3a22adc4545812cfbf4eea4c5a17f.mmu8",LANG="ENG",TITLE="美国某市长怒斥川普不作为：要么帮忙，要么给爷爬！",VALID=true
+NAME="994b75302dc9ed973cd2874b94d21779.mmu8",LANG="ENG",TITLE="美国法官职业有多高危？女法官惨遭杀手报复丧子，呼吁保护法官隐私",VALID=true
+NAME="fff7b5f264b4881b5f9f2297d3f8964b.mmu8",LANG="ENG",TITLE="美国疫情出现曙光？崔娃：想想灭霸，咱得猥琐发育！",VALID=true
+NAME="b5f82e3e5178e98361797974c4e48eaf.mmu8",LANG="ENG",TITLE="美国硬核亚裔大爷霸气脱衣，对线种族歧视者：我这些疤，够爱国了吗？",VALID=true
+NAME="8105ca9e1d05485c16c9157739737302.mmu8",LANG="ENG",TITLE="美国禁枪为何难如登天？奥巴马一语道破原因",VALID=true
+NAME="a6136a8eee568a02b66be69655b49e49.mmu8",LANG="ENG",TITLE="美帝口罩大作战；崔娃：让你们带个口罩咋就这么难呢",VALID=true
+NAME="2567c9012cb1e6d47bccab56895bd87b.mmu8",LANG="ENG",TITLE="脑怪！川普“没人比我更懂”系列合集",VALID=true
+NAME="3330698316741ae18c5e01fd7916ce98.mmu8",LANG="ENG",TITLE="迈克尔·杰克逊早年专访：我毕生所求，不过是希望人们能多爱我一点",VALID=true
+NAME="c1348fbbdcc02935f3fc4f1fddd3994e.mmu8",LANG="ENG",TITLE="迈克尔·杰克逊珍贵专访：日光浴变黑的人没人管 我得病变白就挨喷？",VALID=true
+NAME="72a952dfc915ac306754286d8793f58b.mmu8",LANG="ENG",TITLE="那个蹲在厕所写歌的女生 刘柏辛：想成为中国新生代的声音",VALID=true
+NAME="41a31e23c6633dbefae715ab09e5a4d7.mmu8",LANG="ENG",TITLE="闷声发大财！外媒是这样解说汪顺200米混泳夺冠的",VALID=true
+NAME="136bb9a23a3ab4b6bbcda1e1dd01f91c.mmu8",LANG="ENG",TITLE="霉霉撒狗粮，碧昂斯创历史，碧梨夸对手；2021格莱美主要奖项获奖者演讲精华",VALID=true
+NAME="62a747057f59243ab6a6e31e700864d3.mmu8",LANG="ENG",TITLE="霉霉谈生涯重大转型：不想当只写苦情歌的标题党！",VALID=true
+NAME="49f042dd0fa1dae8bbe4455deceb541c.mmu8",LANG="ENG",TITLE="马丁·弗瑞曼：当年因档期满拒绝了《霍比特人》，结果导演足足等了我5个月",VALID=true
+NAME="0d842fc969a86223609111fc95a278d2.mmu8",LANG="ENG",TITLE="魔幻现实主义？美国知名黑客团体“匿名者”曝光明州黑警恶行",VALID=true
+NAME="7a9c55925276ffa17c2d077b4b6c2640.mmu8",LANG="ENG",TITLE="麻省理工课堂语速是怎样的？助教小姐姐死亡语速告诉你！",VALID=true
+NAME="ea5be181e48a23f68d3980fa2141bd21.mmu8",LANG="ENG",TITLE="“21世纪杯”高中组巅峰演讲！香港小哥告诉你啥叫满级号屠新手村",VALID=true
+NAME="93d803a4a97535111f51ae843a1c0bcf.mmu8",LANG="ENG",TITLE="“世界上总有人，不愿放弃地位和特权”；奥巴马谈为什么要追求平等",VALID=true
+NAME="c1ad957c1a4e948020be8343122afa35.mmu8",LANG="ENG",TITLE="“他就是我的力量与支撑”；女王与菲利普亲王的金婚狗粮",VALID=true
+NAME="0a4589e0b639a0971e58fdad607f782f.mmu8",LANG="ENG",TITLE="“别追逐梦想，去追逐现实” 诺兰普林斯顿大学毕业典礼演讲",VALID=true
+NAME="f39ab326b75d548b8cc45aa0daee91e9.mmu8",LANG="ENG",TITLE="“即便遇到白马王子，女性也要独立” 大法官金斯伯格生平简述",VALID=true
+NAME="a10529e67ea187e49302b0bbf1826978.mmu8",LANG="ENG",TITLE="“太炸裂了”！国足最后时刻绝杀越南英文解说",VALID=true
+NAME="7970b7ba8050c806e6f37b84b4667241.mmu8",LANG="ENG",TITLE="“我们的村子战胜了埃博拉，你们也可以！”",VALID=true
+NAME="e7f7a3f4eaa47f98748835e4c89050a9.mmu8",LANG="ENG",TITLE="“无论哪辈子，我都选你作丈夫”！科比妻子瓦妮莎名人堂演讲",VALID=true
+NAME="d66fac83182ba59832b18e2f01954527.mmu8",LANG="ENG",TITLE="“机器人”扎克伯格自曝情史：当年为了追妹子连期中作业都可以不写",VALID=true
+NAME="8976bf2423fbeb2627dd293ef851d5a3.mmu8",LANG="ENG",TITLE="“热心市民”英国女王劝民众打疫苗：过程很快，一点都不疼！",VALID=true
+NAME="f4753a352dd0faab9b9836f712deed0b.mmu8",LANG="ENG",TITLE="“跪死”黑人弟弟喊话暴徒：你们打砸抢，我哥哥就能复活吗？",VALID=true
+NAME="352c640ff04d5734ffb35b98b9de4dd0.mmu8",LANG="ENG",TITLE="“这小子跟火箭一样”！刘翔2004年奥运夺冠英文解说完整版",VALID=true
+NAME="006c33c71eb8fe195e32f6e904b5eb21.mmu8",LANG="ENG",TITLE="“闭上眼睛，仿佛他从未离开”；C罗曼联回归首秀进球英文解说",VALID=true
+NAME="8b3c4a9a5cb24cda058e54355c0d1cbb.mmu8",LANG="ENG",TITLE="“马总”们的宿命？扎克伯格遭女议员灵魂拷问：就问你抄没抄",VALID=true
+NAME="c05bfe0ff6eaf72d50ae3ba6592ff693.mmu8",LANG="ENG",TITLE="《信条》没看懂？主演：我们自己都不知道在演啥！",VALID=true
+NAME="a95d9b7da735ca3e362c0cd0627edf22.mmu8",LANG="ENG",TITLE="《小丑》高潮片段经典对白：“How about another joke，Murray ”",VALID=true
+NAME="18feed8dc65834333bfabf40e0b73077.mmu8",LANG="ENG",TITLE="《心灵奇旅》男主原型～传奇爵士音乐家：“错音”不过是新的声音罢了",VALID=true
+NAME="0642f271b0f10ba0efc3ed66b753acb2.mmu8",LANG="ENG",TITLE="《惊天魔盗团》经典开场：离得越近，你看到的就越少",VALID=true
+NAME="7989a10227a3a7542a1c79b80f12c69d.mmu8",LANG="ENG",TITLE="《社交网络》经典独白：一个搞垮哈佛校园网的恶搞之作",VALID=true
+NAME="fbe4ed45535cbfc9bed87b5c1e7b5b69.mmu8",LANG="ENG",TITLE="《神探夏洛克》高虐片段：I am Sherlocked",VALID=true
+NAME="4301d5d185172ca9e11b895a98b294c2.mmu8",LANG="ENG",TITLE="《老友记》主演谈为何彼此间不谈恋爱；羡慕这样的友谊！",VALID=true
+NAME="4103e8cbe85612e61919eb154fc4f552.mmu8",LANG="ENG",TITLE="《花木兰》主演刘亦菲对话导演；口语可以说是很软萌了！",VALID=true
+NAME="3130de56bbffb41c14e9b9380b2a1bc1.mmu8",LANG="ENG",TITLE="《蝙蝠侠》小丑经典独白：Why so serious",VALID=true
+NAME="928c27cfbc223993409a1025a315c26d.mmu8",LANG="ENG",TITLE="《钢铁侠》经典“手术”对白片段：除了你，我没有别人了",VALID=true
+NAME="2184586ce91897bae7c9e7883ae614ab.mmu8",LANG="ENG",TITLE="《黑寡妇》终极预告片：这一次，我不会再跑了",VALID=true
+NAME="9517974c598b393e5c82528aab434009.mmu8",LANG="ENG",TITLE="【12月明星英语短篇合集】比伯、高以翔、吴亦凡、欧阳娜娜、昆凌、艾玛·沃特森",VALID=true
+NAME="787d8f1cd8f088db525b95164c3718fb.mmu8",LANG="ENG",TITLE="【18岁的年龄38岁的情商】16年前詹姆斯当选状元后的首次发布会",VALID=true
+NAME="6e4bdd366f0e499f97e2c506f7ab552a.mmu8",LANG="ENG",TITLE="【BBC纪录片】“猩”生如戏～机器人猩猩神演技成功混入猩猩群体",VALID=true
+NAME="721db70170fcb7effaec684c7ebcb630.mmu8",LANG="ENG",TITLE="【BLACKPINK】不要笑挑战！BLACKPINK最高冷的竟是",VALID=true
+NAME="0d3cff43713516ba2b00f08be15eb944.mmu8",LANG="ENG",TITLE="【HISHE】三代蜘蛛侠大集结！《蜘蛛侠：英雄远征》恶搞结局",VALID=true
+NAME="efd41f1ce6764fbe62e042c2053cc18a.mmu8",LANG="ENG",TITLE="【HISHE】复联4终局之战恶搞结局第2部！漫威英雄回到过去欺负灭霸 影视经典反派大集合（中英双字）",VALID=true
+NAME="bca5086894adafda46fb55e2e3261819.mmu8",LANG="ENG",TITLE="【TED】你眼中常常看到的悬浮的“小虫子”究竟是什么？",VALID=true
+NAME="fe7c0b98e97e446f859456d2f031c115.mmu8",LANG="ENG",TITLE="【一起耳朵怀孕！】缺爷用低音炮英音模仿小罗伯特·唐尼",VALID=true
+NAME="7db1b20e9622b97e776a459e89f85d5c.mmu8",LANG="ENG",TITLE="【三字幕完整版】英国首相出院后首发声：请大家继续隔离！",VALID=true
+NAME="bc682e330dc0f5c6572a2b1746f050bb.mmu8",LANG="ENG",TITLE="【专治杠精和喷子】如何优雅地化解别人的恶语相加？这个视频教给你",VALID=true
+NAME="aed904015b8106de825755bd7faf8ee6.mmu8",LANG="ENG",TITLE="【世界上该不该有富人？】扎克伯格：没人配当亿万富翁，但这可能是最优解",VALID=true
+NAME="d14684a42e78031f6aecd6410065b550.mmu8",LANG="ENG",TITLE="【世纪和解？】水果姐：和霉霉已经成为朋友，女人何必难为女人",VALID=true
+NAME="cc7bf6fb983ebbc8499e6ab113b08fa7.mmu8",LANG="ENG",TITLE="【世纪约饭】C罗：未来有机会的话，希望和梅西一起吃个晚饭",VALID=true
+NAME="436e74534068c9d2baf4f986bc5920af.mmu8",LANG="ENG",TITLE="【中英】英语不如清朝人..慈禧御用翻译流利口语谈文化交流",VALID=true
+NAME="1bcb56fb8c5ba33fb8ae2a655c69721c.mmu8",LANG="ENG",TITLE="【中英】詹姆斯首发声谈论莫雷事件：言语是会伤人的，所以请谨言慎行",VALID=true
+NAME="d16e408fcb0808143cc1649ebbc2876b.mmu8",LANG="ENG",TITLE="【中英双字 完整版】球哥被交易 球爹怒斥湖人管理层：湖人已彻底摆烂，他们这辈子都别想夺冠了",VALID=true
+NAME="b04b81c863535a083141d8b0ce65f10b.mmu8",LANG="ENG",TITLE="【中英双语】霉霉眼睛手术后的悲（傲）惨（娇）生活",VALID=true
+NAME="98e76f16c1d0285bc06428862c6694fc.mmu8",LANG="ENG",TITLE="【中英双语】韩回归！《速度与激情9》官方预告片",VALID=true
+NAME="7b4a8e9b2870b9010150f420fdc6cc49.mmu8",LANG="ENG",TITLE="【从此再无魔性“Order”】英国议长生涯“Order”合集",VALID=true
+NAME="7630ef3b5c93dc751ae2396ba0095054.mmu8",LANG="ENG",TITLE="【任正非最新霸气专访】我每天洗澡，清清白白，无需跟美国证明什么",VALID=true
+NAME="f2081c51bf0cd5395e8b041878a20a0e.mmu8",LANG="ENG",TITLE="【全字幕】女议员灵魂拷问 现场算账！成功让疾控中心承诺免费检测",VALID=true
+NAME="0a8bcc6eafbc6ce13c23c8a8e844c3cf.mmu8",LANG="ENG",TITLE="【公开处刑】奥巴马讽刺键盘侠：这样下去没出息的，打嘴炮谁不会",VALID=true
+NAME="811c01340b4ceba02431670f4a90b360.mmu8",LANG="ENG",TITLE="【别低头，脖子会断！】英国女王吐槽王冠太重",VALID=true
+NAME="b4f54acb3b85cfda51ce945afe6a43bb.mmu8",LANG="ENG",TITLE="【卡戴珊第一段子手】要零用钱被教育，肯豆一句话瞬间反杀老妈",VALID=true
+NAME="499ab243d4be2704e5c638c4fdb19a11.mmu8",LANG="ENG",TITLE="【卷福演绎哈姆雷特经典片段】生存还是毁灭？这是个问题",VALID=true
+NAME="a869466d0be204ef6234fdeb3fcb409c.mmu8",LANG="ENG",TITLE="【台词狂魔艾玛名场面】我拿你当朋友，你却想抢我的台词！",VALID=true
+NAME="44ebe2de80eb76cc417a26ae8a237fe1.mmu8",LANG="ENG",TITLE="【史上最套路的电话销售】一句话不多说，让你抢着付钱！",VALID=true
+NAME="38455f3807f27652bfaad63b6a42ef03.mmu8",LANG="ENG",TITLE="【史上最惨毕业演讲】在耶鲁大学毕业演讲上，我竟然被绿了！",VALID=true
+NAME="762ddba89d539b4360d6c4390da7e885.mmu8",LANG="ENG",TITLE="【史上最老（皮）诺贝尔奖得主专访】我成功的秘密？活久点咯",VALID=true
+NAME="562f3c38d3feac4e4427ffda33abb597.mmu8",LANG="ENG",TITLE="【吃瓜必备】票数落后也能当美国总统？一个视频看懂美国总统大选",VALID=true
+NAME="edfe5e1db17f8470923f44a4b8d6059e.mmu8",LANG="ENG",TITLE="【天道酬勤终成超巨】“字母哥”扬尼斯·安特托昆博MVP获奖感言完整版（中英双语）",VALID=true
+NAME="45a8edf0648702e084844c978ff23567.mmu8",LANG="ENG",TITLE="【失踪人口回归】低调多年的比伯一回归就在节目上开车",VALID=true
+NAME="f07546b64a9a08291cc59debd53729b2.mmu8",LANG="ENG",TITLE="【奥巴马的领导力课】如果你身边没有和你说“不”的人，那你就是自己害自己",VALID=true
+NAME="89a29f1836596bdff84d2c0b1d88bbe8.mmu8",LANG="ENG",TITLE="【如何击败川某人？】“老将”希拉里：不断进攻，不留余地",VALID=true
+NAME="762477bbe9a13663837577b92259d428.mmu8",LANG="ENG",TITLE="【小丑女回忆超尴尬往事】我老公下身真空穿着超短裤带我去健身房，结果偶遇了...",VALID=true
+NAME="bb21edd508f89ff2be93c866e8a6e8d5.mmu8",LANG="ENG",TITLE="【帅如萌德也会被女生冷落？】萌德：有一个女人，连看都不会看我一眼",VALID=true
+NAME="dd3fd7743474cbdcad45263d2c502815.mmu8",LANG="ENG",TITLE="【希拉里泪目谈16年败选当晚】被丈夫一个暖心的动作治愈了",VALID=true
+NAME="81767336e6394880d1e9ab86140d62d5.mmu8",LANG="ENG",TITLE="【年度最装逼毕业演讲？】我很后悔自己成绩太好，为此我牺牲了太多",VALID=true
+NAME="debb17cacfad6c5899ea5f50593509be.mmu8",LANG="ENG",TITLE="【库里斯坦福大学座谈会】如何应对挫折？库里：永远不要丢失自己的信心",VALID=true
+NAME="1dc03fb0cb329c984d580fe7824537ec.mmu8",LANG="ENG",TITLE="【扛精的自我修养】奥巴马实战教你：如何文明作扛精",VALID=true
+NAME="b602290dfe11183e51d48ca6893ac33b.mmu8",LANG="ENG",TITLE="【收藏向】2019年全球名校开学演讲合集（不断更新中）",VALID=true
+NAME="ed044f97be26bb963ce81ee44be4dff0.mmu8",LANG="ENG",TITLE="【新闻英语】也太甜了吧？小姐姐被型男消防员营救后，追求消防员小哥",VALID=true
+NAME="3b9678454f0438ffea229311866efeef.mmu8",LANG="ENG",TITLE="【新闻英语】比尔·盖茨被曝婚内出轨！华尔街日报：其曾骚扰女员工",VALID=true
+NAME="eadc63a9aff058b5163ef60b055da52e.mmu8",LANG="ENG",TITLE="【新闻英语】童年噩梦真实发生了！潜水员自述被鲸鱼活吞的经历",VALID=true
+NAME="83415c220aba5515a670dd531a7d09f4.mmu8",LANG="ENG",TITLE="【新闻英语】美国商界惊天丑闻：贝佐斯，巴菲特等富豪几乎不交税，竟然还合法？",VALID=true
+NAME="691d45ac41716d4f7441430841ace7be.mmu8",LANG="ENG",TITLE="【有你真是太好了】傻脸娜落泪谈霉霉：她真的是非常棒的一个朋友！",VALID=true
+NAME="f92d93fadc6665f0d29842290a7b5b53.mmu8",LANG="ENG",TITLE="【有点东西？】从头号网红到亿万富翁；卡戴珊金小妹自述生意经",VALID=true
+NAME="8a7916937b3d096743191d9b92038495.mmu8",LANG="ENG",TITLE="【来自皇室的“高冷”】查尔斯王子王室英语播报天气",VALID=true
+NAME="2ea9ffa72b237741144a01a793c8667a.mmu8",LANG="ENG",TITLE="【柯登秀】肯豆哈卷互问私密问题！题题送命题，节目组太绝了",VALID=true
+NAME="7c0b62a28cb8fef37523e12e0fe4adeb.mmu8",LANG="ENG",TITLE="【欧美第一拖更狂魔蕾哈娜】被催新专辑？我反手就是一个卖萌",VALID=true
+NAME="c7b699e7430e802e3703c64aad407e65.mmu8",LANG="ENG",TITLE="【油兔君】乔丹公牛谢幕战封神之作！他究竟有没有推人？",VALID=true
+NAME="ac31c2bd8b8664c14476abeceb06e82f.mmu8",LANG="ENG",TITLE="【油兔君】怼护士，甩锅前任？川普告诉你什么叫字字诛心",VALID=true
+NAME="a4909c17761d4a2d6106fc6c808d7d9a.mmu8",LANG="ENG",TITLE="【油兔君】说英语总说不好长难句？教大家个偷懒句型",VALID=true
+NAME="454baff97954d383e51c8d7f1c3237a2.mmu8",LANG="ENG",TITLE="【漫威明星集体请愿】留下蜘蛛侠，我们不要小蜘蛛离开漫威！",VALID=true
+NAME="fc053b9c168028162f750b31845e00a1.mmu8",LANG="ENG",TITLE="【灵魂拷问！】扎克伯格这下遇到对手了...",VALID=true
+NAME="5c7f0c40f25e5af08ab3a4801890374c.mmu8",LANG="ENG",TITLE="【牛津学联经典辩论】科尔宾：社会主义是行得通的！",VALID=true
+NAME="a30de4cc36f724fd48a53089caf51935.mmu8",LANG="ENG",TITLE="【王嘉尔说英语】被问如何看待韩国练习生体系？王嘉尔的回答情商爆表",VALID=true
+NAME="0227443262e4cf66c0707b7d33dd8d23.mmu8",LANG="ENG",TITLE="【甩锅鬼才】川酱：为啥我总看上去是橘色的？因为灯泡光线不好！",VALID=true
+NAME="8741c2087ca9fb2cfa216b22bb5b6f6e.mmu8",LANG="ENG",TITLE="【白宫史上第一段子手】奥巴马搞（沙）笑（雕）名场面合集",VALID=true
+NAME="1a64e05a6c7ddffda835dcf5dfb15c33.mmu8",LANG="ENG",TITLE="【看动漫学英语】鬼灭名场面之：我，没有被讨厌！",VALID=true
+NAME="b73434fbf8ae608fadfec739e40a8c4d.mmu8",LANG="ENG",TITLE="【看片儿学英语】《傲慢与偏见》中适合学英语的名场面（配生词解释）",VALID=true
+NAME="d434f60bdcd8ae856336458f0a677036.mmu8",LANG="ENG",TITLE="【看经典学英语】2016奥运会女排决赛决战时刻英文解说完整版",VALID=true
+NAME="1b5cf27e2990d3221464dffb0d12ece1.mmu8",LANG="ENG",TITLE="【看预告片学英语】治好了多年的心脏病～经典恐怖片《招魂3》最新预告片",VALID=true
+NAME="8f2a8aed16d96691e55c07a23906b9f0.mmu8",LANG="ENG",TITLE="【看预告片学英语】詹姆斯联合兔巴哥大战反派！《空中大灌篮2》最新预告片",VALID=true
+NAME="3f82887274d63888bf35679d99bfaab8.mmu8",LANG="ENG",TITLE="【看预告片学英语】速度与激情9最新预告片；熟悉的配方，熟悉的味道",VALID=true
+NAME="385e5c8469c7da1bae3fad911de50bdb.mmu8",LANG="ENG",TITLE="【真香！】1988年的川普：对当美国总统无感，若国家有难可以勉强当一下",VALID=true
+NAME="e1c596e1df3f4d0b3c38561a4dd9d250.mmu8",LANG="ENG",TITLE="【瞬间被治愈！】超暖心父女艾伦秀翻唱大热单曲Señorita",VALID=true
+NAME="ca1f102e2a6d83c6406c3d2921e2a8b1.mmu8",LANG="ENG",TITLE="【神探夏洛克名场面合集】跟着卷福一起来练听力吧！",VALID=true
+NAME="21c951235fa5559a716dafbe458eafd1.mmu8",LANG="ENG",TITLE="【科比珍贵专访】我14岁前根本不知道乔丹是谁；最爱的球员是那个男人...",VALID=true
+NAME="e4789d6e45dcdae1f76e96bcf1d7b38a.mmu8",LANG="ENG",TITLE="【纳什最新专访】和科比当队友感觉很奇怪，我俩之间总隔着一堵墙",VALID=true
+NAME="90c20e15845e736d4e269b5c81dc5c18.mmu8",LANG="ENG",TITLE="【美利坚逼王】答题节目中选手给老爸打电话：爸，我要成百万富翁了",VALID=true
+NAME="6f0bf59a6fc78d55069b4c60ea1c97af.mmu8",LANG="ENG",TITLE="【美国9岁男孩宣布从体坛退役】高压和冷板凳，让我失去了最初的热爱",VALID=true
+NAME="9f946b11cb67094b9acc89d9fdbb965f.mmu8",LANG="ENG",TITLE="【美国史上最著名的插播新闻】美国人正看着肥皂剧，噩耗就传来了",VALID=true
+NAME="57bfe04c8ac4a6737979315f8d728d43.mmu8",LANG="ENG",TITLE="【美国女足队长世界杯夺冠帅气演讲】和川普竞选总统？抱歉老娘没空",VALID=true
+NAME="d0ac53b45d345bc2e0b420d9625cd8cc.mmu8",LANG="ENG",TITLE="【美国爆火高中毕业致辞】怼校方，批酒鬼老师，现在的00后真是不得了",VALID=true
+NAME="5fffaca3f03460e79b1d8385928aedce.mmu8",LANG="ENG",TITLE="【股神巴菲特最新专访】我给年轻人的三个建议：不当单身狗，学会沟通，与智者同行",VALID=true
+NAME="90ca22d1d4b350842df75ab849c5eb19.mmu8",LANG="ENG",TITLE="【肥伦秀】抖森：说起来你可能不信，我当年是冲着演雷神去的",VALID=true
+NAME="6a752a42bff2d6f18462613b9f6a07b4.mmu8",LANG="ENG",TITLE="【肥伦秀沙雕小品】当你的朋友在你家赖着不走时...",VALID=true
+NAME="74f55a28f45f8e79c2b778ff002ee4a1.mmu8",LANG="ENG",TITLE="【致毕业生】史上最逗逼毕业演讲？黑人小哥：多少家庭为了DDL支离破碎",VALID=true
+NAME="fed5e4efcc7d8bb16f35fab7b206e7f4.mmu8",LANG="ENG",TITLE="【花痴迷妹上线】肯豆：皮特太帅了！和蕾哈娜简直是天生一对！",VALID=true
+NAME="5b86dc55fa64216154a2c70d189b6e22.mmu8",LANG="ENG",TITLE="【英文纯享】“我就是我，不是第二个乔布斯！” 苹果CEO库克斯坦福大学毕业演讲完整版",VALID=true
+NAME="6b1f40fac5fb74cbbd43f61cc88d91ae.mmu8",LANG="ENG",TITLE="【英语婚誓】余生请多指教～哈里 梅根婚礼互立誓言完整版",VALID=true
+NAME="4e7bd75ea51430b7fed393c624b7d423.mmu8",LANG="ENG",TITLE="【英音福利】“川普 别忘了你祖宗是英国人” 英女王国宴腹黑祝词完整版",VALID=true
+NAME="e24e57b9ee7ff252724300f5c16859ce.mmu8",LANG="ENG",TITLE="【菲尔博士】美国熊孩子想当匪帮，结果被主持人叫来真正匪帮公开处刑",VALID=true
+NAME="e14557ec7e530209f2a6974f76f534d3.mmu8",LANG="ENG",TITLE="【贾老板伯克利音乐学院毕业演讲】找一个比你优秀的人，然后说服TA和你共度余生吧",VALID=true
+NAME="a7bef8cb2f97fbff8ff19c948e630470.mmu8",LANG="ENG",TITLE="【金·卡戴珊白宫演讲完整版】上法学院 化身律政佳，这个女人有点拼...",VALID=true
+NAME="ece0821c8feb5ea7b908a60ff3b17ff8.mmu8",LANG="ENG",TITLE="【问问史蒂夫】当妈妈打扫儿子房间发现藏着的小黄书...",VALID=true
+NAME="a504b01155ae37be651ef016de570970.mmu8",LANG="ENG",TITLE="【霉霉】仙女健身的画风是怎样的？霉霉：好看最重要！",VALID=true
+NAME="e3177b0288cd7376b94d60045f432def.mmu8",LANG="ENG",TITLE="【霉霉最新专访】聊心事，聊新歌，聊死对头，一个最真实的霉霉",VALID=true
+NAME="0c34fcb878cdc8a9f58f459156032ab5.mmu8",LANG="ENG",TITLE="【霉霉最新腹黑单口】谈恋爱了好幸福怎么办？写不了分手歌了！",VALID=true
+NAME="3188728d89d85a8dce8d1781daed8459.mmu8",LANG="ENG",TITLE="【霉霉碎碎念英语】你霉家的猫像极了考口语的我，一问三不会",VALID=true
+NAME="f6aeb906d6f4e369f011a3c02e548bd5.mmu8",LANG="ENG",TITLE="【首富学习大法】比尔·盖茨教你如何高效读书，读完不忘",VALID=true
+NAME="61055b94bd55811be8c7f7b7373008cc.mmu8",LANG="ENG",TITLE="【首富装B系列】盖茨谈重返世界首富：看来我捐钱捐得还不够快",VALID=true
+NAME="29e6bd7e0f46abbcbb24f1c478d62185.mmu8",LANG="ENG",TITLE="【黑人兄弟】这，就叫内鬼！",VALID=true
+NAME="b6ad0dc8c1107985cb3be35807d756cb.mmu8",LANG="ENG",TITLE="（2010-19）十年欧冠决赛进球英语评论合集（上）",VALID=true
+NAME="f4d0ba59c39de8e2ac3b4f0d73ef8be6.mmu8",LANG="ENG",TITLE="（2010-19）十年欧冠决赛进球英语评论合集（下）",VALID=true
+NAME="f1417a27520478cec48ccb2109086bb7.mmu8",LANG="ENG",TITLE="亲完就跑真刺激！布拉德皮特回忆又甜又搞笑的初吻记忆",VALID=true
+NAME="c0a2e9b8c6e069e85aea6e82b2d365bf.mmu8",LANG="ENG",TITLE="亲爱的科比，谢谢你",VALID=true
+NAME="6315a067da8c6cd4e4d0263649a52043.mmu8",LANG="ENG",TITLE="人民的好公仆，共和党的好儿子！川普：我在认真考虑2024年再次竞选",VALID=true
+NAME="8f32b579353b3be068571169d312f7fe.mmu8",LANG="ENG",TITLE="人生如戏 缺爷带你领略莎翁笔下的“人生七阶段”",VALID=true
+NAME="c8cabbdbd5bd28c55031521f5bb866cd.mmu8",LANG="ENG",TITLE="人畜无害 道德高尚？心理学家告诉你：“作恶”能让你成为更好的人",VALID=true
+NAME="d7604c847c938bb9877869670535435b.mmu8",LANG="ENG",TITLE="人造人身份暴露？川普诡异喝水姿势震惊全美...",VALID=true
+NAME="f73765d6e7e051deab2622af24015708.mmu8",LANG="ENG",TITLE="人间真实！比伯谈爆痘：不管怎么护肤都会长痘，太打击自信心了",VALID=true
+NAME="69ea96642dc6cc80eb8c9868e3c2ccf5.mmu8",LANG="ENG",TITLE="全A学霸小姐姐闯红灯被传唤法庭；法官：念你努力学习放你一马",VALID=true
+NAME="6f789b019d4cca56d39e310bfd833e6a.mmu8",LANG="ENG",TITLE="全世界最懂飓风的人？川普：飓风不就是很大，很潮，很多水嘛！",VALID=true
+NAME="64d88be8a81bb0e2c963c7a973af307e.mmu8",LANG="ENG",TITLE="全世界男人的难题？和老婆出去玩的奥巴马：我们什么时候回家啊？",VALID=true
+NAME="89853d0e84bff28e99c3599c38621d35.mmu8",LANG="ENG",TITLE="全国大撒币！拜登1.9万亿美金救济计划精华版",VALID=true
+NAME="89ac75da49415d7a3fe3dbd2fe0a7b33.mmu8",LANG="ENG",TITLE="全球新冠第二波爆发；崔娃：人类的本质果然是重复",VALID=true
+NAME="cd091da463bc5befef0b8143efe70005.mmu8",LANG="ENG",TITLE="全球新冠阴谋论大赏：5G背锅竟成罪魁祸首？",VALID=true
+NAME="61b23f7695b2f0853c9c7029703287c0.mmu8",LANG="ENG",TITLE="全球最吸金的运动员——乔丹是如何打造他的金钱帝国的",VALID=true
+NAME="2eb9931f86f048496c181b50e0faf7a2.mmu8",LANG="ENG",TITLE="全程飙车！崔娃：隔离期间，某些网站流量咋那么高呢！？",VALID=true
+NAME="3d342a8e7bb4018f035d44d1e0605520.mmu8",LANG="ENG",TITLE="全网首个熟肉！老番茄复旦英文演讲谈行业乱象 生活趣事",VALID=true
+NAME="be4f94f7932a62ba93f83de0d7e6e750.mmu8",LANG="ENG",TITLE="全靠同行衬托？川普：有些事是真的没人懂",VALID=true
+NAME="54b2d780bfa04ed81d45284163156841.mmu8",LANG="ENG",TITLE="千古难题？碧梨：为啥美女总和丑男在一起呢，我真的不懂",VALID=true
+NAME="8ecb03b3f4d923f845dc20be3eea1121.mmu8",LANG="ENG",TITLE="卡老师经典鉴婊言论；试试卡老师的口音你能听懂多少！",VALID=true
+NAME="88f16806f359b06b5a5ffef30755f6fd.mmu8",LANG="ENG",TITLE="如何保持专注，把事情做好？乔布斯：保持专注，在于说“不”",VALID=true
+NAME="5f79d205a3738f179d05882ab063d5c6.mmu8",LANG="ENG",TITLE="如何做出完美的课堂展示？澳洲展示大赛冠军小姐姐教给你",VALID=true
+NAME="3fc43f2e282045cf783915a1e05bb24b.mmu8",LANG="ENG",TITLE="如何听懂孟晚舟女士回国的英文报道？手把手教你新闻英语的技巧",VALID=true
+NAME="e818c96de8755ac4bd3bdca89ace2c18.mmu8",LANG="ENG",TITLE="如何听懂新闻英语？这个视频给你思路！",VALID=true
+NAME="a6fe04f07bdca451fb5537beff312cf9.mmu8",LANG="ENG",TITLE="如何听懂明星的正常语速？试试好莱坞当红小花的加州英你能听懂多少～",VALID=true
+NAME="f5d3cde08a4725c665837f1a64429bff.mmu8",LANG="ENG",TITLE="如何听懂明星的正常语速？试试比伯的超清晰口音你能听懂多少",VALID=true
+NAME="65a9f1f34af853d1ddf8db49a9c23769.mmu8",LANG="ENG",TITLE="如何听懂明星的正常语速？试试荷兰弟的英音你能听懂多少～",VALID=true
+NAME="de0e3d41f8b0f8cb2e4a79ad72fecea9.mmu8",LANG="ENG",TITLE="如何听懂明星的正常语速？试试霉霉的美音你能听懂多少",VALID=true
+NAME="e4b22b2150ff016607f4d3ab72a9a413.mmu8",LANG="ENG",TITLE="如何听懂正常语速的好莱坞大片预告？这个视频给你思路",VALID=true
+NAME="960756dce1cba2f0b6e69dc3a36531fa.mmu8",LANG="ENG",TITLE="如何听懂正常语速的新闻英语？试试BBC的语速你能听懂多少",VALID=true
+NAME="b5dacc3704dc4fdbedb8938d9522ab7d.mmu8",LANG="ENG",TITLE="如何听懂正常语速的毕业演讲？一起这样练吧！",VALID=true
+NAME="1d238db12e2ff2b63a6dda650c609248.mmu8",LANG="ENG",TITLE="如何听懂正常语速的英文解说？梅西大巴黎首秀教给你！",VALID=true
+NAME="05befc018c2d2a381f75f23cd7da1514.mmu8",LANG="ENG",TITLE="如何听懂正常语速的英语新闻？这篇《鱿鱼游戏》的报道教给你",VALID=true
+NAME="d276621da5843ebf849e2e213ecc2402.mmu8",LANG="ENG",TITLE="如何听懂科比生涯最经典的一次赛后回答？这个视频教给你",VALID=true
+NAME="39fb710b62c284451087716f80316132.mmu8",LANG="ENG",TITLE="如何听懂美国人日常聊天的语速？这个视频给你思路",VALID=true
+NAME="ceebde8d0ac48d03d6acde9a3b544e52.mmu8",LANG="ENG",TITLE="如何听懂美国人正常的语速？试试川普的最新采访你能听懂多少",VALID=true
+NAME="f5d8ea667236093ddb61949cc36eac09.mmu8",LANG="ENG",TITLE="如何听懂美国人的正常语速？试试麦当娜的口语你能听懂多少",VALID=true
+NAME="e0968f08c329eed5d0fe1017c9ada835.mmu8",LANG="ENG",TITLE="如何听懂英国人的正常语速？一起听听加菲对荷兰弟的看法",VALID=true
+NAME="65243514616ee6efd5369370211fdd75.mmu8",LANG="ENG",TITLE="如何听懂英国人的正常语速？试试凯拉的语速你听得懂吗",VALID=true
+NAME="c49ae1e28343131ba7452c2811d00d09.mmu8",LANG="ENG",TITLE="如何听懂英国女王的王室英语？听完这段对话你就懂了！",VALID=true
+NAME="83114fe1f7b4bfd17f5c52b935353c35.mmu8",LANG="ENG",TITLE="如何听懂英语四六级听力的长对话？一个方法教你大幅提分",VALID=true
+NAME="1f9b661e60a513f32f24e102af27b752.mmu8",LANG="ENG",TITLE="如何大幅度提高英语口语准确性？一招帮你练就！",VALID=true
+NAME="729d3225e8fac67a05502a0716b81582.mmu8",LANG="ENG",TITLE="如何拥有王嘉尔一样的完美口语？一个视频帮你领悟嘎嘎的连读技巧",VALID=true
+NAME="c5e8b2be74847645e30edb811298fbb9.mmu8",LANG="ENG",TITLE="如何拽拽地说英语？老炮吴亦凡教你嘻哈专用口语",VALID=true
+NAME="b1fdf83c27261bad70c4de15c570b81a.mmu8",LANG="ENG",TITLE="如何牢记同一动词的不同词组？教大家一个超实用技巧",VALID=true
+NAME="ee684b6b189ce34eb9fcc7d66b259c94.mmu8",LANG="ENG",TITLE="如何突破瓶颈，让自己不断变强？科比：跟我每天做这样一件事",VALID=true
+NAME="80fa2771d92325b18042589f5dca851e.mmu8",LANG="ENG",TITLE="如何让川普心甘情愿戴口罩？崔娃：就当给脸建了堵“墙”",VALID=true
+NAME="e0780502ea0e1f413a36aa01ff353eeb.mmu8",LANG="ENG",TITLE="如何辨别真朋友与假朋友？心理学家：掌握这两点，从此不被假朋友坑",VALID=true
+NAME="0a323596376690fa65c5148792728532.mmu8",LANG="ENG",TITLE="如何高情商地说话，让别人更愿意聆听？TED历史TOP3演讲教给你！",VALID=true
+NAME="49ca320d25f9a0e400655c4847a69bb1.mmu8",LANG="ENG",TITLE="如何高情商夸女友或老婆？宠妻狂魔奥巴马教你这样一句话",VALID=true
+NAME="de49e07ea557544ce6e59b5ca147ebdf.mmu8",LANG="ENG",TITLE="朴彩英女士又来说英文啦！彩英巴黎时装周的换装vlog",VALID=true
+NAME="657e6bb5877f85d979a415496aa4bda4.mmu8",LANG="ENG",TITLE="朴素中充满力量！本·华莱士名人堂励志演讲：站起来，挺起胸，抬起头",VALID=true
+NAME="9221d904d19963f76f9deccca9ab71ab.mmu8",LANG="ENG",TITLE="苹果CEO库克最新毕业演讲：重新思考，重新行动，告诉人们希望还活着",VALID=true
+NAME="e16d001bb036d690d4624a941688a823.mmu8",LANG="ENG",TITLE="让美国再次味大！英语角度细节分析：拜登有没有拉裤子",VALID=true
+NAME="4b9c2efa12e1b628abea26749cd0fb91.mmu8",LANG="ENG",TITLE="陪伴两代人的偶像：艾薇儿和比伯竟然是亲戚！？",VALID=true
+NAME="680a2386def0e5ee810a8072003d6e2e.mmu8",LANG="ENG",TITLE="SNL小品：当你和女票想多点情趣时...",VALID=true
+NAME="2499999feff7550fc8860fcf5ffa6871.mmu8",LANG="ENG",TITLE="SNL小品：当你和女票想多点情趣时（第二弹）",VALID=true
+NAME="d8b51d441a813d9ac6a71623d1ba0d48.mmu8",LANG="ENG",TITLE="SNL小品：无情的单词拼读比赛",VALID=true
+NAME="f085a59fa19aa38c206fc5dbc0d5360c.mmu8",LANG="ENG",TITLE="TED播放量TOP5演讲：颜值不是一切，相信我，我是个模特",VALID=true
+NAME="60d9b15e165495f0c482f6f703ee55f3.mmu8",LANG="ENG",TITLE="TED：作为美国人，我在中国生活了10年后，学到的5点道理",VALID=true
+NAME="026e5b229c0f321b08f78a18f925cb2d.mmu8",LANG="ENG",TITLE="上个节目还要被抽查地理题？比伯：还好这些地我都去过",VALID=true
+NAME="5bca0ef9b370f4d51713a2249fc008e9.mmu8",LANG="ENG",TITLE="上线几天红遍外网！耐克这条广告也太燃了吧？",VALID=true
+NAME="a5237f65b22c256319e3e7659e8074e7.mmu8",LANG="ENG",TITLE="伤害不高，侮辱性极强！共和党议员：本想反对大选结果，但现在良知不让我反对了",VALID=true
+NAME="a09ff93da47aefb3225a1a52eab6c21d.mmu8",LANG="ENG",TITLE="伤害不高，侮辱极强？贝佐斯太空归来，一句话惹民众不满",VALID=true
+NAME="c34ce910c814d597b1882ebb30310090.mmu8",LANG="ENG",TITLE="傻脸娜自曝超大糗事：当年为看黄老板演唱会拉了裤子",VALID=true
+NAME="7d5386b756d2520983d17a563d1837d2.mmu8",LANG="ENG",TITLE="傻脸娜：蕾哈娜时我最爱的歌手；听碧梨新歌听到哭",VALID=true
+NAME="1f1bfbb5b529f8a17a9eb0ac9fb65487.mmu8",LANG="ENG",TITLE="十几年前的初代目演讲大神！清华小哥完美英音碾压夺冠",VALID=true
+NAME="4d6b92aaee2e8982925942e0f1cdf385.mmu8",LANG="ENG",TITLE="史上最惨一届毕业生？霉霉：我当年也没参加成毕业，不也好好的",VALID=true
+NAME="67650f99934291c7864956f13cd1f55b.mmu8",LANG="ENG",TITLE="史上最皮数学教授？当他不小心在投影仪上画了一笔后...",VALID=true
+NAME="ac3d5a2e7986ebe173d6b06fe0f8913d.mmu8",LANG="ENG",TITLE="史上最难缠记者？对线川普55开？川普HBO专访精华版",VALID=true
+NAME="6bb9df1fa280329ec5af28a117ed142a.mmu8",LANG="ENG",TITLE="同样的套路对我不管用了！前任沙雕短信合集",VALID=true
+NAME="6ef67623e644bab7bbd60eeb98131214.mmu8",LANG="ENG",TITLE="吐槽功力不减；川普小嘴抹蜜，无情嘲讽拜登：他咋还没去世啊",VALID=true
+NAME="e6a8fd35e797e48aa2cc8d330339ae2c.mmu8",LANG="ENG",TITLE="天生表演奇才？约翰尼·德普：糊里糊涂就当了演员，结果还成功了",VALID=true
+NAME="8e8cb978248ce9fa18448b6b0a58d353.mmu8",LANG="ENG",TITLE="孙子和奶奶玩儿真心话游戏：你上一次做羞羞的事是什么时候",VALID=true
+NAME="62d547a72650ee5241bba6e0289a5223.mmu8",LANG="ENG",TITLE="实战英语听力练习！梅西8大名场面，你能听出来多少？",VALID=true
+NAME="fb061fe37bbde5527e6e93e8b5b9d386.mmu8",LANG="ENG",TITLE="斯坦福大学课堂语速是怎样的？试试这节金融课你听得懂吗",VALID=true
+NAME="8c08eb717ab1ae92ffa5a0e58da845b5.mmu8",LANG="ENG",TITLE="时间都去哪了？詹姆斯：我再也恢复不到100 状态了",VALID=true
+NAME="6edab8da344e669012963ee49baa20b6.mmu8",LANG="ENG",TITLE="是个狠人！美国高中生放弃原先演讲稿，毕业典礼怒批堕胎法案",VALID=true
+NAME="9be988420698831dabe8cd74fe5d4bfb.mmu8",LANG="ENG",TITLE="死亡人数超过预估？川普：那我就把预估数字再提高",VALID=true
+NAME="f721d22b9c7ada0aae296c521cc9b701.mmu8",LANG="ENG",TITLE="深度剖析：川普还有机会翻盘吗？",VALID=true
+NAME="6f803c17b0eb35418614b224ad9b9aa1.mmu8",LANG="ENG",TITLE="特雷·杨谈踩裁判脚后受伤：和裁判有没有说话？Hell no！",VALID=true
+NAME="bbe847872043a2a6f85fcea2a4fa5e2b.mmu8",LANG="ENG",TITLE="生无可恋！当你做饭遇到害怕的食材时...",VALID=true
+NAME="320c5baf9ec56bd59c3e848ca3384259.mmu8",LANG="ENG",TITLE="生涯最后一次总统圣诞贺词？川普夫妇讲述圣诞节渊源",VALID=true
+NAME="0a073b87135867e02404129d2b75eaec.mmu8",LANG="ENG",TITLE="生涯最霸气回应？霉霉：等合同结束后，我要把之前所有歌都重录一遍",VALID=true
+NAME="c86403b64fc2d8f270084ba9bf3fabbf.mmu8",LANG="ENG",TITLE="生涯最霸气演讲？霉霉用一席话怼了过去十年的黑子",VALID=true
+NAME="2eb05fdf54d861078628abaca3615dcc.mmu8",LANG="ENG",TITLE="谁说女生不适合学理科？化学诺奖得主：小时候总听到这种话，还好我都无视了",VALID=true
+NAME="d1aa24544d28b20902b01ee99b77d90d.mmu8",LANG="ENG",TITLE="谁还不是个小公举了？当生病后的你，集万千母爱于一身时...",VALID=true
+NAME="8ca349f8fb0cfe5ba770dba9c1f1c7e9.mmu8",LANG="ENG",TITLE="身材太绝了！肯豆Met舞会仙女长裙致敬赫本",VALID=true
+NAME="36cc0daa25ce87cef79df960b8295cb1.mmu8",LANG="ENG",TITLE="身材太胖？胸太大？碧梨帅气独白回击喷子：你的看法不关我事",VALID=true
+NAME="f1f5b8650b444ed749dddfbbac447b3a.mmu8",LANG="ENG",TITLE="身材走样？霉霉：看起来胖，总比病态要好",VALID=true
+NAME="57f5a4c9a7f8c2f723d9f4b9e66c0f37.mmu8",LANG="ENG",TITLE="透在骨子里的自信！李小龙珍贵彩色试镜片段",VALID=true
+NAME="9875fecd2e5022214a94b9866a398f84.mmu8",LANG="ENG",TITLE="为什么你总是无法专心学习和工作？顶级心理学家告诉你：都是潜意识的锅",VALID=true
+NAME="f9935c8c79275972ffd7ad652a2261ac.mmu8",LANG="ENG",TITLE="为啥川普觉得自己啥都懂？奥巴马：美国总统这个职业有毒",VALID=true
+NAME="944bac3d90d54baeb9eb27d9cc9f9d11.mmu8",LANG="ENG",TITLE="吴签被资本抛弃了？那如果行为不轨的，是资本本身呢",VALID=true
+NAME="ab152312b55fbc5ee680e0cda930e437.mmu8",LANG="ENG",TITLE="外研社演讲赛巅峰之作！清华小哥“奥巴马式”演讲惊艳全场",VALID=true
+NAME="443a3d2d65bdeda140e568d2a01c2561.mmu8",LANG="ENG",TITLE="学习没动力时看看这个视频！奥巴马经典演讲：你为什么要努力学习",VALID=true
+NAME="14a4ca07bf66646488903c3a0bda0d49.mmu8",LANG="ENG",TITLE="学神小区？和邻居一同获得诺贝尔奖是种什么体验？",VALID=true
+NAME="1255bb350175fa09af6fd468afa62b15.mmu8",LANG="ENG",TITLE="学霸的神仙恋爱？诺贝尔奖得主：帮女友补课，把自己补成了诺贝尔奖",VALID=true
+NAME="b9effaece97d6743f94b5c10d235d9e4.mmu8",LANG="ENG",TITLE="小哥向妈妈坦白出柜；妈妈的回应也太暖了吧！",VALID=true
+NAME="06cfe6dc96ab279a8cd13d990fb514fa.mmu8",LANG="ENG",TITLE="小哥在车上发现只老鼠！一场人鼠大战就此开始",VALID=true
+NAME="3cd40a912b093ea1e27971f39cf46507.mmu8",LANG="ENG",TITLE="小女孩觉得自己丑放声大哭；理发师的安慰超级暖心～",VALID=true
+NAME="b409ebe61f4b782cf9d8b6ee372b6351.mmu8",LANG="ENG",TITLE="小李子谈退休：只要大家还愿意看我，我就会一直演下去！",VALID=true
+NAME="d9b8f6c06571e398a673f612c7f443ca.mmu8",LANG="ENG",TITLE="小罗伯特唐尼：人们会觉得我矫情，但我真的不想再当钢铁侠了",VALID=true
+NAME="e09c4b19364adb1a0d83c6ccd3e832d5.mmu8",LANG="ENG",TITLE="希拉里谈出席川普就职仪式：布什跟我说，他讲得就是一坨屎",VALID=true
+NAME="7733b05566794f02fee43a77f474af55.mmu8",LANG="ENG",TITLE="心服口服！英超名帅祝贺利物浦夺冠合集",VALID=true
+NAME="ab47f27b95d98f174e715485484f8b42.mmu8",LANG="ENG",TITLE="想偷懒的时候，看看这个视频！马斯克教你如何提高成功的几率",VALID=true
+NAME="525cbe9c144415a769af61954754fa1f.mmu8",LANG="ENG",TITLE="我也想低调啊，实力不允许啊——碧梨谈格莱美丰收之夜",VALID=true
+NAME="a1060da31810042551721024a5030a97.mmu8",LANG="ENG",TITLE="我们为啥总忍不住口吐芬芳？心理学家：这是祖先留给我们的遗产",VALID=true
+NAME="0d9dd5e4d8aa9a9bdbcb866b864b97d8.mmu8",LANG="ENG",TITLE="文案绝了！拜登悼念50w 逝者：这是个令人心碎的里程悲",VALID=true
+NAME="8c433aa4593a9d23da9fa534581bc7ae.mmu8",LANG="ENG",TITLE="新冠导致动物鄙视链反转？崔娃：疫情后都成精了",VALID=true
+NAME="5025420a3c780e122d3b5b44ce3f1913.mmu8",LANG="ENG",TITLE="新冠时期的爱情",VALID=true
+NAME="006ef059446b678c55c57a6e4afec698.mmu8",LANG="ENG",TITLE="新手如何高效英语学习？七哥亲授英语自学大法",VALID=true
+NAME="14d78de6ff17991dd19cc500d9937cb9.mmu8",LANG="ENG",TITLE="新科奥斯卡影帝华金·菲尼克斯获奖致辞：带着爱伸援手，将带来和平",VALID=true
+NAME="8602677495063ad1a48fecc8ee93e5dc.mmu8",LANG="ENG",TITLE="新西兰总理：我想起高兴的事情...",VALID=true
+NAME="2c027b305da31c7ec69399e4cd898502.mmu8",LANG="ENG",TITLE="未被提名最佳影片？复联成员集体爆笑吐槽奥斯卡",VALID=true
+NAME="51b9413dc16d1cd6ce05436c3494c016.mmu8",LANG="ENG",TITLE="沃伦·巴菲特谈美股崩盘：我活了89年，还是第一次经历这种事",VALID=true
+NAME="28f52e66ca8c062a864126e6521fdaf1.mmu8",LANG="ENG",TITLE="熊孩子兄弟极限换家；老爸：又气又想笑，我裂开了",VALID=true
+NAME="de9f151770cd9744a4973a93f4ca8bff.mmu8",LANG="ENG",TITLE="王力宏谈中美关系：求同存异，大国之间并非零和游戏",VALID=true
+NAME="42f38e99a1aeda940a520c6b28c64603.mmu8",LANG="ENG",TITLE="王嘉尔的口语又变强了！情商又高，又努力，活该他火啊",VALID=true
+NAME="7d0a90297716625dfbe6891d4469c77d.mmu8",LANG="ENG",TITLE="玩密室逃脱全程被吓尿？A妹告诉你什么叫人菜瘾大",VALID=true
+NAME="26b1395b6d9cac0882e3e20382d34684.mmu8",LANG="ENG",TITLE="现场被技术男羞辱不懂技术？乔布斯的回应也太秀了吧！",VALID=true
+NAME="0f377192368a0e59e723e3f91da348b8.mmu8",LANG="ENG",TITLE="稳中带秀！2019外研社英语演讲大赛冠军：记忆中的圆桌",VALID=true
+NAME="499c046d3cc9cf2d8efda43caecf8f46.mmu8",LANG="ENG",TITLE="维秘超模住的房子是怎样的？肯豆新家House Tour告诉你！",VALID=true
+NAME="85a606ec8c343e80b0f69798d2d5ff50.mmu8",LANG="ENG",TITLE="行走的无损CD机！阿黛尔现场清唱为艾伦录手机铃声",VALID=true
+NAME="78cac0ac7a20058e77ce2e9703bc1c5f.mmu8",LANG="ENG",TITLE="谢谢你陪我走过青春～《生活大爆炸》最后一集对台词幕后",VALID=true
+NAME="4f49554680e43fe7ac113923e0c64e54.mmu8",LANG="ENG",TITLE="一个敢问一个敢答！崔娃：建议“手足拷问”推广全美",VALID=true
+NAME="c56dbd9c485c321eaab9b74141f8dba5.mmu8",LANG="ENG",TITLE="一招欲擒故纵拿下比尔·盖茨？盖茨老婆回忆二人爱情故事",VALID=true
+NAME="624e310baddf1f224ef4631904eb0dab.mmu8",LANG="ENG",TITLE="优雅 俏皮～张曼玉这口英音真的很...张曼玉！",VALID=true
+NAME="f42523d5ddc112c6433e93d6c7492fb6.mmu8",LANG="ENG",TITLE="印尼某村扮鬼防止大家外出 竟引得村民纷纷出门拍照",VALID=true
+NAME="fa79daf643be8733c48294d2e1c4a501.mmu8",LANG="ENG",TITLE="又想骗我生女儿？幼年寡姐上节目片段，从小颜值就爆表！",VALID=true
+NAME="807ca820285f7983950d2e11b02ec3c3.mmu8",LANG="ENG",TITLE="又骗我生女儿？陈冠希谈育女经；这个老爸也太酷了吧？",VALID=true
+NAME="4c8744df439e894de52cc29e76369121.mmu8",LANG="ENG",TITLE="在女生面前话都不敢说？心理学家告诉你：你怕得不是女生，而是被拒绝",VALID=true
+NAME="9d07fe1cff49baa460954562e74d2d64.mmu8",LANG="ENG",TITLE="增税，抗疫，不痴呆！拜登《60分钟》专访完整版",VALID=true
+NAME="7a62be25800a5c2b0fc793419c2118df.mmu8",LANG="ENG",TITLE="央视国家队说英语啥水平？主持人大赛选手邹韵小姐姐告诉你！",VALID=true
+NAME="4613206909470f685f18f724420df699.mmu8",LANG="ENG",TITLE="姚明谈第一次见到乔丹：他朝我喷垃圾话，但我当时听不懂英文",VALID=true
+NAME="4f8135c2ccc69d9bf6e6c14c02b27df2.mmu8",LANG="ENG",TITLE="字母哥作为超巨未获应有尊重？保罗：他可是两届MVP啊！",VALID=true
+NAME="ffda9236108b8d4421f1a5b51cf255b9.mmu8",LANG="ENG",TITLE="字母哥谈夺冠：我大可加入超级球队赢得冠军，但我选了这条难走的路",VALID=true
+NAME="59e038bed2a20b24144a1fd336175f2c.mmu8",LANG="ENG",TITLE="字母哥谈罚球时被观众计数：这可能要伴随我整个职业生涯了",VALID=true
+NAME="e881ef29401bf722fc02d5092cb88749.mmu8",LANG="ENG",TITLE="宅在家也超多梗！崔娃居家沙雕小品合集",VALID=true
+NAME="8d928b71a46b151e6fb04fe398904a3f.mmu8",LANG="ENG",TITLE="宅家工作学习福利：5个帮你避免注意力分散的方法",VALID=true
+NAME="a6c2490b0a97b67dc0cc7a125f3981e6.mmu8",LANG="ENG",TITLE="幽默睿智格局大；张文宏医生上海纽约大学毕业演讲精华版",VALID=true
+NAME="82dcfb0c4f7e6b5d67e4541c882846a8.mmu8",LANG="ENG",TITLE="总害怕失败，患得患失？科比：这个世界上，根本不存在失败",VALID=true
+NAME="9e5e3d15e5bb3603c5507b1ef8af31dc.mmu8",LANG="ENG",TITLE="总怕与人接触，尴尬癌晚期？心理学家告诉你：其实是你戏太多",VALID=true
+NAME="5105b7a6a5369104bed593cac65ded15.mmu8",LANG="ENG",TITLE="总是逃避各种事情？心理学家：别藏了，你比想象的更强大！",VALID=true
+NAME="61423b1bbf3885936e1b1fd43d7a4081.mmu8",LANG="ENG",TITLE="扎克伯格谈中国的支付系统：瞅瞅人支付宝，我们已经落后太多了！",VALID=true
+NAME="5dc4022d05318cd078ed44ed117836f4.mmu8",LANG="ENG",TITLE="早期演出曾被泼尿？贾斯汀·汀布雷克：孩子们，要顽强！",VALID=true
+NAME="b7e4b12a653790b38b23d67bae83ac5d.mmu8",LANG="ENG",TITLE="最会撩妹的CEO？扎克伯格：我当年靠这句情话拿下了我老婆",VALID=true
+NAME="183f2fc3ee22d56d161dfe8ea31d80fa.mmu8",LANG="ENG",TITLE="最适合练听力 口语的明星英语？谢耳朵口语的清晰度，非常适合中国学生",VALID=true
+NAME="6ccbb0024b0234167e4e45ae29b862d1.mmu8",LANG="ENG",TITLE="有你当偶像真好！6年前霉霉竟成功预言碧梨的成功？",VALID=true
+NAME="76c981a3d56a83be8bab60eec0a2bbb3.mmu8",LANG="ENG",TITLE="毅种循环！库里谈榜样的力量：新秀年科比夸了下，当时觉得自己是世界最佳",VALID=true
+NAME="cf2854bad1d0c858f3bbd64fdfde7bc5.mmu8",LANG="ENG",TITLE="毅种循环！科比大女儿替父亲穿上名人堂夹克",VALID=true
+NAME="019c668a65f7ca57c4688e584dc0ccaf.mmu8",LANG="ENG",TITLE="演讲时被扔鞋了如何回应？布什：不慌，自由社会都这样",VALID=true
+NAME="1173be57f4f2c3fa16b72e2134376b4d.mmu8",LANG="ENG",TITLE="烟嗓英语也太好听了吧？王嘉尔全英采访谈每日食谱",VALID=true
+NAME="d253db68624799c68cd3e8d5a1917f9d.mmu8",LANG="ENG",TITLE="疫情促使动物园熊猫发情？崔娃：别拦我，我要开车",VALID=true
+NAME="49f93abcda98fce0895b4c4de0329abd.mmu8",LANG="ENG",TITLE="疫情期间，为帮老年痴呆的妈妈保持记忆，暖心小哥将超市搬回了家",VALID=true
+NAME="0540300c1b712e4c5cd68b99bf34fe3b.mmu8",LANG="ENG",TITLE="真·后浪！史上最年轻CEO谈创业，英语和思维都令人叹为观止",VALID=true
+NAME="76eb48f58b3a060b973c83cc06251999.mmu8",LANG="ENG",TITLE="真·嘴炮？崔娃：想让精神老美戴口罩，只能靠这招了",VALID=true
+NAME="c026a31660d296a9cb28b1241a25996a.mmu8",LANG="ENG",TITLE="真·懂王？“预言家”伯尼·桑德斯半月前神准预测大选进程！",VALID=true
+NAME="c97a7bb582a72de54678bad2cb3d9056.mmu8",LANG="ENG",TITLE="种族天赋？8岁黑人男孩大秀财经知识，竟也有rap味儿",VALID=true
+NAME="84d19bc16ff3b9afbcc2a48971f5ff8c.mmu8",LANG="ENG",TITLE="糟老头坏的很！巴菲特：我咋防新冠？多喝可乐啊！",VALID=true
+NAME="3154c12b6972d240cb2edbaea517c9d2.mmu8",LANG="ENG",TITLE="自带溅射效果！喷嚏中的细菌究竟能传播多远？",VALID=true
+NAME="7f0b5fe3f112484aaeb7ab67e02f25ee.mmu8",LANG="ENG",TITLE="英国女王2019年圣诞致辞：过去一年多有坎坷，但小进步终将实现大改变",VALID=true
+NAME="67980d7b2a0e39eae26efd6bd50cbbc3.mmu8",LANG="ENG",TITLE="英国女王“新冠病毒全国演讲”：好日子终将归来，我们将再次相见",VALID=true
+NAME="15d9a29167e694dcab47a784b505c23d.mmu8",LANG="ENG",TITLE="英国王室最想删除的一段采访；黛安娜王妃：三个人的婚姻，有点挤",VALID=true
+NAME="6fe7a07806d007206b5ab8d3a4d18884.mmu8",LANG="ENG",TITLE="英国首相出院后首发声：大家要待在家里，苟住！",VALID=true
+NAME="47dab5996f057f1b669fd7de9384b8ea.mmu8",LANG="ENG",TITLE="英文中那些表示“牛X”的拽拽的词！祝大家都有牛X的2021！",VALID=true
+NAME="756f284294d53981f4c96d48411d4a32.mmu8",LANG="ENG",TITLE="英语发音可以不地道，但一定要准确！",VALID=true
+NAME="dbc36b0cffd52804265bc0a04b7a8bd3.mmu8",LANG="ENG",TITLE="袁隆平院士英文讲座片段：口语清晰准确，不输当代年轻人",VALID=true
+NAME="e36ef43aa38d07f7d9769f0d1876ca84.mmu8",LANG="ENG",TITLE="言传“身”教！为阻止女儿穿超短裤上学，国外老父亲变身女装大佬",VALID=true
+NAME="7bb60049ba698e0674ed5274c4543604.mmu8",LANG="ENG",TITLE="詹姆斯2020毕业季演讲：建设家乡，就是你追逐伟大的方式！",VALID=true
+NAME="e6e3636654f7cd219fc8e47a96692fb7.mmu8",LANG="ENG",TITLE="詹姆斯总决赛MVP发言完整版：我想获得那该死的尊重",VALID=true
+NAME="80d7492d013d94b84bbcbf58883a7fce.mmu8",LANG="ENG",TITLE="詹姆斯是如何对库里喷垃圾话的？英语角度揭秘NBA垃圾话文化",VALID=true
+NAME="9ee74ac3c1f77090b79e231300edb7a7.mmu8",LANG="ENG",TITLE="詹姆斯给年轻人的建议：想比我优秀？你可不能光说不做",VALID=true
+NAME="047153754445ad07ee818559b0751838.mmu8",LANG="ENG",TITLE="詹姆斯谈警察暴力：在美国作为黑人，我们真的很害怕",VALID=true
+NAME="7ba4b5eea46e25134f578aa3b7e221e9.mmu8",LANG="ENG",TITLE="这个女人将人生过成了电影～娜塔莉自述传奇电影人生",VALID=true
+NAME="2d8d5a7c80fcebe549ab898c12b37d73.mmu8",LANG="ENG",TITLE="这口澳洲英语也太俏皮了吧！朴彩英Met舞会换装vlog",VALID=true
+NAME="c76dfb8ff9981323155351908858a813.mmu8",LANG="ENG",TITLE="这口英音也太清楚了吧？英格兰主帅谈击败德国队：我选的人和战术，没赢我就死定了",VALID=true
+NAME="13a12e64d55110bc9419d65a964f76f8.mmu8",LANG="ENG",TITLE="这口英音什么水平？陈奕迅接受荣誉博士学位演讲",VALID=true
+NAME="76df777f947995c9adad308b2b250671.mmu8",LANG="ENG",TITLE="这波话术什么水平？阿里二当家蔡崇信谈马云：他正在低调做人",VALID=true
+NAME="1e6b03769cd13ad2dda2e4731fd7e021.mmu8",LANG="ENG",TITLE="这，就是欧冠！",VALID=true
+NAME="67567001cea691fc2dbcada51eb32762.mmu8",LANG="ENG",TITLE="针锋相对，不欢而散！川普超火《60分钟》专访完整版",VALID=true
+NAME="a51c94df673f57d8a91275c96464ffd4.mmu8",LANG="ENG",TITLE="雅思托福口语满分模版～彩英这口澳洲英文也太俏皮了吧？",VALID=true
+NAME="8114981f22143b3f6a3f04a17314a618.mmu8",LANG="JP",TITLE="【新标日】新版中日交流标准日本语 初级上（1-25集）",VALID=true
+NAME="b7af2ed807369ee90719fa918a0c0554.mmu8",LANG="JP",TITLE="【新标日】新版中日交流标准日本语 初级下（1-25集）",VALID=true
+NAME="e714a2129eac3dd7726b31665ece3c44.mmu8",LANG="JP",TITLE="【新标日】标准日本语中级上",VALID=true
+NAME="8b7bf49c21df054543a8fda13b5c1495.mmu8",LANG="JP",TITLE="【新标日】标准日本语中级下",VALID=true
+NAME="7aa2856e124545c61a4c9b8c9635f217.mmu8",LANG="JP",TITLE="日语学习 新标日第10课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师",VALID=true
+NAME="57cb4076cdfd87fa1eac73deea0752b2.mmu8",LANG="JP",TITLE="日语学习 新标日第11课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师",VALID=true
+NAME="cf316a33e5872b4442a3637b66e1b038.mmu8",LANG="JP",TITLE="日语学习 新标日第14课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师",VALID=true
+NAME="387ea430d8809a9c9781f2e62b1ab917.mmu8",LANG="JP",TITLE="日语学习 新标日第15课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师",VALID=true
+NAME="20980b35a5452c1de86759d72a7d3d1c.mmu8",LANG="JP",TITLE="日语学习 新标日第16课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师",VALID=true
+NAME="bb3756a6932fd089a2f87a16b79e19f5.mmu8",LANG="JP",TITLE="日语学习 新标日第17课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师",VALID=true
+NAME="26fae22de175f7f27988a75d498b81d7.mmu8",LANG="JP",TITLE="日语学习 新标日第18课单词带背音频",VALID=true
+NAME="54371d2864dc13701729c03204fb6832.mmu8",LANG="JP",TITLE="日语学习 新标日第19课单词带背音频",VALID=true
+NAME="f5fe6c460e652fbda403b0f3f241d2e3.mmu8",LANG="JP",TITLE="日语学习 新标日第1课单词带背音频 跟老师一起每天读3遍吧！",VALID=true
+NAME="d87b899f9fecf1755406be43a5c01f0f.mmu8",LANG="JP",TITLE="日语学习 新标日第1３课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师",VALID=true
+NAME="ff4f68e1a47b74b90938c721351134fd.mmu8",LANG="JP",TITLE="日语学习 新标日第20课单词带背音频",VALID=true
+NAME="d9ee2435531f25038af85bfcce2cad79.mmu8",LANG="JP",TITLE="日语学习 新标日第21课单词带背音频",VALID=true
+NAME="c7eb6382a8e0dfde2b5ef31a86354dff.mmu8",LANG="JP",TITLE="日语学习 新标日第22课单词带背音频",VALID=true
+NAME="6e792ad9be80e622fde9d3356f0c6f25.mmu8",LANG="JP",TITLE="日语学习 新标日第23课单词带背音频",VALID=true
+NAME="424e86f9b9cd33bc33fe7a88c6043719.mmu8",LANG="JP",TITLE="日语学习 新标日第24课单词带背音频",VALID=true
+NAME="639c6a02d636e734ada89447791242c2.mmu8",LANG="JP",TITLE="日语学习 新标日第2课单词带背音频 跟老师一起每天读3遍吧！",VALID=true
+NAME="785345e7dfdec1f0e061f1991b00a7ca.mmu8",LANG="JP",TITLE="日语学习 新标日第3课单词带背音频 跟老师一起每天读3遍吧！",VALID=true
+NAME="4abff05accdeac16ead826200cd329a8.mmu8",LANG="JP",TITLE="日语学习 新标日第4课单词带背音频 跟老师一起每天读3遍吧！",VALID=true
+NAME="bb586482add5813e77dd7a64ff773227.mmu8",LANG="JP",TITLE="日语学习 新标日第5课单词带背音频 跟老师一起每天读3遍吧！",VALID=true
+NAME="78b8334e76ec869b152d01b5431b9533.mmu8",LANG="JP",TITLE="日语学习 新标日第9课单词带背音频 跟老师一起每天读3遍吧！",VALID=true
+NAME="15a3ca2dc1b8390fb3c9b04d1fc9ad38.mmu8",LANG="JP",TITLE="日语学习：新标日课程0到N1，史上最好学的日语入门视频教程零基础学习日语轻松简单学",VALID=true
+NAME="d196f8859f1e83831b199a0c58124bd4.mmu8",LANG="JP",TITLE="绝密！！日语朗读速成法！！你敢这样读5遍吗！？",VALID=true

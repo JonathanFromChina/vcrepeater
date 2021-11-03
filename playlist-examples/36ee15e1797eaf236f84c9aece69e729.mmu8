@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e6607e399dec4e91f81f0d7a78622c5bece19d16.jpg@640w_400h.jpg",ALT="边睡边记！英语基本口语1000句"
+#EXT-X-INF:INDEX=0,NAME="边睡边记！英语基本口语1000句",URL="https://api.bilibili.com/x/player/playurl?avid=838144587&cid=192845397&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

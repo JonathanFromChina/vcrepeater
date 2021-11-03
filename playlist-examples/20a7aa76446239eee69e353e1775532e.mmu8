@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/414b60a00719e3bb11f3b25438a6b24852d08f79.jpg@640w_400h.jpg",ALT="交流实用英文：强效提高听力与口语"
+#EXT-X-INF:INDEX=0,NAME="睡眠学习交流实用英文39_强效提高听力与口语",URL="https://api.bilibili.com/x/player/playurl?avid=671609829&cid=294730530&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

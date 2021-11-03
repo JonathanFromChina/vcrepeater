@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/9001f707cba4ad6c297e46b3314dbcd2f7a3086e.jpg@640w_400h.jpg",ALT="高效学英文，短句到长句练习50句：有效改善英文听力适应力！"
+#EXT-X-INF:INDEX=0,NAME="20210508高效学英文_短句到长句练习50句_有效改善英文听力适应力！",URL="https://api.bilibili.com/x/player/playurl?avid=631282175&cid=357881612&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/86cd25694d96015eb7a6f9e5ce6e59f89edf8e13.jpg@640w_400h.jpg",ALT="【精选英音】牛津辩论社 | We Are (NOT) The Architect Of Our Own Demise"
+#EXT-X-INF:INDEX=0,NAME="反方1",URL="https://api.bilibili.com/x/player/playurl?avid=420568354&cid=411672650&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="反方2",URL="https://api.bilibili.com/x/player/playurl?avid=420568354&cid=411672746&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="反方3",URL="https://api.bilibili.com/x/player/playurl?avid=420568354&cid=411672821&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="正方1",URL="https://api.bilibili.com/x/player/playurl?avid=420568354&cid=411672898&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="正方2",URL="https://api.bilibili.com/x/player/playurl?avid=420568354&cid=411672972&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

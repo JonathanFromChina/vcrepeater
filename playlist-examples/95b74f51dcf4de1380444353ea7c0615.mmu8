@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/65c1b7f6cdb607c97f9fb6bb143f515554c65027.jpg@640w_400h.jpg",ALT="问路、地点英文对话：英语听力提高练习"
+#EXT-X-INF:INDEX=0,NAME="问路_地点英文对话_英语听力提高练习",URL="https://api.bilibili.com/x/player/playurl?avid=371481301&cid=213891613&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="图片_例句_音标助你高效记忆29个常用英语单词",URL="https://api.bilibili.com/x/player/playurl?avid=371481301&cid=213891766&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

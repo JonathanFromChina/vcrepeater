@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/2ea5d886c6878df6f789cc954f996c4eccd6fd2d.png@640w_400h.png",ALT="【零基础英语】简单入门英语对话(中英字幕)"
+#EXT-X-INF:INDEX=0,NAME="為初學者設計的簡明英語對話練習（简体／繁體字幕）",URL="https://api.bilibili.com/x/player/playurl?avid=540590694&cid=187950529&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

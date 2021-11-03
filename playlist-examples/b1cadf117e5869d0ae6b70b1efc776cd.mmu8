@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/cc29b531d7167cd549090ef18a64cdf7ba2b1dae.jpg@640w_400h.jpg",ALT="简单好用的50个打招呼英语短句：轻松学会聊天/问候/打招呼英语口语！"
+#EXT-X-INF:INDEX=0,NAME="简单好用的50个打招呼英语短句_轻松学会聊天_问候_打招呼英语口语！",URL="https://api.bilibili.com/x/player/playurl?avid=669535252&cid=232812494&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

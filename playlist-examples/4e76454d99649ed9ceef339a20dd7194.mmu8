@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/598053bfc2b7a90670402a1172e2fa6910e1636c.jpg@640w_400h.jpg",ALT="【BLACKPINK】Lisa说英语，发音也太地道太酥了吧！"
+#EXT-X-INF:INDEX=0,NAME="【纯正英文字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=201510286&cid=217376392&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=201510286&cid=217376561&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

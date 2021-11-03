@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/fd75e000cfa5b1e4c8e03d4d4e6d32f837ae8b58.jpg@640w_400h.jpg",ALT="从零开始学英语：简单又重要的基础英文54句"
+#EXT-X-INF:INDEX=0,NAME="20210130从零开始学英语_简单又重要的基础英文54句",URL="https://api.bilibili.com/x/player/playurl?avid=801579319&cid=294733026&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

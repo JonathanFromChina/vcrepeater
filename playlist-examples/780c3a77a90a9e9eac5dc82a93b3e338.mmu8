@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/31139ed8bdc4798086a0605f2939dab5c1c65cc2.jpg@640w_400h.jpg",ALT="老外基础英语学习：显著提高英语听力训练"
+#EXT-X-INF:INDEX=0,NAME="20210227老外基础英语学习_显著提高英语听力训练",URL="https://api.bilibili.com/x/player/playurl?avid=459645359&cid=311459651&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

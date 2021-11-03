@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/25f3e3da9078deb706ef715e10359b649525c12b.jpg@640w_400h.jpg",ALT="磨耳朵实用英语听力练习：听力能力上升一个水平，扩充词汇量"
+#EXT-X-INF:INDEX=0,NAME="20201220磨耳朵实用英语听力练习_听力能力上升一个水平_扩充词汇量",URL="https://api.bilibili.com/x/player/playurl?avid=417138793&cid=311454916&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

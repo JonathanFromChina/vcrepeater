@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/cec6fb355d46e863cf5796a8e4ddef2cd18e8da3.jpg@640w_400h.jpg",ALT="流利讲英语53句：超常用英文口语训练提高"
+#EXT-X-INF:INDEX=0,NAME="流利讲英语53句_超常用英文口语训练提高",URL="https://api.bilibili.com/x/player/playurl?avid=373676616&cid=281821944&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

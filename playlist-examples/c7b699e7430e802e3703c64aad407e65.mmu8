@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/1a80aa58c4fce82da3cbf58b60a4444adf91e996.jpg@640w_400h.jpg",ALT="【油兔君】乔丹公牛谢幕战封神之作！他究竟有没有推人？"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=541418949&cid=214353176&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/ab7419f1a8bd9992db8156e02ac6b40634e35c6c.jpg@640w_400h.jpg",ALT="【英美文学经典】《庄园之谜》（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="简·坎马克《庄园之谜》",URL="https://api.bilibili.com/x/player/playurl?avid=927473553&cid=246968974&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

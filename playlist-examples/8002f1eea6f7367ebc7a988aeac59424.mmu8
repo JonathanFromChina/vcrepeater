@@ -1,0 +1,64 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/2cc522cf017d390e984fa0514af58e760d949a95.jpg@640w_400h.jpg",ALT="牛津英文词典 59课"
+#EXT-X-INF:INDEX=0,NAME="1.Meeting and greeting  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217682702&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.Personal Information  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217682793&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.School  Oxford picture dictionary 2",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217682845&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.A Classroom  Oxford picture diction",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683002&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.Studying  Oxford picture dictionary",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683074&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.Succeeding in School  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683108&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.A Day at School  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683144&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.Everyday Conversation  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683178&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.Weather  Oxford picture dictionary",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683220&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.The Telephone  Oxford picture",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683258&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.Numbers  Oxford picture",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683395&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.Measurements  Oxford picture",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683497&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.Time  Oxford picture dictionary 2",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683560&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.The Calendar  Oxford picture",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683643&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.Calendar Events  Oxford picture",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683732&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.Describing things  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683799&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.Colors  Oxford picture dictionary",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683839&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.Preposition  Oxford picture",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683870&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.Money  Oxford picture dictionary",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683895&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.Shopping  Oxford picture dictiona",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683927&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.Oxford dictionary  Basic Transport",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683959&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.Oxford dictionary  Downtown",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684010&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.Oxford dictionary  The Body",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684053&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.Oxford dictionary  City Streets",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684098&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.Oxford dictionary  Public",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684171&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.Oxford dictionary   An Intersection",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684263&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.Oxford dictionary  Personal Hygien",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684368&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.Oxford dictionary  Prepositions of",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684518&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.Oxford dictionary  A Mall  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684560&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.Oxford dictionary  Symptoms and In",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684631&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.Oxford dictionary  Traffic Signs",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684680&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.Oxford dictionary  Directions and",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684722&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.Oxford dictionary  Illnesses and M",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684848&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.Oxford dictionary  The Bank",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684928&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.Oxford dictionary  A Pharmacy",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217684977&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.Oxford dictionary  Cars and Trucks",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685043&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.Oxford dictionary  The Library  Oxf",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685111&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.Oxford dictionary  Buying and Main",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685203&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.Oxford dictionary  Taking Care of",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685245&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.Oxford dictionary  The Post Office",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685328&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.Oxford dictionary  Department of M",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685468&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.Oxford dictionary  Medical Emergen",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685579&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.Oxford dictionary  Parts of a Car",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685641&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.Oxford dictionary  An Airport",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685781&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.Oxford dictionary  First Aid",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685904&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.Oxford dictionary  Government and",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217685971&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47.Oxford dictionary   Civic Rights a",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686279&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="48.Oxford dictionary  Medical Care",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686380&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="49.Oxford dictionary  Taking a Trip",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686498&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50.Oxford dictionary  Dental Care  O",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686608&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="51.Oxford dictionary  The Legal Syst",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686720&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="52.Oxford dictionary  Crime  Oxford",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686860&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="53.Oxford dictionary  Hospital  Oxfo",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686896&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="54.Oxford dictionary   A Health Fair",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217686982&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="55.Oxford dictionary  Public Safety",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217687029&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="56.Oxford dictionary Emergencies an",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217687088&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="57.Oxford dictionary   Emergency",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217687169&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="58.Oxford dictionary  Community Clean",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217687373&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="59.Oxford dictionary Parts of a Car",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217687411&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英文諺語 300句",URL="https://api.bilibili.com/x/player/playurl?avid=669053511&cid=217683561&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,23 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/204343a03743c3b7cffd998b710ba72a050cb303.jpg@640w_400h.jpg",ALT="【双语字幕】耶鲁大学公开课《心理学导论》| 超级实用的心理学课程"
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (1)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410059044&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (2)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410060174&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (3)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410061988&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (4)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410063944&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (5)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410065711&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (6)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410067239&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (7)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410069087&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (8)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410071267&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (9)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410073225&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (10)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410076496&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (11)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410079347&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (12)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410081499&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (13)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410083842&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (14)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410086280&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (15)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410088928&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (16)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410091210&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (17)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410093903&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (18)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410097148&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="心理学导论 (19)",URL="https://api.bilibili.com/x/player/playurl?avid=848048653&cid=410100213&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

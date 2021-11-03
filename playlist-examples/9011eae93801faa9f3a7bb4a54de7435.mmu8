@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/d209c75c6b0c6b1fe3c94de89346558818459ad0.jpg@640w_400h.jpg",ALT="超有用日常英文55句：英语听力持续进步"
+#EXT-X-INF:INDEX=0,NAME="20201116超有用日常英文55句_英语听力持续进步",URL="https://api.bilibili.com/x/player/playurl?avid=585428531&cid=260874877&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

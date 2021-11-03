@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/35af44d3da12bf2ac03d3af65c9e3b352165ecbf.jpg@640w_400h.jpg",ALT="轻松练习生活英语：猜测/不确定/怀疑（初学者必学）"
+#EXT-X-INF:INDEX=0,NAME="轻松练习生活英语_猜测_不确定_怀疑（初学者必学）",URL="https://api.bilibili.com/x/player/playurl?avid=543790001&cid=288058962&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

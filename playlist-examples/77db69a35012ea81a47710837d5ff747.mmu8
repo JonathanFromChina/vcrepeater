@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/6a4360cb057f4dbc084e915d37f7d2bb7a3f09d6.jpg@640w_400h.jpg",ALT="比伯红遍全球的《Stay》该如何唱？手把手教你英文歌词的连读"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=208874021&cid=431397934&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e659bbd469a0644b83e108624c9474bafac75616.jpg@640w_400h.jpg",ALT="超实用英语表达35句"
+#EXT-X-INF:INDEX=0,NAME="高效练英文听力_超实用英语表达35句",URL="https://api.bilibili.com/x/player/playurl?avid=371065358&cid=202328870&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

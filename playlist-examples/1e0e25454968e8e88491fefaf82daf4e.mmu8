@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/ce8cec7c0d9a7f6af27a4b0ece1d5e5d91d5998f.jpg@640w_400h.jpg",ALT="英语听力口语水平提高：英文初级表达五十句"
+#EXT-X-INF:INDEX=0,NAME="英语听力口语水平提高_英文初级表达五十句",URL="https://api.bilibili.com/x/player/playurl?avid=245224553&cid=254151119&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

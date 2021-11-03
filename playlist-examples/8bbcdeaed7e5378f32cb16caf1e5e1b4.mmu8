@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0809cbbc55fcb8c9a986c7775c729a292514bd80.jpg@640w_400h.jpg",ALT="英语听力有效突破：学习英语基础42句"
+#EXT-X-INF:INDEX=0,NAME="20210206英语听力有效突破_学习英语基础42句",URL="https://api.bilibili.com/x/player/playurl?avid=799029510&cid=294733824&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

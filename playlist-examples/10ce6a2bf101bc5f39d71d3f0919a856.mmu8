@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/0ba41c8e30b889d3fefafc96d62197d3377e7d42.jpg@640w_400h.jpg",ALT="基础英语表达37句：进一步提高英语听力和口语技能"
+#EXT-X-INF:INDEX=0,NAME="基础英语表达37句_进一步提高英语听力和口语技能",URL="https://api.bilibili.com/x/player/playurl?avid=669332763&cid=227061622&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

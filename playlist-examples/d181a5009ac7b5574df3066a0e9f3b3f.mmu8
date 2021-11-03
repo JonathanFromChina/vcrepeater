@@ -1,0 +1,104 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/c81d964fb5633269dc8213cb247a3f804b5e9773.jpg@640w_400h.jpg",ALT="【100集•TED精选演讲】刷一遍后你的英语口语听力会6到起飞！（2）"
+#EXT-X-INF:INDEX=0,NAME="Yang Lan The generation that's remaking China",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=232065030&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A teen scientist's invention to help wounds heal   Anushka Naiknaware",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220963149&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A temporary tattoo that brings hospital care to the home   Todd Coleman",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220963239&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A theory of everything   Emily Levine",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220963511&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A theory of everything   Garrett Lisi",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220963726&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A tribute to nurses   Carolyn Jones",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220963839&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A vehicle built in Africa, for Africa   Joel Jackson",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220964077&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A video game that helps us understand loneliness   Cornelia Geppert",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220964217&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A video game to cope with grief   Amy Green",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220964363&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A virtual choir 2,000 voices strong   Eric Whitacre",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220964571&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A virus detection network to stop the next pandemic   Pardis Sabeti and Christia",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220964777&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A vision for the future of Afghanistan   Ashraf Ghani",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220964859&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A vision for the future of Sierra Leone   Julius Maada Bio",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220965248&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A Visual History of Human Knowledge   Manuel Lima   TED Talks",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220965625&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A wall won't solve America's border problems   Will Hurd",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220965970&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A Warrior’s Cry Against Child Marriage   Memory Banda   TED Talks",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220966156&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A woman's fury holds lifetimes of wisdom   Tracee Ellis Ross",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220966507&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A young guitarist meets his hero   Usman Riaz and Preston Reed",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220966643&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A young poet tells the story of Darfur   Emtithal Mahmoud",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220967272&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A young scientist's quest for clean water   Deepika Kurup",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220967770&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Aakash Odedra A dance in a hurricane of paper, wind and light",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220968005&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Aaron Huey America's native prisoners of war",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220968314&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Aaron O'Connell Making sense of a visible quantum object (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220968713&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Abe Davis New video technology that reveals an object's hidden properties",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220968879&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Abha Dawesar Life in the  digital now",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220969346&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Abigail Washburn Building US-China relations ... by banjo",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220969699&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Abraham Verghese A doctor's touch",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220969940&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Abundance is our future   Peter Diamandis",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220970260&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Academic research is publicly funded -- why isn't it publicly available   Erica",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220970606&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Activism needs introverts   Sarah Corbett",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220970802&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Davidson What we learned from teetering on the fiscal cliff (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220971070&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Garone Healthier men, one moustache at a time",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220971797&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Grosser A mobile fridge for vaccines",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220972547&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Ostrow After your final status update",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220972596&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Sadowsky engineers a viral music video",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220972666&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Sadowsky How to engineer a viral music video",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220972949&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Savage My obsession with objects and the stories they tell",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220973221&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adam Spencer Why I fell in love with monster prime numbers",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220973608&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Addiction is a disease. We should treat it like one   Michael Botticelli",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220974123&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Aditi Shankardass A second opinion on learning disorders (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220974455&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adventures of an asteroid hunter   Carrie Nugent",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220974729&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Adventures of an interplanetary architect   Xavier De Kestelier",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220975030&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Afra Raymond Three myths about corruption",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220975520&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Africa is a sleeping giant -- I'm trying to wake it up   Adeola Fayehun",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220976307&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="After billions of years of monotony, the universe is waking up   David Deutsch",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220976545&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Afterneath     Killing Me    Luke Sital-Singh",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220976901&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ai Weiwei detained. Here is his TED film",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220977269&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Aimee Mullins Changing my legs - and my mindset",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220977631&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ajit Narayanan A word game to communicate in any language",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220977909&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Al Gore Alarming new slides of the worsening climate crisis",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220978275&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Al Vernacchio Sex needs a new metaphor. Here's one ...",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220978485&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alan Kay A powerful idea about teaching ideas",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220978652&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alan Russell The potential of regenerative medicine",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220978868&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alan Siegel Let's simplify legal jargon!",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220979215&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alanna Shaikh How I'm preparing to get Alzheimer's (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220979383&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alastair Parvin Architecture for the people by the people",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220979642&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alberto Cairo There are no scraps of men",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220980243&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alec Soth + Stacey Baker This is what enduring love looks like",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220980923&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alejandro Aravena My architectural philosophy Bring the community into the proce",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220981492&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alessandra Orofino It’s our city. Let’s fix it",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220982120&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alex Laskey How behavioral science can lower your energy bill",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220983204&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alex Steffen The route to a sustainable future",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220983518&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alex Steffen The shareable future of cities",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220983921&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alex Tabarrok on how ideas trump crises",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220984192&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alex Wissner-Gross A new equation for intelligence",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220984701&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alexis Ohanian How to make a splash in social media",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220985165&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ali Carr-Chellman Gaming to re-engage boys in learning",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220985370&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alice Dreger Is anatomy destiny",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220985730&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alice Goffman How we're priming some kids for college — and others for prison",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220986125&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alisa Miller The news about the news",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220987048&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alison Gopnik What do babies think (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220987139&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alison Killing There’s a better way to die, and architecture can help",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220988334&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="All it takes is 10 mindful minutes   Andy Puddicombe (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220988785&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Allan Adams The discovery that could rewrite physics",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220989175&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Allan Jones A map of the brain",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220989622&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Allison Hunt How I got my new hip (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220990340&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alwar Balasubramaniam Art of substance and absence",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220990531&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Alzheimer’s Is Not Normal Aging — And We Can Cure It   Samuel Cohen   TED Talks",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220991190&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Am I not human A call for criminal justice reform   Marlon Peterson",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220991379&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amanda Bennett We need a heroic narrative for death",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220991649&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amanda Burden How public spaces make cities work",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220992615&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amber Case We are all cyborgs now",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220993354&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="American bipartisan politics can be saved -- here's how   Bob Inglis",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220993626&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="America's forgotten working class   J.D. Vance",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220993974&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Ami Klin A new way to diagnose autism",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220994435&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amit Sood Building a museum of museums on the web",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220995374&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amory Lovins A 40-year plan for energy (2)",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220995568&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amos Winter The cheap all-terrain wheelchair",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220996608&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amy Lockwood Selling condoms in the Congo",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220997144&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Amy Purdy Living beyond limits",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220997218&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="An 11-year-old prodigy performs old-school jazz   Joey Alexander",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220998231&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="An AI smartwatch that detects seizures   Rosalind Picard",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220998723&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="An app that helps incarcerated people stay connected to their families   Marcus",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220999087&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="An architect's subversive reimagining of the US-Mexico border wall   Ronald Rael",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=220999491&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hackers the internet's immune system   Keren Elazari",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=231980279&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hamilton vs. Madison and the birth of American partisanship   Noah Feldman",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=231980378&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hanna Rosin New data on the rise of women",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=231980471&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hans Rosling Let my dataset change your mindset",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=231980577&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hans Rosling The good news of the decade",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=231980711&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Hans Rosling's answers to the TED and Reddit community interview",URL="https://api.bilibili.com/x/player/playurl?avid=286685260&cid=231980789&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

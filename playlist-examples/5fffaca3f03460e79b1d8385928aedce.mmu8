@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/6112ae8048bced7874f3181320e35db63d146e2e.jpg@640w_400h.jpg",ALT="【股神巴菲特最新专访】我给年轻人的三个建议：不当单身狗，学会沟通，与智者同行"
+#EXT-X-INF:INDEX=0,NAME="沃伦·巴菲特最新专访【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=56745344&cid=99126104&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="沃伦·巴菲特最新专访【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=56745344&cid=99126125&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

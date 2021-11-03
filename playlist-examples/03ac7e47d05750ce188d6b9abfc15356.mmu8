@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/a2421c8b2c77ed68a010f671fb4d9afdb8bd3330.jpg@640w_400h.jpg",ALT="【小小世界 I】 Tiny World 第一季 （4K.HD中英双字）"
+#EXT-X-INF:INDEX=0,NAME="01.Savannah.草原",URL="https://api.bilibili.com/x/player/playurl?avid=462049209&cid=381693263&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="02.Jungle.丛林",URL="https://api.bilibili.com/x/player/playurl?avid=462049209&cid=381696540&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="03.Island.岛屿",URL="https://api.bilibili.com/x/player/playurl?avid=462049209&cid=381699720&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="04.Outback.内陆",URL="https://api.bilibili.com/x/player/playurl?avid=462049209&cid=381704050&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="05.Woodland.林地",URL="https://api.bilibili.com/x/player/playurl?avid=462049209&cid=381711366&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="06.Garden.花园",URL="https://api.bilibili.com/x/player/playurl?avid=462049209&cid=381713704&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

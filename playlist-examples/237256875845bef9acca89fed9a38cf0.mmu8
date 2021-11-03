@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/6322a72e146ddc3b2b60b92285819a8e0da96d8f.jpg@640w_400h.jpg",ALT="长期训练•显著提高英语听说能力：科学高效练英文"
+#EXT-X-INF:INDEX=0,NAME="长期训练_•_显著提高英语听说能力_科学高效练英文",URL="https://api.bilibili.com/x/player/playurl?avid=676117925&cid=423778290&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【每天听一遍】高效练英语听说_轻松听懂常见英文表达方式！",URL="https://api.bilibili.com/x/player/playurl?avid=676117925&cid=423778740&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

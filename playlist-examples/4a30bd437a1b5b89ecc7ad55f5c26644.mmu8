@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/bba1dab41d3adfa7c658f4a61d21b541d94da660.jpg@640w_400h.jpg",ALT="美国人常用英语50句：英语听力水平更上一层楼"
+#EXT-X-INF:INDEX=0,NAME="美国人常用英语50句_英语听力水平更上一层楼",URL="https://api.bilibili.com/x/player/playurl?avid=288805222&cid=288056346&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

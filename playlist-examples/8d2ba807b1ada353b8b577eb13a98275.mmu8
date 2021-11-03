@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/138c56ef39c1fc49de4e271611c8252901a748c0.jpg@640w_400h.jpg",ALT="来自清华的新疆吴彦祖英语演讲，人帅英语好，一分钟内我要他所有联系方式！（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="来自清华的新疆吴彦祖英语演讲，人帅英语好，一分钟内我要他所有联系方式！（英文字幕）",URL="https://api.bilibili.com/x/player/playurl?avid=711953532&cid=231389227&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

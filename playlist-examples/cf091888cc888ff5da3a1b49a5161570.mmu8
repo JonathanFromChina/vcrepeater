@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/a6dc87dd07a37acb371a29d677196409dd14a4fe.jpg@640w_400h.jpg",ALT="BBC出的蛋炒饭教程，逼疯亚洲人最快的方式，煮饭不淘米，还将米饭煮成粥再沥干再用冷水冲洗？（硬核机翻双语字幕）"
+#EXT-X-INF:INDEX=0,NAME="BBC出的蛋炒饭教程，逼疯亚洲人最快的方式，煮饭不淘米，还将米饭煮成粥再沥干再用冷水冲洗？（硬核机翻双语字幕）",URL="https://api.bilibili.com/x/player/playurl?avid=456553941&cid=217788889&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

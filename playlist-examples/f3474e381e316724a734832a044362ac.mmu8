@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/75c75a83de78d8353296c04f315a64304c51114c.jpg@640w_400h.jpg",ALT="说英语做中餐：西兰花炒虾仁-Stir fired broccoli with shrimp"
+#EXT-X-INF:INDEX=0,NAME="说英语做中餐 西兰花炒虾仁-Stir fired broccoli with shrimp",URL="https://api.bilibili.com/x/player/playurl?avid=968258733&cid=196114992&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

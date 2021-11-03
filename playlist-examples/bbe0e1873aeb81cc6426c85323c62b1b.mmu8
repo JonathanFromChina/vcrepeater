@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/86f3af6e52dedfa3b7f0afb1acdf85967d23e7da.jpg@640w_400h.jpg",ALT="【英语技能】如何自学口语成为英语大神？B站最好的英语口语自学向导!【英文字幕】"
+#EXT-X-INF:INDEX=0,NAME="How to improve your English speaking skills (by yourself)_bilibili",URL="https://api.bilibili.com/x/player/playurl?avid=328205860&cid=189945612&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

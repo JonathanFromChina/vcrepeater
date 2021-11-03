@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/681d3eb7b91847a886b67b8378e6709d71df8e64.jpg@640w_400h.jpg",ALT="英语听力练习：进阶学习50句精选英文（中级篇）"
+#EXT-X-INF:INDEX=0,NAME="20201218英语听力练习_进阶学习50句精选英文（中级篇）",URL="https://api.bilibili.com/x/player/playurl?avid=374744998&cid=311454460&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

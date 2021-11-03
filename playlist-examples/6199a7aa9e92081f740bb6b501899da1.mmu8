@@ -1,0 +1,17 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/accf9f447ce010aa2c4455ea756a5adea41fedfe.jpg@640w_400h.jpg",ALT="【CATTI】笔译二三级真题及预测（含讲义）"
+#EXT-X-INF:INDEX=0,NAME="1.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226153&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226201&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226274&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226340&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226408&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226474&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226557&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226669&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226734&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226818&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226912&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103226975&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.韩刚笔译真题及预测",URL="https://api.bilibili.com/x/player/playurl?avid=59232046&cid=103227056&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

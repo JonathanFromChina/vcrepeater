@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/904dbb7b0035bfb405e4dc6a642f8391ceb3341c.jpg@640w_400h.jpg",ALT="超实用英语口语200句：快速学会常用英语口语表达"
+#EXT-X-INF:INDEX=0,NAME="超实用英语口语200句_-_快速学会常用英语口语表达",URL="https://api.bilibili.com/x/player/playurl?avid=668530804&cid=202307061&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

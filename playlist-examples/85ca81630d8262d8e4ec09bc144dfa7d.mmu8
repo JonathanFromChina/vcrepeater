@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0a20c5916c8e1870e0c580b05bd10e0aea639741.jpg@640w_400h.jpg",ALT="练习简单易用的英语短语"
+#EXT-X-INF:INDEX=0,NAME="Practice easy-to-use English short phrases-1 练习简单易用的英语短语",URL="https://api.bilibili.com/x/player/playurl?avid=541547904&cid=220981460&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Practice easy-to-use English short phrases-2 练习容易使用的英语短语-2",URL="https://api.bilibili.com/x/player/playurl?avid=541547904&cid=220981746&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

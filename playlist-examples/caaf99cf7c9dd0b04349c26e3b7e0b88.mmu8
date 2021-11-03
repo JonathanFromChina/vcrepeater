@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/650e950077d641beb28c9fdbcf981537dd00fc04.png@640w_400h.png",ALT="【学英语必备】100常用英语名词 - 【英语单词】"
+#EXT-X-INF:INDEX=0,NAME="【学英语】100常用英语名词 - 英语单词",URL="https://api.bilibili.com/x/player/playurl?avid=625552085&cid=187975889&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/38003e4098721606c563e1ca6714c0ad0a81afaf.jpg@640w_400h.jpg",ALT="持之以恒学英语：高效强化英文听与说（超实用100句）"
+#EXT-X-INF:INDEX=0,NAME="持之以恒学英语：高效强化英文听与说（超实用100句）",URL="https://api.bilibili.com/x/player/playurl?avid=631509100&cid=366695288&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

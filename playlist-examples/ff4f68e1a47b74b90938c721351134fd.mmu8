@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/3746904861d99b53082cfe629859559e54a209b3.jpg@640w_400h.jpg",ALT="[日语学习]新标日第20课单词带背音频"
+#EXT-X-INF:INDEX=0,NAME="20课单词BGM",URL="https://api.bilibili.com/x/player/playurl?avid=718429424&cid=421750927&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

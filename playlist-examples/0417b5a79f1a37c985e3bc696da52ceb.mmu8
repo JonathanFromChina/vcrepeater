@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/206435ed61e6ed8225fc9a9adb69abb6119a963e.jpg@640w_400h.jpg",ALT="【英语口语】酷炫小伙去韩国顶尖学校用英语跟学生对话，看看韩国学生的英语如何吧！（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="talking to top 1% korean students in english   social experiment_0",URL="https://api.bilibili.com/x/player/playurl?avid=329361480&cid=227369148&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

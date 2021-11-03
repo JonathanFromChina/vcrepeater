@@ -1,0 +1,14 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/36b3781364399bfcd515a0be8bfd10b50fa38380.jpg@640w_400h.jpg",ALT="【听力口语】英语情景剧（English Speaking lessons）"
+#EXT-X-INF:INDEX=0,NAME="lesson 01",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117751344&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 02",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117751450&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 03",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117751572&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 04",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117751672&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 05",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117751789&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 06",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117751909&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 07",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117752020&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 08",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117752139&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 09",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117752240&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 10",URL="https://api.bilibili.com/x/player/playurl?avid=67936849&cid=117752359&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

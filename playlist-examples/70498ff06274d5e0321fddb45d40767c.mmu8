@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/a4831cf5e36f8beb573992ad910554f610d5e2b6.jpg@640w_400h.jpg",ALT="【看动画学英语】基础日常英语对话，让你的英语口语从零基础直达流利（英文字幕 | 35分钟沉浸式学习）"
+#EXT-X-INF:INDEX=0,NAME="【看动画学英语】基础日常英语对话，让你的英语口语从零基础直达流利（英文字幕 | 35分钟沉浸式学习）",URL="https://api.bilibili.com/x/player/playurl?avid=757025172&cid=307843752&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

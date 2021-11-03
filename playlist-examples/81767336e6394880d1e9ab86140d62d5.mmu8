@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/59f249c0fc93043b070d01d311d25971ea837374.jpg@640w_400h.jpg",ALT="【年度最装逼毕业演讲？】我很后悔自己成绩太好，为此我牺牲了太多"
+#EXT-X-INF:INDEX=0,NAME="valedictorian",URL="https://api.bilibili.com/x/player/playurl?avid=58018935&cid=101236189&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

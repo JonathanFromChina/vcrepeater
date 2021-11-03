@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/7c9787da0e5f5163a2a4aab9b4bd4704450aca6d.png@640w_400h.png",ALT="【零基础英语】最实用的简单英语口语!（中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="【学习英语】開學英文時最有用的短語 (基礎英語)",URL="https://api.bilibili.com/x/player/playurl?avid=668858743&cid=209336130&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

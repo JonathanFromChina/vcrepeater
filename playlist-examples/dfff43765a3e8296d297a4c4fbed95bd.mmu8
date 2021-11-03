@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d3734136466075d6d4e3fab46b2f04feae124664.jpg@640w_400h.jpg",ALT="【英美文学经典】《佐罗》（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="莎莉·M·斯托克顿《佐罗》",URL="https://api.bilibili.com/x/player/playurl?avid=202393676&cid=246970538&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/4265ac5e138b9b48022652dde874dd2337309a80.jpg@640w_400h.jpg",ALT="粉碎退出国家队谣言！易建联对阵尼日利亚赛后英文采访完整版"
+#EXT-X-INF:INDEX=0,NAME="易建联interview 双语",URL="https://api.bilibili.com/x/player/playurl?avid=67130293&cid=116402802&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

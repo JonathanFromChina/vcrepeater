@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/b7759959b8c25f35637dd2defeb7f590bdddca00.jpg@640w_400h.jpg",ALT="99个重要英语句子--助你自信流畅说好英文！"
+#EXT-X-INF:INDEX=0,NAME="99个重要英语句子—助你自信流畅说好英文！",URL="https://api.bilibili.com/x/player/playurl?avid=676337241&cid=431940265&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

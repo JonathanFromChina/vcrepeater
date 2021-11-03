@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/6bed020e95c20f82158c884dd6e1f045b63c43e3.jpg@640w_400h.jpg",ALT="高效提高英语听力水平训练：28句英语常用表达"
+#EXT-X-INF:INDEX=0,NAME="28句英语常用表达_-_高效提高英语听力水平训练",URL="https://api.bilibili.com/x/player/playurl?avid=243342221&cid=196117825&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

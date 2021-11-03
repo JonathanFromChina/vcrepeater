@@ -1,0 +1,9 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/a96fa33d68ec9ecc22eca636555423b4c0afad43.jpg@640w_400h.jpg",ALT="【震撼人心的英文演讲】女神安妮·海瑟薇联合国为女性发声，堪称英语听力材料的典范！"
+#EXT-X-INF:INDEX=0,NAME="海瑟薇演讲1",URL="https://api.bilibili.com/x/player/playurl?avid=588517295&cid=352811109&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="海瑟薇演讲2",URL="https://api.bilibili.com/x/player/playurl?avid=588517295&cid=352812708&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="海瑟薇演讲3",URL="https://api.bilibili.com/x/player/playurl?avid=588517295&cid=352813466&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="海瑟薇演讲4",URL="https://api.bilibili.com/x/player/playurl?avid=588517295&cid=352814308&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="海瑟薇演讲精华部分",URL="https://api.bilibili.com/x/player/playurl?avid=588517295&cid=352814230&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

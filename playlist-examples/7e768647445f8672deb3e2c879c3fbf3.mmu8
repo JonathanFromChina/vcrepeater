@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/23b4a79e569aa084ad3f7db9482a27b8ee2bb7d8.png@640w_400h.png",ALT="【英语口语】油管最好的口语练习视频！英语口语精华99句  （中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="边睡边记英语口语精华99句   英语口语练习",URL="https://api.bilibili.com/x/player/playurl?avid=668401310&cid=200138796&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

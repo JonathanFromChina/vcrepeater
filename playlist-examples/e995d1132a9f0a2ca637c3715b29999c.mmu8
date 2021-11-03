@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/ace16628cbc1bb90de869d13d27a8ca71f858440.jpg@640w_400h.jpg",ALT="【英语听力高效训练】提高您的英语听力水平"
+#EXT-X-INF:INDEX=0,NAME="英语听力高效训练_-_提高您的英语听力水平",URL="https://api.bilibili.com/x/player/playurl?avid=967757945&cid=179748442&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

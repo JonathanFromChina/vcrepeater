@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/acdb9531ebd6f6bb9eddbed3f7e8123865431517.jpg@640w_400h.jpg",ALT="【英语口语】常用英语口语短句训练120句"
+#EXT-X-INF:INDEX=0,NAME="常用英语口语短句训练120句",URL="https://api.bilibili.com/x/player/playurl?avid=667812934&cid=179740031&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

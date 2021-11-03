@@ -1,0 +1,27 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/ce798b029befc745abd019cedd97290898600826.jpg@640w_400h.jpg",ALT="高效练耳朵英语听力  ：空中英语"
+#EXT-X-INF:INDEX=0,NAME="空中英语 (1)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218615475&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (2)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218615643&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (3)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218616986&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (4)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218614997&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (5)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218615908&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (6)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218616086&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (7)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218616328&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (8)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218616511&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (9)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218616699&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (10)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218615169&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (11)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218617140&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (12)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218617373&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (13)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218617535&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (14)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218617721&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (15)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218617883&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (16)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218618053&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (17)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218618227&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (18)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218618417&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (19)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218618584&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (20)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218618660&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (21)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218618846&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (22)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218619021&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="空中英语 (23)",URL="https://api.bilibili.com/x/player/playurl?avid=711562887&cid=218619283&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

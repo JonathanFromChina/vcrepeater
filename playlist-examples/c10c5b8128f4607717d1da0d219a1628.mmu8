@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/292b55b064f76ab36de0b36ed4b95559db3f5aff.jpg@640w_400h.jpg",ALT="41句英语听力练习提高：多听英文多进步"
+#EXT-X-INF:INDEX=0,NAME="2020111341句英语听力练习提高_多听英文多进步",URL="https://api.bilibili.com/x/player/playurl?avid=287971098&cid=260873899&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

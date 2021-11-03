@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/f40b12cfa677c17148fe537d056e6c7254dcd536.jpg@640w_400h.jpg",ALT="【练好英语听力】适合初学者提升的常见英文38句"
+#EXT-X-INF:INDEX=0,NAME="20201117【练好英语听力】适合初学者提升的常见英文38句",URL="https://api.bilibili.com/x/player/playurl?avid=457992524&cid=260879306&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

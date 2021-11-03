@@ -1,0 +1,10 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/eebac50ebc5f2e72f64373303bbaab6766d3a17a.png@640w_400h.png",ALT="【英语听力训练】从零基础—中级—高级听力练习【磨炼你的英语耳】"
+#EXT-X-INF:INDEX=0,NAME="English Listening Practice Level 1  Listening English Practice for Beginners in",URL="https://api.bilibili.com/x/player/playurl?avid=328223598&cid=189659754&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening English Practice Level 2  Improve Listening Skill  Learn to Speak Engl",URL="https://api.bilibili.com/x/player/playurl?avid=328223598&cid=189660257&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English Listening Practice Level 3  Learn English Listening Comprehension  Engli",URL="https://api.bilibili.com/x/player/playurl?avid=328223598&cid=189660553&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English Listening Practice Level 4 😎 Listen English everyday to Improve English",URL="https://api.bilibili.com/x/player/playurl?avid=328223598&cid=189660462&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Listening English Practice Level 5  Improve Listening Skill  Learn to Speak Engl",URL="https://api.bilibili.com/x/player/playurl?avid=328223598&cid=189660197&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English Listening Practice Level 6 😍Daily English Conversation👍Learn English L",URL="https://api.bilibili.com/x/player/playurl?avid=328223598&cid=189659022&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

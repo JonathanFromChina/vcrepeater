@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e1fb8f68a6baee4899e7fd5ed2ac5d9b413206aa.jpg@640w_400h.jpg",ALT="家用电器/家具/日用品英语口语训练：高效提高英文表达能力"
+#EXT-X-INF:INDEX=0,NAME="家用电器_家具_日用品英语口语训练_高效提高英文表达能力",URL="https://api.bilibili.com/x/player/playurl?avid=797469705&cid=244458807&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/89bdd3365492e326b3118078295defb14f120fff.jpg@640w_400h.jpg",ALT="提升英语听力水平：7个常用英语对话训练(中级篇)"
+#EXT-X-INF:INDEX=0,NAME="提升英语听力水平_-_7个常用英语对话训练(中级篇)",URL="https://api.bilibili.com/x/player/playurl?avid=883640416&cid=208643065&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="提高英语听力训练_英文常用会话6个",URL="https://api.bilibili.com/x/player/playurl?avid=883640416&cid=208643273&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

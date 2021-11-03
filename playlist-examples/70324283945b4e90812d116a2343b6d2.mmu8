@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/4d444ff3361659769cf7988e90a65a40bf3aceaa.jpg@640w_400h.jpg",ALT="英语能力突破：轻松提高英语听力（基础实用59句）"
+#EXT-X-INF:INDEX=0,NAME="20210428英语能力突破_轻松提高英语听力（基础实用59句）",URL="https://api.bilibili.com/x/player/playurl?avid=375964949&cid=348173560&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

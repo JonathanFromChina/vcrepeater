@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/f9a012fba4e401c67d23123084427f11e85dcc5d.jpg@640w_400h.jpg",ALT="英语口语进步训练：学会生活简单英语49句"
+#EXT-X-INF:INDEX=0,NAME="20210226英语口语进步训练_学会生活简单英语49句",URL="https://api.bilibili.com/x/player/playurl?avid=417181505&cid=311460808&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

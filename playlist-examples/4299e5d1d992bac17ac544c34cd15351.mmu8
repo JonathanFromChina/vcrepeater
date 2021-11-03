@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/3107ba642fefd24ca71f825fb910b5846f1e8926.jpg@640w_400h.jpg",ALT="最适合初学者入门：英语简短对话+听力特训"
+#EXT-X-INF:INDEX=0,NAME="20210418最适合初学者入门_英语简短对话_听力特训",URL="https://api.bilibili.com/x/player/playurl?avid=418448822&cid=348168405&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/7874d2c1b9dca20e78a1058a67ba97c723d35a1c.jpg@640w_400h.jpg",ALT="口语+听力神器！实用英语短语汇总（一）"
+#EXT-X-INF:INDEX=0,NAME="短语合集",URL="https://api.bilibili.com/x/player/playurl?avid=372124092&cid=233420826&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

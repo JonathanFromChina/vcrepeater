@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/4b563805b29d638fc6cd781e5cc17adbad37db41.jpg@640w_400h.jpg",ALT="如何拥有王嘉尔一样的完美口语？一个视频帮你领悟嘎嘎的连读技巧"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=633173675&cid=413278990&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

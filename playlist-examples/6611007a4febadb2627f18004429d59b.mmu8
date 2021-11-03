@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/ec6f2b8a8e0eadd9f4c925fa5582c3c0a0c43c45.jpg@640w_400h.jpg",ALT="睡前轻松记忆简短英语表达"
+#EXT-X-INF:INDEX=0,NAME="睡前轻松记忆简短英语表达-Learn Basic English Before You Sleep",URL="https://api.bilibili.com/x/player/playurl?avid=710870757&cid=194258295&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

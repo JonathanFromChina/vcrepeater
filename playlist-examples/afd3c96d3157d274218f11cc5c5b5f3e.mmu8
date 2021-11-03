@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/3ddf272416fa4b18be60928996483327f3cb73ff.jpg@640w_400h.jpg",ALT="艾佛森世纪一跨19周年；这一跨偷走了一代人的青春"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=710885652&cid=201265242&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【原声片段】",URL="https://api.bilibili.com/x/player/playurl?avid=710885652&cid=201267452&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

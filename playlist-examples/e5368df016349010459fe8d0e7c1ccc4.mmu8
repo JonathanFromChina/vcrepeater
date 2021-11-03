@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/54086acb9919722e5d9860d5a0ee9153357c5fb6.jpg@640w_400h.jpg",ALT="【励志英语演讲】Kobe Bryant's 布莱恩特科比: 如何成为一个传奇人物【改变你的命运】"
+#EXT-X-INF:INDEX=0,NAME="Kobe Bryant's Life Story - How He Became An Inspiring Legend - Life Changing Mot",URL="https://api.bilibili.com/x/player/playurl?avid=668058137&cid=186683490&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

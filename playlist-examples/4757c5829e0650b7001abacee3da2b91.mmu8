@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/e7b5f71cc6ae83b0576fd978a332289aed3a2fea.jpg@640w_400h.jpg",ALT="听懂生活常用英语90句：磨耳朵练出好听力！"
+#EXT-X-INF:INDEX=0,NAME="20210518听懂生活常用英语90句_磨耳朵练出好听力！",URL="https://api.bilibili.com/x/player/playurl?avid=845910767&cid=349112305&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

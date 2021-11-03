@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/4572b843d060ee86d1960aed3eeb94b9d06c9f95.jpg@640w_400h.jpg",ALT="基础英语口语训练44句：生活英文融会贯通"
+#EXT-X-INF:INDEX=0,NAME="基础英语口语训练44句_生活英文融会贯通",URL="https://api.bilibili.com/x/player/playurl?avid=884845381&cid=242119649&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

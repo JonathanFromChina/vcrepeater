@@ -1,0 +1,19 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/6cc09b812cd4eeb4f769a78263f6091d0bbe4257.jpg@640w_400h.jpg",ALT="【商务英语】Business English（15个场景）"
+#EXT-X-INF:INDEX=0,NAME="1.pleased to meet you",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855173&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.why don't you join us",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855283&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.getting acquainted",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855372&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.any other business",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855445&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.hear! hear",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855520&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.what are the options",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855579&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7. a report on progress",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855642&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8. graphs and trends",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855703&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9. a customer survey",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855756&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.wrapping it up",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855807&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.can i help you",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855882&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12. negotiating part 1",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104855980&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.negotiating part 2",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104856067&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14. a formal speech",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104856142&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.until next time",URL="https://api.bilibili.com/x/player/playurl?avid=60221923&cid=104856205&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

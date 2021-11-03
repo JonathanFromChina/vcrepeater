@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/c0efde00b077fd2dc58c24710737774a9bee569a.jpg@640w_400h.jpg",ALT="58个好用英文交流表达：英语口语听力训练"
+#EXT-X-INF:INDEX=0,NAME="2020122558个好用英文交流表达_英语口语听力训练",URL="https://api.bilibili.com/x/player/playurl?avid=373466472&cid=275796486&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

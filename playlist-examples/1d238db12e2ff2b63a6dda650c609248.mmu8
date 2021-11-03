@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/715f6c8ea502820f29dcee6956ffb279fe2be627.jpg@640w_400h.jpg",ALT="如何听懂正常语速的英文解说？梅西大巴黎首秀教给你！"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=632746933&cid=399749191&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/461aa426e16e5597f4b9ec1a39b6682e7753a527.jpg@640w_400h.jpg",ALT="[日语学习]新标日第19课单词带背音频"
+#EXT-X-INF:INDEX=0,NAME="19课单词带BGM",URL="https://api.bilibili.com/x/player/playurl?avid=675883554&cid=419953283&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

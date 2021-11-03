@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/21eef5492efcca222b9d8414e6025fe8db0a1e69.jpg@640w_400h.jpg",ALT="42句基础英语表达练习：提高英语听力能力"
+#EXT-X-INF:INDEX=0,NAME="42句基础英语表达练习_提高英语听力能力",URL="https://api.bilibili.com/x/player/playurl?avid=202643702&cid=254620260&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

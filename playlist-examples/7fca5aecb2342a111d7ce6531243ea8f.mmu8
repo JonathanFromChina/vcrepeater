@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/a12ce8f834c2cab3b26f293379257a9933c30e37.jpg@640w_400h.jpg",ALT="睡觉时学习1000个普通话短语"
+#EXT-X-INF:INDEX=0,NAME="Learn 1000 Phrases in Mandarin Chinese while You Sleep睡觉时学习1000个普通话短语",URL="https://api.bilibili.com/x/player/playurl?avid=243154448&cid=192838000&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

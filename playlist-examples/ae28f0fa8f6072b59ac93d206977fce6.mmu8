@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/43d0a2a2f42155c0d190a09c0cdd3ce1a095de02.jpg@640w_400h.jpg",ALT="漫威最被低估的超级英雄？《鹰眼》电影最新官方预告片！"
+#EXT-X-INF:INDEX=0,NAME="【转场】",URL="https://api.bilibili.com/x/player/playurl?avid=720402293&cid=408321454&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

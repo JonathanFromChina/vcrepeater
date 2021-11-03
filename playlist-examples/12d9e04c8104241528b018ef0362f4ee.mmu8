@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/34429e4f91a80741cadacdd47c5c0be00a03e751.jpg@640w_400h.jpg",ALT="对比惨烈！同样的题材，奥巴马和川普为你演绎不同的演讲"
+#EXT-X-INF:INDEX=0,NAME="【中英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=244473044&cid=230684808&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=244473044&cid=230684720&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

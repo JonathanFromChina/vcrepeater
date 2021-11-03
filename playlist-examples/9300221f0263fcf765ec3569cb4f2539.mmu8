@@ -1,0 +1,35 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/b65ebf80dbc36f82834d0fd1640377caa392ac95.png@640w_400h.png",ALT="【如何快速学好英语】俄罗斯学霸小姐姐教你快速学好英语的窍门，从零基础直达流利！"
+#EXT-X-INF:INDEX=0,NAME="5 easy ways to speak and practice English every day",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193698322&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8 THINGS EVERY LANGUAGE LEARNER SHOULD DO DAILY",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193698682&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8 WAYS TO IMPROVE YOUR LISTENING SKILLS IN ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193698137&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8 WAYS TO IMPROVE YOUR WRITTEN ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193698544&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9 MOST COMMON MISTAKES IN WRITTEN ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193697891&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10 WAYS TO SPEAK ENGLISH CONFIDENTLY",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193698875&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14 FUN FACTS ABOUT ENGLISH You Didn’t Know",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193698780&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17 ENGLISH PHRASES YOU WON'T LEARN AT SCHOOL",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193698895&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25 Advanced English Phrases",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193699001&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25 IDIOMS IN ENGLISH TO SOUND LIKE A NATIVE",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193699540&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25 MOST USED INTERJECTIONS IN ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193699333&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45 COMMON PHRASES IN AMERICAN ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193700439&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50 COMMON ENGLISH PHRASES",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193699524&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50 PHRASES IN BUSINESS ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193700094&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="100 MOST COMMON ENGLISH WORDS - BEGINNER VOCABULARY",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193700033&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="A DAY IN LIFE OF A LANGUAGE STUDENT IN THE USA",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193700680&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="All you need to know about English tenses in one hour!",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193701681&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="BEST TV SHOWS TO LEARN ENGLISH - vocabulary, hacks, topics",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193700818&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English language EASY ways to learn - sharing my secrets!",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193701065&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="ENGLISH TENSES EXPLAINED IN 15 MINUTES",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193702416&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="ENGLISH VOCABULARY FOR ADMISSIONS financial aid, requirements",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193701678&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="HOW TO LEARN 12 ENGLISH TENSES. ENGLISH GRAMMAR IN SPOKEN ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193702545&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="HOW TO LEARN 100+ ENGLISH WORDS A DAY. ENGLISH VOCABULARY.",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193701626&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="HOW TO LEARN ENGLISH - TIPS TO BECOME ADVANCED",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193704002&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to Learn English by Listening to Music EASY AND FUN Way to Study",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193702861&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to Learn English Fast - My Top 4 Tips",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193701950&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="LEARN 100 COMMON PHRASES IN ENGLISH IN 20 MINUTES",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193703233&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Daily - my tips to find time",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193704019&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="MASTER using the most popular ENGLISH TENSES",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193703207&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="The ultimate method to practice spoken English at home",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193703423&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="TOP-5 MISTAKES IN ENGLISH",URL="https://api.bilibili.com/x/player/playurl?avid=413371907&cid=193703587&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

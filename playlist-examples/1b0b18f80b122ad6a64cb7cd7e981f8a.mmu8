@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/d3b646ee48a4b4ad797dc319f597036821d6eb42.jpg@640w_400h.jpg",ALT="职业名称英语：学会各种职业的英文称呼，提高您的英语口语技能"
+#EXT-X-INF:INDEX=0,NAME="职业名称英语_学会各种职业的英文称呼_提高您的英语口语技能",URL="https://api.bilibili.com/x/player/playurl?avid=287028598&cid=235944960&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

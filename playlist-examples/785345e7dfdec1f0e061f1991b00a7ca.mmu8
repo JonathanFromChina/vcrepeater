@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/3cf9299402a94ee517ec0c92f343d007de1979de.jpg@640w_400h.jpg",ALT="[日语学习]新标日第3课单词带背音频 跟老师一起每天读3遍吧！"
+#EXT-X-INF:INDEX=0,NAME="3",URL="https://api.bilibili.com/x/player/playurl?avid=374295638&cid=302049934&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

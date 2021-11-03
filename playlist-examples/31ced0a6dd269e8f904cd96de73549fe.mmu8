@@ -1,0 +1,104 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/2287234e136ee6f46731ba53e82757ea578f409a.jpg@640w_400h.jpg",ALT="【动画背单词·100集】英语分类词汇合集 （适合少儿教学/新手自学）"
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Athletic Shoes Voc",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388845&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Chairs Vocabulary _",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388852&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Color Vocabulary f",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388857&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Drinks and Beverag",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388864&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - In the Bedroom Voca",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388872&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Learn Types of Doc",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388876&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Lines Vocabulary f",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388882&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Nature Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388887&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Parts of A Car Voc",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388899&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Valentine's Day Vo",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388903&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Women’s Clothing V",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388906&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English for Kids - Women's Heels Voca",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388915&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - At the Doctor's Voc",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388920&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Boots Vocabulary _",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388929&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Classroom Objects f",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388935&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Family Members Tree",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388942&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Flowers Names for K",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388973&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Gardening Tools for",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388980&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Hairstyle Vocabular",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388986&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Happy Birthday! _ L",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104388993&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Holidays and Specia",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389002&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Jobs and Occupation",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389010&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Kitchen Utensils Vo",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389020&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Animal Names",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389025&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Baby Furnitur",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389071&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Containers an",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389075&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Cooking Verbs",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389084&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Cups and Glas",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389094&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Different Par",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389100&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn English Bird N",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389105&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn English Vocab",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389108&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Farm and Domes",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389115&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Fast Food Voc",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389120&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Food Names fo",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389128&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Insect Names i",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389138&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Mammal Animal",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389143&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Names of Clot",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389151&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Names of Frui",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389157&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Parts of the",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389166&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Pet Names _ P",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389174&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Sea Animal Na",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389175&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Shape Names f",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389180&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Tables Vocabu",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389183&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Learn Wild Animal N",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389189&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - List of Breakfast F",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389204&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Male, Female, and Yo",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389207&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Medical Supplies an",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389218&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Names of Fruits and",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389227&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Names of Living Roo",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389239&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Outdoor Activities",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389241&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Talking about Hallo",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389248&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Kids Vocabulary - Winter Clothes and",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389252&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Accessories Vocabulary in English _ L",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389262&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Baby Furniture and Accessories Vocabu",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389268&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Birds Vocabulary in English _ Learnin",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389279&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Boots Vocabulary in English _ Footwea",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389285&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Breakfast Foods Vocabulary _ List of",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389294&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Clothes and Accessories Vocabulary in",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389301&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Comparison of Adjectives _ Learn English",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389321&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Different Parts of A Plant _ Learn En",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389350&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Different Types of Houses in English",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389361&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Extreme Sports Vocabulary in English",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389374&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Farm and Domestic Animals Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389380&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Food Names for Kids - List of Dinner",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389385&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Formal and Informal English Words _ L",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389389&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to Describe a Person's Appearance",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389473&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to Describe Someone’s Feelings an",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389479&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to Talk About Your Daily Routine",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389486&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to Use Coordinating Conjunctions",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389494&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="In the Garden Vocabulary in English",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389506&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Introductory Verbs in Reported Speech",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389521&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Common Collocations with GO in",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389565&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Different Parts of the House in",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389576&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English for Kids - Accessories N",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389584&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Vocabulary_ Road Signs",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389589&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Grammar _ Adverbs of Frequency",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389591&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn How to Use Indefinite Articles",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389597&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Job Names in English _ Professi",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389616&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Medicine Names in English _ Med",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389625&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Men's Clothing Vocabulary in En",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389628&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Names of Vegetables _ Vegetable",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389636&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Names of Winter Clothing _ Wint",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389648&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Professions and Occupational Na",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389651&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Makeup and Cosmetics Vocabulary in En",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389663&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Maths for Kids - Mathematics Symbols",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389670&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Opposite Adjectives Vocabulary in En",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389675&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Order of Adjectives in English _ Gram",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389694&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Parts of a Bicycle Vocabulary in Engl",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389710&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Personal Care Products Vocabulary in",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389718&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Pets Vocabulary in English _ Learn Pe",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389727&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Photography Vocabulary in English _ L",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389733&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Plants and Trees Vocabulary _  Learn",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389734&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sport and Exercise Actions Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389741&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Sports and Games Vocabulary in Englis",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389744&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Summer Clothes and Accessories Vocabu",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389751&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="When to Use NO Article in English",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389759&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Wild Animals Vocabulary in English _",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389771&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Words that Describe Personality and C",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389795&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Vocabulary for Kids - Clothes and Acc",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389903&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Vocabulary for Kids - Different Types",URL="https://api.bilibili.com/x/player/playurl?avid=59937975&cid=104389908&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

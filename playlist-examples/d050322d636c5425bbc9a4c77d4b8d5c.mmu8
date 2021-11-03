@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/ab1cdd8936bc351a7341d81b820e0c5329045785.jpg@640w_400h.jpg",ALT="【浅显易懂】超实用英语听说84句，重复多遍，必然提高英文表达和听力技能！"
+#EXT-X-INF:INDEX=0,NAME="84句",URL="https://api.bilibili.com/x/player/playurl?avid=762771930&cid=404607657&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

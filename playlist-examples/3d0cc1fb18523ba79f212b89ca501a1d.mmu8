@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/b4d279f716bcfb69908a5869d61dda355532c0d9.png@640w_400h.png",ALT="【日常英语】日常生活作息英语（中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="【日常生活作息】日常生活中最常用英語 (基礎英語)",URL="https://api.bilibili.com/x/player/playurl?avid=201300449&cid=209340059&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/596b9e56056987c77c9a3759740b6ee0c2dae6e2.jpg@640w_400h.jpg",ALT="学会用英语口语表达各种数字：掌握常用数字的正确读法"
+#EXT-X-INF:INDEX=0,NAME="学会用英语口语表达各种数字_掌握常用数字的正确读法",URL="https://api.bilibili.com/x/player/playurl?avid=798727069&cid=281822367&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

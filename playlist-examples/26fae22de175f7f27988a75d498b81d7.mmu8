@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/0c1b1705765bb3c8f519fd89ae72dae5fe264da9.jpg@640w_400h.jpg",ALT="[日语学习]新标日第18课单词带背音频"
+#EXT-X-INF:INDEX=0,NAME="18课单词BGM",URL="https://api.bilibili.com/x/player/playurl?avid=463272596&cid=418092102&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

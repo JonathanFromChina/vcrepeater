@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/f523746f14b2220b43dadc439e5f4ea8ef1f1749.jpg@640w_400h.jpg",ALT="这些英文早晚会用得到！勤听英语多进步｜生活英文90句"
+#EXT-X-INF:INDEX=0,NAME="20210722这些英文早晚会用得到！勤听英语多进步｜生活英文90句",URL="https://api.bilibili.com/x/player/playurl?avid=335826909&cid=415757622&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

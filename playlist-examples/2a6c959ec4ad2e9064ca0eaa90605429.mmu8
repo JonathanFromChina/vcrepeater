@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/3085c80ba373cc6fa83f4174f7334cd202a027ba.jpg@640w_400h.jpg",ALT="科技英语全都又难又长？这个视频告诉你并非如此"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=675016019&cid=394739442&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

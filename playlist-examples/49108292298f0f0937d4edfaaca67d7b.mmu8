@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/b2dc6dd2ba2d59b489ee6f72d54b45fa1cb2dadc.jpg@640w_400h.jpg",ALT="电话英语训练：提高您的英文听力水平"
+#EXT-X-INF:INDEX=0,NAME="电话英语训练_提高您的英文听力水平_(第1集)",URL="https://api.bilibili.com/x/player/playurl?avid=841050237&cid=202309378&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="电话英语训练_提高您的英文听力水平_(第2集_天气)",URL="https://api.bilibili.com/x/player/playurl?avid=841050237&cid=202309733&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

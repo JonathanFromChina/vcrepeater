@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/d6dd649ff73ee477dc7a1f60c024e3df3c03f983.png@640w_400h.png",ALT="【特朗普】油管破亿播放量！特朗普鬼畜翻唱 Havana 原唱Camila Cabello（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="Camila Cabello - Havana ( cover by Donald Trump )_bilibili",URL="https://api.bilibili.com/x/player/playurl?avid=370905168&cid=200114021&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

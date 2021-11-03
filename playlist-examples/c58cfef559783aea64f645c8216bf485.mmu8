@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/393072a3b247912678cd82f2b8eb0c53cc3a81a0.jpg@640w_400h.jpg",ALT="【英美文学经典】Green Gardens（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="弗朗西斯·诺伊斯·哈特的《绿色花园》",URL="https://api.bilibili.com/x/player/playurl?avid=927107777&cid=235960173&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

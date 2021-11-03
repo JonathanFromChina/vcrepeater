@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/3bf4c32cbb7a590dddbc1061946aaa49af65d7b9.jpg@640w_400h.jpg",ALT="【英文听力练习600句】彻底提高您的英文听力水平"
+#EXT-X-INF:INDEX=0,NAME="英文聽力練習600句_-_徹底提高您的英文聽力水平",URL="https://api.bilibili.com/x/player/playurl?avid=837800174&cid=179745139&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

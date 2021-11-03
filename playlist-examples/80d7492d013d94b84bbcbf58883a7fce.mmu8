@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/1c02bb906545e20445cc2b386ee0e124ac01bbed.jpg@640w_400h.jpg",ALT="詹姆斯是如何对库里喷垃圾话的？英语角度揭秘NBA垃圾话文化"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=548591147&cid=427107950&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,25 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/e6355645f5ccad662cce5cce65974a4412f75fb5.png@640w_400h.png",ALT="【看动画背单词】常用单词看个动画片就轻松记住了！（沉浸式学习 全集）"
+#EXT-X-INF:INDEX=0,NAME="Action Verbs Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773478&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Body Parts Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773423&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Clothes & Accessories Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773535&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Daily Routines vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773477&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Describing People, Places and Things",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773516&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English Idioms 2",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773513&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English Idioms 3",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773561&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English Idioms and Phrasal Verbs",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773549&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Feelings and emotions vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773588&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Food and drinks vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773634&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Fruits Vocabulary",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773611&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="House vocabulary, Parts of the House, Rooms in the House, House Objects and Furn",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773629&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="It was meant to be - English Phrases",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773660&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Jobs and Occupations   Learn English vocabulary about professions",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773670&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn the English Alphabet   The Letters ABC for children",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773835&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Vegetables Vocabulary in English",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773677&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Long Time No See - Common English Phrases",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773715&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Opposites Vocabulary in English",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773726&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Places Vocabulary in English",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773759&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="School Objects, Subjects and Building",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773770&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Transportation Vocabulary and Vehicle Names",URL="https://api.bilibili.com/x/player/playurl?avid=625990505&cid=198773818&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

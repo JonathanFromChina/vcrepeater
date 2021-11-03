@@ -1,0 +1,12 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/3baf6429306c683afa3c8a0294834626131445aa.jpg@640w_400h.jpg",ALT="【YouTube最好的基础英语教程】常用英文口语+高效练习英语听力"
+#EXT-X-INF:INDEX=0,NAME="英文听力初级练习_-_助您提高英文听力水平",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190015628&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英语听力高效训练_-_提高您的英语听力水平",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190015733&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="高效训练英语口语表达50句_-_提升你的口语表达能力",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190015861&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="日常生活篇英语口语表达88句",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190015884&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英文聽力練習600句_-_徹底提高您的英文聽力水平",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190015927&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="提升英语听力训练159句_-_有效提高英文听力水平",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190016694&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="超实用英语听力训练119句_-_同时学会常用英语表达",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190016838&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="高效练耳朵英语听力100句(饮食篇)_-_提高您的英语听力技能",URL="https://api.bilibili.com/x/player/playurl?avid=498235324&cid=190017035&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

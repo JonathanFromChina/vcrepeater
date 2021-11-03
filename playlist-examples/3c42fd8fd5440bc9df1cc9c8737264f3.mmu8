@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/3971213b6e5f98bb0174f09fa72b28c3ba1953d2.jpg@640w_400h.jpg",ALT="边听边记61句重要英文：强化英语听力训练"
+#EXT-X-INF:INDEX=0,NAME="边听边记61句重要英文_强化英语听力训练",URL="https://api.bilibili.com/x/player/playurl?avid=927548445&cid=249139674&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

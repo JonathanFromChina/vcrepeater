@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/2d51228f53d901b665111b61618d81ab9e39b54e.jpg@640w_400h.jpg",ALT="提高英语听力必备：常用英文对话训练(规则_规定篇)"
+#EXT-X-INF:INDEX=0,NAME="提高英语听力必备_常用英文对话训练(规则_规定篇)",URL="https://api.bilibili.com/x/player/playurl?avid=583633372&cid=208637038&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

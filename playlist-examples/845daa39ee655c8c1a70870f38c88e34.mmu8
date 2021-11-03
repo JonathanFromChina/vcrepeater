@@ -1,0 +1,53 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/7157c74b331451e548304d3b3358fc1e8ae33162.jpg@640w_400h.jpg",ALT="【英语音标】这绝对是B站最好的音标/发音教学视频，口把口教你，学不会你打我！"
+#EXT-X-INF:INDEX=0,NAME="元音   ʌ   as in  us - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560622&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   ʊ   as in  put  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560661&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   u   as in  blue - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560711&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   oʊ   as in  go  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560762&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   ɪ   as in  it  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560799&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   i   as in  be  - American English Pronunciation [UPDATED]",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560827&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   ɛ   as in  bed  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560858&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   eɪ   as in  make  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560896&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   ə   (Schwa) as in  ago  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560921&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   ɔ   as in  on  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233560971&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   æ   as in  cat  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561013&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="元音   ɑ   as in  got - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561039&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="双元音Sound   ɔɪ   as in  boy  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561079&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="双元音Sound   aʊ   as in  cloud  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561127&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="双元音Sound   aɪ   as in  like  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561167&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音Glottal 'T'   ʔ   as in  button  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561196&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音Flap 'T'   t̬   as in  water  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561244&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音Dark L as in  call  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561272&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  ʒ   as in  vision  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561347&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  z   as in  zoo  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561399&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  w   as in  way  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561475&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  v   as in  very  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561555&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  tʃ   as in  chair  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561644&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  t   as in  toy  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561723&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  s   as in  sun  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561765&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  ʃ   as in  show  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561840&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  r   as in  run - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561905&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  p   as in  pie  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561955&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  ŋ   (NG) as in  thing - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233561998&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  n   as in  nice - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562043&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  m   as in  map - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562098&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  l   as in  let - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562179&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  k   as in  key  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562222&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  j   as in  yes  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562282&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  h   as in  home  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562339&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  g   as in  gift  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562384&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  f   as in  fun  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562407&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  dʒ   as in  job  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562458&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  d   as in  dog  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562495&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="辅音  b   as in  boy  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562516&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="带r的 元音   ɪr   as in  hero  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562558&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="带r的 元音   ɛr   as in  chair  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562576&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="带r的 元音   ɝ   as in  first  - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562599&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="带r的 元音   ɚ   as in  after - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562635&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="带r的 元音   ɔr   as in  sport  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562653&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="带r的 元音   ɑr   as in  car  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562672&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="带r的 元音   aɪr   as in  fire  – American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562689&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="'TH' 辅音  θ   as in  think - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562714&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="'TH' 辅音  ð   as in  this - American English Pronunciation",URL="https://api.bilibili.com/x/player/playurl?avid=839588053&cid=233562746&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

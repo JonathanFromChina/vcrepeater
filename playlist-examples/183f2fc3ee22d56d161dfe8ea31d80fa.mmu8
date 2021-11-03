@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/efc5a787a14fba22d82af90ac8e455027f9807fc.jpg@640w_400h.jpg",ALT="最适合练听力+口语的明星英语？谢耳朵口语的清晰度，非常适合中国学生"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=462869005&cid=403934571&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

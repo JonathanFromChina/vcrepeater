@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/7b6102636178beb2c0a158a5547a7b85e8af8b5b.jpg@640w_400h.jpg",ALT="【英美文学经典】蒂姆·维里卡《地球上最冷的地方》（有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="蒂姆·维里卡《地球上最冷的地方》",URL="https://api.bilibili.com/x/player/playurl?avid=202454407&cid=246963612&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

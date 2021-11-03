@@ -1,0 +1,17 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/fd54655ac4f6b96b7482fee82a3e77efd0809af7.png@640w_400h.png",ALT="【听故事学英语】初级入门英语 沉浸式学习（持续更新 附英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="Learn English Thorugh Story Different Climates (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198671691&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Thorugh Story Home Today (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198671693&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles A Moment of Madness (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198671923&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles Breaking Loose (Level2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198671893&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles Delivery (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198671887&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles Hush Money (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198672199&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles Man from the South (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198671965&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles My Little Ghost (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198672064&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles Sister Love (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198672110&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles The Black Arrow (Level 3)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198672367&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles The House (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198672139&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story ★ Subtitles The Silk (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198672291&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English Through Story Home in The Past (Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=285928486&cid=198672152&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

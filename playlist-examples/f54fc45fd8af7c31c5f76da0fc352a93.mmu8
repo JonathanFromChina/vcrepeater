@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/faf582fa91f69bf574185e9454a2f7cff11421ac.jpg@640w_400h.jpg",ALT="中级英语听力提升训练：英语能力进阶45句"
+#EXT-X-INF:INDEX=0,NAME="20201211中级英语听力提升训练_英语能力进阶45句",URL="https://api.bilibili.com/x/player/playurl?avid=671787980&cid=302487883&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/246cf0126eabbf45a63641638eada91495f03311.jpg@640w_400h.jpg",ALT="高效掌握45个英语常用句子：练习听力和口语"
+#EXT-X-INF:INDEX=0,NAME="高效掌握45个英语常用句子_练习听力和口语",URL="https://api.bilibili.com/x/player/playurl?avid=501596194&cid=294731083&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

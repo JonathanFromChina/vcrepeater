@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/0dbdb82c260bf7567f9a8ca2f51ab5f809bf9e45.jpg@640w_400h.jpg",ALT="天天说英语：坚持积累｜持续提高英文口说表达能力！"
+#EXT-X-INF:INDEX=0,NAME="20210506天天说英语_坚持积累｜持续提高英文口说表达能力！",URL="https://api.bilibili.com/x/player/playurl?avid=503871928&cid=357881206&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

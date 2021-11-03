@@ -1,0 +1,51 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/3a5f8ca8551297906d4190bdb8a9c93509675765.jpg@640w_400h.jpg",ALT="英式发音口语课程"
+#EXT-X-INF:INDEX=0,NAME="1. 前言",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699238&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.元音 (ɪ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699363&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.元音 (iː)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699441&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4. 元音 (ʊ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699566&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.元音 (uː)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699659&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.元音 (ʌ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699777&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7. 元音 (ɑː)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699925&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.元音 (ɒ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699955&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.元音 (ɔː)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217699995&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.元音 (ə)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700072&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.元音 (ɜː)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700260&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.元音 (e)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700324&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.元音 (æ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700465&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.元音 (ɪə)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700513&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.元音 (ʊə)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700584&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.元音 (aɪ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700634&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.元音 (ɔɪ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700694&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.元音 (əʊ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700771&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.元音 (eə)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700881&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.元音 (aʊ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217700977&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.元音 (eɪ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701053&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.有声无声辅音",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701117&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.辅音 (p)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701188&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.辅音 (b)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701247&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.辅音 (t)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701316&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26. 辅音 (d)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701390&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.辅音 (k)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701537&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.辅音 (ɡ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701683&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.辅音 (f)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701746&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.辅音 (v)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217701836&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.辅音 (θ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702048&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.辅音 (ð)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702145&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.辅音 (s)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702196&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.辅音 (z)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702263&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.辅音 (ʃ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702373&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.辅音 (ʒ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702487&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.辅音 (tʃ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702537&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.辅音 (dʒ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702602&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.辅音 (m)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702707&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.辅音 (n)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702784&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.辅音 (ŋ)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702887&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.辅音 (h)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217702965&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.辅音 (l)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217703039&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.辅音 (r)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217703204&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.辅音 (w)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217703333&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.辅音 (j)",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217703500&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英文諺語 300句",URL="https://api.bilibili.com/x/player/playurl?avid=414086324&cid=217703562&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

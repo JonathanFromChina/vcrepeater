@@ -1,0 +1,11 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/d67097846502daa7416345d5790385086f38772d.jpg@640w_400h.jpg",ALT="【12月明星英语短篇合集】比伯、高以翔、吴亦凡、欧阳娜娜、昆凌、艾玛·沃特森"
+#EXT-X-INF:INDEX=0,NAME="【贾斯汀·比伯】",URL="https://api.bilibili.com/x/player/playurl?avid=78684268&cid=134631207&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【高以翔】",URL="https://api.bilibili.com/x/player/playurl?avid=78684268&cid=134626447&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【贾斯汀·比伯2】",URL="https://api.bilibili.com/x/player/playurl?avid=78684268&cid=134629150&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【欧阳娜娜】",URL="https://api.bilibili.com/x/player/playurl?avid=78684268&cid=134626296&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【昆凌】",URL="https://api.bilibili.com/x/player/playurl?avid=78684268&cid=134626694&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【艾玛·沃特森】",URL="https://api.bilibili.com/x/player/playurl?avid=78684268&cid=134627086&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【吴亦凡】",URL="https://api.bilibili.com/x/player/playurl?avid=78684268&cid=134627190&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

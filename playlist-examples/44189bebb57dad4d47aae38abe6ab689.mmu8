@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/47d6b780155dcdc4b4c6ddc26bd0b570135d5d2a.jpg@640w_400h.jpg",ALT="提升英语听力训练159句：有效提高英文听力水平"
+#EXT-X-INF:INDEX=0,NAME="提升英语听力训练159句_-_有效提高英文听力水平",URL="https://api.bilibili.com/x/player/playurl?avid=498697607&cid=208643688&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="提升英语听力水平_-_7个常用英语对话训练(中级篇)",URL="https://api.bilibili.com/x/player/playurl?avid=498697607&cid=208643897&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

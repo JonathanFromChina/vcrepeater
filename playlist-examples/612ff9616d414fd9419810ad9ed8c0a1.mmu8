@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/bee49dbe074f5366420b7376026f5e17bc56de8c.jpg@640w_400h.jpg",ALT="油管破亿播放超燃励志视频：没有借口！看完不滚去学习算我输！"
+#EXT-X-INF:INDEX=0,NAME="「油管超燃励志视频」没有借口！",URL="https://api.bilibili.com/x/player/playurl?avid=842792104&cid=256968000&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

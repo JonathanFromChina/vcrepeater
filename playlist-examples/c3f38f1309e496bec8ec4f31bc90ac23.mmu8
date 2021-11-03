@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/6ceaaaf31c8bf5644e4a7402c04e5b20581c0631.jpg@640w_400h.jpg",ALT="油管爆燃励志英文短片——至：孤军奋战的勇士，你本就该光芒万丈，怎么甘心沉沦黑暗？！（每天一遍，斗志全满）"
+#EXT-X-INF:INDEX=0,NAME="油管爆燃励志英文短片——至：孤军奋战的勇士，你本就该光芒万丈，怎么甘心沉沦黑暗！（每天一遍，斗志全满）",URL="https://api.bilibili.com/x/player/playurl?avid=544392089&cid=306121757&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

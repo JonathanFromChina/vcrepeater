@@ -1,0 +1,13 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/984f6401e599e996d0366432ec08164e9df645d3.jpg@640w_400h.jpg",ALT="【英语口语】跟权力的游戏学口语，英式发音，轻松易学！"
+#EXT-X-INF:INDEX=0,NAME="Learn English With Game Of Thrones   Jon Snow Meets Daenerys",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233563767&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English With Game Of Thrones   Jon Snow, Daenerys and Cersei Meet",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233563850&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="“Daenerys Arrives At Winterfell”   Learn English with Game of Thrones",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233563255&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35+ English Vocabulary Words for Action Series and Movies   Learn English with G",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233563384&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Advanced English Vocabulary Test with Game of Thrones",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233563444&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English With Emilia Clarke   Dragons and Beyonce",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233563555&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English With Game Of Thrones   The Series Finale",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233563956&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English with Game of Thrones (Jon Snow)",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233564066&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn English With Lena Headey (Cersei Lannister)",URL="https://api.bilibili.com/x/player/playurl?avid=797042606&cid=233564127&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

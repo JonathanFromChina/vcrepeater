@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/da85eb760168db5d5b735ad5a6981fbed1370118.jpg@640w_400h.jpg",ALT="多听英文勤练听力：生活英语口语42句"
+#EXT-X-INF:INDEX=0,NAME="20201210多听英文勤练听力_生活英语口语42句",URL="https://api.bilibili.com/x/player/playurl?avid=203426984&cid=275785928&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

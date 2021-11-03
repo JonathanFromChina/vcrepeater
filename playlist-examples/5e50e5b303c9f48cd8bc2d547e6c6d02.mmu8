@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/101bc8f274038bd8b66833fd271dfcf7bf3343ac.jpg@640w_400h.jpg",ALT="【点餐英语|郊游日记】高效提高您的英文听力"
+#EXT-X-INF:INDEX=0,NAME="点餐英语_郊游日记_高效提高您的英文听力",URL="https://api.bilibili.com/x/player/playurl?avid=541022654&cid=202308762&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

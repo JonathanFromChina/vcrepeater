@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/045d8cfeedfa547a7079cff75afb3ab1cd44a152.jpg@640w_400h.jpg",ALT="如何听懂英国人的正常语速？一起听听加菲对荷兰弟的看法"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=335800137&cid=416651507&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

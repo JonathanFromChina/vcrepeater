@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/fc5c2c97d6c6d0b6ffbd417334db8e3731599fc2.jpg@640w_400h.jpg",ALT="如何牢记同一动词的不同词组？教大家一个超实用技巧"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=421399327&cid=435173438&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

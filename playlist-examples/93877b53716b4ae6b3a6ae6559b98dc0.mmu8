@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/313729bf00251652a275627d974bf98cba70c41f.jpg@640w_400h.jpg",ALT="睡眠学习：500个有用的英语短语"
+#EXT-X-INF:INDEX=0,NAME="Learn 500 Useful Phrases in English while You Sleep睡觉时学习500个有用的英语短语",URL="https://api.bilibili.com/x/player/playurl?avid=200733675&cid=192810989&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

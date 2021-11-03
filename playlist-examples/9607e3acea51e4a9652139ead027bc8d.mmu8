@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/1fe68f3fdadecba982dd9acf0ef5b9f22c6f5a91.jpg@640w_400h.jpg",ALT="失眠之夜听听英语快速会话"
+#EXT-X-INF:INDEX=0,NAME="失眠之夜听听英语快速会话",URL="https://api.bilibili.com/x/player/playurl?avid=243374045&cid=194252301&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

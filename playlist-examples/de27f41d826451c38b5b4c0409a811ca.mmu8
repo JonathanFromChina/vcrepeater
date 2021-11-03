@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/280a5fad050f76b0be5d4e6eef738a600500e8ad.jpg@640w_400h.jpg",ALT="英语听力技能训练 (慢速／常速)"
+#EXT-X-INF:INDEX=0,NAME="英语听力技能训练 1(慢速／常速)",URL="https://api.bilibili.com/x/player/playurl?avid=201731992&cid=223270743&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英语听力技能训练 2(慢速／常速)",URL="https://api.bilibili.com/x/player/playurl?avid=201731992&cid=223272077&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

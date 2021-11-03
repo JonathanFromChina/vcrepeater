@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/a661e9bd3fc1390e8585a907aa1d6a7c92192ed6.jpg@640w_400h.jpg",ALT="[日语学习]新标日第11课单词带背音频 跟老师一起每天读3遍吧！ BY阿飞老师"
+#EXT-X-INF:INDEX=0,NAME="单词11",URL="https://api.bilibili.com/x/player/playurl?avid=545423913&cid=333110521&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

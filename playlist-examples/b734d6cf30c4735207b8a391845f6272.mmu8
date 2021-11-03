@@ -1,0 +1,49 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/c0297317dc98c34cb118bbd0a6189cde04eb752d.jpg@640w_400h.jpg",ALT="【45集】经典英文有声书合辑一，书籍跟读，增加英文阅读量，磨练你的英语耳"
+#EXT-X-INF:INDEX=0,NAME="1.【Berenic】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402613700&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.【乔治西尔弗曼的解释】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402621713&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.【Dalyrimple】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402613810&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.【爱德华米尔斯】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402614247&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.【阿拉丁与魔法灯】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402614040&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.【安妮 利斯贝斯】安徒生",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402615335&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.【布鲁克】詹姆士(Av762236615,P7)",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402615696&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.【参观纽盖特】查尔斯 狄更斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402615477&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.【穿越河口】肖邦",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402615991&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.【大海冒险】杰克 伦敦",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402616071&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.【对的地方】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402616156&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.【佛洛里的52周】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402616333&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.【复兴的改革】欧亨利",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402616252&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.【格蕾丝的微妙事件】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402616616&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.【狗的故事】马克吐温",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402616793&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.【鬼岛】阿尔杰农布莱伍德",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402616891&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.【过夜留宿】罗伯特",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402617128&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.【汉斯小姐】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402617349&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.【亨老板】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402617624&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.【红云的亲戚】欧文 威斯特",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402617907&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.【饥饿的艺术家】卡夫卡",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402618151&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.【解救年轻的guaaie】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402618304&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.【金色峡谷】杰克伦敦",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402619488&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.【里奥的沃克廖莎】托尔斯泰",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402618531&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.【两座城市的故事】查尔斯 狄更斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402620255&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.【猎犬比尔】伍德豪斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402619781&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.【旅行】伊迪斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402619946&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.【麻烦之海】伍德豪斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402620086&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.【猫头鹰溪】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402620925&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.【每天都是圣诞】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402621096&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.【你的老伴】亨利劳森",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402621043&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.【懦夫】伊迪斯 沃顿",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402621322&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.【墙外】安布罗斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402621204&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.【Carmilla】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402614344&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.【热带恐怖】霍普霍奇思",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402621510&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.【日本台风】杰克",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402621654&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.【塞西宫】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402622389&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.【圣诞节】威廉迪恩",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402622305&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.【圣诞颂歌 】查尔斯 狄更斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402622744&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.【失落女士】薇拉凯瑟",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402623932&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.【曙光】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402623748&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.【她的爱】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402625253&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.【她的生日梦想】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402625332&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.【她的信】",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402625400&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.【天体】福特斯",URL="https://api.bilibili.com/x/player/playurl?avid=932770549&cid=402625530&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

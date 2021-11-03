@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/e77b975873f29291f7cd6243135b713091bbc073.jpg@640w_400h.jpg",ALT="高效英语听力训练：轻松学习65句日常生活英语"
+#EXT-X-INF:INDEX=0,NAME="20201106高效英语听力训练_轻松学习65句日常生活英语",URL="https://api.bilibili.com/x/player/playurl?avid=885149944&cid=254627255&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

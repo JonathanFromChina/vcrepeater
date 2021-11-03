@@ -1,0 +1,58 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/62a4193b66596e6078fb571bee9748933d9bbc73.jpg@640w_400h.jpg",ALT="【最好的英语早教启蒙】Cocomelon:ABCKidTV（早教动画片）"
+#EXT-X-INF:INDEX=0,NAME="1.Baa Baa Black Sheep  +More Nurser",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120924364&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.Balloon Boat Race  +More Nursery",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120924669&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.ABC Phonics Song  +More Nursery R",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120923363&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.Animal Dance  +More Nursery Rhyme",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120923623&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.Bath Song  +More Nursery Rhymes",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120924993&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.Are We There Yet Song  +More Nurs",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120923895&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.Bingo  +More Nursery Rhymes  Kids",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120925285&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.Breakfast Song  +More Nursery Rhy",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120925595&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.Christmas songs for kids  +More N",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120925845&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.Clean Up Song  +More Nursery Rh",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120926102&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.Color Song (Ice Pop)  +More Nur",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120926415&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.First Day of School + More Nurs",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120926761&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.Five Little Ducks 2  +More Nurs",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120927061&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.Five Little Speckled Frogs  +Mo",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120927388&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.Getting Ready for School Song+M",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120927730&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.Happy Birthday Song  +More Nurs",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120928035&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.Hickory Dickory Dock  +More Nur",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120928429&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.Hot Cross Buns  +More Nursery R",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120928729&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.Humpty Dumpty  +More Nursery Rh",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120929050&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.Itsy Bitsy Spider  +More Nurser",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120929361&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.Laughing Baby with Family  CoCo",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120929652&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.London Bridge is Falling Down+M",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120929678&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.Looby Loo  +More Nursery Rhymes",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120929966&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.Marching Band Song",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120930288&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.My Name Song  +More Nursery Rhy",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120930574&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.One Potato Two Potatoes  +More",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120930813&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.Peek a Boo Song  +More Nursery",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120931111&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.Please and Thank You Song  +Mor",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120931393&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.Rain Rain Go Away  +More Nurser",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120931724&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.Rock-A-Bye Baby  +More Nursery",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120932038&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.Sharing Song  +More Nursery Rhy",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120932368&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.Sick Song  +More Nursery Rhymes",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120932663&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.Skidamarink  +More Nursery Rhym",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120932928&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.Sorry Excuse Me Song  +More Nur",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120933263&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.Take Me Out to the Ball Game+Mo",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120933579&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.Ten in the Bed  +More Nursery R",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120933805&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.Ten Little Duckies",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120934305&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.Thank You Song  +More Nursery R",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120934541&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.The Ant and the Grasshopper +Mo",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120934845&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.The Car Color Song  +More Nurse",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120935119&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.The Clean Up Trash Song  +More",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120935446&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.The Duck Hide and Seek Song +Mo",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120935733&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.The Muffin Man  +More Nursery R",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120936204&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.The Opposites Song  +More Nurse",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120936522&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.The Shapes Song +More Nursery R",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120936839&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.The Tortoise and the Hare  +Mor",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120937124&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47.This is the way + More Nursery",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120937403&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="48.Three Little Kittens  +More Nur",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120937760&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="49.Three Little Pigs2(The Big Ship",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120938103&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50.Toy Balloon Car Race  +More Nur",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120978361&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="51.Wheels on the Bus  +More Nurser",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120938395&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="52.Wheels on the Bus 2  +More Nurs",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120938659&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="54.Winter Song (Fun in the Snow)",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120938974&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="55.Yes Yes Bedtime Song  +More Nur",URL="https://api.bilibili.com/x/player/playurl?avid=69814032&cid=120939284&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

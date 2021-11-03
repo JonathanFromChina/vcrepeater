@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/0bdf0a95fd2e739da45c7e56d3070045f5ed5050.jpg@640w_400h.jpg",ALT="【英语常速+慢速发音】高效提高英语听力训练"
+#EXT-X-INF:INDEX=0,NAME="常速+慢速发音_高效提高英语听力训练",URL="https://api.bilibili.com/x/player/playurl?avid=285323204&cid=179749792&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/99b8e41aea1d7be9991b76126e7c0c6b7a270c54.jpg@640w_400h.jpg",ALT="【英美文学经典】马克·吐温《汤姆·索亚历险记》 （有声书+文本精读）"
+#EXT-X-INF:INDEX=0,NAME="马克·吐温《汤姆·索亚历险记》",URL="https://api.bilibili.com/x/player/playurl?avid=584680238&cid=238105051&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

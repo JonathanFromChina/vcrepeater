@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/f47eebb2e68627e6d0105eb2bce09b09c0909e6b.jpg@640w_400h.jpg",ALT="实战英语听力练习！梅西8大名场面，你能听出来多少？"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=462280736&cid=386987694&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

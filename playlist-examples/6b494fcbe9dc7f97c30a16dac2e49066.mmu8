@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/fe0c8cd9823e5614c5ec5a805dacbee9c12a92be.jpg@640w_400h.jpg",ALT="英语听力高效练习30句：高效练耳朵"
+#EXT-X-INF:INDEX=0,NAME="英语听力高效练习30句_-_高效练耳朵",URL="https://api.bilibili.com/x/player/playurl?avid=968897381&cid=213904067&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="英语会话听力特训_快速学会常用英语表达!(距离_出行方式)",URL="https://api.bilibili.com/x/player/playurl?avid=968897381&cid=213904373&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

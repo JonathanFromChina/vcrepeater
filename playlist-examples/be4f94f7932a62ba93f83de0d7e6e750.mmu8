@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/c996aab0e0445ec293b9389861c7eda35bd8ef4a.jpg@640w_400h.jpg",ALT="全靠同行衬托？川普：有些事是真的没人懂"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=795700208&cid=189844216&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文单语】",URL="https://api.bilibili.com/x/player/playurl?avid=795700208&cid=189844493&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

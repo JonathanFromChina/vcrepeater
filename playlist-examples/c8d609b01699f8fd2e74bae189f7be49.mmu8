@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/258c2b52b880fc054407650b89c0dc3e3fd1191e.jpg@640w_400h.jpg",ALT="睡眠学习：1000个英语短语"
+#EXT-X-INF:INDEX=0,NAME="Learn 1000 Phrases in English while You Sleep睡觉时学习1000个英语短语",URL="https://api.bilibili.com/x/player/playurl?avid=583163783&cid=192818078&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

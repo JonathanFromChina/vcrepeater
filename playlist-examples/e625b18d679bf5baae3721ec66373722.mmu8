@@ -1,0 +1,18 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/14b6df476cf04c469844763f3aa9e0529ada2114.jpg@640w_400h.jpg",ALT="【零基础英语】从ABC开始自学英语【15集全】【这可能是B站学英语最轻松的视频了】"
+#EXT-X-INF:INDEX=0,NAME="The English Alphabet (Beginner, Level 1)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222822&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn Numbers 1-20. Counting with Teacher Tom!",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222659&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Subject Pronouns (Beginner, Level 1)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222932&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="English Future Tense Will & Going To",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222017&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="There is  There are (Beginner English) with Teacher Tom",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186223578&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Possessive Adjectives (Beginner) English with Teacher Tom",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222927&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="About To, An ESL lesson from Tom (Beginner, Level 2)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186221763&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="What is your name (Basic English Conversation)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186223172&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Write English Letters & Numbers (With a  Quiz!) Alphabet & Numbers with Teacher",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186223681&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Learn the Past Tense Top 10 Irregular Verbs",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222884&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How To Sound Polite On The Phone (Learn English)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222150&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How To Meet Someone (Basic Introductions)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222709&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="May I Help You Customer Service. (Learn English!)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186222965&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Comparatives + Superlatives (Basic) (Informal, Live Stream)",URL="https://api.bilibili.com/x/player/playurl?avid=540504124&cid=186221893&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

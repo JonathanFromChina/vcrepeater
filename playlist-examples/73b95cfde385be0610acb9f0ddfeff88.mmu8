@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/497b73693ed62411c067a4b65cb6ce3ec4e6a8d0.jpg@640w_400h.jpg",ALT="磨耳朵52个常用句：进阶训练您的英语听力"
+#EXT-X-INF:INDEX=0,NAME="20201230磨耳朵52个常用句_进阶训练您的英语听力",URL="https://api.bilibili.com/x/player/playurl?avid=417239908&cid=311457804&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

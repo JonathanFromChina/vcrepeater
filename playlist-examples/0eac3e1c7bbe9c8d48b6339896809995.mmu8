@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/0537eecab6492f141f5d8bc581a09fac057957b7.jpg@640w_400h.jpg",ALT="美国史上最烂总统辩论？崔娃：这辈子从来没有这么想看广告"
+#EXT-X-INF:INDEX=0,NAME="【中英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=669785316&cid=243281597&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【纯英字幕】",URL="https://api.bilibili.com/x/player/playurl?avid=669785316&cid=243279507&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=669785316&cid=243283232&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

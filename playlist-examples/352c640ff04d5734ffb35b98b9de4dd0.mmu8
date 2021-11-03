@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/55ea5a07fed20301e9681089bc62ebca64ff2b81.jpg@640w_400h.jpg",ALT="“这小子跟火箭一样”！刘翔2004年奥运夺冠英文解说完整版"
+#EXT-X-INF:INDEX=0,NAME="【中英双语】",URL="https://api.bilibili.com/x/player/playurl?avid=838100492&cid=189205909&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享】",URL="https://api.bilibili.com/x/player/playurl?avid=838100492&cid=189206605&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【生肉完整版】",URL="https://api.bilibili.com/x/player/playurl?avid=838100492&cid=189207488&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

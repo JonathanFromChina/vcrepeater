@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/13b18870c0e5a621f57998284d0e110af9642d8c.jpg@640w_400h.jpg",ALT="每天练习英文口说：英语水平必然有显著进步！(62句实用英语表达)"
+#EXT-X-INF:INDEX=0,NAME="每天练习英文口说_英语水平必然有显著进步！(62句实用英语表达)",URL="https://api.bilibili.com/x/player/playurl?avid=332621588&cid=323937549&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

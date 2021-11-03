@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/c2a83110ca4ab5c33f904ec49f8f035ac086f301.png@640w_400h.png",ALT="【日常英语】可别只知道Lucy,Lily了！好听的女生英文名推荐"
+#EXT-X-INF:INDEX=0,NAME="英文名字推荐【女孩】",URL="https://api.bilibili.com/x/player/playurl?avid=668808497&cid=211035048&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

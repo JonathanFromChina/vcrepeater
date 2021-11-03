@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/d243a150fcfa0444b564fc841a7cdecf7766f0cc.jpg@640w_400h.jpg",ALT="国内外两幅面孔？吴亦凡面对外媒的那些“内涵”内容"
+#EXT-X-INF:INDEX=0,NAME="正片",URL="https://api.bilibili.com/x/player/playurl?avid=846766216&cid=374831985&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/34e570c2dbb7c9646a9826dd60a8b40773ccf254.png@640w_400h.png",ALT="【日常英语】10句最常用的餐厅英文 （中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="【餐廳英文會話】10句最常用在餐廳的英文 (基礎英語)",URL="https://api.bilibili.com/x/player/playurl?avid=626290426&cid=209337731&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

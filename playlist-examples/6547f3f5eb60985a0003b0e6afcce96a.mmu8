@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/b8264b9fab616f6ebe055e42a15ef012ffff2eef.jpg@640w_400h.jpg",ALT="【英文听力初级练习】助您提高英文听力水平"
+#EXT-X-INF:INDEX=0,NAME="英文聽力初級練習_-_助您提高英文聽力水平",URL="https://api.bilibili.com/x/player/playurl?avid=328235337&cid=190014420&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

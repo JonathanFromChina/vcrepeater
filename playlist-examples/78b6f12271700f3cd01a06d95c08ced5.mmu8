@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/7b1156ed2c1cc5f72da0dbf79d7047b35d8a24ae.jpg@640w_400h.jpg",ALT="早晚练习｜不断进步，英文听与说80句：真正学好一口流利英语"
+#EXT-X-INF:INDEX=0,NAME="20210520早晚练习｜不断进步_英文听与说80句_真正学好一口流利英语",URL="https://api.bilibili.com/x/player/playurl?avid=503860296&cid=357885135&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

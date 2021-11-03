@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/973b8b5a5475b0c12ae81fac0b150a4c0464c988.jpg@640w_400h.jpg",ALT="绝密！！日语朗读速成法！！你敢这样读5遍吗！？"
+#EXT-X-INF:INDEX=0,NAME="朗读",URL="https://api.bilibili.com/x/player/playurl?avid=588799270&cid=360021554&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

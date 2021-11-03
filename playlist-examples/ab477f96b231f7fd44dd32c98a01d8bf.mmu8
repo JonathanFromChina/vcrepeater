@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/5a01d551256548612002848a971005adaa1f5f61.jpg@640w_400h.jpg",ALT="超有用英语口语42句：英语听力有效练习"
+#EXT-X-INF:INDEX=0,NAME="20201203超有用英语口语42句_英语听力有效练习",URL="https://api.bilibili.com/x/player/playurl?avid=331843492&cid=302486380&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

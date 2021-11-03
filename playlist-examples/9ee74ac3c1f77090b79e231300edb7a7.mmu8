@@ -1,0 +1,7 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/8591580fe41f474593cc7126f533af71007b62c7.jpg@640w_400h.jpg",ALT="詹姆斯给年轻人的建议：想比我优秀？你可不能光说不做"
+#EXT-X-INF:INDEX=0,NAME="【中英双语（修改版）】",URL="https://api.bilibili.com/x/player/playurl?avid=89725820&cid=153468998&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【英文纯享（修改版）】",URL="https://api.bilibili.com/x/player/playurl?avid=89725820&cid=153468727&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="【无字幕版】",URL="https://api.bilibili.com/x/player/playurl?avid=89725820&cid=153247720&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

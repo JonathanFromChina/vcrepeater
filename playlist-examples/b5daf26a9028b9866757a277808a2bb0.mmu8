@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/09aa42ce04bc6638a38dab19534d2fe29d31f3c1.jpg@640w_400h.jpg",ALT="学生活会话常用英语：实用英语听力100句，反复训练提高英语耳听力！"
+#EXT-X-INF:INDEX=0,NAME="20210529学生活会话常用英语_实用英语听力100句_-_反复训练提高英语耳听力！",URL="https://api.bilibili.com/x/player/playurl?avid=333453684&cid=349115601&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

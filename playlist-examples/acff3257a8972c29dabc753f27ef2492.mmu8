@@ -1,0 +1,14 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/8d04a0f610b56d2e000c70592772839b57766218.jpg@640w_400h.jpg",ALT="【10集全】吹爆B站的听力练习课，神仙英音发音，一周拯救你的烂听力！"
+#EXT-X-INF:INDEX=0,NAME="1",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347910354&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347910598&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347910960&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347911133&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347911294&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347911399&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347911516&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347911817&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347912231&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10",URL="https://api.bilibili.com/x/player/playurl?avid=973420561&cid=347912361&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

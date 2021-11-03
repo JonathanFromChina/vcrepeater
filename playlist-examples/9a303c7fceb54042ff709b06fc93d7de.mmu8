@@ -1,0 +1,92 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/ae94068d042338d598f2c4ce15aa725d78b97b60.jpg@640w_400h.jpg",ALT="【英文启蒙】88集原版英文动画，非常好的启蒙教材（精选）"
+#EXT-X-INF:INDEX=0,NAME="1.Frog Prince",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294888469&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="2.Brave Dave",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294888608&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="3.The Snow White and The Red Rose",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294888721&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="4.What the Old Man Does is Always Righ",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294889277&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="5.Who Will Bell the Cat",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294889712&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="6.Beloved Nightingale",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294889899&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="7.Alibaba and Forty Thieves",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294890151&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="8.Alice In Wonderland",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294890490&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="9.An Impossible Enchantment",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294890847&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="10.Animal Tales for Children",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294891263&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="11.Asmund and Singy",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294892117&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="12.Bear and Two Friends",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294892439&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="13.Beauty and Beast",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294892514&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="14.A Reward for Honesty",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294893089&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="15.Bobino",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294893397&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="16.Town Mouse and Country Mouse",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294893645&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="17.Butterfly Princess",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294893910&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="18.Cinderella",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294894221&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="19.Clever Maria",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294894640&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="20.Diamonds and Toads",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294895249&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="21.East of the Sun and West of the Moon",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294895557&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="22.Elephant and Ant",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294895903&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="23.Elves and Shoe Maker",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294896106&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="24.Five Peas",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294896235&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="25.Four Brothers",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294896487&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="26.To Your Good Health",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294896945&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="27.Gardener",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294897332&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="28.Gerilaug and Grethari",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294897516&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="29.Gingerbread Man",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294897901&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="30.Gnome",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294898088&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="31.A Ray of Hope 2",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294898418&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="32.Happy Prince",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294898651&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="33.Heidi",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294898876&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="34.Honest Jenny",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294899192&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="35.Ida's Little Flower",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294899394&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="36.It's Quite True",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294899679&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="37.Jack and the Beanstalkl",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294899844&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="38.Jack the Fool",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294899968&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="39.Jorinda and Jorandel",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294900164&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="40.Jungle Book",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294900443&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="41.King Grisly Beard",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294900598&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="42.King Midas Golden Touch",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294900728&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="43.A little Mouse Who Was A Princess",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294901043&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="44.Little Red Hen",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294901305&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="45.Lullaby for Babies",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294901480&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="46.Mangita and Larina",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294902195&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="47.Maya The Bee",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294902406&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="48.Milkmaid's Dream",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294903045&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="49.Miser in the Bush",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294903295&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="50.Mother Holle",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294903717&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="51.Mulan",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294904087&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="52.Oliver Twist",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294904449&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="53.One-Eye, Two Eyes, Three-Eyes",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294904676&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="54.Peter Pan",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294904968&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="55.Pied Piper of Hamlin",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294905232&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="56.Pinocchio",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294905480&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="57.Pocahontas",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294905853&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="58.Witch and Giant Stories",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294906287&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="59.Princess Fairy Tales 2",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294906537&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="60.Princess Naeena and the Centaur Broth",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294908138&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="61.Princess Rosette",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294908675&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="62.Puss in Boots",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294908864&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="63.Queen of Flower Isles",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294909130&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="64.Robin Hood",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294909410&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="65.Rudolph The Red Nosed Reindeer",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294909802&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="66.Rumpelstiltskin",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294910067&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="67.Sinbad The Sailor 1",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294910424&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="68.Sinbad The Sailor 2",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294910623&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="69.Sinbad The Sailor 3",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294910985&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="70.Sleeping Beauty",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294911356&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="71.Snow White and Red Rose",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294911754&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="72.Snow White and the Seven Dwarfs",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294912037&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="73.Swan Lake",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294912367&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="74.Sweet Porriage",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294912497&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="75.The Ant and the Grasshopper",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294912597&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="76.The Beast Slayer",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294912861&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="77.The Bird of Truth",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294913399&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="78.The Boy's With The Stars",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294913758&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="79.The Brave Little Tailor",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294914055&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="80.The Buddha and The Homeless Man",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294914413&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="81.The Cap Seller and the Monkeys",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294914645&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="82.The Clever Shoemaker",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294914958&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="83.The Crane and The Crab",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294915088&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="84.The Devil with 3 Golden Hairs",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294915226&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="85.The Emperor's New Clothes",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294915751&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="86.The Enchanted Princess",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294916087&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="87.The Envious Neighbor",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294916691&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="88.The Faithful Prince",URL="https://api.bilibili.com/x/player/playurl?avid=416576088&cid=294917002&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

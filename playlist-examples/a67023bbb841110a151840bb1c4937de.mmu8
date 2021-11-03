@@ -1,0 +1,16 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/5394087c15d98c08dd741d38ca7e8135b6e7f864.jpg@640w_400h.jpg",ALT="【你一定能学好英语】不想学英语的时候进来看看，怎么才能每天鸡血满满的学英语！"
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #1 Your English is probably better",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554579&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #2 Never compare your English skill",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554621&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #3 Don't take your mistakes so seri",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554659&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #4 Visualize your goal every time y",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554680&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #5 Keep a record of your English le",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554719&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #6 When you feel lazy, take a baby",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554744&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #7 Take breaks, but plan to come ba",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554783&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #8 Make learning enjoyable",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554820&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #9 Find a learning partner",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554858&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="How to stay motivated to learn English - Tip #10 Challenge & reward yourself",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554902&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Secrets of Successful English Learners",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218554927&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Stay safe and study English at home!",URL="https://api.bilibili.com/x/player/playurl?avid=839073440&cid=218555044&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/7da33ff752e4e195ac742fbea77a6bce294bb476.jpg@640w_400h.jpg",ALT="秒记英语：听懂美国人生活表达100句！"
+#EXT-X-INF:INDEX=0,NAME="20210523秒记英语_听懂美国人生活表达100句！",URL="https://api.bilibili.com/x/player/playurl?avid=845997025&cid=349112814&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

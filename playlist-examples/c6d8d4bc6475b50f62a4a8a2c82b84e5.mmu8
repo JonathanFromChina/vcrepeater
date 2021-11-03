@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/943cad5115be82bd2594a56292668daa854a5db1.jpg@640w_400h.jpg",ALT="Angelababy 杨颖 大宝贝 外媒全英文采访，你为她的口语打多少分呢？（英文字幕）"
+#EXT-X-INF:INDEX=0,NAME="大宝贝 Angelababy 杨颖 外媒全英文采访，你为她的口语打多少分呢？（英文字幕）",URL="https://api.bilibili.com/x/player/playurl?avid=499407374&cid=229281635&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

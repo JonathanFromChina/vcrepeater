@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/be7052153c1025f666ce020df1a618f11c445f8b.jpg@640w_400h.jpg",ALT="高频率万用句子：英语听力必练100句"
+#EXT-X-INF:INDEX=0,NAME="20210515高频率万用句子_英语听力必练100句",URL="https://api.bilibili.com/x/player/playurl?avid=630917070&cid=349111909&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

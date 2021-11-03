@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/2ea832f93543c90abd8fcc10404d94033042117a.jpg@640w_400h.jpg",ALT="日常生活中的英语短语"
+#EXT-X-INF:INDEX=0,NAME="English Phrases for Daily Life 日常生活中的英语短语",URL="https://api.bilibili.com/x/player/playurl?avid=584086311&cid=220981121&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

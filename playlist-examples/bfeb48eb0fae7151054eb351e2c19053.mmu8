@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/8a2fe14eb3a4d489ffc45df905730e552dca33aa.png@640w_400h.png",ALT="【零基础英语】初级入门英语口语1000句（中英字幕）"
+#EXT-X-INF:INDEX=0,NAME="初級英語口語訓練1000句（帶中文字幕及發音）",URL="https://api.bilibili.com/x/player/playurl?avid=753053364&cid=187209356&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

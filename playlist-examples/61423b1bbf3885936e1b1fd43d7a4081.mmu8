@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/f3f0457f09dc58c72bafb205e382b8e76fd48d86.jpg@640w_400h.jpg",ALT="扎克伯格谈中国的支付系统：瞅瞅人支付宝，我们已经落后太多了！"
+#EXT-X-INF:INDEX=0,NAME="【中英】",URL="https://api.bilibili.com/x/player/playurl?avid=73830703&cid=126329424&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

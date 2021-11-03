@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i2.hdslb.com/bfs/archive/6aaae2e2ca562527ba0f1dae5ba900a7be53729e.jpg@640w_400h.jpg",ALT="如何听懂英语四六级听力的长对话？一个方法教你大幅提分"
+#EXT-X-INF:INDEX=0,NAME="【正片】",URL="https://api.bilibili.com/x/player/playurl?avid=675135348&cid=398055962&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

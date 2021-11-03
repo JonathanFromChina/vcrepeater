@@ -1,0 +1,6 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/b9952f438c416d36328fee215b4bb4d8b75b0137.jpg@640w_400h.jpg",ALT="提高英语听力技能115句：高效练耳朵英语听力"
+#EXT-X-INF:INDEX=0,NAME="提高英语听力技能115句_-_高效练耳朵英语听力",URL="https://api.bilibili.com/x/player/playurl?avid=796190068&cid=208639942&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="提高英语听力技能_11段英语对话强化训练(生病_病情询问)",URL="https://api.bilibili.com/x/player/playurl?avid=796190068&cid=208640216&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

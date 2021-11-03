@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/24d23a3d6f37dbc164455b76b62e0064211acdff.jpg@640w_400h.jpg",ALT="【英语听力训练】49个生活交流英文口语练习"
+#EXT-X-INF:INDEX=0,NAME="20201114【英语听力训练】49个生活交流英文口语练习",URL="https://api.bilibili.com/x/player/playurl?avid=797937274&cid=260879965&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

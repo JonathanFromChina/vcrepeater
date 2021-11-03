@@ -1,0 +1,28 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i0.hdslb.com/bfs/archive/88dccfc973a4db15ce38c76652898e02566a9faf.jpg@640w_400h.jpg",ALT="【24集合集· 零基础原版启蒙英语】美国小学生用来学英语的教材，吹爆B站，口语原地起飞！"
+#EXT-X-INF:INDEX=0,NAME="Lesson 1_(A)How old are you - How old - Age - Cartoon Story - English Education",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370849110&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 1_(B)How old are you - How old - Age - Cartoon Story - English Education",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370849234&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 2_(A)What's that - What - Cartoon Story - English Education - Easy conver",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370849474&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 2_(B)What's that - What - Cartoon Story - English Education - Easy conver",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370849581&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 3_(A)Nice to meet you. - Greeting - Introducing - Cartoon Story - English",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370849873&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 3_(B)Nice to meet you. - Cartoon Story - Greeting - Introducing - English",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370849983&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 4_(A)Is this your doll - Is this yours - Cartoon Story - English Educatio",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370850225&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 4_(B)Is this your bike - Is this yours - Cartoon Story - English Educatio",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370850338&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 5_(A)Who is this - Who - Introducing - Cartoon Story - English Education",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370850614&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 5_(B)Who is this Who - Introducing - Cartoon Story - English Education -",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370850718&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 6_(A)I'm hungry - Have some cake - At the table - Cartoon Story - English",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370850972&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 6_(B)I'm hungry - Have some cake - At the table - Cartoon Story - English",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370851039&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 7_(A)Where's my dog - In On Under - Cartoon Story - English Education - f",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370851391&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 7_(B)Where's my dog - In On Under - Cartoon Story - English Education - f",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370851502&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 8_(A)Come here, Mary. - Cartoon Story - English Education - Easy conversa",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370851809&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 8_(B)Come here. - Cartoon Story - English Education - Easy conversation f",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370851930&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 9_(A)What time is it - Time - Cartoon Story - English Education - Easy co",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370852255&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 9_(B)What time is it - Time - Cartoon Story - English Education - Easy co",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370852392&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 10_(A)Wash your face. - Cartoon Story - English Education - Easy conversa",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370852711&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 10_(B)Brush your teeth   hair. - Cartoon Story - English Education - conv",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370852789&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 11_(A)What is it - Cartoon Story - English Education - Easy conversation",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370853118&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 11_(B)What is it - Cartoon Story - English Education - Easy conversation",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370853267&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 12_(A)I need a ruler. - Cartoon Story - English Education - Easy conversa",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370853654&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-INF:INDEX=0,NAME="Lesson 12_(B)I need a ruler. - Cartoon Story - English Education - Easy conversa",URL="https://api.bilibili.com/x/player/playurl?avid=206747454&cid=370853797&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST

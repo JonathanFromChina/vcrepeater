@@ -1,0 +1,5 @@
+#EXTMMU
+#EXT-X-VERSION:1
+#EXT-X-IMG:SRC="https://i1.hdslb.com/bfs/archive/b17cedc857858de6f4d581743bbb5cd57c67dd38.png@640w_400h.png",ALT="【英文自我介绍】教你怎么用英语做完美自我介绍（中英双语字幕）"
+#EXT-X-INF:INDEX=0,NAME="教你怎么给人英语的完美自我介绍",URL="https://api.bilibili.com/x/player/playurl?avid=243449899&cid=200196186&qn=120&otype=json&fnval=16&fourk=1",SOURCE=WEB
+#EXT-X-ENDLIST
