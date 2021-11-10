@@ -1018,3 +1018,7 @@ NAME="bb586482add5813e77dd7a64ff773227.mmu8",LANG="JP",TITLE="日语学习 新�
 NAME="78b8334e76ec869b152d01b5431b9533.mmu8",LANG="JP",TITLE="日语学习 新标日第9课单词带背音频 跟老师一起每天读3遍吧！",VALID=true
 NAME="15a3ca2dc1b8390fb3c9b04d1fc9ad38.mmu8",LANG="JP",TITLE="日语学习：新标日课程0到N1，史上最好学的日语入门视频教程零基础学习日语轻松简单学",VALID=true
 NAME="d196f8859f1e83831b199a0c58124bd4.mmu8",LANG="JP",TITLE="绝密！！日语朗读速成法！！你敢这样读5遍吗！？",VALID=true
+NAME="709baa83e544746f6aaff4b7d6a03449.mmu8",LANG="番剧ENG",TITLE="瑞克和莫蒂 第一季【APP需更新至1.3.8以上方可观看】",VALID=true,MIN_VER="1.3.8"
+NAME="654e4a3e43dc2de0586ff6aba22b1aaf.mmu8",LANG="番剧ENG",TITLE="瑞克和莫蒂 第三季【APP需更新至1.3.8以上方可观看】",VALID=true,MIN_VER="1.3.8"
+NAME="c64ea359717a86fb1d394bebd5726797.mmu8",LANG="番剧ENG",TITLE="瑞克和莫蒂 第二季【APP需更新至1.3.8以上方可观看】",VALID=true,MIN_VER="1.3.8"
+NAME="fb0435ef41d6bae31c537e61f798523a.mmu8",LANG="番剧ENG",TITLE="瑞克和莫蒂 第四季【APP需更新至1.3.8以上方可观看】",VALID=true,MIN_VER="1.3.8"
